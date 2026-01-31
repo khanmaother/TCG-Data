@@ -1,0 +1,1131 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 3,
+      "cleanName": "Ampharos",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "001/017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "130"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePoké-BODY — Jamming\u003c/strong\u003e\r\n\u003cbr\u003e\r\nAfter your opponent plays a Supporter card from his or her hand, put 1 damage counter on each of your opponent's Pokémon, You can't use more than 1 Jamming Poké-Body each turn."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2L] Cluster Bolt (70)\r\n\u003cbr\u003eYou may discard all Lightning Energy attached to Ampharos. If you do, this attack does 20 damage to each of your opponent's Benched Pokémon that has any Energy cards attached to it.  \u003cem\u003e(Don't apply Weakness and Resistance for Benched Pokémon.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F+30"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M-20"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1414,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83542_200w.jpg",
+      "modifiedOn": "2023-03-23T12:00:54.64",
+      "name": "Ampharos",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83542,
+      "url": "https://www.tcgplayer.com/product/83542/pokemon-pop-series-7-ampharos"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Burmy Plant Cloak",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "011/017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePoké-POWER — Wear Cloak\u003c/strong\u003e\r\n\u003cbr\u003e\r\nOnce during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, if Burmy Plant Cloak is your Active Pokémon, you may search your discard pile for a basic Grass Energy card and attach it to Burmy Plant Cloak."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Plant Cloak Tackle (10+)\r\n\u003cbr\u003eIf Burmy Plant Cloak has any Grass Energy attached to it, this attack does 10 damage plus 10 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R+10"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1414,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84050_200w.jpg",
+      "modifiedOn": "2022-09-23T20:38:36.803",
+      "name": "Burmy Plant Cloak",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84050,
+      "url": "https://www.tcgplayer.com/product/84050/pokemon-pop-series-7-burmy-plant-cloak"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Burmy Sandy Cloak",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "012/017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePoké-POWER — Wear Cloak\u003c/strong\u003e\r\n\u003cbr\u003e\r\nOnce during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, if Burmy Sandy Cloak is your Active Pokémon, you may search your discard pile for a basic Fighting Energy card and attach it to Burmy Sandy Cloak."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Sandy Cloak Tackle (10+)\r\n\u003cbr\u003eIf Burmy Sandy Cloak has any Fighting Energy attached to it, this attack does 10 damage plus 10 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R+10"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1414,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84053_200w.jpg",
+      "modifiedOn": "2023-05-06T19:38:30.433",
+      "name": "Burmy Sandy Cloak",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84053,
+      "url": "https://www.tcgplayer.com/product/84053/pokemon-pop-series-7-burmy-sandy-cloak"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Corsola",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "013/017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Rally\r\n\u003cbr\u003eSearch your deck for up to 3 different types of Basic Pokémon and put them on your Bench. Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1W] Hook (30)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G+20"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1414,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84442_200w.jpg",
+      "modifiedOn": "2022-09-23T20:42:28.583",
+      "name": "Corsola",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84442,
+      "url": "https://www.tcgplayer.com/product/84442/pokemon-pop-series-7-corsola"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Delibird",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "006/017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[0] Present\r\n\u003cbr\u003eFlip a coin. If heads, search your deck for any 1 card and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[W] Ice Ball (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "M+20"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1414,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84749_200w.jpg",
+      "modifiedOn": "2022-09-23T20:44:21.89",
+      "name": "Delibird",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84749,
+      "url": "https://www.tcgplayer.com/product/84749/pokemon-pop-series-7-delibird"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Flaaffy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "007/017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Attract Current (10)\r\n\u003cbr\u003eSearch your deck for a Lightning Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1LL] Electromagnetic Kick (60)\r\n\u003cbr\u003eFlip a coin. If tails, Flaaffy does 10 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F+20"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M-20"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1414,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85480_200w.jpg",
+      "modifiedOn": "2022-09-23T20:45:30.097",
+      "name": "Flaaffy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85480,
+      "url": "https://www.tcgplayer.com/product/85480/pokemon-pop-series-7-flaaffy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Gallade",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "002/017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "130"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1F] Sonic Blade\r\n\u003cbr\u003ePut Damage counters on the Defending Pokémon until it is 50 HP away from being Knocked Out. If you do, your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2P] Psychic Cut (60+)\r\n\u003cbr\u003eYou may choose as many of your face-down Prize cards as you like and put them face up. If you do, this attack does 60 damage plus 20 more damage for each Prize card you choose. \u003cem\u003e(These cards remain face up for the rest of the game.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P+30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1414,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85605_200w.jpg",
+      "modifiedOn": "2022-09-23T20:48:17.02",
+      "name": "Gallade",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85605,
+      "url": "https://www.tcgplayer.com/product/85605/pokemon-pop-series-7-gallade"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Kirlia",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "008/017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Psychic Research\r\n\u003cbr\u003eSearch your discard pile for a Supporter card and use the effect of that card as the effect of this attack. \u003cem\u003e(The Supporter card remains in your discard pile.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2P] Telekinesis\r\n\u003cbr\u003eChoose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. This attack's damage isn't affected by Weakness or Resistance."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P+20"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1414,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86467_200w.jpg",
+      "modifiedOn": "2022-09-23T20:51:07.507",
+      "name": "Kirlia",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86467,
+      "url": "https://www.tcgplayer.com/product/86467/pokemon-pop-series-7-kirlia"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Latias",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "003/017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Miraculous Light (10)\r\n\u003cbr\u003eRemove 1 damage counter and all Special Conditions from Latias."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1RW] Mist Ball (80)\r\n\u003cbr\u003eDiscard a Fire Energy and a Water Energy attached to Latias."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "C+20"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-20"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1414,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86652_200w.jpg",
+      "modifiedOn": "2022-09-23T20:51:57.017",
+      "name": "Latias",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86652,
+      "url": "https://www.tcgplayer.com/product/86652/pokemon-pop-series-7-latias"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Latios",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "004/017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Energy Draw (10)\r\n\u003cbr\u003eFlip a coin. If heads, search your deck for a basic Energy card and attach it to Latios. Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2GL] Luster Purge (120)\r\n\u003cbr\u003eDiscard 3 Energy attached to Latios."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "C+20"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-20"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1414,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86666_200w.jpg",
+      "modifiedOn": "2024-04-01T05:30:39.493",
+      "name": "Latios",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86666,
+      "url": "https://www.tcgplayer.com/product/86666/pokemon-pop-series-7-latios"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Mareep",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "014/017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[L] Thundershock (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1L] Static Shock (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F+10"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M-20"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1414,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87202_200w.jpg",
+      "modifiedOn": "2022-09-23T20:55:04.493",
+      "name": "Mareep",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87202,
+      "url": "https://www.tcgplayer.com/product/87202/pokemon-pop-series-7-mareep"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Mothim",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "005/017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[0] Silver Wind\r\n\u003cbr\u003eDuring your next turn, if an attack does damage to the Defending Pokémon \u003cem\u003e(after applying Weakness and Resistance.)\u003c/em\u003e, that attack does 40 more damage."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1G] Raging Scales (30+)\r\n\u003cbr\u003eIf Mothim has any damage counters on it, this attack does 30 damage plus 40 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R+20"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-20"
+        }
+      ],
+      "groupId": 1414,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87581_200w.jpg",
+      "modifiedOn": "2022-09-23T20:56:15.86",
+      "name": "Mothim",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87581,
+      "url": "https://www.tcgplayer.com/product/87581/pokemon-pop-series-7-mothim"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ralts",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "015/017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Smack (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[P] Confuse Ray\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P+10"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1414,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88562_200w.jpg",
+      "modifiedOn": "2022-09-23T20:57:10.84",
+      "name": "Ralts",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88562,
+      "url": "https://www.tcgplayer.com/product/88562/pokemon-pop-series-7-ralts"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Sentret",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "016/017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Grope\r\n\u003cbr\u003eLook at the top 2 cards of your deck, choose 1 of them and put it into your hand. Put the other on the bottom of your deck."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1] Scratch (10)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F+10"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1414,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89067_200w.jpg",
+      "modifiedOn": "2025-01-08T07:03:26.94",
+      "name": "Sentret",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89067,
+      "url": "https://www.tcgplayer.com/product/89067/pokemon-pop-series-7-sentret"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Spinda",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "017/017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Dish Out\r\n\u003cbr\u003eDraw a card from the top and the bottom of your deck."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1] Synchro Punch (10+)\r\n\u003cbr\u003eIf any basic Energy card attached to Spinda is the same type as any Energy attached to the Defending Pokémon, this attack does 10 damage plus 30 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F+20"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1414,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89462_200w.jpg",
+      "modifiedOn": "2023-02-06T21:08:35.83",
+      "name": "Spinda",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89462,
+      "url": "https://www.tcgplayer.com/product/89462/pokemon-pop-series-7-spinda"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Stantler",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "009/017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[0] Lead\r\n\u003cbr\u003eSearch your deck for a Supporter card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Frighten Horn (20)\r\n\u003cbr\u003eIf the Defending Pokémon isn't an Evolved Pokémon, that Pokémon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F+20"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1414,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89505_200w.jpg",
+      "modifiedOn": "2022-09-23T21:00:21.343",
+      "name": "Stantler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89505,
+      "url": "https://www.tcgplayer.com/product/89505/pokemon-pop-series-7-stantler"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Wormadam Sandy Cloak",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "010/017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePoké-BODY — Sandy Cloak\u003c/strong\u003e\r\n\u003cbr\u003e\r\nPrevent all effects of attacks, excluding damage, done to Wormadam Sandy Cloak."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2F] Push Over (40+)\r\n\u003cbr\u003eDoes 40 damage plus 10 more damage for each Fighting Energy attached to Wormadam Sandy Cloak."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R+20"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "L-20"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1414,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90643_200w.jpg",
+      "modifiedOn": "2022-09-23T21:01:30.697",
+      "name": "Wormadam Sandy Cloak",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90643,
+      "url": "https://www.tcgplayer.com/product/90643/pokemon-pop-series-7-wormadam-sandy-cloak"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "POP Series 7 Pack",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Each POP Series 7 Pack contains 2 random cards for the Promotional POP Series 7."
+        }
+      ],
+      "groupId": 1414,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/190535_200w.jpg",
+      "modifiedOn": "2019-05-16T15:24:10.96",
+      "name": "POP Series 7 Pack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 190535,
+      "url": "https://www.tcgplayer.com/product/190535/pokemon-pop-series-7-pop-series-7-pack"
+    }
+  ],
+  "success": true,
+  "totalItems": 18
+}

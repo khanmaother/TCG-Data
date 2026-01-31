@@ -1,0 +1,4593 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Amnesia",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Look at target player’s hand. Target player discards all non-land cards in his or her hand."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "“When one has witnessed the unspeakable, ’tis sometimes better to forget.” —Vervamon the Elder"
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3477_200w.jpg",
+      "modifiedOn": "2022-09-13T17:40:21.13",
+      "name": "Amnesia",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3477,
+      "url": "https://www.tcgplayer.com/product/3477/magic-the-dark-amnesia"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Angry Mob",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Mob"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2+*"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2+*"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\r\n\u003cbr\u003eDuring your turn, the *s below are both equal to the total number of swamps all opponents control. During any other player’s turn, * equals 0."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3478_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:18.06",
+      "name": "Angry Mob",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3478,
+      "url": "https://www.tcgplayer.com/product/3478/magic-the-dark-angry-mob"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Apprentice Wizard",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "U, T: Add 3 to your mana pool. This ability is played as an interrupt."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3479_200w.jpg",
+      "modifiedOn": "2023-01-19T15:15:40.623",
+      "name": "Apprentice Wizard",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3479,
+      "url": "https://www.tcgplayer.com/product/3479/magic-the-dark-apprentice-wizard"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ashes to Ashes",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Ashes to Ashes removes two target non-artifact creatures from the game and does 5 damage to you."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "“All rivers eventually run to the sea. My job is to sort out who goes first.”—Maeveen O’Donagh, Memoirs of a Soldier"
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3480_200w.jpg",
+      "modifiedOn": "2025-11-11T02:27:38.313",
+      "name": "Ashes to Ashes",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3480,
+      "url": "https://www.tcgplayer.com/product/3480/magic-the-dark-ashes-to-ashes"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ball Lightning",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Ball Lightning"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "TrampleBall Lightning may attack on the turn during which it is summoned. Ball Lightning is buried at the end of the turn during which it is summoned."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3481_200w.jpg",
+      "modifiedOn": "2021-07-20T12:53:38.607",
+      "name": "Ball Lightning",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3481,
+      "url": "https://www.tcgplayer.com/product/3481/magic-the-dark-ball-lightning"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Banshee",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Banshee"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "X, T: Banshee does X damage—half (rounded up) to you and half (rounded down) to any one target."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3482_200w.jpg",
+      "modifiedOn": "2023-03-15T19:16:21.237",
+      "name": "Banshee",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3482,
+      "url": "https://www.tcgplayer.com/product/3482/magic-the-dark-banshee"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Barls Cage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "3: Target creature does not untap as normal during its controller’s next untap phase."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3483_200w.jpg",
+      "modifiedOn": "2022-03-16T16:45:31.19",
+      "name": "Barl's Cage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3483,
+      "url": "https://www.tcgplayer.com/product/3483/magic-the-dark-barls-cage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Blood Moon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All non-basic lands are now basic mountains."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "Heavy light flooded across the landscape, cloaking everything in deep crimson."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3484_200w.jpg",
+      "modifiedOn": "2024-12-09T17:22:55.713",
+      "name": "Blood Moon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3484,
+      "url": "https://www.tcgplayer.com/product/3484/magic-the-dark-blood-moon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Blood of the Martyr",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "For the remainder of the turn, you may redirect damage done to any number of creatures to yourself instead."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3485_200w.jpg",
+      "modifiedOn": "2022-08-30T15:04:27.373",
+      "name": "Blood of the Martyr",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3485,
+      "url": "https://www.tcgplayer.com/product/3485/magic-the-dark-blood-of-the-martyr"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bog Imp",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Imp"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "On guard for larger dangers, we underestimated the power and speed of the Imp’s muck-crusted claws."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3486_200w.jpg",
+      "modifiedOn": "2025-10-31T18:19:49.52",
+      "name": "Bog Imp",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3486,
+      "url": "https://www.tcgplayer.com/product/3486/magic-the-dark-bog-imp"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bog Rats",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Rats"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Cannot be blocked by walls."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3487_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:18.167",
+      "name": "Bog Rats",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3487,
+      "url": "https://www.tcgplayer.com/product/3487/magic-the-dark-bog-rats"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bone Flute",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2, T: All creatures get -1/-0 until end of turn."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3488_200w.jpg",
+      "modifiedOn": "2019-03-27T14:58:26.12",
+      "name": "Bone Flute",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3488,
+      "url": "https://www.tcgplayer.com/product/3488/magic-the-dark-bone-flute"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Book of Rass",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2: Pay 2 life to draw one card. Effects that prevent or redirect damage may not be used to counter this loss of life."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3489_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:18.217",
+      "name": "Book of Rass",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3489,
+      "url": "https://www.tcgplayer.com/product/3489/magic-the-dark-book-of-rass"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Brainwash",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchant Creature"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target creature may not attack unless its controller pays 3 in addition to any other costs required for the creature to attack."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3490_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:18.263",
+      "name": "Brainwash",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3490,
+      "url": "https://www.tcgplayer.com/product/3490/magic-the-dark-brainwash"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Brothers of Fire",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Brothers"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1RR: Brothers of Fire do 1 damage to any target and 1 damage to you."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3491_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:18.34",
+      "name": "Brothers of Fire",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3491,
+      "url": "https://www.tcgplayer.com/product/3491/magic-the-dark-brothers-of-fire"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Carnivorous Plant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Wall"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3492_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:18.387",
+      "name": "Carnivorous Plant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3492,
+      "url": "https://www.tcgplayer.com/product/3492/magic-the-dark-carnivorous-plant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cave People",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Cave People"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If declared as an attacker, Cave People get +1/-2 until end of turn.1RR, T: Target creature gains mountainwalk until end of turn."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3493_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:18.433",
+      "name": "Cave People",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3493,
+      "url": "https://www.tcgplayer.com/product/3493/magic-the-dark-cave-people"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "City of Shadows",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Sacrifice one of your creatures, but remove it from the game instead of placing it in your graveyard. Put a counter on City of Shadows. T: Add X colorless mana to your mana pool, where X is the number of counters on City of Shadows."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3494_200w.jpg",
+      "modifiedOn": "2021-10-03T19:35:42.04",
+      "name": "City of Shadows",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3494,
+      "url": "https://www.tcgplayer.com/product/3494/magic-the-dark-city-of-shadows"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cleansing",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All land is destroyed. Players may prevent Cleansing from destroying specific lands by paying 1 life for each land they wish to protect. Effects that prevent or redirect damage may not be used to counter this loss of life."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3495_200w.jpg",
+      "modifiedOn": "2026-01-22T18:36:33.667",
+      "name": "Cleansing",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3495,
+      "url": "https://www.tcgplayer.com/product/3495/magic-the-dark-cleansing"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Coal Golem",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "3: Sacrifice Coal Golem to add RRR to your mana pool. This ability is played as an interrupt."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3496_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:18.497",
+      "name": "Coal Golem",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3496,
+      "url": "https://www.tcgplayer.com/product/3496/magic-the-dark-coal-golem"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Curse Artifact",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchant Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "During his or her upkeep, controller of target artifact may choose to bury target artifact. If controller chooses not to bury target artifact, Curse Artifact does 2 damage to him or her."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3497_200w.jpg",
+      "modifiedOn": "2021-11-18T18:39:18.673",
+      "name": "Curse Artifact",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3497,
+      "url": "https://www.tcgplayer.com/product/3497/magic-the-dark-curse-artifact"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dance of Many",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Dance of Many is brought into play, choose a target summon card in play. Then put a token creature in play and treat it as if you have just brought an exact copy of target summon card into play. If Dance of Many leaves play, remove token creature from game. If token creature leaves play, destroy Dance of Many. If you do not pay BB during your upkeep, Dance of Many is destroyed."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3498_200w.jpg",
+      "modifiedOn": "2024-09-24T02:40:17.977",
+      "name": "Dance of Many",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3498,
+      "url": "https://www.tcgplayer.com/product/3498/magic-the-dark-dance-of-many"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dark Heart of the Wood",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may sacrifice a forest to gain 3 life.Counts as both a black card and a green card."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3499_200w.jpg",
+      "modifiedOn": "2021-10-03T19:44:57.53",
+      "name": "Dark Heart of the Wood",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3499,
+      "url": "https://www.tcgplayer.com/product/3499/magic-the-dark-dark-heart-of-the-wood"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dark Sphere",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Sacrifice Dark Sphere to prevent half of the damage done to you by a single source, rounded down."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3500_200w.jpg",
+      "modifiedOn": "2023-05-28T04:15:34.653",
+      "name": "Dark Sphere",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3500,
+      "url": "https://www.tcgplayer.com/product/3500/magic-the-dark-dark-sphere"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Deep Water",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "U: All mana-producing lands you control provide U instead of their normal mana until end of turn."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3501_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:18.543",
+      "name": "Deep Water",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3501,
+      "url": "https://www.tcgplayer.com/product/3501/magic-the-dark-deep-water"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Diabolic Machine",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "3: Regenerates"
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3502_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:18.603",
+      "name": "Diabolic Machine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3502,
+      "url": "https://www.tcgplayer.com/product/3502/magic-the-dark-diabolic-machine"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Drowned",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Zombies"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "B: Regenerates"
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3503_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:18.657",
+      "name": "Drowned",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3503,
+      "url": "https://www.tcgplayer.com/product/3503/magic-the-dark-drowned"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dust to Dust",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Removes two target artifacts from the game."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3504_200w.jpg",
+      "modifiedOn": "2026-01-07T20:27:52.81",
+      "name": "Dust to Dust",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3504,
+      "url": "https://www.tcgplayer.com/product/3504/magic-the-dark-dust-to-dust"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Eater of the Dead",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Eater"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "0: Take one creature from any graveyard and remove it from the game. Untap Eater of the Dead."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3505_200w.jpg",
+      "modifiedOn": "2025-01-26T13:12:45.297",
+      "name": "Eater of the Dead",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3505,
+      "url": "https://www.tcgplayer.com/product/3505/magic-the-dark-eater-of-the-dead"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Electric Eel",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Eel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "RR: +2/+0; Electric Eel does 1 damage to you. Electric Eel does 1 damage to you when it is brought into play."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3506_200w.jpg",
+      "modifiedOn": "2020-09-24T12:04:50.037",
+      "name": "Electric Eel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3506,
+      "url": "https://www.tcgplayer.com/product/3506/magic-the-dark-electric-eel"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Elves of Deep Shadow",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Elves"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add B to your mana pool, and Elves of Deep Shadow do 1 damage to you. This ability is played as an interrupt."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "“They are aberrations who have turned on everything we hold sacred. Let them be cast out.” —Ailheen, Speaker of the Council"
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3507_200w.jpg",
+      "modifiedOn": "2024-11-21T11:48:18.57",
+      "name": "Elves of Deep Shadow",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3507,
+      "url": "https://www.tcgplayer.com/product/3507/magic-the-dark-elves-of-deep-shadow"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Erosion",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchant Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target land is destroyed unless its controller pays 1 or pays 1 life during his or her upkeep. Effects that prevent or redirect damage may not be used to counter this loss of life."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3508_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:18.72",
+      "name": "Erosion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3508,
+      "url": "https://www.tcgplayer.com/product/3508/magic-the-dark-erosion"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Eternal Flame",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Eternal Flame does an amount of damage to your opponent equal to the number of mountains you control, but it also does half that amount of damage to you, rounding up."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3509_200w.jpg",
+      "modifiedOn": "2022-08-24T16:28:37.793",
+      "name": "Eternal Flame",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3509,
+      "url": "https://www.tcgplayer.com/product/3509/magic-the-dark-eternal-flame"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Exorcist",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Exorcist"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1W, T: Target black creature is destroyed."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3510_200w.jpg",
+      "modifiedOn": "2023-10-31T19:48:26.993",
+      "name": "Exorcist",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3510,
+      "url": "https://www.tcgplayer.com/product/3510/magic-the-dark-exorcist"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fasting",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may choose to skip your draw phase; if you do so, you gain 2 life. If you draw a card for any reason, Fasting is destroyed. During your upkeep, put a hunger counter on Fasting. When Fasting has five hunger counters on it, it is destroyed."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3511_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:18.78",
+      "name": "Fasting",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3511,
+      "url": "https://www.tcgplayer.com/product/3511/magic-the-dark-fasting"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fellwar Stone",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add 1 mana to your mana pool. This mana may be of any color that any of opponent’s lands can produce. This ability is played as an interrupt."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3512_200w.jpg",
+      "modifiedOn": "2022-03-13T09:56:02.713",
+      "name": "Fellwar Stone",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3512,
+      "url": "https://www.tcgplayer.com/product/3512/magic-the-dark-fellwar-stone"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Festival",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Opponent may not declare an attack this turn. Play during opponent’s upkeep phase."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3513_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:18.843",
+      "name": "Festival",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3513,
+      "url": "https://www.tcgplayer.com/product/3513/magic-the-dark-festival"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fire and Brimstone",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Fire and Brimstone does 4 damage to target player and 4 damage to you. Can only be used during a turn in which target player has declared an attack."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3514_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:18.893",
+      "name": "Fire and Brimstone",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3514,
+      "url": "https://www.tcgplayer.com/product/3514/magic-the-dark-fire-and-brimstone"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fire Drake",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Drake"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eR: +1/+0 until end of turn. No more than R may be spent in this way each turn."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3515_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:18.953",
+      "name": "Fire Drake",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3515,
+      "url": "https://www.tcgplayer.com/product/3515/magic-the-dark-fire-drake"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fissure",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target land or creature is buried."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3516_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:19.033",
+      "name": "Fissure",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3516,
+      "url": "https://www.tcgplayer.com/product/3516/magic-the-dark-fissure"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Flood",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "UU: Target non-flying creature becomes tapped."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3517_200w.jpg",
+      "modifiedOn": "2023-07-27T21:25:48.62",
+      "name": "Flood",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3517,
+      "url": "https://www.tcgplayer.com/product/3517/magic-the-dark-flood"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fountain of Youth",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2, T: Gain 1 life."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3518_200w.jpg",
+      "modifiedOn": "2023-11-05T08:48:22.187",
+      "name": "Fountain of Youth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3518,
+      "url": "https://www.tcgplayer.com/product/3518/magic-the-dark-fountain-of-youth"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Frankensteins Monster",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Monster"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Frankenstein’s Monster is brought into play, if you do not take X creatures from your graveyard and remove them from the game, Frankenstein’s Monster is countered. For each creature removed from your graveyard in this way, you may choose to give Frankenstein’s Monster a permanent +2/+0, +1/+1, or +0/+2."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3519_200w.jpg",
+      "modifiedOn": "2025-12-10T16:54:41.99",
+      "name": "Frankenstein's Monster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3519,
+      "url": "https://www.tcgplayer.com/product/3519/magic-the-dark-frankensteins-monster"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gaeas Touch",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may put one additional land in play during each of your turns, but that land must be a basic forest. You may sacrifice Gaea’s Touch to add GG to your mana pool. This ability is played as an interrupt."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3520_200w.jpg",
+      "modifiedOn": "2022-11-22T11:30:51.717",
+      "name": "Gaea's Touch",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3520,
+      "url": "https://www.tcgplayer.com/product/3520/magic-the-dark-gaeas-touch"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ghost Ship",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Ship"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, UUU: Regenerates"
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3521_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:19.093",
+      "name": "Ghost Ship",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3521,
+      "url": "https://www.tcgplayer.com/product/3521/magic-the-dark-ghost-ship"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Giant Shark",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Shark"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If Giant Shark blocks or is blocked by a creature that has taken damage this turn, Giant Shark gains +2/+0 and trample until end of turn. Giant Shark cannot attack unless opponent controls at least one island. Giant Shark is buried immediately if at any time controller controls no islands."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3522_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:19.16",
+      "name": "Giant Shark",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3522,
+      "url": "https://www.tcgplayer.com/product/3522/magic-the-dark-giant-shark"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Caves",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchant Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If target land is a basic mountain, all Goblins gain +0/+2."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "The stench of countless generations of unspeakable activities was enough to loosen both our footing and our stomachs."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3523_200w.jpg",
+      "modifiedOn": "2025-02-12T19:43:42.92",
+      "name": "Goblin Caves",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3523,
+      "url": "https://www.tcgplayer.com/product/3523/magic-the-dark-goblin-caves"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Digging Team",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Goblins"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Sacrifice Goblin Digging Team to destroy target wall."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3524_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:19.207",
+      "name": "Goblin Digging Team",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3524,
+      "url": "https://www.tcgplayer.com/product/3524/magic-the-dark-goblin-digging-team"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Hero",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Goblin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3525_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:19.267",
+      "name": "Goblin Hero",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3525,
+      "url": "https://www.tcgplayer.com/product/3525/magic-the-dark-goblin-hero"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Rock Sled",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Rock Sled"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "TrampleRock Sled may not attack unless opponent controls at least one mountain. Rock Sled does not untap as normal during your untap phase if it attacked during your last turn."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3526_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:19.317",
+      "name": "Goblin Rock Sled",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3526,
+      "url": "https://www.tcgplayer.com/product/3526/magic-the-dark-goblin-rock-sled"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Shrine",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchant Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If target land is a basic mountain, all Goblins gain +1/0. Goblin Shrine does 1 damage to all Goblins if it leaves play."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3527_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:19.377",
+      "name": "Goblin Shrine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3527,
+      "url": "https://www.tcgplayer.com/product/3527/magic-the-dark-goblin-shrine"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Wizard",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Goblin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Take a Goblin from your hand and put it directly into play. Treat this goblin as if it were just summoned.R: Target Goblin gains protection from white until end of turn."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3528_200w.jpg",
+      "modifiedOn": "2021-10-08T12:20:36.47",
+      "name": "Goblin Wizard",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3528,
+      "url": "https://www.tcgplayer.com/product/3528/magic-the-dark-goblin-wizard"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblins of the Flarg",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Goblins"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "MountainwalkGoblins of the Flarg are buried if controller controls any Dwarves."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3529_200w.jpg",
+      "modifiedOn": "2023-08-02T16:48:00.657",
+      "name": "Goblins of the Flarg",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3529,
+      "url": "https://www.tcgplayer.com/product/3529/magic-the-dark-goblins-of-the-flarg"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Grave Robbers",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Robbers"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "B, T: Take one artifact from any graveyard and remove it from the game. Gain 2 life."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3530_200w.jpg",
+      "modifiedOn": "2023-10-27T15:47:14.34",
+      "name": "Grave Robbers",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3530,
+      "url": "https://www.tcgplayer.com/product/3530/magic-the-dark-grave-robbers"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hidden Path",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All green creatures gain forestwalk."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3531_200w.jpg",
+      "modifiedOn": "2023-02-18T15:24:38.76",
+      "name": "Hidden Path",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3531,
+      "url": "https://www.tcgplayer.com/product/3531/magic-the-dark-hidden-path"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Holy Light",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All non-white creatures get -1/-1 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "“Bathed in hallowed light, the infidels looked upon the impurities of their souls and despaired.” —The Book of Tal"
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3532_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:19.443",
+      "name": "Holy Light",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3532,
+      "url": "https://www.tcgplayer.com/product/3532/magic-the-dark-holy-light"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Inferno",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Inferno does 6 damage to all players and all creatures."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "“Any scrap of compassion that still existed in my soul was permanently snuffed out when they cast me out into the flames.” —Mairsil, called the Pretender"
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3533_200w.jpg",
+      "modifiedOn": "2021-10-03T19:47:09.787",
+      "name": "Inferno",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3533,
+      "url": "https://www.tcgplayer.com/product/3533/magic-the-dark-inferno"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Inquisition",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Look at target player’s hand. Inquisition does 1 damage to target player for each white card in his or her hand."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3534_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:19.52",
+      "name": "Inquisition",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3534,
+      "url": "https://www.tcgplayer.com/product/3534/magic-the-dark-inquisition"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Knights of Thorn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Knights"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Protection from red, banding"
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3535_200w.jpg",
+      "modifiedOn": "2025-12-05T13:54:48.94",
+      "name": "Knights of Thorn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3535,
+      "url": "https://www.tcgplayer.com/product/3535/magic-the-dark-knights-of-thorn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Land Leeches",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Leeches"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike"
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3536_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:19.587",
+      "name": "Land Leeches",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3536,
+      "url": "https://www.tcgplayer.com/product/3536/magic-the-dark-land-leeches"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Leviathan",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Leviathan"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "10"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "10"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "TrampleLeviathan comes into play tapped, and does not untap as normal during your untap phase. Sacrifice two islands during your upkeep phase to untap Leviathan.Leviathan may not attack unless you sacrifice two islands during your attack."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3537_200w.jpg",
+      "modifiedOn": "2022-11-19T07:19:57.127",
+      "name": "Leviathan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3537,
+      "url": "https://www.tcgplayer.com/product/3537/magic-the-dark-leviathan"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Living Armor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Sacrifice Living Armor to put a +0/+X counter on target creature, where X is target creature’s casting cost."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3538_200w.jpg",
+      "modifiedOn": "2022-08-17T15:05:15.503",
+      "name": "Living Armor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3538,
+      "url": "https://www.tcgplayer.com/product/3538/magic-the-dark-living-armor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lurker",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Lurker"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lurker may not be the target of any spell unless Lurker was declared as an attacker or blocker this turn."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3539_200w.jpg",
+      "modifiedOn": "2020-02-24T22:44:54.997",
+      "name": "Lurker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3539,
+      "url": "https://www.tcgplayer.com/product/3539/magic-the-dark-lurker"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mana Clash",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You and target player each flip a coin. Mana Clash does 1 damage to any player whose coin comes up tails. Repeat this process until both players’ coins come up heads at the same time."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3540_200w.jpg",
+      "modifiedOn": "2022-08-14T19:30:06.91",
+      "name": "Mana Clash",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3540,
+      "url": "https://www.tcgplayer.com/product/3540/magic-the-dark-mana-clash"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mana Vortex",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each player who controls land sacrifices one land during his or her upkeep. If at any time there are no lands in play, Mana Vortex is destroyed. If you do not sacrifice a land when Mana Vortex is cast, Mana Vortex is countered."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3541_200w.jpg",
+      "modifiedOn": "2022-04-01T14:48:20.397",
+      "name": "Mana Vortex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3541,
+      "url": "https://www.tcgplayer.com/product/3541/magic-the-dark-mana-vortex"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Marsh Gas",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All creatures get -2/-0 until end of turn."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3542_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:19.64",
+      "name": "Marsh Gas",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3542,
+      "url": "https://www.tcgplayer.com/product/3542/magic-the-dark-marsh-gas"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Marsh Goblins",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Goblins"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Swampwalk\r\nCounts as both a black card and a red card."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3543_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:19.703",
+      "name": "Marsh Goblins",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3543,
+      "url": "https://www.tcgplayer.com/product/3543/magic-the-dark-marsh-goblins"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Marsh Viper",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Viper"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If Marsh Viper damages opponent, opponent gets two poison counters. If opponent ever has ten or more poison counters, opponent loses game."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3544_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:19.767",
+      "name": "Marsh Viper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3544,
+      "url": "https://www.tcgplayer.com/product/3544/magic-the-dark-marsh-viper"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Martyrs Cry",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All white creatures are removed from the game. Players must draw one card for each white creature they control that is lost in this manner."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3545_200w.jpg",
+      "modifiedOn": "2023-11-04T14:00:53.03",
+      "name": "Martyr's Cry",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3545,
+      "url": "https://www.tcgplayer.com/product/3545/magic-the-dark-martyrs-cry"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Maze of Ith",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Target attacking creature becomes untapped. This creature neither deals nor receives damage as a result of combat."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3546_200w.jpg",
+      "modifiedOn": "2023-11-15T09:35:57.663",
+      "name": "Maze of Ith",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3546,
+      "url": "https://www.tcgplayer.com/product/3546/magic-the-dark-maze-of-ith"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Merfolk Assassin",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Merfolk"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Destroy target creature that has islandwalk."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3547_200w.jpg",
+      "modifiedOn": "2021-04-06T07:55:54.767",
+      "name": "Merfolk Assassin",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3547,
+      "url": "https://www.tcgplayer.com/product/3547/magic-the-dark-merfolk-assassin"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mind Bomb",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Mind Bomb does 3 damage to each player. All players may discard up to three cards of their choice from their hands. Each card a player discards in this manner prevents 1 damage to that player from Mind Bomb."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3548_200w.jpg",
+      "modifiedOn": "2023-04-11T14:30:58.523",
+      "name": "Mind Bomb",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3548,
+      "url": "https://www.tcgplayer.com/product/3548/magic-the-dark-mind-bomb"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Miracle Worker",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Miracle Worker"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Destroy target enchantment card on a creature you control."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3549_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:19.813",
+      "name": "Miracle Worker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3549,
+      "url": "https://www.tcgplayer.com/product/3549/magic-the-dark-miracle-worker"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Morale",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All attacking creatures gain +1/+1 until end of turn."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3550_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:19.873",
+      "name": "Morale",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3550,
+      "url": "https://www.tcgplayer.com/product/3550/magic-the-dark-morale"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Murk Dwellers",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Murk Dwellers"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When attacking, Murk Dwellers gain +2/+0 if not blocked."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3551_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:19.937",
+      "name": "Murk Dwellers",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3551,
+      "url": "https://www.tcgplayer.com/product/3551/magic-the-dark-murk-dwellers"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nameless Race",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Nameless Race"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "*"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "*"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "TramplePay * life when bringing Nameless Race into play. Effects that prevent or redirect damage may not be used to counter this loss of life. When Nameless Race is brought into play, * may not be greater than the total number of white cards all opponents have in play and in their graveyards."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3552_200w.jpg",
+      "modifiedOn": "2023-04-07T18:50:43.71",
+      "name": "Nameless Race",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3552,
+      "url": "https://www.tcgplayer.com/product/3552/magic-the-dark-nameless-race"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Necropolis",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Counts as a wall.0: Take a creature in your graveyard and remove it from the game. Put X +0/+1 counters on Necropolis, where X is the removed creature’s casting cost."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3553_200w.jpg",
+      "modifiedOn": "2026-01-07T20:28:57.783",
+      "name": "Necropolis",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3553,
+      "url": "https://www.tcgplayer.com/product/3553/magic-the-dark-necropolis"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Niall Silvain",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Niall Silvain"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "GGGG, T: Target creature is regenerated."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3554_200w.jpg",
+      "modifiedOn": "2021-10-03T19:49:09.447",
+      "name": "Niall Silvain",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3554,
+      "url": "https://www.tcgplayer.com/product/3554/magic-the-dark-niall-silvain"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Orc General",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature General"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Sacrifice one Orc or Goblin to give all Orcs +1/+1 until end of turn."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3555_200w.jpg",
+      "modifiedOn": "2021-10-03T19:49:27.777",
+      "name": "Orc General",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3555,
+      "url": "https://www.tcgplayer.com/product/3555/magic-the-dark-orc-general"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "People of the Woods",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature People of the Woods"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "*"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "The * below represents the number of forests controlled by People of the Woods’ controller."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3556_200w.jpg",
+      "modifiedOn": "2023-04-07T18:53:57.117",
+      "name": "People of the Woods",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3556,
+      "url": "https://www.tcgplayer.com/product/3556/magic-the-dark-people-of-the-woods"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pikemen",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Pikemen"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Banding, first strike"
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3557_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:20",
+      "name": "Pikemen",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3557,
+      "url": "https://www.tcgplayer.com/product/3557/magic-the-dark-pikemen"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Preacher",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Preacher"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Gain control of one of opponent’s creatures. Opponent chooses which target creature you control. If Preacher becomes untapped, you lose control of this creature; you may choose not to untap Preacher as normal during your untap phase. You also lose control of the creature if Preacher leaves play or at end of game."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3558_200w.jpg",
+      "modifiedOn": "2023-10-31T19:49:10.65",
+      "name": "Preacher",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3558,
+      "url": "https://www.tcgplayer.com/product/3558/magic-the-dark-preacher"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Psychic Allergy",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose a color when casting Psychic Allergy. During opponent’s upkeep, Psychic Allergy does 1 damage to opponent for each card of this color that he or she controls. Sacrifice two islands during your upkeep or Psychic Allergy is destroyed."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3559_200w.jpg",
+      "modifiedOn": "2022-03-21T15:09:42.87",
+      "name": "Psychic Allergy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3559,
+      "url": "https://www.tcgplayer.com/product/3559/magic-the-dark-psychic-allergy"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rag Man",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Rag Man"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "BBB, T: Look at opponent’s hand.If opponent has any creature cards in hand, he or she discards one of them at random. This ability can only be used during controller’s turn."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3560_200w.jpg",
+      "modifiedOn": "2023-05-19T15:06:31.893",
+      "name": "Rag Man",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3560,
+      "url": "https://www.tcgplayer.com/product/3560/magic-the-dark-rag-man"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Reflecting Mirror",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "X, T: Target spell, which targets you, targets the player of your choice instead. X is twice the casting cost of target spell. This ability is played as an interrupt."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3561_200w.jpg",
+      "modifiedOn": "2023-12-07T14:41:08.287",
+      "name": "Reflecting Mirror",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3561,
+      "url": "https://www.tcgplayer.com/product/3561/magic-the-dark-reflecting-mirror"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Riptide",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All blue creatures become tapped."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3562_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:20.07",
+      "name": "Riptide",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3562,
+      "url": "https://www.tcgplayer.com/product/3562/magic-the-dark-riptide"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Runesword",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "3, T: Target attacking creature gains +2/+0 until end of turn. Any creature damaged by target creature may not be regenerated this turn; if such a creature is placed in the graveyard this turn, remove it from the game. If target creature leaves play before end of turn, Runesword is buried."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3563_200w.jpg",
+      "modifiedOn": "2024-12-13T17:15:34.457",
+      "name": "Runesword",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3563,
+      "url": "https://www.tcgplayer.com/product/3563/magic-the-dark-runesword"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Safe Haven",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2, T: Remove target creature you control from game. This ability is played as an interrupt.During your upkeep, sacrifice Safe Haven to return all creatures it has removed from game directly into play. Treat this as if they were just summoned."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3564_200w.jpg",
+      "modifiedOn": "2025-01-10T06:34:07.067",
+      "name": "Safe Haven",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3564,
+      "url": "https://www.tcgplayer.com/product/3564/magic-the-dark-safe-haven"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Savaen Elves",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Elves"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "GG, T: Target enchant land is destroyed."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3565_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:20.117",
+      "name": "Savaen Elves",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3565,
+      "url": "https://www.tcgplayer.com/product/3565/magic-the-dark-savaen-elves"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Scarecrow",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "6, T: Until end of turn, all damage done to you by flying creatures is reduced to 0."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "There was more malice in its button eyes than should have been possible in something that had never known life."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3566_200w.jpg",
+      "modifiedOn": "2021-10-03T19:50:47.477",
+      "name": "Scarecrow",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3566,
+      "url": "https://www.tcgplayer.com/product/3566/magic-the-dark-scarecrow"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Scarwood Bandits",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Bandits"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Forestwalk2G, T: Take control of target artifact. Opponent may counter this action by paying 2. You lose control of target artifact if Scarwood Bandits leave play or at end of game."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3567_200w.jpg",
+      "modifiedOn": "2022-02-11T12:58:46.09",
+      "name": "Scarwood Bandits",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3567,
+      "url": "https://www.tcgplayer.com/product/3567/magic-the-dark-scarwood-bandits"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Scarwood Goblins",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Goblins"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Counts as both a green card and a red card."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3568_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:20.197",
+      "name": "Scarwood Goblins",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3568,
+      "url": "https://www.tcgplayer.com/product/3568/magic-the-dark-scarwood-goblins"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Scarwood Hag",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Hag"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "GGGG, T: Target creature gains forestwalk until end of turn.T: Target creature loses forestwalk until end of turn."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3569_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:20.243",
+      "name": "Scarwood Hag",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3569,
+      "url": "https://www.tcgplayer.com/product/3569/magic-the-dark-scarwood-hag"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Scavenger Folk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Scavenger Folk"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "G, T: Sacrifice Scavenger Folk to destroy target artifact."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3570_200w.jpg",
+      "modifiedOn": "2024-12-14T05:57:42.71",
+      "name": "Scavenger Folk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3570,
+      "url": "https://www.tcgplayer.com/product/3570/magic-the-dark-scavenger-folk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Season of the Witch",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the end of each player’s turn, all of his or her untapped creatures that could have attacked but did not are destroyed. If you do not pay 2 life during your upkeep, Season of the Witch is destroyed. Effects that prevent or redirect damage may not be used to counter this loss of life."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3571_200w.jpg",
+      "modifiedOn": "2025-12-05T13:55:53.437",
+      "name": "Season of the Witch",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3571,
+      "url": "https://www.tcgplayer.com/product/3571/magic-the-dark-season-of-the-witch"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sisters of the Flame",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Sisters"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add R to your mana pool. This ability is played as an interrupt."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3572_200w.jpg",
+      "modifiedOn": "2021-10-06T14:52:01.837",
+      "name": "Sisters of the Flame",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3572,
+      "url": "https://www.tcgplayer.com/product/3572/magic-the-dark-sisters-of-the-flame"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Skull of Orm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "5, T: Bring one enchantment card from your graveyard to your hand."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3573_200w.jpg",
+      "modifiedOn": "2025-01-04T06:21:39.53",
+      "name": "Skull of Orm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3573,
+      "url": "https://www.tcgplayer.com/product/3573/magic-the-dark-skull-of-orm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sorrows Path",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Exchange two of opponent’s blocking creatures. This exchange may not cause an illegal block. Sorrow’s Path does 2 damage to you and 2 damage to each creature you control whenever it is tapped."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3574_200w.jpg",
+      "modifiedOn": "2023-03-28T09:55:02.937",
+      "name": "Sorrow's Path",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3574,
+      "url": "https://www.tcgplayer.com/product/3574/magic-the-dark-sorrows-path"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Spitting Slug",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Slug"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1G: Spitting Slug gains first strike until end of turn. If this ability is not activated, all creatures blocking or blocked by Spitting Slug gain first strike until end of turn."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3575_200w.jpg",
+      "modifiedOn": "2023-10-24T03:34:27.227",
+      "name": "Spitting Slug",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3575,
+      "url": "https://www.tcgplayer.com/product/3575/magic-the-dark-spitting-slug"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Squire",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Squire"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3576_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:20.32",
+      "name": "Squire",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3576,
+      "url": "https://www.tcgplayer.com/product/3576/magic-the-dark-squire"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Standing Stones",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1, T: Pay 1 life and add 1 mana of any color to your mana pool. This ability is played as an interrupt. Effects that prevent or redirect damage may not be used to counter this loss of life."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3577_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:20.383",
+      "name": "Standing Stones",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3577,
+      "url": "https://www.tcgplayer.com/product/3577/magic-the-dark-standing-stones"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Stone Calendar",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Your spells cost up to 1 less to cast; casting cost of spells cannot go below 0."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3578_200w.jpg",
+      "modifiedOn": "2022-08-29T07:55:01.65",
+      "name": "Stone Calendar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3578,
+      "url": "https://www.tcgplayer.com/product/3578/magic-the-dark-stone-calendar"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sunken City",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All blue creatures gain +1/+1.If you do not pay UU during your upkeep, Sunken City is destroyed."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3579_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:20.46",
+      "name": "Sunken City",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3579,
+      "url": "https://www.tcgplayer.com/product/3579/magic-the-dark-sunken-city"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tangle Kelp",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchant Creature"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target creature does not untap during its controller’s untap phase if it attacked during its controller’s last turn. Target creature becomes tapped when Tangle Kelp is cast."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3580_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:20.523",
+      "name": "Tangle Kelp",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3580,
+      "url": "https://www.tcgplayer.com/product/3580/magic-the-dark-tangle-kelp"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Fallen",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Fallen"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "During its controller’s upkeep, The Fallen does 1 damage to each opponent it has previously damaged."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3581_200w.jpg",
+      "modifiedOn": "2021-10-03T19:52:05.987",
+      "name": "The Fallen",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3581,
+      "url": "https://www.tcgplayer.com/product/3581/magic-the-dark-the-fallen"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tivadars Crusade",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All Goblins are destroyed."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3582_200w.jpg",
+      "modifiedOn": "2023-11-07T06:10:53.763",
+      "name": "Tivadar's Crusade",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3582,
+      "url": "https://www.tcgplayer.com/product/3582/magic-the-dark-tivadars-crusade"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tormods Crypt",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Sacrifice Tormod’s Crypt to remove all cards in target player’s graveyard from the game."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3583_200w.jpg",
+      "modifiedOn": "2024-05-08T07:10:31.17",
+      "name": "Tormod's Crypt",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3583,
+      "url": "https://www.tcgplayer.com/product/3583/magic-the-dark-tormods-crypt"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tower of Coireall",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Target creature cannot be blocked by walls until end of turn."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3584_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:20.597",
+      "name": "Tower of Coireall",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3584,
+      "url": "https://www.tcgplayer.com/product/3584/magic-the-dark-tower-of-coireall"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tracker",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Tracker"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "GG, T: Tracker does an amount of damage equal to its power to target creature. Target creature does an amount of damage equal to its power to Tracker."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3585_200w.jpg",
+      "modifiedOn": "2022-01-05T21:35:09.157",
+      "name": "Tracker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3585,
+      "url": "https://www.tcgplayer.com/product/3585/magic-the-dark-tracker"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Uncle Istvan",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Uncle Istvan"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All damage done to Uncle Istvan by creatures is reduced to 0."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "Solitude drove the old hermit insane. Now he only keeps company with those he can catch."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3586_200w.jpg",
+      "modifiedOn": "2025-03-04T10:15:31.417",
+      "name": "Uncle Istvan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3586,
+      "url": "https://www.tcgplayer.com/product/3586/magic-the-dark-uncle-istvan"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Venom",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchant Creature"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All non-wall creatures target creature blocks or is blocked by are destroyed at the end of combat."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3587_200w.jpg",
+      "modifiedOn": "2019-03-27T15:21:03.173",
+      "name": "Venom",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3587,
+      "url": "https://www.tcgplayer.com/product/3587/magic-the-dark-venom"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wand of Ith",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "3, T: Look at one card at random from target player’s hand. If the card is not a land, target player must choose either to discard it or pay an amount of life equal to its casting cost. If the card is a land, target player must choose either to discard it or pay 1 life. Effects that prevent or redirect damage may not be used to counter this loss of life. Can only be used during controller’s turn."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3588_200w.jpg",
+      "modifiedOn": "2021-10-03T19:53:08.04",
+      "name": "Wand of Ith",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3588,
+      "url": "https://www.tcgplayer.com/product/3588/magic-the-dark-wand-of-ith"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "War Barge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "3: Target creature gains islandwalk until end of turn. If War Barge leaves play this turn, target creature is buried."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3589_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:20.66",
+      "name": "War Barge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3589,
+      "url": "https://www.tcgplayer.com/product/3589/magic-the-dark-war-barge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Water Wurm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Wurm"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Water Wurm gains +0/+1 if opponent controls at least one island."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3590_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:20.72",
+      "name": "Water Wurm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3590,
+      "url": "https://www.tcgplayer.com/product/3590/magic-the-dark-water-wurm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Whippoorwill",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Whippoorwill"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "GG, T: Until end of turn, target creature may not regenerate and damage done to target creature may not be prevented or redirected. If target creature goes to the graveyard, remove it from game."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3591_200w.jpg",
+      "modifiedOn": "2023-12-06T06:42:58.923",
+      "name": "Whippoorwill",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3591,
+      "url": "https://www.tcgplayer.com/product/3591/magic-the-dark-whippoorwill"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Witch Hunter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Hunter"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Witch Hunter does 1 damage to target player.1WW, T: Return target creature opponent controls from play to owner’s hand. Enchantments on target creature are destroyed."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3592_200w.jpg",
+      "modifiedOn": "2024-12-04T02:16:42.08",
+      "name": "Witch Hunter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3592,
+      "url": "https://www.tcgplayer.com/product/3592/magic-the-dark-witch-hunter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Word of Binding",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "X target creatures become tapped."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3593_200w.jpg",
+      "modifiedOn": "2025-05-15T20:35:20.797",
+      "name": "Word of Binding",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3593,
+      "url": "https://www.tcgplayer.com/product/3593/magic-the-dark-word-of-binding"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Worms of the Earth",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "No new land may be brought into play. During any player’s upkeep, any player may destroy Worms of the Earth by sacrificing two lands or taking 5 damage from Worms of the Earth."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3594_200w.jpg",
+      "modifiedOn": "2021-07-13T19:37:28.117",
+      "name": "Worms of the Earth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3594,
+      "url": "https://www.tcgplayer.com/product/3594/magic-the-dark-worms-of-the-earth"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wormwood Treefolk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Treefolk"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "GG: Wormwood Treefolk gains forestwalk until end of turn and does 2 damage to you.BB: Wormwood Treefolk gains swampwalk until end of turn and does 2 damage to you."
+        }
+      ],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3595_200w.jpg",
+      "modifiedOn": "2022-04-28T14:45:45.247",
+      "name": "Wormwood Treefolk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3595,
+      "url": "https://www.tcgplayer.com/product/3595/magic-the-dark-wormwood-treefolk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Dark Booster Box",
+      "extendedData": [],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/27309_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "The Dark - Booster Box",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 27309,
+      "url": "https://www.tcgplayer.com/product/27309/magic-the-dark-the-dark-booster-box"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Dark Booster Pack",
+      "extendedData": [],
+      "groupId": 109,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/27371_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "The Dark - Booster Pack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 27371,
+      "url": "https://www.tcgplayer.com/product/27371/magic-the-dark-the-dark-booster-pack"
+    }
+  ],
+  "success": true,
+  "totalItems": 121
+}

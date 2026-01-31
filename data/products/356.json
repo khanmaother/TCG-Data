@@ -1,0 +1,181 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Gallis the Star Beast",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GX06-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can reveal this card in your hand to send the top card of your Deck to the Graveyard. If that card is a monster, inflict damage to your opponent equal to its Level x 200, and Special Summon this card from your hand. If it is not a monster, destroy this card."
+        }
+      ],
+      "groupId": 356,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/34945_200w.jpg",
+      "modifiedOn": "2024-07-31T16:31:56.19",
+      "name": "Gallis the Star Beast",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 34945,
+      "url": "https://www.tcgplayer.com/product/34945/yugioh-yu-gi-oh-gx-tag-force-promotional-cards-gallis-the-star-beast"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Red Eyes Wyvern",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GX06-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During your End Phase, if you did not Normal Summon or Set a monster this turn, you can remove from play this card from your Graveyard to Special Summon 1 \"Red-Eyes\" monster from your Graveyard, except \"Red-Eyes B. Chick\"."
+        }
+      ],
+      "groupId": 356,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79680_200w.jpg",
+      "modifiedOn": "2024-07-31T16:32:07.127",
+      "name": "Red-Eyes Wyvern",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79680,
+      "url": "https://www.tcgplayer.com/product/79680/yugioh-yu-gi-oh-gx-tag-force-promotional-cards-red-eyes-wyvern"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Darkness Destroyer",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GX06-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Special Summoned. This card can attack twice during each Battle Phase. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent."
+        }
+      ],
+      "groupId": 356,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79683_200w.jpg",
+      "modifiedOn": "2025-06-12T20:14:55.6",
+      "name": "Darkness Destroyer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79683,
+      "url": "https://www.tcgplayer.com/product/79683/yugioh-yu-gi-oh-gx-tag-force-promotional-cards-darkness-destroyer"
+    }
+  ],
+  "success": true,
+  "totalItems": 3
+}

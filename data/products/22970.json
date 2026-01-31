@@ -1,0 +1,1877 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Jace the Mind Sculptor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8001"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Jace"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "[+2]: Look at the top card of target player’s library. You may put that card on the bottom of that player’s library.\r\n\u003cbr\u003e[0]: Draw three cards, then put two cards from your hand on top of your library in any order.\r\n\u003cbr\u003e[-1]: Return target creature to its owner’s hand.\r\n\u003cbr\u003e[-12]: Exile all cards from target player’s library, then that player shuffles their hand into their library."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/484509_200w.jpg",
+      "modifiedOn": "2024-04-29T15:35:56.737",
+      "name": "Jace, the Mind Sculptor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 484509,
+      "url": "https://www.tcgplayer.com/product/484509/magic-secret-lair-showdown-jace-the-mind-sculptor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Brainstorm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Draw three cards, then put two cards from your hand on top of your library in any order."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/484510_200w.jpg",
+      "modifiedOn": "2023-02-20T16:15:25.287",
+      "name": "Brainstorm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 484510,
+      "url": "https://www.tcgplayer.com/product/484510/magic-secret-lair-showdown-brainstorm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fatal Push",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target creature if it has converted mana cost 2 or less.\r\n\u003cbr\u003e\u003cem\u003eRevolt \u003c/em\u003e— Destroy that creature if it has converted mana cost 4 or less instead if a permanent you controlled left the battlefield this turn."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/484511_200w.jpg",
+      "modifiedOn": "2023-02-20T16:18:49.157",
+      "name": "Fatal Push",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 484511,
+      "url": "https://www.tcgplayer.com/product/484511/magic-secret-lair-showdown-fatal-push"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ragavan Nimble Pilferer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Monkey Pirate"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Ragavan, Nimble Pilferer deals combat damage to a player, create a Treasure token and exile the top card of that player's library. Until end of turn, you may cast that card.\r\n\u003cbr\u003eDash 1R"
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/484512_200w.jpg",
+      "modifiedOn": "2023-02-20T16:21:49.003",
+      "name": "Ragavan, Nimble Pilferer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 484512,
+      "url": "https://www.tcgplayer.com/product/484512/magic-secret-lair-showdown-ragavan-nimble-pilferer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Unholy Heat",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Unholy Heat deals 2 damage to target creature or planeswalker.\r\n\u003cbr\u003e\r\n\u003cem\u003eDelirium — Unholy Heat deals 6 damage instead if there are four or more card types among cards in your graveyard."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/489649_200w.jpg",
+      "modifiedOn": "2024-12-23T11:04:31.43",
+      "name": "Unholy Heat",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 489649,
+      "url": "https://www.tcgplayer.com/product/489649/magic-secret-lair-showdown-unholy-heat"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Eldritch Evolution",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As an additional cost to cast this spell, sacrifice a creature.\r\n\u003cbr\u003e\r\nSearch your library for a creature card with mana value X or less, where X is 2 plus the sacrificed creature's mana value. Put that card onto the battlefield, then shuffle. Exile Eldritch Evolution."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/489673_200w.jpg",
+      "modifiedOn": "2026-01-12T21:06:50.493",
+      "name": "Eldritch Evolution",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 489673,
+      "url": "https://www.tcgplayer.com/product/489673/magic-secret-lair-showdown-eldritch-evolution"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ugin the Spirit Dragon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Ugin"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "[+2]: Ugin, the Spirit Dragon deals 3 damage to any target.\r\n\u003cbr\u003e\r\n[-X]: Exile each permanent with mana value X or less that's one or more colors.\r\n\u003cbr\u003e\r\n[-10]: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/489674_200w.jpg",
+      "modifiedOn": "2025-01-14T18:20:12.67",
+      "name": "Ugin, the Spirit Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 489674,
+      "url": "https://www.tcgplayer.com/product/489674/magic-secret-lair-showdown-ugin-the-spirit-dragon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Relentless Rats 0010",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Rat"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Relentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats.\r\n\u003cbr\u003eA deck can have any number of cards named Relentless Rats."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIf you nourish them, they grow calamitous.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/497383_200w.jpg",
+      "modifiedOn": "2024-08-01T15:20:25.19",
+      "name": "Relentless Rats (0010)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 497383,
+      "url": "https://www.tcgplayer.com/product/497383/magic-secret-lair-showdown-relentless-rats-0010"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "An Offer You Cant Refuse",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Counter target noncreature spell. Its controller creates two Treasure tokens."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/503225_200w.jpg",
+      "modifiedOn": "2025-10-31T18:56:09.657",
+      "name": "An Offer You Can't Refuse",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 503225,
+      "url": "https://www.tcgplayer.com/product/503225/magic-secret-lair-showdown-an-offer-you-cant-refuse"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Deaths Shadow",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Avatar"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "13"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "13"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Death's Shadow gets -X-X, where X is your life total."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/503226_200w.jpg",
+      "modifiedOn": "2026-01-12T21:05:28.92",
+      "name": "Death's Shadow",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 503226,
+      "url": "https://www.tcgplayer.com/product/503226/magic-secret-lair-showdown-deaths-shadow"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dragonlord Silumgar",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elder Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, deathtouch\r\n\u003cbr\u003e\r\nWhen Dragonlord Silumgar enters the battlefield, gain control of target creature or planeswalker for as long as you control Dragonlord Silumgar."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/503227_200w.jpg",
+      "modifiedOn": "2025-01-14T18:20:46.77",
+      "name": "Dragonlord Silumgar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 503227,
+      "url": "https://www.tcgplayer.com/product/503227/magic-secret-lair-showdown-dragonlord-silumgar"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Relentless Rats 0011",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Rat"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Relentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats.\r\n\u003cbr\u003eA deck can have any number of cards named Relentless Rats."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIf you revere them, they grow insidious.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/516538_200w.jpg",
+      "modifiedOn": "2024-10-22T17:14:59.403",
+      "name": "Relentless Rats (0011)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 516538,
+      "url": "https://www.tcgplayer.com/product/516538/magic-secret-lair-showdown-relentless-rats-0011"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dark Ritual",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Add BBB."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I will bleat you dry.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/528385_200w.jpg",
+      "modifiedOn": "2024-08-01T15:23:06.627",
+      "name": "Dark Ritual",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 528385,
+      "url": "https://www.tcgplayer.com/product/528385/magic-secret-lair-showdown-dark-ritual"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Murktide Regent",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "17"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Delve\r\n\u003cbr\u003e\r\nFlying\r\n\u003cbr\u003e\r\nMurktide Regent enters the battlefield with a +1/+1 counter on it for each instant and sorcery card exiled with it.\r\n\u003cbr\u003e\r\nWhenever an instant or sorcery card leaves your graveyard, put a +1/+1 counter on Murktide Regent."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/528386_200w.jpg",
+      "modifiedOn": "2024-08-01T15:45:59.333",
+      "name": "Murktide Regent",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 528386,
+      "url": "https://www.tcgplayer.com/product/528386/magic-secret-lair-showdown-murktide-regent"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Spell Pierce",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "18"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Counter target noncreature spell unless its controller pays 2."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"You're trying to cast a spell? How quaint.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/528387_200w.jpg",
+      "modifiedOn": "2024-06-14T13:16:57.037",
+      "name": "Spell Pierce",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 528387,
+      "url": "https://www.tcgplayer.com/product/528387/magic-secret-lair-showdown-spell-pierce"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Expressive Iteration",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Look at the top three cards of your library. Put one of them into your hand, put one of them on the bottom of your library, and exile one of them. You may play this exiled card this turn."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/532127_200w.jpg",
+      "modifiedOn": "2026-01-12T21:08:03.527",
+      "name": "Expressive Iteration",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 532127,
+      "url": "https://www.tcgplayer.com/product/532127/magic-secret-lair-showdown-expressive-iteration"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Explore",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may play an additional land this turn. \r\n\u003cbr\u003eDraw a card."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/532128_200w.jpg",
+      "modifiedOn": "2025-10-31T18:56:09.89",
+      "name": "Explore",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 532128,
+      "url": "https://www.tcgplayer.com/product/532128/magic-secret-lair-showdown-explore"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Springleaf Drum",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "22"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T, Tap an untapped creature you control: Add one mana of any color."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe beating drum inspired dancing, provoked fighting, and compelled both at once.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/537911_200w.jpg",
+      "modifiedOn": "2025-12-08T22:58:31.167",
+      "name": "Springleaf Drum",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 537911,
+      "url": "https://www.tcgplayer.com/product/537911/magic-secret-lair-showdown-springleaf-drum"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Guide",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "23"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Goblin Scout"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003e\r\nWhenever Goblin Guide attacks, defending player reveals the top card of their library. If it's a land card, that player puts it into their hand."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Trust me, the quickest path down the mountain is just over this ridge.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/537912_200w.jpg",
+      "modifiedOn": "2025-01-14T18:22:49.03",
+      "name": "Goblin Guide",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 537912,
+      "url": "https://www.tcgplayer.com/product/537912/magic-secret-lair-showdown-goblin-guide"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ponder",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "19"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Look at the top three cards of your library, then put them back in any order. You may shuffle.\r\n\u003cbr\u003eDraw a card."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/540040_200w.jpg",
+      "modifiedOn": "2025-11-21T23:44:53.8",
+      "name": "Ponder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 540040,
+      "url": "https://www.tcgplayer.com/product/540040/magic-secret-lair-showdown-ponder"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Valakut the Molten Pinnacle",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Valakut, the Molten Pinnacle enters the battlefield tapped. \r\n\u003cbr\u003eWhenever a Mountain enters the battlefield under your control, if you control at least five other Mountains, you may have Valakut, the Molten Pinnacle deal 3 damage to any target.\r\n\u003cbr\u003eT: Add R."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/540041_200w.jpg",
+      "modifiedOn": "2024-06-12T13:47:41.393",
+      "name": "Valakut, the Molten Pinnacle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 540041,
+      "url": "https://www.tcgplayer.com/product/540041/magic-secret-lair-showdown-valakut-the-molten-pinnacle"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wrenn and Six",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Wrenn"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "[+1]: Return up to one target land card from your graveyard to your hand.\r\n\u003cbr\u003e[-1]: Wrenn and Six deals 1 damage to any target. \r\n\u003cbr\u003e[-7]: You get an emblem with \"Instant and sorcery cards in your graveyard have retrace.\""
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/541022_200w.jpg",
+      "modifiedOn": "2024-04-11T13:43:15.47",
+      "name": "Wrenn and Six",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 541022,
+      "url": "https://www.tcgplayer.com/product/541022/magic-secret-lair-showdown-wrenn-and-six"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swords to Plowshares",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "20"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exile target creature. Its controller gains life equal to its power."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Tulips bring love into the world. I bring the tulips.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/557849_200w.jpg",
+      "modifiedOn": "2025-12-15T14:18:17.233",
+      "name": "Swords to Plowshares",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 557849,
+      "url": "https://www.tcgplayer.com/product/557849/magic-secret-lair-showdown-swords-to-plowshares"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lightning Bolt",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "21"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lightning Bolt deals 3 damage to target creature or player."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/562026_200w.jpg",
+      "modifiedOn": "2024-12-06T15:45:54.857",
+      "name": "Lightning Bolt",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 562026,
+      "url": "https://www.tcgplayer.com/product/562026/magic-secret-lair-showdown-lightning-bolt"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Supreme Verdict",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "26"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Supreme Verdict can't be countered. \r\n\u003cbr\u003eDestroy all creatures."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/562037_200w.jpg",
+      "modifiedOn": "2025-10-31T18:56:09.72",
+      "name": "Supreme Verdict",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 562037,
+      "url": "https://www.tcgplayer.com/product/562037/magic-secret-lair-showdown-supreme-verdict"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plains 0031",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "31"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Plains"
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/564119_200w.jpg",
+      "modifiedOn": "2026-01-28T01:02:50.023",
+      "name": "Plains (0031)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 564119,
+      "url": "https://www.tcgplayer.com/product/564119/magic-secret-lair-showdown-plains-0031"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mayhem Devil",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "28"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Devil"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever a player sacrifices a permanent, Mayhem Devil deals 1 damage to any target."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eSome kinds of trouble you just can't resist getting into.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/603077_200w.jpg",
+      "modifiedOn": "2025-10-31T18:56:09.533",
+      "name": "Mayhem Devil",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 603077,
+      "url": "https://www.tcgplayer.com/product/603077/magic-secret-lair-showdown-mayhem-devil"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Force of Despair",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "29"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If it's not your turn, you may exile a black card from your hand rather than pay this spell's mana cost.\r\n\u003cbr\u003e\r\nDestroy all creatures that entered this turn."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/603078_200w.jpg",
+      "modifiedOn": "2025-01-14T18:21:05.377",
+      "name": "Force of Despair",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 603078,
+      "url": "https://www.tcgplayer.com/product/603078/magic-secret-lair-showdown-force-of-despair"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nexus of Fate",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "27"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Take an extra turn after this one.\r\n\u003cbr\u003e\r\nIf Nexus of Fate would be put into a graveyard from anywhere, reveal Nexus of Fate and shuffle it into its owner's library instead."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/617798_200w.jpg",
+      "modifiedOn": "2025-02-12T18:44:20.85",
+      "name": "Nexus of Fate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 617798,
+      "url": "https://www.tcgplayer.com/product/617798/magic-secret-lair-showdown-nexus-of-fate"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 0032",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "32"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Island"
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/619700_200w.jpg",
+      "modifiedOn": "2025-02-24T16:09:42.387",
+      "name": "Island (0032)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 619700,
+      "url": "https://www.tcgplayer.com/product/619700/magic-secret-lair-showdown-island-0032"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sudden Edict",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "39"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Split second\r\n\u003cbr\u003eTarget player sacrifices a creature of their choice."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/619753_200w.jpg",
+      "modifiedOn": "2025-08-05T12:27:17.593",
+      "name": "Sudden Edict",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 619753,
+      "url": "https://www.tcgplayer.com/product/619753/magic-secret-lair-showdown-sudden-edict"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Questing Druid",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "38"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Druid"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you cast a spell that's white, blue, black, or red, put a +1/+1 counter on Questing Druid.\r\n\u003cbr\u003e\u003cstrong\u003eSeek the Beast\u003c/strong\u003e 1R\r\n\u003cbr\u003eInstant — Adventure\r\n\u003cbr\u003eExile the top two cards of your library. Until you next end step, you may play those cards."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/619754_200w.jpg",
+      "modifiedOn": "2025-09-10T11:33:05.463",
+      "name": "Questing Druid",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 619754,
+      "url": "https://www.tcgplayer.com/product/619754/magic-secret-lair-showdown-questing-druid"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lightning Bolt 0037",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "37"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lightning Bolt deals 3 damage to any target."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/619755_200w.jpg",
+      "modifiedOn": "2025-02-24T20:48:36.983",
+      "name": "Lightning Bolt (0037)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 619755,
+      "url": "https://www.tcgplayer.com/product/619755/magic-secret-lair-showdown-lightning-bolt-0037"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Karn Liberated",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "36"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Karn"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "[+4]: Target player exiles a card from their hand.\r\n\u003cbr\u003e\r\n[-3]: Exile target permanent.\r\n\u003cbr\u003e\r\n[-14]: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/619757_200w.jpg",
+      "modifiedOn": "2025-02-24T20:53:55.037",
+      "name": "Karn Liberated",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 619757,
+      "url": "https://www.tcgplayer.com/product/619757/magic-secret-lair-showdown-karn-liberated"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Prosperous Innkeeper",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "40"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Halfing Citizen"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When this creature enters, create a Treasure token.\r\n\u003cbr\u003eWhenever another creature you control enters, you gain 1 life."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/628287_200w.jpg",
+      "modifiedOn": "2025-10-31T18:56:09.593",
+      "name": "Prosperous Innkeeper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 628287,
+      "url": "https://www.tcgplayer.com/product/628287/magic-secret-lair-showdown-prosperous-innkeeper"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fauna Shaman",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "41"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elf Shaman"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "G, T, Discard a creature card: Search your library for a creature card, reveal it, put it into your hand, then shuffle."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/628288_200w.jpg",
+      "modifiedOn": "2025-10-31T18:56:09.843",
+      "name": "Fauna Shaman",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 628288,
+      "url": "https://www.tcgplayer.com/product/628288/magic-secret-lair-showdown-fauna-shaman"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Living End",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "30"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Suspend 3 — 2BB\r\n\u003cbr\u003eEach player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/631075_200w.jpg",
+      "modifiedOn": "2025-05-12T18:23:28.28",
+      "name": "Living End",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 631075,
+      "url": "https://www.tcgplayer.com/product/631075/magic-secret-lair-showdown-living-end"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Garruk Wildspeaker",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "42"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Garruk"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "[+1]: Untap two target lands.\r\n\u003cbr\u003e[-1]: Create a 3/3 green Beast creature token.\r\n\u003cbr\u003e[-4]: Creatures you control get +3/+3 and gain trample until end of turn."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/635735_200w.jpg",
+      "modifiedOn": "2025-06-03T20:21:15.557",
+      "name": "Garruk Wildspeaker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 635735,
+      "url": "https://www.tcgplayer.com/product/635735/magic-secret-lair-showdown-garruk-wildspeaker"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 0033",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "33"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Swamp"
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/639876_200w.jpg",
+      "modifiedOn": "2025-06-30T13:52:53.057",
+      "name": "Swamp (0033)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 639876,
+      "url": "https://www.tcgplayer.com/product/639876/magic-secret-lair-showdown-swamp-0033"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Laughing Jasper Flint",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "44"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Lizard Rogue"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Creatures you control but don't own are Mercenaries in addition to their other types.\r\n\u003cbr\u003e\r\nAt the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you. may cast spells from among those cards, and mana of any type can be spent to cast those spells."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/648266_200w.jpg",
+      "modifiedOn": "2025-08-08T12:09:28.55",
+      "name": "Laughing Jasper Flint",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 648266,
+      "url": "https://www.tcgplayer.com/product/648266/magic-secret-lair-showdown-laughing-jasper-flint"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shoot the Sheriff",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "43"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target non-outlaw creature. \u003cem\u003e(Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. Everyone else is fair game.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/648267_200w.jpg",
+      "modifiedOn": "2025-10-31T18:56:09.783",
+      "name": "Shoot the Sheriff",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 648267,
+      "url": "https://www.tcgplayer.com/product/648267/magic-secret-lair-showdown-shoot-the-sheriff"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 0034",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "34"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Mountain"
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/657024_200w.jpg",
+      "modifiedOn": "2025-10-06T18:58:20.28",
+      "name": "Mountain (0034)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 657024,
+      "url": "https://www.tcgplayer.com/product/657024/magic-secret-lair-showdown-mountain-0034"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Flowerfoot Swordmaster",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "46"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Mouse Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Offspring 2 \r\n\u003cbr\u003e\u003cem\u003eValiant\u003c/em\u003e — Whenever this creature becomes the target of a spell or ability you control for the first time each turn, Mice you control get +1/+0 until end of turn."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/666273_200w.jpg",
+      "modifiedOn": "2025-12-01T17:11:53.68",
+      "name": "Flowerfoot Swordmaster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 666273,
+      "url": "https://www.tcgplayer.com/product/666273/magic-secret-lair-showdown-flowerfoot-swordmaster"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Manifold Mouse",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "47"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Mouse Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Offspring 2 \r\n\u003cbr\u003eAt the beginning of combat on your turn, target Mouse you control gains your choice of double strike or trample until end of turn."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/666337_200w.jpg",
+      "modifiedOn": "2025-12-01T18:34:53.057",
+      "name": "Manifold Mouse",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 666337,
+      "url": "https://www.tcgplayer.com/product/666337/magic-secret-lair-showdown-manifold-mouse"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Innkeepers Talent",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "45"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Class"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003e(Gain the next level as a sorcery to add its ability.)\u003c/em\u003e\r\n\u003cbr\u003eAt the beginning of combat on your turn, put a +1/+1 counter on target creature you control.\r\n\u003cbr\u003eG: \u003cstrong\u003eLevel 2\u003c/strong\u003e\r\n\u003cbr\u003ePermanents you control with counters on them have ward 1.\r\n\u003cbr\u003e3G: \u003cstrong\u003eLevel 3\u003c/strong\u003e\r\n\u003cbr\u003eIf you would put one or more counters on a permanent or player, put twice that many of each of those kinds of counters on that permanent or player instead."
+        }
+      ],
+      "groupId": 22970,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/674804_200w.jpg",
+      "modifiedOn": "2026-01-26T12:36:19.133",
+      "name": "Innkeeper's Talent",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 674804,
+      "url": "https://www.tcgplayer.com/product/674804/magic-secret-lair-showdown-innkeepers-talent"
+    }
+  ],
+  "success": true,
+  "totalItems": 45
+}

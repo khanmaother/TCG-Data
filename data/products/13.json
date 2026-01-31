@@ -1,0 +1,3270 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Disenchant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target enchantment or artifact."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/21659_200w.jpg",
+      "modifiedOn": "2025-04-02T15:16:50.54",
+      "name": "Disenchant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 21659,
+      "url": "https://www.tcgplayer.com/product/21659/magic-arena-promos-disenchant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fireball",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Fireball deals X damage divided evenly (round down) among any number of target creatures and/or players. Pay an additional 1 for each target beyond the first."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/21660_200w.jpg",
+      "modifiedOn": "2026-01-24T00:51:31.843",
+      "name": "Fireball",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 21660,
+      "url": "https://www.tcgplayer.com/product/21660/magic-arena-promos-fireball"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 1996",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add G to your mana pool."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/21661_200w.jpg",
+      "modifiedOn": "2025-04-02T15:25:45.107",
+      "name": "Forest (1996)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 21661,
+      "url": "https://www.tcgplayer.com/product/21661/magic-arena-promos-forest-1996"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 1996",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add U to your mana pool."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/21662_200w.jpg",
+      "modifiedOn": "2025-04-02T17:12:24.853",
+      "name": "Island (1996)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 21662,
+      "url": "https://www.tcgplayer.com/product/21662/magic-arena-promos-island-1996"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 1996",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add R to your mana pool."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/21663_200w.jpg",
+      "modifiedOn": "2026-01-05T16:51:29.307",
+      "name": "Mountain (1996)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 21663,
+      "url": "https://www.tcgplayer.com/product/21663/magic-arena-promos-mountain-1996"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plains 1996",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add W to your mana pool."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/21664_200w.jpg",
+      "modifiedOn": "2025-12-04T23:44:06.877",
+      "name": "Plains (1996)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 21664,
+      "url": "https://www.tcgplayer.com/product/21664/magic-arena-promos-plains-1996"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 1996",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add B to your mana pool."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/21665_200w.jpg",
+      "modifiedOn": "2025-04-02T18:29:19.96",
+      "name": "Swamp (1996)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 21665,
+      "url": "https://www.tcgplayer.com/product/21665/magic-arena-promos-swamp-1996"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Incinerate",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Incinerate deals 3 damage to target creature or player. No creature damaged by Incinerate can regenerate this turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e”Yes, I think ‘toast’ is an appropriate description.”\r\n\u003cbr\u003e\r\n—Jaya Ballard, Task Mage\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/21704_200w.jpg",
+      "modifiedOn": "2025-12-04T23:41:24.843",
+      "name": "Incinerate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 21704,
+      "url": "https://www.tcgplayer.com/product/21704/magic-arena-promos-incinerate"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Arc Lightning",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Arc Lightning deals 3 damage divided as you choose among any number of target creatures and/or players."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"It is vain to look for a defense against lightning.\"\r\n\u003cbr\u003e\r\n—Publius Syrus,\r\n\u003cbr\u003e\r\nMaxim 835, trans. Lyman\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37965_200w.jpg",
+      "modifiedOn": "2025-12-05T22:48:40.167",
+      "name": "Arc Lightning",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37965,
+      "url": "https://www.tcgplayer.com/product/37965/magic-arena-promos-arc-lightning"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ashnods Coupon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T, Sacrifice Ashnod's Coupon: Target player gets you target drink.\r\n\u003cbr\u003e\r\nErrata: You pay any costs for the drink."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eLimited time offer. Void where prohibited. Limit one per purchase. Valid only in participating duels. This coupon is nontransferable and invalid if shattered, crumbled, detonated, pillaged, or otherwise disenchanted. Cash value less than 1/20 of a cent. Offer not valid in Quebec, Rhode Island, or where prohibited by law or the DCI.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37966_200w.jpg",
+      "modifiedOn": "2025-04-02T14:53:59.5",
+      "name": "Ashnod's Coupon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37966,
+      "url": "https://www.tcgplayer.com/product/37966/magic-arena-promos-ashnods-coupon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bonesplitter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature gets +2/+0.\r\n\u003cbr\u003e\r\nEquip 1 \u003cem\u003e(1: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37967_200w.jpg",
+      "modifiedOn": "2025-04-02T14:54:15.607",
+      "name": "Bonesplitter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37967,
+      "url": "https://www.tcgplayer.com/product/37967/magic-arena-promos-bonesplitter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Booster Tutor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Open a sealed Magic booster pack, reveal the cards, and put one of those cards into your hand. \u003cem\u003e(Remove that card from your deck before beginning a new game.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eMake your judgment wisely: The right pack will let you defeat your nemesis, but a poor choice can only end in torment. And\u003c/em\u003e Homelands."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37968_200w.jpg",
+      "modifiedOn": "2025-04-02T15:08:23.47",
+      "name": "Booster Tutor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37968,
+      "url": "https://www.tcgplayer.com/product/37968/magic-arena-promos-booster-tutor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Castigate",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target opponent reveals his or her hand. Choose a nonland card from it. Remove that card from the game."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"We have no need for military might. We wield two of the sharpest swords ever forged: Faith in our left hand, Wealth in our right.\"\r\n\u003cbr\u003e\r\n—Vuliev of the Ghost Council\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37969_200w.jpg",
+      "modifiedOn": "2025-04-02T15:09:24.177",
+      "name": "Castigate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37969,
+      "url": "https://www.tcgplayer.com/product/37969/magic-arena-promos-castigate"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Chill",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "60"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Red spells cost 2 more to play."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Temper, temper.\"\r\n\u003cbr\u003e\r\n—Ertai, wizard adept\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37970_200w.jpg",
+      "modifiedOn": "2025-04-02T15:09:54.757",
+      "name": "Chill",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37970,
+      "url": "https://www.tcgplayer.com/product/37970/magic-arena-promos-chill"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Circle of Protection Art",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As Circle of Protection: Art comes into play, choose an artist.\r\n\u003cbr\u003e\r\n1W: The next time a source of your choice by the chosen artist would deal damage to you this turn, prevent that damage.\r\n\u003cbr\u003e\r\n1W: Return Circle of Protection: Art to its owner's hand."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37971_200w.jpg",
+      "modifiedOn": "2025-04-02T15:11:29.65",
+      "name": "Circle of Protection: Art",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37971,
+      "url": "https://www.tcgplayer.com/product/37971/magic-arena-promos-circle-of-protection-art"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Coiling Oracle",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Snake Elf Druid"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Coiling Oracle comes into play, reveal the top card of your library. If it's a land card, put it into play. Otherwise, put that card into your hand."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eSnaking remnants of nature directed by a body of thought and progress, the oracles embody all that is Simic.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37972_200w.jpg",
+      "modifiedOn": "2025-04-02T15:12:24.24",
+      "name": "Coiling Oracle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37972,
+      "url": "https://www.tcgplayer.com/product/37972/magic-arena-promos-coiling-oracle"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Creeping Mold",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target artifact, enchantment, or land."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Mold could catch you.\"\r\n\u003cbr\u003e\r\n—Suq'Ata insult\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37973_200w.jpg",
+      "modifiedOn": "2025-04-02T15:13:06.64",
+      "name": "Creeping Mold",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37973,
+      "url": "https://www.tcgplayer.com/product/37973/magic-arena-promos-creeping-mold"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Darksteel Ingot",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Darksteel Ingot is indestructible. \u003cem\u003e(\"Destroy\" effects and lethal damage don't destroy it.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nT: Add one mana of any color to your mana pool."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37974_200w.jpg",
+      "modifiedOn": "2025-04-02T15:13:37.533",
+      "name": "Darksteel Ingot",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37974,
+      "url": "https://www.tcgplayer.com/product/37974/magic-arena-promos-darksteel-ingot"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dauthi Slayer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Shadow \u003cem\u003e(This creature may block or be blocked by only creatures with shadow.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nDauthi Slayer attacks each turn if able."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"A wisp of life remains in the undergloom of Death: a visible form, though no heart beats within it.\"\r\n\u003cbr\u003e\r\n—Homer,\u003c/em\u003e The Iliad\u003cem\u003e, trans. Fitzgerald\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37975_200w.jpg",
+      "modifiedOn": "2025-12-05T22:51:11.103",
+      "name": "Dauthi Slayer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37975,
+      "url": "https://www.tcgplayer.com/product/37975/magic-arena-promos-dauthi-slayer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Diabolic Edict",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target player sacrifices a creature."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eGreven\u003c/em\u003e il-\u003cem\u003eVec lifted Vhati off his feet. \"The fall will give you time to think on your failure.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37976_200w.jpg",
+      "modifiedOn": "2025-04-02T15:16:35.477",
+      "name": "Diabolic Edict",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37976,
+      "url": "https://www.tcgplayer.com/product/37976/magic-arena-promos-diabolic-edict"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dismiss",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Counter target spell.\r\n\u003cbr\u003e\r\nDraw a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"There is nothing you can do that I cannot simply deny.\"\r\n\u003cbr\u003e\r\n—Ertai, wizard adept\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37977_200w.jpg",
+      "modifiedOn": "2025-04-02T15:17:22.347",
+      "name": "Dismiss",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37977,
+      "url": "https://www.tcgplayer.com/product/37977/magic-arena-promos-dismiss"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Duress",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "132"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Look at target opponent's hand and choose a noncreature, nonland card there. That player discards that card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"We decide who is worthy of our works.\"\r\n\u003cbr\u003e\r\n—Gix, Yawgmoth praetor\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37978_200w.jpg",
+      "modifiedOn": "2025-04-02T15:19:57.77",
+      "name": "Duress",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37978,
+      "url": "https://www.tcgplayer.com/product/37978/magic-arena-promos-duress"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Elvish Aberration",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elf Mutant"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add GGG to your mana pool.\r\n\u003cbr\u003e\r\nForestcycling 2 \u003cem\u003e(2, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand. Then shuffle your library.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37979_200w.jpg",
+      "modifiedOn": "2025-04-02T15:20:36.397",
+      "name": "Elvish Aberration",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37979,
+      "url": "https://www.tcgplayer.com/product/37979/magic-arena-promos-elvish-aberration"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Empyrial Armor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchant Creature"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchanted creature gets +X/+X, where X is the number of cards in your hand."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“An angel appeared in the smoldering skies above the fray, her clothes as flames, her armor as fire.”\r\n\u003cbr\u003e\r\n—“Hymn of Angelfire”\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37980_200w.jpg",
+      "modifiedOn": "2025-04-02T15:20:59.343",
+      "name": "Empyrial Armor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37980,
+      "url": "https://www.tcgplayer.com/product/37980/magic-arena-promos-empyrial-armor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Enlightened Tutor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "19"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“I do not teach. I simply reveal.”\r\n\u003cbr\u003e\r\n—Daudi, Femeref tutor\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37982_200w.jpg",
+      "modifiedOn": "2025-04-02T15:21:53.377",
+      "name": "Enlightened Tutor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37982,
+      "url": "https://www.tcgplayer.com/product/37982/magic-arena-promos-enlightened-tutor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fling",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As an additional cost to play Fling, sacrifice a creature.\r\n\u003cbr\u003e\r\nFling deals damage equal to the sacrificed creature's power to target creature or player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIt's raining rats and moggs.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37984_200w.jpg",
+      "modifiedOn": "2025-04-02T15:23:21.167",
+      "name": "Fling",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37984,
+      "url": "https://www.tcgplayer.com/product/37984/magic-arena-promos-fling"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 2004",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Forest"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37985_200w.jpg",
+      "modifiedOn": "2025-04-02T17:01:52.91",
+      "name": "Forest (2004)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37985,
+      "url": "https://www.tcgplayer.com/product/37985/magic-arena-promos-forest-2004"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 1999",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "347"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add G to your mana pool."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37986_200w.jpg",
+      "modifiedOn": "2025-04-02T15:29:03.477",
+      "name": "Forest (1999)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37986,
+      "url": "https://www.tcgplayer.com/product/37986/magic-arena-promos-forest-1999"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 2001 Ice Age",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add G to your mana pool."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37987_200w.jpg",
+      "modifiedOn": "2025-04-02T16:57:58.75",
+      "name": "Forest (2001 Ice Age)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37987,
+      "url": "https://www.tcgplayer.com/product/37987/magic-arena-promos-forest-2001-ice-age"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 2001 Beta",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add G to your mana pool."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37988_200w.jpg",
+      "modifiedOn": "2025-04-02T16:57:40.563",
+      "name": "Forest (2001 Beta)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37988,
+      "url": "https://www.tcgplayer.com/product/37988/magic-arena-promos-forest-2001-beta"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 2003",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37989_200w.jpg",
+      "modifiedOn": "2025-04-02T16:58:42.463",
+      "name": "Forest (2003)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37989,
+      "url": "https://www.tcgplayer.com/product/37989/magic-arena-promos-forest-2003"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 2005",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Forest"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37990_200w.jpg",
+      "modifiedOn": "2025-04-02T17:02:15.287",
+      "name": "Forest (2005)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37990,
+      "url": "https://www.tcgplayer.com/product/37990/magic-arena-promos-forest-2005"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 2000",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "349"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37991_200w.jpg",
+      "modifiedOn": "2025-04-02T15:37:50.84",
+      "name": "Forest (2000)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37991,
+      "url": "https://www.tcgplayer.com/product/37991/magic-arena-promos-forest-2000"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 2006",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Forest"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37992_200w.jpg",
+      "modifiedOn": "2025-12-04T23:40:14.173",
+      "name": "Forest (2006)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37992,
+      "url": "https://www.tcgplayer.com/product/37992/magic-arena-promos-forest-2006"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gaeas Blessing",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target player shuffles up to three target cards from his or her graveyard into his or her library.\r\n\u003cbr\u003e\r\nDraw a card.\r\n\u003cbr\u003e\r\nWhen Gaea's Blessing is put into your graveyard from your library, shuffle your graveyard into your library."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37993_200w.jpg",
+      "modifiedOn": "2025-04-02T17:05:05.03",
+      "name": "Gaea's Blessing",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37993,
+      "url": "https://www.tcgplayer.com/product/37993/magic-arena-promos-gaeas-blessing"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Genju of the Spires",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchant Mountain"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2: Enchanted Mountain becomes a 6/1 red Spirit creature until end of turn. It's still a land.\r\n\u003cbr\u003e\r\nWhen enchanted Mountain is put into a graveyard, you may return Genju of the Spires from your graveyard to your hand."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37994_200w.jpg",
+      "modifiedOn": "2025-04-02T17:05:54.653",
+      "name": "Genju of the Spires",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37994,
+      "url": "https://www.tcgplayer.com/product/37994/magic-arena-promos-genju-of-the-spires"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Glacial Ray",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant — Arcane"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Glacial Ray deals 2 damage to target creature or player.\r\n\u003cbr\u003e\r\nSplice onto Arcane 1R \u003cem\u003e(As you play an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37995_200w.jpg",
+      "modifiedOn": "2025-04-02T17:06:45.377",
+      "name": "Glacial Ray",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37995,
+      "url": "https://www.tcgplayer.com/product/37995/magic-arena-promos-glacial-ray"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Mime",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Goblin Mime"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When you speak, sacrifice Goblin Mime."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eMung noticed a few clouds gathering in the sky. Perhaps today he could perform his \"walking against the wind\" routine.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37996_200w.jpg",
+      "modifiedOn": "2025-04-02T17:09:45.33",
+      "name": "Goblin Mime",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37996,
+      "url": "https://www.tcgplayer.com/product/37996/magic-arena-promos-goblin-mime"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Grannys Payback",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You gain life equal to your age."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eFew remember the exploits of Dakkon's grandmother, Eunice Blackblade.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37997_200w.jpg",
+      "modifiedOn": "2025-04-02T17:10:34.51",
+      "name": "Granny's Payback",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37997,
+      "url": "https://www.tcgplayer.com/product/37997/magic-arena-promos-grannys-payback"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 2004",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Island"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37998_200w.jpg",
+      "modifiedOn": "2025-04-02T17:15:26.487",
+      "name": "Island (2004)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37998,
+      "url": "https://www.tcgplayer.com/product/37998/magic-arena-promos-island-2004"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 1999",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "338"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add U to your mana pool."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37999_200w.jpg",
+      "modifiedOn": "2025-12-05T22:53:57.72",
+      "name": "Island (1999)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37999,
+      "url": "https://www.tcgplayer.com/product/37999/magic-arena-promos-island-1999"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 2000",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "338"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38000_200w.jpg",
+      "modifiedOn": "2025-04-02T17:13:20.843",
+      "name": "Island (2000)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38000,
+      "url": "https://www.tcgplayer.com/product/38000/magic-arena-promos-island-2000"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 2001",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add U to your mana pool."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38001_200w.jpg",
+      "modifiedOn": "2025-12-05T22:56:22.493",
+      "name": "Island (2001)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38001,
+      "url": "https://www.tcgplayer.com/product/38001/magic-arena-promos-island-2001"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 2002",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add U to your mana pool."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38002_200w.jpg",
+      "modifiedOn": "2025-12-05T22:56:56.073",
+      "name": "Island (2002)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38002,
+      "url": "https://www.tcgplayer.com/product/38002/magic-arena-promos-island-2002"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 2003",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38003_200w.jpg",
+      "modifiedOn": "2025-12-04T23:42:41.797",
+      "name": "Island (2003)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38003,
+      "url": "https://www.tcgplayer.com/product/38003/magic-arena-promos-island-2003"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 2005",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Island"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38004_200w.jpg",
+      "modifiedOn": "2025-04-02T17:15:52.24",
+      "name": "Island (2005)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38004,
+      "url": "https://www.tcgplayer.com/product/38004/magic-arena-promos-island-2005"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 2006",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Island"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38005_200w.jpg",
+      "modifiedOn": "2025-04-02T17:16:15.753",
+      "name": "Island (2006)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38005,
+      "url": "https://www.tcgplayer.com/product/38005/magic-arena-promos-island-2006"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Karn Silver Golem",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "298"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact Creature"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.\r\n\u003cbr\u003e\r\n1: Target noncreature artifact is an artifact creature with power and toughness each equal to its casting cost until end of turn. \u003cem\u003e(That artifact retains its abilities.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38008_200w.jpg",
+      "modifiedOn": "2025-12-09T03:21:51.457",
+      "name": "Karn, Silver Golem",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38008,
+      "url": "https://www.tcgplayer.com/product/38008/magic-arena-promos-karn-silver-golem"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mana Leak",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Counter target spell unless its controller pays 3."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"If a man will begin with certainties, he shall end in doubts.\"\r\n\u003cbr\u003e\r\n—Sir Francis Bacon,\u003c/em\u003e\r\n\u003cbr\u003e\r\nThe Advancement of Learning"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38010_200w.jpg",
+      "modifiedOn": "2025-04-02T17:18:50.803",
+      "name": "Mana Leak",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38010,
+      "url": "https://www.tcgplayer.com/product/38010/magic-arena-promos-mana-leak"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mise",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Name a nonland card, then reveal the top card of your library. If that card is the named card, draw three cards."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eStatistically mind-staggering as it might seem, the term \"mise\" was in fact coined simultaneously by over one thousand \u003cstrong\u003eMagic\u003c/strong\u003e players.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38011_200w.jpg",
+      "modifiedOn": "2025-04-02T17:19:45.973",
+      "name": "Mise",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38011,
+      "url": "https://www.tcgplayer.com/product/38011/magic-arena-promos-mise"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 2004",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Mountain"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38012_200w.jpg",
+      "modifiedOn": "2025-04-02T17:34:37.65",
+      "name": "Mountain (2004)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38012,
+      "url": "https://www.tcgplayer.com/product/38012/magic-arena-promos-mountain-2004"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 1999",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add R to your mana pool."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38013_200w.jpg",
+      "modifiedOn": "2025-04-02T17:29:28.813",
+      "name": "Mountain (1999)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38013,
+      "url": "https://www.tcgplayer.com/product/38013/magic-arena-promos-mountain-1999"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 2000",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "346"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38014_200w.jpg",
+      "modifiedOn": "2025-12-09T03:23:16.863",
+      "name": "Mountain (2000)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38014,
+      "url": "https://www.tcgplayer.com/product/38014/magic-arena-promos-mountain-2000"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 2001",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add R to your mana pool."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38015_200w.jpg",
+      "modifiedOn": "2025-04-02T17:33:36.077",
+      "name": "Mountain (2001)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38015,
+      "url": "https://www.tcgplayer.com/product/38015/magic-arena-promos-mountain-2001"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 2003",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38016_200w.jpg",
+      "modifiedOn": "2025-04-02T17:34:17.587",
+      "name": "Mountain (2003)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38016,
+      "url": "https://www.tcgplayer.com/product/38016/magic-arena-promos-mountain-2003"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 2005",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Mountain"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38017_200w.jpg",
+      "modifiedOn": "2025-04-02T17:34:59.01",
+      "name": "Mountain (2005)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38017,
+      "url": "https://www.tcgplayer.com/product/38017/magic-arena-promos-mountain-2005"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 2006",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Mountain"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38018_200w.jpg",
+      "modifiedOn": "2026-01-17T02:00:44.48",
+      "name": "Mountain (2006)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38018,
+      "url": "https://www.tcgplayer.com/product/38018/magic-arena-promos-mountain-2006"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Okina Nightwatch",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Monk"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As long as you have more cards in hand than each opponent, Okina Nightwatch gets +3/+3."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eOnly the most skilled budoka could protect the Okina Shrine. Only the best of these protectors took the night watch.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38019_200w.jpg",
+      "modifiedOn": "2025-04-02T17:37:05.733",
+      "name": "Okina Nightwatch",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38019,
+      "url": "https://www.tcgplayer.com/product/38019/magic-arena-promos-okina-nightwatch"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pillage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "198"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target artifact or land. It can't be regenerated."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38020_200w.jpg",
+      "modifiedOn": "2025-04-02T17:38:02.863",
+      "name": "Pillage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38020,
+      "url": "https://www.tcgplayer.com/product/38020/magic-arena-promos-pillage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plains 2004",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Plains"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38021_200w.jpg",
+      "modifiedOn": "2025-04-02T17:41:23.153",
+      "name": "Plains (2004)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38021,
+      "url": "https://www.tcgplayer.com/product/38021/magic-arena-promos-plains-2004"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plains 1999",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add W to your mana pool."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38022_200w.jpg",
+      "modifiedOn": "2025-04-02T17:38:54.47",
+      "name": "Plains (1999)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38022,
+      "url": "https://www.tcgplayer.com/product/38022/magic-arena-promos-plains-1999"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plains 2000",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "334"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38023_200w.jpg",
+      "modifiedOn": "2025-04-02T17:39:30.313",
+      "name": "Plains (2000)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38023,
+      "url": "https://www.tcgplayer.com/product/38023/magic-arena-promos-plains-2000"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plains 2001",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38024_200w.jpg",
+      "modifiedOn": "2025-12-09T15:27:15.893",
+      "name": "Plains (2001)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38024,
+      "url": "https://www.tcgplayer.com/product/38024/magic-arena-promos-plains-2001"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plains 2003",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38025_200w.jpg",
+      "modifiedOn": "2025-12-04T23:44:37.85",
+      "name": "Plains (2003)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38025,
+      "url": "https://www.tcgplayer.com/product/38025/magic-arena-promos-plains-2003"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plains 2005",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Plains"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38026_200w.jpg",
+      "modifiedOn": "2025-12-04T23:45:02.26",
+      "name": "Plains (2005)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38026,
+      "url": "https://www.tcgplayer.com/product/38026/magic-arena-promos-plains-2005"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plains 2006",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Plains"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38027_200w.jpg",
+      "modifiedOn": "2025-04-02T17:42:34.687",
+      "name": "Plains (2006)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38027,
+      "url": "https://www.tcgplayer.com/product/38027/magic-arena-promos-plains-2006"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pouncing Jaguar",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "269"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Cat"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Echo \u003cem\u003e(At the beginning of your next upkeep after this permanent comes under your control, sacrifice it unless you pay its mana cost.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eOne pounce, she's hungry—you die quickly. Two, she's teaching her cubs—you're in for a long day.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38028_200w.jpg",
+      "modifiedOn": "2025-11-21T14:46:51.357",
+      "name": "Pouncing Jaguar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38028,
+      "url": "https://www.tcgplayer.com/product/38028/magic-arena-promos-pouncing-jaguar"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rewind",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "93"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Interrupt"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Counter target spell, then untap up to four lands."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Time flows like a river. In Tolaria we practice the art of building dams.\"\r\n\u003cbr\u003e\r\n—Barrin, master wizard\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38029_200w.jpg",
+      "modifiedOn": "2025-12-09T03:27:45.743",
+      "name": "Rewind",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38029,
+      "url": "https://www.tcgplayer.com/product/38029/magic-arena-promos-rewind"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Serum Visions",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Draw a card.\r\n\u003cbr\u003e\r\nScry 2 \u003cem\u003e(Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38030_200w.jpg",
+      "modifiedOn": "2025-04-02T17:45:27.177",
+      "name": "Serum Visions",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38030,
+      "url": "https://www.tcgplayer.com/product/38030/magic-arena-promos-serum-visions"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Skirk Marauder",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Goblin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Morph 2R \u003cem\u003e(You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nWhen Skirk Marauder is turned face up, it deals 2 damage to target creature or player."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38031_200w.jpg",
+      "modifiedOn": "2025-11-21T16:12:08.833",
+      "name": "Skirk Marauder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38031,
+      "url": "https://www.tcgplayer.com/product/38031/magic-arena-promos-skirk-marauder"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Skittering Skirge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Imp"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nWhen you play a creature spell, sacrifice Skittering Skirge."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe imps' warbling cries echo through Phyrexia's towers like those of mourning doves in a cathedral.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38032_200w.jpg",
+      "modifiedOn": "2025-04-02T18:23:54.223",
+      "name": "Skittering Skirge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38032,
+      "url": "https://www.tcgplayer.com/product/38032/magic-arena-promos-skittering-skirge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Skyknight Legionnaire",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, haste"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I do not know which gives me more pride: the legions of soldiers marching in thunderous lockstep, or the cry of the skyknights riding their rocs like jagged lightning overhead.\"\r\n\u003cbr\u003e\r\n—Razia\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38033_200w.jpg",
+      "modifiedOn": "2025-04-02T18:25:30.177",
+      "name": "Skyknight Legionnaire",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38033,
+      "url": "https://www.tcgplayer.com/product/38033/magic-arena-promos-skyknight-legionnaire"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Stupor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target opponent discards a card at random from his or her hand, then chooses and discards a card from his or her hand."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThere are medicines for all afflictions but idleness.\r\n\u003cbr\u003e\r\n—Suq'Ata saying\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38034_200w.jpg",
+      "modifiedOn": "2025-04-02T18:27:43.07",
+      "name": "Stupor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38034,
+      "url": "https://www.tcgplayer.com/product/38034/magic-arena-promos-stupor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Surging Flame",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Ripple 4 \u003cem\u003e(When you play this spell, you may reveal the top four cards of your library. You may play any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nSurging Flame deals 2 damage to target creature or player."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38035_200w.jpg",
+      "modifiedOn": "2025-12-09T03:29:39.087",
+      "name": "Surging Flame",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38035,
+      "url": "https://www.tcgplayer.com/product/38035/magic-arena-promos-surging-flame"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 2004",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Swamp"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38036_200w.jpg",
+      "modifiedOn": "2025-04-02T18:33:44.54",
+      "name": "Swamp (2004)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38036,
+      "url": "https://www.tcgplayer.com/product/38036/magic-arena-promos-swamp-2004"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 2000",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "340"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38037_200w.jpg",
+      "modifiedOn": "2025-12-09T03:30:46.727",
+      "name": "Swamp (2000)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38037,
+      "url": "https://www.tcgplayer.com/product/38037/magic-arena-promos-swamp-2000"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 2001",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38038_200w.jpg",
+      "modifiedOn": "2025-04-02T18:31:45.233",
+      "name": "Swamp (2001)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38038,
+      "url": "https://www.tcgplayer.com/product/38038/magic-arena-promos-swamp-2001"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 2003",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38039_200w.jpg",
+      "modifiedOn": "2025-11-11T03:14:30.14",
+      "name": "Swamp (2003)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38039,
+      "url": "https://www.tcgplayer.com/product/38039/magic-arena-promos-swamp-2003"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 2005",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Swamp"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38040_200w.jpg",
+      "modifiedOn": "2025-04-02T18:34:11.787",
+      "name": "Swamp (2005)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38040,
+      "url": "https://www.tcgplayer.com/product/38040/magic-arena-promos-swamp-2005"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 1999",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "341"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add B to your mana pool."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38041_200w.jpg",
+      "modifiedOn": "2025-12-09T03:30:17.637",
+      "name": "Swamp (1999)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38041,
+      "url": "https://www.tcgplayer.com/product/38041/magic-arena-promos-swamp-1999"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 2006",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Swamp"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38042_200w.jpg",
+      "modifiedOn": "2025-04-02T18:34:48.497",
+      "name": "Swamp (2006)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38042,
+      "url": "https://www.tcgplayer.com/product/38042/magic-arena-promos-swamp-2006"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Uktabi Orangutan",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "260"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Ape"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Uktabi Orangutan comes into play, destroy target artifact."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"It is true that the apes wear furs of gold when they marry?\"\r\n\u003cbr\u003e\r\n—Rana, Suq'Ata market fool\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38044_200w.jpg",
+      "modifiedOn": "2025-04-02T18:40:13.17",
+      "name": "Uktabi Orangutan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38044,
+      "url": "https://www.tcgplayer.com/product/38044/magic-arena-promos-uktabi-orangutan"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Underworld Dreams",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever an opponent draws a card, Underworld Dreams deals 1 damage to him or her."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"In the drowsy dark cave of the mind, dreams build their nest with fragments dropped from day's caravan.\"\r\n\u003cbr\u003e\r\n—Rabindranath Tagore\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38045_200w.jpg",
+      "modifiedOn": "2025-04-02T18:41:41.393",
+      "name": "Underworld Dreams",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38045,
+      "url": "https://www.tcgplayer.com/product/38045/magic-arena-promos-underworld-dreams"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wee Dragonauts",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Faerie Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nWhenever you play an instant or sorcery spell, Wee Dragonauts gets +2/+0 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The blazekite is a simple concept, really—just a vehicular application of dragscoop ionics and electropropulsion magnetronics.\"\r\n\u003cbr\u003e\r\n—Juzba, Izzet tinker\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38046_200w.jpg",
+      "modifiedOn": "2025-04-02T18:42:56.123",
+      "name": "Wee Dragonauts",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38046,
+      "url": "https://www.tcgplayer.com/product/38046/magic-arena-promos-wee-dragonauts"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Counterspell",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Counter target spell."
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/48138_200w.jpg",
+      "modifiedOn": "2025-12-01T15:17:12.7",
+      "name": "Counterspell",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 48138,
+      "url": "https://www.tcgplayer.com/product/48138/magic-arena-promos-counterspell"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Man o War",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Jellyfish"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Man-o’-War comes into play, return target creature to its owner’s hand."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Beauty to the eye does not always translate to the touch.”\r\n\u003cbr\u003e\r\n—Naimah, Femeref philosopher\u003c/em\u003e"
+        }
+      ],
+      "groupId": 13,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/81746_200w.jpg",
+      "modifiedOn": "2025-04-02T17:17:42.677",
+      "name": "Man-o'-War",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 81746,
+      "url": "https://www.tcgplayer.com/product/81746/magic-arena-promos-man-o-war"
+    }
+  ],
+  "success": true,
+  "totalItems": 86
+}

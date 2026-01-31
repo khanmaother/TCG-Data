@@ -1,0 +1,2126 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Machine Reactor Structure Deck 1st Edition",
+      "extendedData": [
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each Machine Reactor Structure Deck contains:\r\n\u003cbr\u003e• 1 Preconstructed Deck of 48 cards\r\n\u003cbr\u003e• 1 Double-sided Playmat/Dueling Guide"
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129556_200w.jpg",
+      "modifiedOn": "2022-01-18T15:04:21.053",
+      "name": "Machine Reactor Structure Deck [1st Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129556,
+      "url": "https://www.tcgplayer.com/product/129556/yugioh-structure-deck-machine-reactor-machine-reactor-structure-deck-1st-edition"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Token Ancient Gear",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-ENTKN"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Token"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card can be used as an \"Ancient Gear Token\".\r\n\u003cbr\u003e\r\n\u003cbr\u003e\r\n\u003cbr\u003e*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130069_200w.jpg",
+      "modifiedOn": "2021-07-23T19:09:26.967",
+      "name": "Token: Ancient Gear",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130069,
+      "url": "https://www.tcgplayer.com/product/130069/yugioh-structure-deck-machine-reactor-token-ancient-gear"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ancient Gear Gadget",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN000"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is Normal or Special Summoned: You can declare 1 card type (Monster, Spell, or Trap); this turn, if a monster you control attacks, your opponent's Spell Cards, Trap Cards, or monster effects (whichever was declared) cannot be activated until the end of the Damage Step. Once per turn: You can declare 1 \"Gadget\" monster's card name; until the End Phase, this card's name becomes that name."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130070_200w.jpg",
+      "modifiedOn": "2018-09-27T13:37:42.62",
+      "name": "Ancient Gear Gadget",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130070,
+      "url": "https://www.tcgplayer.com/product/130070/yugioh-structure-deck-machine-reactor-ancient-gear-gadget"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ancient Gear Reactor Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "3000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card that was Tribute Summoned by Tributing an \"Ancient Gear\" monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card was Tribute Summoned by Tributing a \"Gadget\" monster, it can make a second attack during each Battle Phase. If this card attacks, your opponent's Spell/Trap Cards and monster effects cannot be activated until the end of the Damage Step. At the end of the Damage Step, if this card attacked: You can destroy 1 Spell/Trap Card on the field."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130071_200w.jpg",
+      "modifiedOn": "2018-09-27T13:40:09.56",
+      "name": "Ancient Gear Reactor Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130071,
+      "url": "https://www.tcgplayer.com/product/130071/yugioh-structure-deck-machine-reactor-ancient-gear-reactor-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ancient Gear Hydra",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1700"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "At the end of the Damage Step, when this card that was Tribute Summoned by Tributing an \"Ancient Gear\" monster battles an opponent's monster, but the opponent's monster was not destroyed by the battle: You can banish that opponent's monster. If this card was Tribute Summoned by Tributing a \"Gadget\" monster, it can attack all monsters your opponent controls, once each. If an \"Ancient Gear\" monster you control attacks, your opponent's Spell/Trap Cards and monster effects cannot be activated until the end of the Damage Step."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130072_200w.jpg",
+      "modifiedOn": "2025-05-15T20:25:40.223",
+      "name": "Ancient Gear Hydra",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130072,
+      "url": "https://www.tcgplayer.com/product/130072/yugioh-structure-deck-machine-reactor-ancient-gear-hydra"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ancient Gear Wyvern",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is Normal or Special Summoned: You can add 1 \"Ancient Gear\" card from your Deck to your hand, except \"Ancient Gear Wyvern\", also you cannot Set cards for the rest of this turn. You can only use this effect of \"Ancient Gear Wyvern\" once per turn. If this card attacks, your opponent's monsters cannot activate their effects until the end of the Damage Step."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130073_200w.jpg",
+      "modifiedOn": "2023-05-28T07:35:50.233",
+      "name": "Ancient Gear Wyvern",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130073,
+      "url": "https://www.tcgplayer.com/product/130073/yugioh-structure-deck-machine-reactor-ancient-gear-wyvern"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ancient Gear Gadjiltron Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN004"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. This card gains the appropriate effects if you Normal Summon it by Tributing these monsters. \r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Green Gadget: If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. \r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Red Gadget: If this card inflicts battle damage to your opponent: Inflict 400 damage to your opponent. \r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Yellow Gadget: If this card destroys an opponent's monster by battle: Inflict 600 damage to your opponent."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130074_200w.jpg",
+      "modifiedOn": "2018-09-27T13:38:50.483",
+      "name": "Ancient Gear Gadjiltron Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130074,
+      "url": "https://www.tcgplayer.com/product/130074/yugioh-structure-deck-machine-reactor-ancient-gear-gadjiltron-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ancient Gear Golem",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN005"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "3000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cannot be Special Summoned. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130075_200w.jpg",
+      "modifiedOn": "2018-09-27T13:39:11.557",
+      "name": "Ancient Gear Golem",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130075,
+      "url": "https://www.tcgplayer.com/product/130075/yugioh-structure-deck-machine-reactor-ancient-gear-golem"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ancient Gear Gadjiltron Chimera",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN006"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card gains the appropriate effects if you Normal Summon it by Tributing these monsters.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Green Gadget: This card gains 300 ATK.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Red Gadget: If this card inflicts battle damage to your opponent by a direct attack: Inflict 500 damage to your opponent.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Yellow Gadget: If this card destroys an opponent's monster by battle: Inflict 700 damage to your opponent."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130076_200w.jpg",
+      "modifiedOn": "2018-09-27T13:38:31.427",
+      "name": "Ancient Gear Gadjiltron Chimera",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130076,
+      "url": "https://www.tcgplayer.com/product/130076/yugioh-structure-deck-machine-reactor-ancient-gear-gadjiltron-chimera"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ancient Gear Beast",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN007"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cannot be Special Summoned. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. Negate the effects of an opponent's monster destroyed by battle with this card (including in the Graveyard)."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130077_200w.jpg",
+      "modifiedOn": "2018-09-27T13:35:26.633",
+      "name": "Ancient Gear Beast",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130077,
+      "url": "https://www.tcgplayer.com/product/130077/yugioh-structure-deck-machine-reactor-ancient-gear-beast"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ancient Gear Engineer",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN008"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Negate any Trap effects that target this card, and if you do, destroy that Trap Card. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. At the end of the Damage Step, if this card attacked: Target 1 Spell/Trap Card your opponent controls; destroy that target."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130078_200w.jpg",
+      "modifiedOn": "2018-09-27T13:37:00.423",
+      "name": "Ancient Gear Engineer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130078,
+      "url": "https://www.tcgplayer.com/product/130078/yugioh-structure-deck-machine-reactor-ancient-gear-engineer"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ancient Gear Knight",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN009"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130079_200w.jpg",
+      "modifiedOn": "2018-09-27T13:39:39.757",
+      "name": "Ancient Gear Knight",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130079,
+      "url": "https://www.tcgplayer.com/product/130079/yugioh-structure-deck-machine-reactor-ancient-gear-knight"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ancient Gear Soldier",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN010"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130080_200w.jpg",
+      "modifiedOn": "2018-09-27T13:40:29.433",
+      "name": "Ancient Gear Soldier",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130080,
+      "url": "https://www.tcgplayer.com/product/130080/yugioh-structure-deck-machine-reactor-ancient-gear-soldier"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ancient Gear Box",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN011"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is added from the Deck or Graveyard to your hand, except by drawing it: You can add 1 EARTH Machine-Type monster with 500 ATK and/or DEF from your Deck to your hand, except \"Ancient Gear Box\". You can only use this effect of \"Ancient Gear Box\" once per turn."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130081_200w.jpg",
+      "modifiedOn": "2024-10-18T18:28:37.89",
+      "name": "Ancient Gear Box",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130081,
+      "url": "https://www.tcgplayer.com/product/130081/yugioh-structure-deck-machine-reactor-ancient-gear-box"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Geargiauger",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN012"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Normal Summoned: You can add 1 Level 4 EARTH Machine-Type monster from your Deck to your hand, except \"Geargiauger\", also you cannot declare attacks, nor Special Summon monsters except Machine-Type monsters, for the rest of this turn."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130082_200w.jpg",
+      "modifiedOn": "2018-09-27T13:43:24.55",
+      "name": "Geargiauger",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130082,
+      "url": "https://www.tcgplayer.com/product/130082/yugioh-structure-deck-machine-reactor-geargiauger"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Planet Pathfinder",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN013"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can Tribute this card; add 1 Field Spell Card from your Deck to your hand."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130083_200w.jpg",
+      "modifiedOn": "2018-09-27T13:53:10.617",
+      "name": "Planet Pathfinder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130083,
+      "url": "https://www.tcgplayer.com/product/130083/yugioh-structure-deck-machine-reactor-planet-pathfinder"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Minefieldriller",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN014"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this face-up card you control leaves the field and is still in your possession: You can target 1 Field Spell Card in your Graveyard; add that target to your hand."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130084_200w.jpg",
+      "modifiedOn": "2018-09-27T13:52:22.26",
+      "name": "Minefieldriller",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130084,
+      "url": "https://www.tcgplayer.com/product/130084/yugioh-structure-deck-machine-reactor-minefieldriller"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Card Trooper",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN015"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the Graveyard; this card gains 500 ATK for each card sent to the Graveyard this way, until the end of this turn. If this card you control is destroyed and sent to your Graveyard: Draw 1 card."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130085_200w.jpg",
+      "modifiedOn": "2018-09-27T13:42:24.227",
+      "name": "Card Trooper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130085,
+      "url": "https://www.tcgplayer.com/product/130085/yugioh-structure-deck-machine-reactor-card-trooper"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gigantes",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN016"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 EARTH monster from your Graveyard. If this card is destroyed by battle and sent to the Graveyard: Destroy all Spell and Trap Cards on the field."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130086_200w.jpg",
+      "modifiedOn": "2018-09-27T13:44:42.813",
+      "name": "Gigantes",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130086,
+      "url": "https://www.tcgplayer.com/product/130086/yugioh-structure-deck-machine-reactor-gigantes"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "BOXer",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can place 1 counter on this card. You can send this card with 2 or more counters to the Graveyard; Special Summon 1 EARTH monster from your Deck. If this card would be destroyed by battle or card effect, you can remove 1 counter from this card instead."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130087_200w.jpg",
+      "modifiedOn": "2018-09-27T13:41:44.89",
+      "name": "BOXer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130087,
+      "url": "https://www.tcgplayer.com/product/130087/yugioh-structure-deck-machine-reactor-boxer"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Hardened Armed Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN018"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can Special Summon this card (from your hand) by sending 1 Level 8 or higher monster from your hand to the Graveyard. If you Tribute this card for the Tribute Summon of a Level 7 or higher monster, that monster cannot be destroyed by card effects."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130088_200w.jpg",
+      "modifiedOn": "2018-09-27T13:45:12.033",
+      "name": "Hardened Armed Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130088,
+      "url": "https://www.tcgplayer.com/product/130088/yugioh-structure-deck-machine-reactor-hardened-armed-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Spell Striker",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN019"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can Special Summon this card (from your hand) by banishing 1 Spell Card from your Graveyard. This card can attack directly. You take no battle damage from attacks involving this card."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130089_200w.jpg",
+      "modifiedOn": "2018-09-27T13:54:00.443",
+      "name": "Spell Striker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130089,
+      "url": "https://www.tcgplayer.com/product/130089/yugioh-structure-deck-machine-reactor-spell-striker"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Maxx C",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN020"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Insect"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 \"Maxx \"C\"\" per turn."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130090_200w.jpg",
+      "modifiedOn": "2022-06-28T17:43:37.337",
+      "name": "Maxx \"C\"",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130090,
+      "url": "https://www.tcgplayer.com/product/130090/yugioh-structure-deck-machine-reactor-maxx-c"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ancient Gear Catapult",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN021"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "While you control no monsters: Target 1 face-up card you control; destroy it, and if you do, Special Summon 1 \"Ancient Gear\" monster from your Deck, ignoring its Summoning conditions. You can banish this card from your Graveyard, then target 1 face-up card you control; destroy it, and if you do, Special Summon 1 \"Ancient Gear Token\" (Machine-Type/EARTH/Level 1/ATK 0/DEF 0). You can only use 1 \"Ancient Gear Catapult\" effect per turn, and only once that turn."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130091_200w.jpg",
+      "modifiedOn": "2018-09-27T13:36:39.703",
+      "name": "Ancient Gear Catapult",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130091,
+      "url": "https://www.tcgplayer.com/product/130091/yugioh-structure-deck-machine-reactor-ancient-gear-catapult"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ancient Gear Fortress",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN022"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During the turn they were Normal or Special Summoned, your opponent cannot target \"Ancient Gear\" monsters you control with card effects, and they cannot be destroyed by your opponent's card effects. Your opponent cannot activate cards or effects in response to the activation of \"Ancient Gear\" cards and effects. If this card is destroyed in the Spell \u0026 Trap Zone: You can Special Summon 1 \"Ancient Gear\" monster from your hand or Graveyard, also you cannot Special Summon monsters for the rest of this turn, except \"Ancient Gear\" monsters."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130092_200w.jpg",
+      "modifiedOn": "2026-01-02T17:58:33.807",
+      "name": "Ancient Gear Fortress",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130092,
+      "url": "https://www.tcgplayer.com/product/130092/yugioh-structure-deck-machine-reactor-ancient-gear-fortress"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ancient Gear Castle",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN023"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "All \"Ancient Gear\" monsters gain 300 ATK. Each time a monster is Normal Summoned/Set, place 1 counter on this card. If you Tribute Summon an \"Ancient Gear\" monster face-up, you can Tribute this card instead, if the number of its counters is equal to or greater than the number of required Tribute(s)."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130093_200w.jpg",
+      "modifiedOn": "2018-09-27T13:36:18.287",
+      "name": "Ancient Gear Castle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130093,
+      "url": "https://www.tcgplayer.com/product/130093/yugioh-structure-deck-machine-reactor-ancient-gear-castle"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ancient Gear Workshop",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN024"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Target 1 \"Ancient Gear\" monster in your Graveyard; add that target to your hand."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130094_200w.jpg",
+      "modifiedOn": "2018-09-27T13:41:01.107",
+      "name": "Ancient Gear Workshop",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130094,
+      "url": "https://www.tcgplayer.com/product/130094/yugioh-structure-deck-machine-reactor-ancient-gear-workshop"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Geartown",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN025"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Field Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Both players can Normal Summon \"Ancient Gear\" monsters for 1 less Tribute. When this card is destroyed and sent to the Graveyard: You can Special Summon 1 \"Ancient Gear\" monster from your hand, Deck, or Graveyard."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130095_200w.jpg",
+      "modifiedOn": "2022-06-30T11:35:17.783",
+      "name": "Geartown",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130095,
+      "url": "https://www.tcgplayer.com/product/130095/yugioh-structure-deck-machine-reactor-geartown"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Mausoleum of the Emperor",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN026"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Field Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During any Main Phase: The turn player can pay 1000 LP x the number of monsters normally needed for the Tribute Summon of a monster (max. 2000); that player Normal Summons/Sets that monster without Tributing. (This is their one Normal Summon/Set for that turn. This is not a Tribute Summon.)"
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130096_200w.jpg",
+      "modifiedOn": "2018-09-27T13:51:43.017",
+      "name": "Mausoleum of the Emperor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130096,
+      "url": "https://www.tcgplayer.com/product/130096/yugioh-structure-deck-machine-reactor-mausoleum-of-the-emperor"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Pseudo Space",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN027"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Field Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn: You can banish 1 Field Spell Card from your Graveyard; until the End Phase, this card's name becomes that card's original name, and replace this effect with that card's original effects."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130097_200w.jpg",
+      "modifiedOn": "2018-09-27T13:53:41.31",
+      "name": "Pseudo Space",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130097,
+      "url": "https://www.tcgplayer.com/product/130097/yugioh-structure-deck-machine-reactor-pseudo-space"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Limiter Removal",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN028"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Quick-Play Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Double the ATK of all Machine-Type monsters you currently control, until the end of this turn. During the End Phase of this turn, destroy those monsters."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130098_200w.jpg",
+      "modifiedOn": "2018-09-27T13:46:15.983",
+      "name": "Limiter Removal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130098,
+      "url": "https://www.tcgplayer.com/product/130098/yugioh-structure-deck-machine-reactor-limiter-removal"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Machine Duplication",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN029"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Target 1 Machine-Type monster you control with 500 or less ATK; Special Summon up to 2 monsters from your Deck with the same name as that monster."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130099_200w.jpg",
+      "modifiedOn": "2018-09-27T13:50:56.393",
+      "name": "Machine Duplication",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130099,
+      "url": "https://www.tcgplayer.com/product/130099/yugioh-structure-deck-machine-reactor-machine-duplication"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Inferno Reckless Summon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN030"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Quick-Play Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When exactly 1 monster with 1500 or less ATK is Special Summoned to your field while your opponent controls a face-up monster: Special Summon as many monsters as possible with the same name as the Summoned monster, from your hand, Deck, and Graveyard, in Attack Position, also your opponent Special Summons as many monsters as possible with the same name as 1 of their face-up monsters, from their hand, Deck, and Graveyard."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130100_200w.jpg",
+      "modifiedOn": "2018-09-27T13:45:34.317",
+      "name": "Inferno Reckless Summon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130100,
+      "url": "https://www.tcgplayer.com/product/130100/yugioh-structure-deck-machine-reactor-inferno-reckless-summon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Galaxy Cyclone",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN031"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Target 1 Set Spell/Trap Card on the field; destroy it. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 face-up Spell/Trap Card on the field; destroy it. You can only use this effect of \"Galaxy Cyclone\" once per turn."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130101_200w.jpg",
+      "modifiedOn": "2018-09-27T13:43:01.63",
+      "name": "Galaxy Cyclone",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130101,
+      "url": "https://www.tcgplayer.com/product/130101/yugioh-structure-deck-machine-reactor-galaxy-cyclone"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Terraforming",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN032"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Add 1 Field Spell Card from your Deck to your hand."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130102_200w.jpg",
+      "modifiedOn": "2018-09-27T13:54:17.71",
+      "name": "Terraforming",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130102,
+      "url": "https://www.tcgplayer.com/product/130102/yugioh-structure-deck-machine-reactor-terraforming"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Jar of Avarice",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN033"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Target 5 cards in your Graveyard, except \"Jar of Avarice\"; shuffle all 5 into the Deck, then draw 1 card. You can only activate 1 \"Jar of Avarice\" per turn."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130103_200w.jpg",
+      "modifiedOn": "2018-09-27T13:45:53.657",
+      "name": "Jar of Avarice",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130103,
+      "url": "https://www.tcgplayer.com/product/130103/yugioh-structure-deck-machine-reactor-jar-of-avarice"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Mischief of the Gnomes",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN034"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set). You can banish this card from the Graveyard; this turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set)."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130104_200w.jpg",
+      "modifiedOn": "2018-09-27T13:52:49.16",
+      "name": "Mischief of the Gnomes",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130104,
+      "url": "https://www.tcgplayer.com/product/130104/yugioh-structure-deck-machine-reactor-mischief-of-the-gnomes"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Machine King 3000 BC",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN035"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Special Summon this card as an Effect Monster (Machine-Type/EARTH/Level 4/ATK 1000/DEF 1000). (This card is also still a Trap Card.) You cannot Normal or Special Summon other monsters the turn you activate this card. Once per turn, during your Main Phase: You can Tribute 1 Machine-Type monster; this card gains ATK equal to the ATK the Tributed monster had on the field, until the end of this turn."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130105_200w.jpg",
+      "modifiedOn": "2024-02-10T13:31:26.76",
+      "name": "Machine King - 3000 B.C.",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130105,
+      "url": "https://www.tcgplayer.com/product/130105/yugioh-structure-deck-machine-reactor-machine-king-3000-bc"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Fiendish Chain",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN036"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate this card by targeting 1 Effect Monster on the field; negate the effects of that face-up monster while it is on the field, also that face-up monster cannot attack. When it is destroyed, destroy this card."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130106_200w.jpg",
+      "modifiedOn": "2018-09-27T13:42:43.16",
+      "name": "Fiendish Chain",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130106,
+      "url": "https://www.tcgplayer.com/product/130106/yugioh-structure-deck-machine-reactor-fiendish-chain"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Call of the Haunted",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN037"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate this card by targeting 1 monster in your Graveyard; Special Summon that target in Attack Position. When this card leaves the field, destroy that target. When that target is destroyed, destroy this card."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130107_200w.jpg",
+      "modifiedOn": "2018-09-27T13:42:05.363",
+      "name": "Call of the Haunted",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130107,
+      "url": "https://www.tcgplayer.com/product/130107/yugioh-structure-deck-machine-reactor-call-of-the-haunted"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Huge Revolution is Over",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SR03-EN038"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Token"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When a Spell/Trap Card, or monster effect, is activated that would destroy 2 or more cards on the field: Negate the activation, and if you do, banish it."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130108_200w.jpg",
+      "modifiedOn": "2022-12-28T12:48:18.073",
+      "name": "The Huge Revolution is Over",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130108,
+      "url": "https://www.tcgplayer.com/product/130108/yugioh-structure-deck-machine-reactor-the-huge-revolution-is-over"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Machine Reactor and Dinosmashers Fury Structure Deck Display 1st Edition",
+      "extendedData": [
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each display contains 4 sealed \u003ca href=\"https://shop.tcgplayer.com/yugioh/structure-deck-machine-reactor/machine-reactor-structure-deck\"\u003eMachine Reactor Structure Deck\u003c/a\u003e and 4 sealed \u003ca href=\"https://shop.tcgplayer.com/yugioh/structure-deck-dinosmashers-fury/dinosmashers-fury-structure-deck\"\u003eDinosmasher's Fury Structure Deck\u003c/a\u003e."
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/158263_200w.jpg",
+      "modifiedOn": "2022-01-18T15:03:20.27",
+      "name": "Machine Reactor \u0026 Dinosmasher's Fury Structure Deck Display [1st Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 158263,
+      "url": "https://www.tcgplayer.com/product/158263/yugioh-structure-deck-machine-reactor-machine-reactor-and-dinosmashers-fury-structure-deck-display-1st-edition"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Machine Reactor Structure Deck Unlimited Edition",
+      "extendedData": [
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each Machine Reactor Structure Deck contains:\r\n\u003cbr\u003e• 1 Preconstructed Deck of 48 cards\r\n\u003cbr\u003e• 1 Double-sided Playmat/Dueling Guide"
+        }
+      ],
+      "groupId": 1912,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/260862_200w.jpg",
+      "modifiedOn": "2022-01-18T15:57:17.15",
+      "name": "Machine Reactor Structure Deck [Unlimited Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 260862,
+      "url": "https://www.tcgplayer.com/product/260862/yugioh-structure-deck-machine-reactor-machine-reactor-structure-deck-unlimited-edition"
+    }
+  ],
+  "success": true,
+  "totalItems": 43
+}

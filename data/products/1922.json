@@ -1,0 +1,5530 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Maximum Crisis Booster Box",
+      "extendedData": [],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130610_200w.jpg",
+      "modifiedOn": "2018-05-16T18:04:28.373",
+      "name": "Maximum Crisis Booster Box",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130610,
+      "url": "https://www.tcgplayer.com/product/130610/yugioh-maximum-crisis-maximum-crisis-booster-box"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Maximum Crisis Booster Pack",
+      "extendedData": [],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130611_200w.jpg",
+      "modifiedOn": "2021-10-25T12:28:12.367",
+      "name": "Maximum Crisis Booster Pack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130611,
+      "url": "https://www.tcgplayer.com/product/130611/yugioh-maximum-crisis-maximum-crisis-booster-pack"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Pendulum Switch",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN000"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can target 1 card in your Pendulum Zone; Special Summon it. You can target 1 Pendulum Monster in your Monster Zone; place it in your Pendulum Zone. You can only use 1 \"Pendulum Switch\" effect per turn, and only once that turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131117_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:15.427",
+      "name": "Pendulum Switch",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131117,
+      "url": "https://www.tcgplayer.com/product/131117/yugioh-maximum-crisis-pendulum-switch"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Performapal Sky Magician",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn, if you activate a Spell Card: This card gains 300 ATK. During either player's turn: You can target 1 Continuous Spell Card you control; return it to the hand, then you can activate 1 \"Magician\" Continuous Spell Card from your hand. You can only use this effect of \"Performapal Sky Magician\" once per turn. If this face-up card leaves the field: You can target 1 card on the field; destroy it."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131118_200w.jpg",
+      "modifiedOn": "2017-06-22T18:59:34.503",
+      "name": "Performapal Sky Magician",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131118,
+      "url": "https://www.tcgplayer.com/product/131118/yugioh-maximum-crisis-performapal-sky-magician"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Performapal Sky Pupil",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During either player's turn: You can return 1 Level 5 or higher \"Performapal\" monster you control to the hand; Special Summon this card from your hand. You can only use this effect of \"Performapal Sky Pupil\" once per turn. If this card battles an opponent's monster, that monster has its effects negated until the end of the Damage Step. Before damage calculation, if this card attacked an opponent's monster while you control another \"Performapal\" monster: You can destroy that opponent's monster."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131119_200w.jpg",
+      "modifiedOn": "2023-01-20T06:28:28.4",
+      "name": "Performapal Sky Pupil",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131119,
+      "url": "https://www.tcgplayer.com/product/131119/yugioh-maximum-crisis-performapal-sky-pupil"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Performapal Revue Dancer",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). This card can be treated as 2 Tributes for the Tribute Summon of a \"Performapal\" monster."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131120_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:15.713",
+      "name": "Performapal Revue Dancer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131120,
+      "url": "https://www.tcgplayer.com/product/131120/yugioh-maximum-crisis-performapal-revue-dancer"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Performapal U Go Golem",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN004"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cb\u003ePendulum Effect :\u003c/b\u003e Once per turn, if a monster is Fusion Summoned to your field (except during the Damage Step): You can add 1 \"Performapal\", \"Odd-Eyes\", or \"Magician\" Pendulum Monster from your Graveyard or face-up in your Extra Deck to your hand.\r\n\u003cbr\u003e\u003cb\u003eMonster Effect :\u003c/b\u003e Once per turn, during your Main Phase, if this card was Pendulum Summoned this turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using this card you control and Dragon-Type monsters you control as Fusion Materials."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131121_200w.jpg",
+      "modifiedOn": "2017-06-22T19:00:10.387",
+      "name": "Performapal U Go Golem",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131121,
+      "url": "https://www.tcgplayer.com/product/131121/yugioh-maximum-crisis-performapal-u-go-golem"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Performapal Coin Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN005"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cb\u003ePendulum Effect :\u003c/b\u003e Once per turn: You can target 1 Dragon-Type monster you control that was Special Summoned from the Extra Deck; this turn, if that monster you control battles an opponent's monster, banish that opponent's monster after damage calculation (even if this card leaves the field).\r\n\u003cbr\u003e\u003cb\u003eMonster Effect :\u003c/b\u003e Other Dragon-Type monsters you control gain 500 ATK, also they cannot be destroyed by card effects."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131122_200w.jpg",
+      "modifiedOn": "2022-02-08T09:45:55.843",
+      "name": "Performapal Coin Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131122,
+      "url": "https://www.tcgplayer.com/product/131122/yugioh-maximum-crisis-performapal-coin-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Speedroid Skull Marbles",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN006"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "3000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn, during the Standby Phase, if your opponent controls a face-up monster that was Special Summoned from the Extra Deck: You can Special Summon this card from your hand. Cannot be destroyed by battle with a Normal Summoned/Set monster. Your opponent takes any battle damage you would have taken from battles involving this card. You can only use this effect of \"Speedroid Skull Marbles\" once per turn. If you control a face-up monster that is not a \"Speedroid\" monster, destroy this card."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131123_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:15.743",
+      "name": "Speedroid Skull Marbles",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131123,
+      "url": "https://www.tcgplayer.com/product/131123/yugioh-maximum-crisis-speedroid-skull-marbles"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Speedroid Maliciousmagnet",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN007"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Tuner/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cannot be used as Synchro Material except for a Synchro Summon by its own effect. During your Main Phase, if this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; immediately after this effect resolves, Synchro Summon 1 WIND Synchro Monster using only this card you control and that monster. You can only use this effect of \"Speedroid Maliciousmagnet\" once per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131124_200w.jpg",
+      "modifiedOn": "2026-01-30T14:37:08.413",
+      "name": "Speedroid Maliciousmagnet",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131124,
+      "url": "https://www.tcgplayer.com/product/131124/yugioh-maximum-crisis-speedroid-maliciousmagnet"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Speedroid Rubberband Plane",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN008"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If a monster is Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand, also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only use this effect of \"Speedroid Rubberband Plane\" once per turn. If this card is Normal or Special Summoned: You can target 1 face-up monster on the field; it loses 600 ATK until the end of this turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131125_200w.jpg",
+      "modifiedOn": "2025-11-14T17:31:37.983",
+      "name": "Speedroid Rubberband Plane",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131125,
+      "url": "https://www.tcgplayer.com/product/131125/yugioh-maximum-crisis-speedroid-rubberband-plane"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Predaplant Ophrys Scorpio",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN009"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Plant"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is Normal or Special Summoned: You can send 1 monster from your hand to the Graveyard; Special Summon 1 \"Predaplant\" monster from your Deck, except \"Predaplant Ophrys Scorpio\". You can only use this effect of \"Predaplant Ophyrs Scorpio\" once per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131126_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:16.043",
+      "name": "Predaplant Ophrys Scorpio",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131126,
+      "url": "https://www.tcgplayer.com/product/131126/yugioh-maximum-crisis-predaplant-ophrys-scorpio"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Predaplant Darlingtonia Cobra",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN010"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Plant"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is Special Summoned by the effect of a \"Predaplant\" monster: You can add 1 \"Polymerization\" Spell Card or \"Fusion\" Spell Card from your Deck to your hand. You can only use this effect of \"Predaplant Darlingtonia Cobra\" once per Duel."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131127_200w.jpg",
+      "modifiedOn": "2024-11-05T09:40:28.263",
+      "name": "Predaplant Darlingtonia Cobra",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131127,
+      "url": "https://www.tcgplayer.com/product/131127/yugioh-maximum-crisis-predaplant-darlingtonia-cobra"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Predaplant Cordyceps",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN011"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Plant"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During your Standby Phase: You can banish this card from your Graveyard, then target 2 Level 4 or lower \"Predaplant\" monsters in your Graveyard; Special Summon them, also, for the rest of this turn, you cannot Special Summon monsters, except Fusion Monsters, nor Normal Summon/Set any monsters."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131128_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:16.247",
+      "name": "Predaplant Cordyceps",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131128,
+      "url": "https://www.tcgplayer.com/product/131128/yugioh-maximum-crisis-predaplant-cordyceps"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Lyrilusc Cobalt Sparrow",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN012"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is Special Summoned: You can add 1 Level 1 Winged Beast-Type monster from your Deck to your hand. You can only use this effect of \"Lyrilusc - Cobalt Sparrow\" once per turn. A WIND Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Your opponent cannot target this card with card effects."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131129_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:16.333",
+      "name": "Lyrilusc - Cobalt Sparrow",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131129,
+      "url": "https://www.tcgplayer.com/product/131129/yugioh-maximum-crisis-lyrilusc-cobalt-sparrow"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Lyrilusc Sapphire Swallow",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN013"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If you control a Winged Beast-Type monster: You can Special Summon both this card and 1 Level 1 Winged Beast-Type monster from your hand. You can only use this effect of \"Lyrilusc - Sapphire Swallow\" once per turn. A WIND Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e If it is Xyz Summoned: You can target 1 \"Lyrilusc\" monster in your Graveyard; attach it to this card as Xyz Material."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131130_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:16.413",
+      "name": "Lyrilusc - Sapphire Swallow",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131130,
+      "url": "https://www.tcgplayer.com/product/131130/yugioh-maximum-crisis-lyrilusc-sapphire-swallow"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Lyrilusc Turquoise Warbler",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN014"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If you control no monsters, you can Special Summon this card (from your hand). If this card is Special Summoned from the hand: You can Special Summon 1 \"Lyrilusc\" monster from your hand or Graveyard. You can only use this effect of \"Lyrilusc - Turquoise Warbler\" once per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131131_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:16.487",
+      "name": "Lyrilusc - Turquoise Warbler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131131,
+      "url": "https://www.tcgplayer.com/product/131131/yugioh-maximum-crisis-lyrilusc-turquoise-warbler"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "D D Ghost",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN015"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Tuner/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is sent to the Graveyard: You can target 1 \"D/D\" monster or \"Dark Contract\" card in your Graveyard, except \"D/D Ghost\"; send 1 card from your Deck to the Graveyard with that name. If this card is banished: You can target 1 of your banished \"D/D\" monsters or \"Dark Contract\" cards, except \"D/D Ghost\"; return it to the Graveyard."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131132_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:16.57",
+      "name": "D/D Ghost",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131132,
+      "url": "https://www.tcgplayer.com/product/131132/yugioh-maximum-crisis-d-d-ghost"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Double Resonator",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN016"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Tuner/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is Normal or Special Summoned: You can target 1 face-up monster on the field; that target is treated as a Tuner this turn. You can banish this card from your Graveyard, then target 1 Fiend-Type monster you control; that Fiend-Type monster is treated as a Tuner this turn. You can only use this effect of \"Double Resonator\" once per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131133_200w.jpg",
+      "modifiedOn": "2022-11-01T13:21:52.62",
+      "name": "Double Resonator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131133,
+      "url": "https://www.tcgplayer.com/product/131133/yugioh-maximum-crisis-double-resonator"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Supreme King Gate Zero",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cb\u003ePendulum Effect :\u003c/b\u003e If you control \"Supreme King Z-ARC\", you take no damage. Once per turn, if you have \"Supreme King Gate Infinity\" in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 \"Polymerization\" Spell Card or \"Fusion\" Spell Card from your Deck to your hand.\r\n\u003cbr\u003e\u003cb\u003eMonster Effect :\u003c/b\u003e Once per turn: You can target 1 other face-up card you control; destroy both it and this card, and if you do, Special Summon 1 Dragon-Type Fusion or Synchro Monster from your Extra Deck, but its ATK and DEF become 0, it has its effects negated, also it cannot be used as a Material for a Synchro or Xyz Summon. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131134_200w.jpg",
+      "modifiedOn": "2023-02-03T19:26:47.447",
+      "name": "Supreme King Gate Zero",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131134,
+      "url": "https://www.tcgplayer.com/product/131134/yugioh-maximum-crisis-supreme-king-gate-zero"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Supreme King Gate Infinity",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN018"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cb\u003ePendulum Effect :\u003c/b\u003e If you control a monster, you cannot Pendulum Summon. This effect cannot be negated. Once per turn, if you control \"Supreme King Z-ARC\": You can target 1 face-up monster your opponent controls; gain LP equal to its ATK.\r\n\u003cbr\u003e\u003cb\u003eMonster Effect :\u003c/b\u003e Once per turn: You can target 1 other face-up card you control; destroy both it and this card, and if you do, Special Summon 1 Dragon-Type Xyz or Pendulum Monster from your Extra Deck, but its ATK and DEF become 0, it has its effects negated, also it cannot be used as a Material for a Synchro or Xyz Summon. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131135_200w.jpg",
+      "modifiedOn": "2022-02-08T09:46:07.597",
+      "name": "Supreme King Gate Infinity",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131135,
+      "url": "https://www.tcgplayer.com/product/131135/yugioh-maximum-crisis-supreme-king-gate-infinity"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Supreme King Dragon Darkwurm",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN019"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cb\u003ePendulum Effect :\u003c/b\u003e Once per turn, if you control no monsters: You can place 1 \"Supreme King Gate\" Pendulum Monster from your Deck in your Pendulum Zone, also you cannot Pendulum Summon monsters for the rest of this turn, except DARK monsters.\r\n\u003cbr\u003e\u003cb\u003eMonster Effect :\u003c/b\u003e If this card is Normal or Special Summoned: You can add 1 \"Supreme King Gate\" Pendulum Monster from your Deck to your hand. If this card is in your Graveyard and you control no monsters: You can Special Summon this card. You can only use each monster effect of \"Supreme King Dragon Darkwurm\" once per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131136_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:16.82",
+      "name": "Supreme King Dragon Darkwurm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131136,
+      "url": "https://www.tcgplayer.com/product/131136/yugioh-maximum-crisis-supreme-king-dragon-darkwurm"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Majesty Maiden the True Dracocaster",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN020"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Wyrm"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "To Tribute Summon this card face-up, you can Tribute a Continuous Spell/Trap Card you control, instead of a monster. Once per turn, during either player's turn, when your opponent activates a card or effect while you control this Tribute Summoned monster: You can add 1 \"True Draco\" or \"True King\" monster from your Deck to your hand."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131137_200w.jpg",
+      "modifiedOn": "2023-06-29T19:23:20.857",
+      "name": "Majesty Maiden, the True Dracocaster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131137,
+      "url": "https://www.tcgplayer.com/product/131137/yugioh-maximum-crisis-majesty-maiden-the-true-dracocaster"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ignis Heat the True Dracowarrior",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN021"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Wyrm"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "To Tribute Summon this card face-up, you can Tribute a Continuous Spell/Trap Card you control, instead of a monster. Once per turn, during either player's turn, when your opponent activates a card or effect while you control this Tribute Summoned monster: You can take 1 \"True Draco\" or \"True King\" Continuous Spell Card from your Deck, and either activate it or add it to your hand."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131138_200w.jpg",
+      "modifiedOn": "2025-11-14T17:24:03.087",
+      "name": "Ignis Heat, the True Dracowarrior",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131138,
+      "url": "https://www.tcgplayer.com/product/131138/yugioh-maximum-crisis-ignis-heat-the-true-dracowarrior"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dinomight Knight the True Dracofighter",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN022"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Wyrm"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "To Tribute Summon this card face-up, you can Tribute a Continuous Spell/Trap Card you control, instead of a monster. Once per turn, during either player's turn, when your opponent activates a card or effect while you control this Tribute Summoned monster: You can take 1 \"True Draco\" or \"True King\" Continuous Trap Card from your Deck, and either activate it or add it to your hand."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131139_200w.jpg",
+      "modifiedOn": "2023-07-06T05:56:43.187",
+      "name": "Dinomight Knight, the True Dracofighter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131139,
+      "url": "https://www.tcgplayer.com/product/131139/yugioh-maximum-crisis-dinomight-knight-the-true-dracofighter"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dreiath III the True Dracocavalry General",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN023"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Wyrm"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "To Tribute Summon this card face-up, you can Tribute a Continuous Spell/Trap Card you control, instead of a monster. Your opponent cannot target face-up \"True Draco\" or \"True King\" monsters on the field with card effects, except this one, also they cannot be destroyed by your opponent's card effects. If this face-up Tribute Summoned monster leaves the field: You can Special Summon 1 \"True Draco\" or \"True King\" monster from your Deck in Defense Position."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131140_200w.jpg",
+      "modifiedOn": "2017-06-22T19:08:39.86",
+      "name": "Dreiath III, the True Dracocavalry General",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131140,
+      "url": "https://www.tcgplayer.com/product/131140/yugioh-maximum-crisis-dreiath-iii-the-true-dracocavalry-general"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Master Peace the True Dracoslaying King",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN024"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Wyrm"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2950"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2950"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "To Tribute Summon this card face-up, you can Tribute Continuous Spell/Trap Card(s) you control, as well as monsters. Unaffected by the effects of cards with the same card type (Monster, Spell, and/or Trap) as the original card type of the cards Tributed for its Tribute Summon. Once per turn, during either player's turn, if you control this Tribute Summoned monster: You can banish 1 Continuous Spell/Trap Card from your Graveyard, then target 1 other card on the field; destroy it."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131141_200w.jpg",
+      "modifiedOn": "2023-05-03T10:33:40.863",
+      "name": "Master Peace, the True Dracoslaying King",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131141,
+      "url": "https://www.tcgplayer.com/product/131141/yugioh-maximum-crisis-master-peace-the-true-dracoslaying-king"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Metaltron XII the True Dracombatant",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN025"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Wyrm"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "3000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Requires 3 Tributes to Normal Summon (cannot be Normal Set). To Tribute Summon this card face-up, you can Tribute Continuous Spell/Trap Card(s) you control, as well as monsters. Unaffected by the effects of cards with the same card type (Monster, Spell, and/or Trap) as the original card type of the cards Tributed for its Tribute Summon. If this Tribute Summoned monster in its owner's control is destroyed by an opponent's card (by battle or card effect): You can Special Summon 1 Fusion, Synchro, or Xyz Monster that is EARTH, WATER, FIRE, or WIND from your Extra Deck."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131142_200w.jpg",
+      "modifiedOn": "2022-02-25T11:26:36.723",
+      "name": "Metaltron XII, the True Dracombatant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131142,
+      "url": "https://www.tcgplayer.com/product/131142/yugioh-maximum-crisis-metaltron-xii-the-true-dracombatant"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Mariamne the True Dracophoenix",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN026"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Wyrm"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is in your hand: You can destroy 2 other monsters in your hand and/or face-up on your field, including a WIND monster, and if you do, Special Summon this card, and if you do that, and both destroyed monsters were WIND, you can also banish exactly 4 cards from the top of your opponent's Deck. If this card is destroyed by card effect: You can add 1 non-WIND Wyrm-Type monster from your Deck to your hand. You can only use each effect of \"Mariamne, the True Dracophoenix\" once per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131143_200w.jpg",
+      "modifiedOn": "2017-06-22T19:09:20.017",
+      "name": "Mariamne, the True Dracophoenix",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131143,
+      "url": "https://www.tcgplayer.com/product/131143/yugioh-maximum-crisis-mariamne-the-true-dracophoenix"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Zoodiac Kataroost",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN027"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast-Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is destroyed by battle or card effect: You can target 1 \"Zoodiac\" card in your Graveyard, except \"Zoodiac Kataroost\"; shuffle it into the Deck. An Xyz Monster whose original Type is Beast-Warrior and has this card as Xyz Material gains this effect.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e During either player's turn, when your opponent activates a monster effect that targets this card: You can detach 1 Xyz Material from this card; negate the activation."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131144_200w.jpg",
+      "modifiedOn": "2024-09-07T12:13:40.58",
+      "name": "Zoodiac Kataroost",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131144,
+      "url": "https://www.tcgplayer.com/product/131144/yugioh-maximum-crisis-zoodiac-kataroost"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Phantasm Spiral Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN028"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Wyrm"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2900"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003ci\u003eA ferocious serpent that was being hunted by Atlanteans. Battle-weary and ragged, it came upon an ancient light, and gained new strength for its battle. With its increased power, it launched an invasion of enemy territory with a renewed assault."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131145_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:16.85",
+      "name": "Phantasm Spiral Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131145,
+      "url": "https://www.tcgplayer.com/product/131145/yugioh-maximum-crisis-phantasm-spiral-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Digital Bug LEDybug",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN029"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Insect"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of an Insect-Type monster. Once per turn, when this face-up card is changed from Attack Position to Defense Position: You can add 1 Level 3 Insect-Type monster from your Deck to your hand. An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e When this card destroys a monster by battle, draw 1 card."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131146_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:16.93",
+      "name": "Digital Bug LEDybug",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131146,
+      "url": "https://www.tcgplayer.com/product/131146/yugioh-maximum-crisis-digital-bug-ledybug"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Zefraath",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN030"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Rock"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3450"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2950"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cb\u003ePendulum Effect :\u003c/b\u003e During your Main Phase: You can add 1 \"Zefra\" Pendulum Monster from your Deck to your Extra Deck face-up, and if you do, change this card's Pendulum Scale to be the same as that Pendulum Monster's, until the end of this turn. You can only use this effect of \"Zefraath\" once per turn.\r\n\u003cbr\u003e\u003cb\u003eMonster Effect :\u003c/b\u003e Cannot be Normal Summoned/Set. Must be Special Summoned (from your face-up Extra Deck) by Tributing all monsters you control, including at least 3 \"Zefra\" monsters, and cannot be Special Summoned by other ways. After you Special Summon this card, you can conduct 1 Pendulum Summon of a \"Zefra\" monster(s) during your Main Phase this turn, in addition to your Pendulum Summon. (You can only gain this effect once per turn.) Once per turn: You can Tribute 1 monster; Special Summon 1 \"Zefra\" monster from your Deck."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131147_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:17.137",
+      "name": "Zefraath",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131147,
+      "url": "https://www.tcgplayer.com/product/131147/yugioh-maximum-crisis-zefraath"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ariel Priestess of the Nekroz",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN031"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn: You can reveal any number of \"Nekroz\" cards in your hand; increase or reduce this card's Level by the number of revealed cards until the end of this turn. If this card is Tributed by a card effect: You can add 1 \"Nekroz\" monster from your Deck to your hand, except a Ritual Monster. You can only use this effect of \"Ariel, Priestess of the Nekroz\" once per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131148_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:17.2",
+      "name": "Ariel, Priestess of the Nekroz",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131148,
+      "url": "https://www.tcgplayer.com/product/131148/yugioh-maximum-crisis-ariel-priestess-of-the-nekroz"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "BES Big Core MK 3",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN032"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1900"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand) in Defense Position. If this card is Normal or Special Summoned: Place 3 counters on this card. Cannot be destroyed by battle. At the end of the Damage Step, if this card battles a monster: Remove 1 counter from this card. If you cannot, destroy it. You can banish this card from your Graveyard; shuffle all \"B.E.S.\" monsters from your Graveyard into the Deck."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131149_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:17.28",
+      "name": "B.E.S. Big Core MK-3",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131149,
+      "url": "https://www.tcgplayer.com/product/131149/yugioh-maximum-crisis-bes-big-core-mk-3"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Pendulumucho",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN033"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cb\u003ePendulum Effect :\u003c/b\u003e Once per turn, during your Main Phase, if this card was activated this turn: You can target 1 of your Pendulum Monsters, that is banished or in your Graveyard, except \"Pendulumucho\"; add it to your Extra Deck face-up.\r\n\u003cbr\u003e\u003cb\u003eMonster Effect : \u003c/b\u003e If this card is Normal or Special Summoned: You can Special Summon 1 face-up Level 1 Pendulum Monster from your Extra Deck, except \"Pendulumucho\", but banish it when it leaves the field."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131150_200w.jpg",
+      "modifiedOn": "2017-06-22T19:11:01.213",
+      "name": "Pendulumucho",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131150,
+      "url": "https://www.tcgplayer.com/product/131150/yugioh-maximum-crisis-pendulumucho"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Baobaboon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN034"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Plant"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is Normal or Special Summoned: You can draw 1 card, then place 1 card from your hand on either the top or bottom of your Deck. If this card is destroyed by battle or card effect: You can Special Summon any number of \"Baobaboon\" from your Deck."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131151_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:17.357",
+      "name": "Baobaboon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131151,
+      "url": "https://www.tcgplayer.com/product/131151/yugioh-maximum-crisis-baobaboon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Fire Cracker",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN035"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During either player's turn: You can discard this card; inflict 1000 damage to your opponent, and if you do, skip your next Draw Phase. You can only use this effect of \"Fire Cracker\" once per turn. Each time your opponent takes effect damage, place 1 counter on this card. Once per turn, during the End Phase: Remove all counters from this card that were placed by its effect, and if you do, inflict 300 damage to your opponent for each."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131152_200w.jpg",
+      "modifiedOn": "2017-06-22T19:11:24.68",
+      "name": "Fire Cracker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131152,
+      "url": "https://www.tcgplayer.com/product/131152/yugioh-maximum-crisis-fire-cracker"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ash Blossom and Joyous Spring",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN036"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Zombie"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Tuner/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During either player's turn, when a card or effect is activated that includes any of these effects: You can discard this card; negate that effect.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Add a card from the Deck to the hand.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Special Summon from the Deck.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Send a card from the Deck to the Graveyard.\r\n\u003cbr\u003eYou can only use this effect of \"Ash Blossom \u0026 Joyous Spring\" once per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131153_200w.jpg",
+      "modifiedOn": "2025-12-02T20:39:56.893",
+      "name": "Ash Blossom \u0026 Joyous Spring",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131153,
+      "url": "https://www.tcgplayer.com/product/131153/yugioh-maximum-crisis-ash-blossom-and-joyous-spring"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Familiar Possessed Lyna",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN037"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1850"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Lyna the Light Charmer\" you control and 1 face-up LIGHT monster you control to the Graveyard. When Summoned this way: You can add 1 Spellcaster-Type monster with 1500 DEF from your Deck to your hand, except \"Familiar-Possessed - Lyna\". If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage to your opponent."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131154_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:17.407",
+      "name": "Familiar-Possessed - Lyna",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131154,
+      "url": "https://www.tcgplayer.com/product/131154/yugioh-maximum-crisis-familiar-possessed-lyna"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Fairy Tail Luna",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN038"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1850"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Normal Summoned: You can add 1 Spellcaster-Type monster with 1850 ATK from your Deck to your hand. Once per turn, during either player's turn: You can target 1 face-up monster your opponent controls; your opponent can send 1 card with that monster's name from their Deck or Extra Deck to the Graveyard to negate this effect, otherwise return both this card and that monster to the hand."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131155_200w.jpg",
+      "modifiedOn": "2025-11-14T17:23:24.297",
+      "name": "Fairy Tail - Luna",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131155,
+      "url": "https://www.tcgplayer.com/product/131155/yugioh-maximum-crisis-fairy-tail-luna"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Supreme King Z ARC",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN039"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Pendulum/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "4000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "4000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cb\u003ePendulum Effect :\u003c/b\u003e Fusion, Synchro, and Xyz Monsters your opponent controls cannot activate their effects. Once per turn, when your opponent adds a card(s) from their Deck to their hand (except during the Draw Phase or the Damage Step): You can destroy that card(s).\r\n\u003cbr\u003e\u003cb\u003eMonster Effect :\u003c/b\u003e 4 Dragon-Type monsters (1 Fusion, 1 Synchro, 1 Xyz, and 1 Pendulum)\u003cbr\u003e\r\nMust be Fusion Summoned and cannot be Special Summoned by other ways. If this card is Special Summoned: Destroy all cards your opponent controls. Cannot be destroyed by your opponent's card effects. Your opponent cannot target this card with card effects. When this card destroys an opponent's monster by battle: You can Special Summon 1 \"Supreme King Dragon\" monster from your Deck or Extra Deck. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131156_200w.jpg",
+      "modifiedOn": "2017-06-22T19:13:47.557",
+      "name": "Supreme King Z-ARC",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131156,
+      "url": "https://www.tcgplayer.com/product/131156/yugioh-maximum-crisis-supreme-king-z-arc"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Performapal Gatlinghoul",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN040"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "900"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "1 \"Performapal\" monster + 1 Level 5 or higher DARK monster\r\n\u003cbr\u003eIf this card is Fusion Summoned: You can inflict 200 damage to your opponent for each card on the field, then, if this card was Fusion Summoned using a Pendulum Monster as Material, destroy 1 monster your opponent controls, and if you do, inflict damage to your opponent equal to that monster's original ATK. You can only use this effect of \"Performapal Gatlinghoul\" once per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131157_200w.jpg",
+      "modifiedOn": "2023-03-14T08:11:42.453",
+      "name": "Performapal Gatlinghoul",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131157,
+      "url": "https://www.tcgplayer.com/product/131157/yugioh-maximum-crisis-performapal-gatlinghoul"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Lyrilusc Independent Nightingale",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN041"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\"Lyrilusc - Assembled Nightingale\" + 1 \"Lyrilusc\" monster\r\n\u003cbr\u003eIf this card is Fusion Summoned using an Xyz Monster on the field as Fusion Material whose original name includes \"Lyrilusc\": You can increase this card's Level by the number of Xyz Materials that monster(s) had. This card gains ATK equal to its Level x 500. Unaffected by other cards' effects. Once per turn: You can inflict damage to your opponent equal to this card's Level x 500."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131158_200w.jpg",
+      "modifiedOn": "2024-12-01T10:39:27.32",
+      "name": "Lyrilusc - Independent Nightingale",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131158,
+      "url": "https://www.tcgplayer.com/product/131158/yugioh-maximum-crisis-lyrilusc-independent-nightingale"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Phantom Knights of Cursed Javelin",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN042"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Xyz/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "2 Level 2 monsters\r\n\u003cbr\u003eYou can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; until the end of this turn, change its ATK to 0, also it has its effects negated. This effect can be activated during either player's turn, if this card has a \"The Phantom Knights\" card as Xyz Material. You can only use this effect of \"The Phantom Knights of Cursed Javelin\" once per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131159_200w.jpg",
+      "modifiedOn": "2017-06-22T19:14:24.367",
+      "name": "The Phantom Knights of Cursed Javelin",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131159,
+      "url": "https://www.tcgplayer.com/product/131159/yugioh-maximum-crisis-the-phantom-knights-of-cursed-javelin"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Lyrilusc Assembled Nightingale",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN043"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Xyz/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "2 or more Level 1 monsters\r\n\u003cbr\u003eThis card gains 200 ATK for each Xyz Material attached to it. This card can attack directly. While this card has Xyz Material, it can attack a number of times each Battle Phase, up to the number of Xyz Material attached to it. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; until the end of this turn, \"Lyrilusc\" monsters you control cannot be destroyed by battle or card effects, also you take no battle damage."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131160_200w.jpg",
+      "modifiedOn": "2025-01-20T03:05:41.483",
+      "name": "Lyrilusc - Assembled Nightingale",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131160,
+      "url": "https://www.tcgplayer.com/product/131160/yugioh-maximum-crisis-lyrilusc-assembled-nightingale"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Raidraptor Stranger Falcon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN044"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Xyz/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "2 Level 5 monsters\r\n\u003cbr\u003eIf this card has an Xyz Monster as an Xyz Material, it gains this effect.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Once per turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; destroy it, and if you do, inflict damage to your opponent equal to its original ATK.\r\nIf this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can target 1 \"Raidraptor\" Xyz Monster in your Graveyard, except \"Raidraptor - Stranger Falcon\"; Special Summon it, and if you do, attach this card to it as Xyz Material."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131161_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:17.657",
+      "name": "Raidraptor - Stranger Falcon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131161,
+      "url": "https://www.tcgplayer.com/product/131161/yugioh-maximum-crisis-raidraptor-stranger-falcon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "D D D Stone King Darius",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN045"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Xyz/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "2 Level 3 Fiend-Type monsters\r\n\u003cbr\u003eOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 \"Dark Contract\" card you control; destroy it, and if you do, draw 1 card. If this card battles an opponent's monster, during damage calculation: You can detach 1 Xyz Material from this card; make this card unable to be destroyed by that battle, destroy the opponent's monster that battled it after damage calculation, and if you do, inflict 500 damage to your opponent."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131162_200w.jpg",
+      "modifiedOn": "2023-08-22T14:35:18.14",
+      "name": "D/D/D Stone King Darius",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131162,
+      "url": "https://www.tcgplayer.com/product/131162/yugioh-maximum-crisis-d-d-d-stone-king-darius"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "True King of All Calamities",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN046"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Wyrm"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Xyz/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "3000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "2 or more Level 9 monsters\r\n\u003cbr\u003eOnce per turn, during either player's turn: You can detach 1 Xyz Material from this card and declare 1 Attribute; this turn, all face-up monsters on the field become that Attribute, also all monsters in your opponent's possession with that Attribute cannot activate their effects or attack. Monsters that \"True Draco\" and \"True King\" monsters in your hand would destroy with their effects can be chosen from your opponent's field."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131163_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:17.78",
+      "name": "True King of All Calamities",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131163,
+      "url": "https://www.tcgplayer.com/product/131163/yugioh-maximum-crisis-true-king-of-all-calamities"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Zoodiac Hammerkong",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN047"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast-Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Xyz/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "3 or more Level 4 monsters\r\n\u003cbr\u003eOnce per turn, you can also Xyz Summon \"Zoodiac Hammerkong\" by using 1 \"Zoodiac\" monster you control with a different name as Xyz Material. (If you used an Xyz Monster, any Xyz Materials attached to it also become Xyz Materials on this card.) This card gains ATK and DEF equal to the ATK and DEF of all \"Zoodiac\" monsters attached to it as Materials. While this card has Xyz Material, your opponent cannot target face-up \"Zoodiac\" monsters on the field with card effects, except this one. Once per turn, during the End Phase: Detach 1 Xyz Material from this card."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131164_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:17.83",
+      "name": "Zoodiac Hammerkong",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131164,
+      "url": "https://www.tcgplayer.com/product/131164/yugioh-maximum-crisis-zoodiac-hammerkong"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Zoodiac Chakanine",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN048"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast-Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Xyz/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "2 or more Level 4 monsters\r\n\u003cbr\u003eOnce per turn, you can also Xyz Summon \"Zoodiac Chakanine\" by using 1 \"Zoodiac\" monster you control with a different name as Xyz Material. (If you used an Xyz Monster, any Xyz Materials attached to it also become Xyz Materials on this card.) This card gains ATK and DEF equal to the ATK and DEF of all \"Zoodiac\" monsters attached to it as Materials. Once per turn: You can detach 1 Xyz Material from this card, then target 1 \"Zoodiac\" monster in your Graveyard; Special Summon it, but for the rest of this turn, it has its effects negated, also it cannot be used as an Xyz Material for a Summon."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131165_200w.jpg",
+      "modifiedOn": "2023-05-21T08:34:38.32",
+      "name": "Zoodiac Chakanine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131165,
+      "url": "https://www.tcgplayer.com/product/131165/yugioh-maximum-crisis-zoodiac-chakanine"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Magicians Right Hand",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN049"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Negate the effect of your opponent's first Spell Card or effect that resolves each turn while you control a Spellcaster-Type monster, and if you do, or if it did not have an effect, destroy that card."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131166_200w.jpg",
+      "modifiedOn": "2017-06-22T19:17:07.863",
+      "name": "Magician's Right Hand",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131166,
+      "url": "https://www.tcgplayer.com/product/131166/yugioh-maximum-crisis-magicians-right-hand"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Magicians Left Hand",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN050"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Negate the effect of your opponent's first Trap Card or effect that resolves each turn while you control a Spellcaster-Type monster, and if you do, destroy that card."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131167_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:17.89",
+      "name": "Magician's Left Hand",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131167,
+      "url": "https://www.tcgplayer.com/product/131167/yugioh-maximum-crisis-magicians-left-hand"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Magicians Restage",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN051"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can target 1 Level 3 or lower Spellcaster-Type monster in your Graveyard; Special Summon it. This effect can only be used once while this card is face-up on the field. If this card is sent to the Graveyard: You can add 1 \"Magician\" Continuous Spell Card from your Deck to your hand, except \"Magician's Restage\"."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131168_200w.jpg",
+      "modifiedOn": "2025-10-27T19:41:36.43",
+      "name": "Magician's Restage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131168,
+      "url": "https://www.tcgplayer.com/product/131168/yugioh-maximum-crisis-magicians-restage"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ultra Polymerization",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN052"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Pay 2000 LP; Fusion Summon 1 Fusion Monster from your Extra Deck, using 2 monsters you control as Fusion Materials. Neither player can activate cards or effects in response to this card's activation. You can banish this card from your Graveyard, then target 1 Fusion Monster that was Fusion Summoned with this card's effect; Special Summon all the Fusion Materials used for its Fusion Summon from your Graveyard, but change their ATK and DEF to 0, also they have their effects negated."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131169_200w.jpg",
+      "modifiedOn": "2022-12-30T22:54:17.55",
+      "name": "Ultra Polymerization",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131169,
+      "url": "https://www.tcgplayer.com/product/131169/yugioh-maximum-crisis-ultra-polymerization"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dragonic Diagram",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN053"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Field Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "All \"True Draco\" and \"True King\" monsters on the field gain 300 ATK and DEF. The first time each Tribute Summoned \"True Draco\" or \"True King\" monster would be destroyed by battle each turn, it is not destroyed. Once per turn: You can destroy 1 other card you control or in your hand, and if you do, add 1 \"True Draco\" or \"True King\" card from your Deck to your hand."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131170_200w.jpg",
+      "modifiedOn": "2017-06-22T19:17:58.593",
+      "name": "Dragonic Diagram",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131170,
+      "url": "https://www.tcgplayer.com/product/131170/yugioh-maximum-crisis-dragonic-diagram"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "True Draco Heritage",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN054"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During your Main Phase: You can draw cards equal to the number of \"True Draco\" and \"True King\" card types (Monster, Spell, and Trap) sent from the field to the Graveyard this turn. During your Main Phase, you can: Immediately after this effect resolves, Tribute Summon 1 \"True Draco\" or \"True King\" monster face-up. If this card is sent from the Spell \u0026 Trap Zone to the Graveyard: You can target 1 Spell/Trap Card on the field; destroy it. You can only use each effect of \"True Draco Heritage\" once per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131171_200w.jpg",
+      "modifiedOn": "2017-06-22T19:18:10.117",
+      "name": "True Draco Heritage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131171,
+      "url": "https://www.tcgplayer.com/product/131171/yugioh-maximum-crisis-true-draco-heritage"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Disciples of the True Dracophoenix",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN055"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can target 3 \"True Draco\" and/or \"True King\" cards in your Graveyard; shuffle them into the Deck, then draw 1 card. During your Main Phase, you can: Immediately after this effect resolves, Tribute Summon 1 \"True Draco\" or \"True King\" monster face-up. If this card is sent from the Spell \u0026 Trap Zone to the Graveyard: You can target 1 Spell/Trap Card on the field; destroy it. You can only use each effect of \"Disciples of the True Dracophoenix\" once per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131172_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:17.97",
+      "name": "Disciples of the True Dracophoenix",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131172,
+      "url": "https://www.tcgplayer.com/product/131172/yugioh-maximum-crisis-disciples-of-the-true-dracophoenix"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Pacifis the Phantasm City",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN056"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Field Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "(This card's name is always treated as \"Umi\".)\r\n\u003cbr\u003eYou cannot Normal or Special Summon Effect Monsters the turn you activate either of this card's effects (even if this card leaves the field). Once per turn, if you Normal or Special Summon exactly 1 Normal Monster (and no other cards): Add 1 \"Phantasm Spiral\" card from your Deck to your hand. If your opponent activates a card or effect (except during the Damage Step), and you control no Tokens: You can Special Summon 1 \"Phantasm Spiral Token\" (Wyrm-Type/WATER/Level 8/ATK 2000/DEF 2000)."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131173_200w.jpg",
+      "modifiedOn": "2017-06-22T19:19:18.99",
+      "name": "Pacifis, the Phantasm City",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131173,
+      "url": "https://www.tcgplayer.com/product/131173/yugioh-maximum-crisis-pacifis-the-phantasm-city"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Phantasm Spiral Crash",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN057"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Equip Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Equip only to a Normal Monster. If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. When the equipped monster inflicts battle damage to your opponent: You can Special Summon 1 \"Phantasm Spiral Dragon\" from your hand, Deck, or Graveyard, and equip it with this card, then you can change 1 Attack Position monster your opponent controls to Defense Position. You can only use this effect of \"Phantasm Spiral Crash\" once per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131174_200w.jpg",
+      "modifiedOn": "2017-06-22T19:19:31.237",
+      "name": "Phantasm Spiral Crash",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131174,
+      "url": "https://www.tcgplayer.com/product/131174/yugioh-maximum-crisis-phantasm-spiral-crash"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Phantasm Spiral Grip",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN058"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Equip Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Equip only to a Normal Monster. It gains 500 ATK. When the equipped monster destroys an opponent's monster by battle: You can Special Summon 1 \"Phantasm Spiral Dragon\" from your hand, Deck, or Graveyard, and equip it with this card, then inflict 1000 damage to your opponent. You can only use this effect of \"Phantasm Spiral Grip\" once per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131175_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:18.05",
+      "name": "Phantasm Spiral Grip",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131175,
+      "url": "https://www.tcgplayer.com/product/131175/yugioh-maximum-crisis-phantasm-spiral-grip"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Phantasm Spiral Wave",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN059"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Equip Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Equip only to a Normal Monster. The first time the equipped monster would be destroyed by battle each turn, it is not destroyed. At the end of the Battle Phase, if the equipped monster battled: You can Special Summon 1 \"Phantasm Spiral Dragon\" from your hand, Deck, or Graveyard, and equip it with this card, then if they have any, your opponent discards 1 card. You can only use this effect of \"Phantasm Spiral Wave\" once per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131176_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:18.1",
+      "name": "Phantasm Spiral Wave",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131176,
+      "url": "https://www.tcgplayer.com/product/131176/yugioh-maximum-crisis-phantasm-spiral-wave"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Bug Signal",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN060"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Quick-Play Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Target 1 Insect-Type Xyz Monster you control; Special Summon from your Extra Deck, 1 Insect-Type monster that is 2 Ranks higher or lower than that monster you control, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.) You can only activate 1 \"Bug Signal\" per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131177_200w.jpg",
+      "modifiedOn": "2017-06-22T19:20:09.99",
+      "name": "Bug Signal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131177,
+      "url": "https://www.tcgplayer.com/product/131177/yugioh-maximum-crisis-bug-signal"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Zefra Providence",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN061"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Add 1 \"Zefra\" card from your Deck to your hand, except \"Zefra Providence\". If a \"Zefra\" card(s) you control would be destroyed, except the turn this card was sent to the Graveyard, you can banish this card from your Graveyard instead. You can only activate 1 \"Zefra Providence\" per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131178_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:18.16",
+      "name": "Zefra Providence",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131178,
+      "url": "https://www.tcgplayer.com/product/131178/yugioh-maximum-crisis-zefra-providence"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "BEF Zelos",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN062"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Field Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is activated: You can add 1 \"Boss Rush\" from your Deck to your hand. All \"B.E.S.\" monsters you control gain 500 ATK and DEF, your opponent cannot target them with card effects, and they cannot be destroyed by your opponent's card effects. Once per turn: You can Special Summon 1 \"B.E.S.\" monster from your hand. If a \"B.E.S.\" monster(s) is Normal or Special Summoned to your field: Place 1 counter on it."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131179_200w.jpg",
+      "modifiedOn": "2022-09-23T08:40:05",
+      "name": "B.E.F. Zelos",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131179,
+      "url": "https://www.tcgplayer.com/product/131179/yugioh-maximum-crisis-bef-zelos"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Duelist Alliance",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN063"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If there is a card in the Pendulum Zone: Add 1 \"Pendulum\" Pendulum Monster or \"Pendulum\" Spell/Trap Card from your Deck to your hand. You can only activate 1 \"Duelist Alliance\" per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131180_200w.jpg",
+      "modifiedOn": "2021-11-16T14:52:28.523",
+      "name": "Duelist Alliance",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131180,
+      "url": "https://www.tcgplayer.com/product/131180/yugioh-maximum-crisis-duelist-alliance"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Set Rotation",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN064"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Quick-Play Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Set 2 Field Spell Cards with different names from your Deck on the field (1 on your field, and 1 on your opponent's field). While either of those cards remain Set on the field, neither player can activate or Set other Field Spell Cards."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131181_200w.jpg",
+      "modifiedOn": "2025-11-14T17:27:30.893",
+      "name": "Set Rotation",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131181,
+      "url": "https://www.tcgplayer.com/product/131181/yugioh-maximum-crisis-set-rotation"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Break Away",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN065"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During your opponent's Battle Phase: Send 1 Spell Card from your hand to the Graveyard; end the Battle Phase, then face-up monsters currently on the field have their effects negated until the end of this turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131182_200w.jpg",
+      "modifiedOn": "2017-06-22T19:21:46.583",
+      "name": "Break Away",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131182,
+      "url": "https://www.tcgplayer.com/product/131182/yugioh-maximum-crisis-break-away"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Phantom Knights of Lost Vambrace",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN066"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Target 1 face-up monster on the field; if that target is still face-up on the field, \"The Phantom Knights\" monsters you control cannot be destroyed by battle, also that target loses 600 ATK, also its Level becomes 2. These effects last until the end of this turn. Then, Special Summon this card in Defense Position as a Normal Monster (Warrior-Type/DARK/Level 2/ATK 600/DEF 0). (This card is NOT treated as a Trap Card.)"
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131183_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:18.207",
+      "name": "The Phantom Knights of Lost Vambrace",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131183,
+      "url": "https://www.tcgplayer.com/product/131183/yugioh-maximum-crisis-the-phantom-knights-of-lost-vambrace"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Phantom Knights of Wrong Magnetring",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN067"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When an opponent's monster declares an attack: Negate that attack, then Special Summon this card in Attack Position as an Effect Monster (Warrior-Type/DARK/Level 2/0 ATK/0 DEF) with the following effect. (This card is NOT treated as a Trap Card.)\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e During either player's turn: You can send this card and 1 face-up card you control to the Graveyard (either a \"The Phantom Knights\" monster or a \"Phantom Knights\" Continuous Spell/Trap Card); draw 2 cards."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131184_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:18.253",
+      "name": "The Phantom Knights of Wrong Magnetring",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131184,
+      "url": "https://www.tcgplayer.com/product/131184/yugioh-maximum-crisis-the-phantom-knights-of-wrong-magnetring"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Contract with the Eternal Darkness",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN068"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "While you have 2 \"D/D\" cards in your Pendulum Zones, your opponent cannot target monsters on the field with Spell/Trap effects, Tribute them for a Tribute Summon, nor use them as Materials for a Fusion, Synchro, or Xyz Summon. Once per turn, during your Standby Phase: Take 1000 damage."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131185_200w.jpg",
+      "modifiedOn": "2025-12-10T00:12:55.773",
+      "name": "Dark Contract with the Eternal Darkness",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131185,
+      "url": "https://www.tcgplayer.com/product/131185/yugioh-maximum-crisis-dark-contract-with-the-eternal-darkness"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "True Kings Return",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN069"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is sent from the Spell \u0026 Trap Zone to the Graveyard: You can target 1 monster on the field; destroy it. You cannot activate the following effects of \"True King's Return\" in the same Chain.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e You can target 1 \"True Draco\" or \"True King\" monster in your Graveyard; Special Summon it in Defense Position, also for the rest of this turn, you cannot Special Summon.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e During your opponent's Main Phase, you can: Immediately after this effect resolves, Tribute Summon 1 \"True Draco\" or \"True King\" monster face-up.\r\n\u003cbr\u003eYou can only use each effect of \"True King's Return\" once per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131186_200w.jpg",
+      "modifiedOn": "2025-11-14T17:34:38.177",
+      "name": "True King's Return",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131186,
+      "url": "https://www.tcgplayer.com/product/131186/yugioh-maximum-crisis-true-kings-return"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "True Draco Apocalypse",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN070"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is sent from the Spell \u0026 Trap Zone to the Graveyard: You can target 1 monster on the field; destroy it. You cannot activate the following effects of \"True Draco Apocalypse\" in the same Chain.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e You can target 1 other \"True Draco\" or \"True King\" card you control; destroy it, and if you do, the ATK and DEF of all face-up monsters your opponent controls become half their current ATK and DEF (even if this card leaves the field).\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e During your opponent's Main Phase, you can: Immediately after this effect resolves, Tribute Summon 1 \"True Draco\" or \"True King\" monster face-up.\r\n\u003cbr\u003eYou can only use each effect of \"True Draco Apocalypse\" once per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131187_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:18.393",
+      "name": "True Draco Apocalypse",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131187,
+      "url": "https://www.tcgplayer.com/product/131187/yugioh-maximum-crisis-true-draco-apocalypse"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Zoodiac Gathering",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN071"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If a \"Zoodiac\" Xyz Monster you control would detach its Xyz Material(s) to activate an effect, you can detach Xyz Material(s) from another Xyz Monster(s) you control instead. You can only use this effect of \"Zoodiac Gathering\" once per turn. You can banish this card from your Graveyard, then target 2 \"Zoodiac\" Xyz Monsters you control; attach 1 of those monsters to the other monster as Xyz Material."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131188_200w.jpg",
+      "modifiedOn": "2017-06-22T19:24:52.653",
+      "name": "Zoodiac Gathering",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131188,
+      "url": "https://www.tcgplayer.com/product/131188/yugioh-maximum-crisis-zoodiac-gathering"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Phantasm Spiral Battle",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN072"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If all monsters you control are Normal Monsters (min. 1): Target 1 card your opponent controls; destroy it. If \"Umi\" is on the field, you can activate this card from your hand. You can banish this card from your Graveyard, then target 1 Normal Monster you control; equip that Normal Monster with all \"Phantasm Spiral\" Equip Spell Cards you control that can equip to it."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131189_200w.jpg",
+      "modifiedOn": "2024-03-03T09:26:50.93",
+      "name": "Phantasm Spiral Battle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131189,
+      "url": "https://www.tcgplayer.com/product/131189/yugioh-maximum-crisis-phantasm-spiral-battle"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Phantasm Spiral Power",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN073"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If all monsters you control are Normal Monsters (min. 1): Target 1 Effect Monster your opponent controls; until the end of this turn, it loses 1000 ATK and DEF, also it has its effects negated. If \"Umi\" is on the field, you can activate this card from your hand. You can banish this card from your Graveyard, then target 1 Normal Monster you control; equip 1 \"Phantasm Spiral\" Equip Spell Card from your hand or Graveyard to that Normal Monster."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131190_200w.jpg",
+      "modifiedOn": "2017-06-22T19:25:27.363",
+      "name": "Phantasm Spiral Power",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131190,
+      "url": "https://www.tcgplayer.com/product/131190/yugioh-maximum-crisis-phantasm-spiral-power"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Phantasm Spiral Assault",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN074"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Target 1 \"Phantasm Spiral Dragon\" you control; when it destroys 3 Effect Monsters your opponent controls, by battle, while equipped with 3 or more \"Phantasm Spiral\" Equip Spell Cards with different names, you win the Duel. If \"Umi\" is on the field, you can activate this card from your hand. If a Normal Monster(s) you control would be destroyed by battle or card effect, you can banish this card from your Graveyard instead."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131191_200w.jpg",
+      "modifiedOn": "2017-06-22T19:25:40.707",
+      "name": "Phantasm Spiral Assault",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131191,
+      "url": "https://www.tcgplayer.com/product/131191/yugioh-maximum-crisis-phantasm-spiral-assault"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Prologue of the Destruction Swordsman",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN075"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Send 1 \"Destruction Sword\" card and 1 \"Buster Blader\" monster from your Deck to the Graveyard, except \"Prologue of the Destruction Swordsman\"; Special Summon 1 \"Buster Dragon\" from your Extra Deck or Graveyard, but destroy it during the End Phase of the next turn. You can banish this card from your Graveyard; this turn, \"Destruction Sword\" cards you control cannot be destroyed by battle or card effects. You can only activate 1 \"Prologue of the Destruction Swordsman\" per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131192_200w.jpg",
+      "modifiedOn": "2025-10-31T18:22:52.04",
+      "name": "Prologue of the Destruction Swordsman",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131192,
+      "url": "https://www.tcgplayer.com/product/131192/yugioh-maximum-crisis-prologue-of-the-destruction-swordsman"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dinomists Howling",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN076"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is activated: You can place 1 or 2 \"Dinomist\" Pendulum Monster(s) from your Deck in your Pendulum Zone, but you cannot Pendulum Summon monsters until the end of the next turn, except \"Dinomist\" monsters (even if this card leaves the field). Once per turn, if this card is already face-up in your Spell \u0026 Trap Zone: You can Tribute 1 \"Dinomist\" monster, then target 1 card your opponent controls; return it to the hand."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131193_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:18.537",
+      "name": "Dinomists Howling",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131193,
+      "url": "https://www.tcgplayer.com/product/131193/yugioh-maximum-crisis-dinomists-howling"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Zefra War",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN077"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Target 1 \"Zefra\" card you control and 1 card your opponent controls; destroy them. If you have 2 \"Zefra\" cards in your Pendulum Zones, you can activate this card from your hand. You can only activate 1 \"Zefra War\" per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131194_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:18.583",
+      "name": "Zefra War",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131194,
+      "url": "https://www.tcgplayer.com/product/131194/yugioh-maximum-crisis-zefra-war"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Waterfall of Dragon Souls",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN078"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate 1 of these effects.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Add 1 Wyrm-Type monster from your Deck to your hand.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Send any number of Wyrm-Type monsters from your hand and/or face-up from your field to the Graveyard; draw cards equal to the number of monsters you sent to the Graveyard +1."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131195_200w.jpg",
+      "modifiedOn": "2025-11-20T23:11:42.133",
+      "name": "Waterfall of Dragon Souls",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131195,
+      "url": "https://www.tcgplayer.com/product/131195/yugioh-maximum-crisis-waterfall-of-dragon-souls"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Unending Nightmare",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN079"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can pay 1000 LP, then target 1 face-up Spell/Trap Card on the field; destroy it. You can only activate this effect of \"Unending Nightmare\" once per Chain."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131196_200w.jpg",
+      "modifiedOn": "2022-12-23T15:30:02.193",
+      "name": "Unending Nightmare",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131196,
+      "url": "https://www.tcgplayer.com/product/131196/yugioh-maximum-crisis-unending-nightmare"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Diamond Duston",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN080"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When a card(s) on the field is destroyed by battle or card effect: Special Summon \"Duston\" monsters from your Deck to anywhere on the field, equal to the number of those destroyed cards. If this card is in your Graveyard: You can banish 1 \"Duston\" monster from your Graveyard; Special Summon this card in Defense Position as a Normal Monster (Fiend-Type/DARK/Level 1/ATK 0/DEF 1000) to your opponent's field. (This card is NOT treated as a Trap Card.) This effect can only be used once while this card is in the Graveyard. If Summoned this way, it cannot be Tributed, or be used as Material for a Fusion, Synchro, or Xyz Summon."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131197_200w.jpg",
+      "modifiedOn": "2023-05-05T18:10:40.393",
+      "name": "Diamond Duston",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131197,
+      "url": "https://www.tcgplayer.com/product/131197/yugioh-maximum-crisis-diamond-duston"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Tornado Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN081"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Wyrm"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Xyz/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "2 Level 4 monsters\r\n\u003cbr\u003eOnce per turn, during either player’s turn: You can detach 1 Xyz Material from this card, then target 1 Spell/Trap Card on the field; destroy it."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131198_200w.jpg",
+      "modifiedOn": "2025-11-14T17:33:40.657",
+      "name": "Tornado Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131198,
+      "url": "https://www.tcgplayer.com/product/131198/yugioh-maximum-crisis-tornado-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Subterror Fiendess",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN082"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During either player's turn, when your opponent activates a card or effect: You can send this card from your hand or field to the Graveyard, then target 1 \"Subterror\" monster you control; negate the activation, then change the targeted monster to face-down Defense Position. You can target 1 face-up monster you control; change it to face-down Defense Position, and if you do, Special Summon 1 \"Subterror\" monster from your hand or Graveyard, in face-up or face-down Defense Position. You can only use each effect of \"Subterror Fiendess\" once per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131199_200w.jpg",
+      "modifiedOn": "2017-06-22T19:31:48.483",
+      "name": "Subterror Fiendess",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131199,
+      "url": "https://www.tcgplayer.com/product/131199/yugioh-maximum-crisis-subterror-fiendess"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Subterror Behemoth Phospheroglacier",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN083"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Aqua"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Flip/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "FLIP: You can send 1 card from your Deck to the Graveyard. You can only use this effect of \"Subterror Behemoth Phospheroglacier\" once per turn.\r\n\u003cbr\u003eWhen a face-up monster you control is flipped face-down, if you control no face-up monsters: You can Special Summon this card from your hand in Defense Position. Once per turn: You can change this card to face-down Defense Position."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131200_200w.jpg",
+      "modifiedOn": "2025-11-14T17:32:59.46",
+      "name": "Subterror Behemoth Phospheroglacier",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131200,
+      "url": "https://www.tcgplayer.com/product/131200/yugioh-maximum-crisis-subterror-behemoth-phospheroglacier"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Subterror Behemoth Speleogeist",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN084"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Rock"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Flip/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "FLIP: You can target 1 monster on the field; change it to face-up Attack Position if it is in Defense Position, also change its ATK to 0. You can only use this effect of \"Subterror Behemoth Speleogeist\" once per turn.\r\n\u003cbr\u003eWhen a face-up monster you control is flipped face-down, if you control no face-up monsters: You can Special Summon this card from your hand in Defense Position. Once per turn: You can change this card to face-down Defense Position."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131201_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:18.663",
+      "name": "Subterror Behemoth Speleogeist",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131201,
+      "url": "https://www.tcgplayer.com/product/131201/yugioh-maximum-crisis-subterror-behemoth-speleogeist"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Subterror Final Battle",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN085"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate 1 of these effects, also, after that, Set this card face-down instead of sending it to the Graveyard.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Change 1 Set \"Subterror\" monster on the field to face-up Attack or Defense Position.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Change 1 face-up \"Subterror\" monster on the field to face-down Defense Position.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e ATK and DEF of 1 \"Subterror\" monster on the field become equal to its combined original ATK and DEF until the end of this turn.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e This turn, activated effects of \"Subterror\" cards cannot be negated."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131202_200w.jpg",
+      "modifiedOn": "2017-06-22T19:32:33.49",
+      "name": "Subterror Final Battle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131202,
+      "url": "https://www.tcgplayer.com/product/131202/yugioh-maximum-crisis-subterror-final-battle"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "SPYRAL Sleeper",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN086"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 3 \"SPYRAL\" cards from your Graveyard, and cannot be Special Summoned by other ways. Once per turn, during either player's turn: You can target 1 \"SPYRAL\" card you control and up to 2 cards your opponent controls; destroy them. If this card on the field is destroyed by battle or card effect and sent to the Graveyard: Destroy as many cards you control as possible, and if you do, Special Summon 1 \"SPYRAL Super Agent\" from your hand, Deck, or Graveyard."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131203_200w.jpg",
+      "modifiedOn": "2024-10-31T04:37:57.217",
+      "name": "SPYRAL Sleeper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131203,
+      "url": "https://www.tcgplayer.com/product/131203/yugioh-maximum-crisis-spyral-sleeper"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "SPYRAL GEAR Last Resort",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN087"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can target 1 \"SPYRAL\" monster you control; equip this monster from your hand or field to that target. While this card is equipped to a monster by this effect, the equipped monster cannot be destroyed by battle or card effects, also your opponent cannot target it with card effects. Once per turn, if this card is equipped to a monster by this effect: You can send 1 other card you control to the Graveyard; the equipped monster can attack directly this turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131204_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:18.833",
+      "name": "SPYRAL GEAR - Last Resort",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131204,
+      "url": "https://www.tcgplayer.com/product/131204/yugioh-maximum-crisis-spyral-gear-last-resort"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "SPYRAL GEAR Fully Armed",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN088"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Equip Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Equip only to \"SPYRAL Super Agent\". It gains 1000 ATK. If it destroys your opponent's monster by battle: You can banish both the opponent's destroyed monster and 1 other card your opponent controls. When this face-up card on the field is destroyed and sent to the Graveyard: You can target 1 \"SPYRAL Super Agent\" in your Graveyard; Special Summon it."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131205_200w.jpg",
+      "modifiedOn": "2017-06-22T19:33:27.713",
+      "name": "SPYRAL GEAR - Fully Armed",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131205,
+      "url": "https://www.tcgplayer.com/product/131205/yugioh-maximum-crisis-spyral-gear-fully-armed"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "SPYRAL MISSION Rescue",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN089"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Destroy this card during your 3rd End Phase after activation. Once per turn: You can target 1 \"SPYRAL\" monster in your Graveyard; return it to the hand. You can banish this card from your Graveyard, then target 1 \"SPYRAL\" monster in your Graveyard; Special Summon it. You can only control 1 \"SPYRAL MISSION - Rescue\"."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131206_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:18.863",
+      "name": "SPYRAL MISSION - Rescue",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131206,
+      "url": "https://www.tcgplayer.com/product/131206/yugioh-maximum-crisis-spyral-mission-rescue"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gift Exchange",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN090"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Both players banish 1 card from their Decks, face-down, and if they do, during the End Phase of this turn, both players add to their hands the card their opponent banished by this effect."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131207_200w.jpg",
+      "modifiedOn": "2017-06-22T19:33:54.67",
+      "name": "Gift Exchange",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131207,
+      "url": "https://www.tcgplayer.com/product/131207/yugioh-maximum-crisis-gift-exchange"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Kaiser Sea Snake",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN091"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Sea Serpent"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). You can only Special Summon \"Kaiser Sea Snake\" once per turn this way. When Summoned this way: You can Special Summon 1 Level 8 Sea Serpent-Type monster from your hand or Graveyard, but its ATK and DEF become 0. If this card is Special Summoned, its Level becomes 4 and original ATK becomes 0."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131208_200w.jpg",
+      "modifiedOn": "2022-06-27T05:49:10.9",
+      "name": "Kaiser Sea Snake",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131208,
+      "url": "https://www.tcgplayer.com/product/131208/yugioh-maximum-crisis-kaiser-sea-snake"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Bujin Hiruko",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN092"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast-Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cb\u003ePendulum Effect :\u003c/b\u003e You can banish this card in your Pendulum Zone, then target 1 \"Bujin\" Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Bujin\" Xyz Monster with a different name, by using that target as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.)\r\n\u003cbr\u003e\u003cb\u003eMonster Effect :\u003c/b\u003e \u003ci\u003eImprisoned after a showdown with \"Bujin Hirume\" over the Sky Throne, this master schemer eventually escaped by manipulating Hirume and creating the sinister \"Bujinki Amaterasu\", then went on to almost engulf the world in darkness, but was finally defeated by Yamato and his allies.\u003c/i\u003e"
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131209_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:18.913",
+      "name": "Bujin Hiruko",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131209,
+      "url": "https://www.tcgplayer.com/product/131209/yugioh-maximum-crisis-bujin-hiruko"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Sylvan Princessprite",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN093"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Plant"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Xyz/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "2 Level 1 monsters\r\n\u003cbr\u003eYou can detach 1 Xyz Material from this card; excavate the top card of your Deck, and if it is a Spell/Trap Card, add it to your hand. Otherwise, send it to the Graveyard. You can send 1 other Plant-Type monster from your hand or face-up from your field to the Graveyard, then target 1 \"Sylvan\" monster in your Graveyard; Special Summon it. You can only use each effect of \"Sylvan Princessprite\" once per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131210_200w.jpg",
+      "modifiedOn": "2024-08-22T16:35:02.29",
+      "name": "Sylvan Princessprite",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131210,
+      "url": "https://www.tcgplayer.com/product/131210/yugioh-maximum-crisis-sylvan-princessprite"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Artifact Vajra",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN094"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1900"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can Set this card from your hand to your Spell \u0026 Trap Zone as a Spell Card. During your opponent's turn, if this Set card in the Spell \u0026 Trap Zone is destroyed and sent to your Graveyard: Special Summon it. If this card is Special Summoned during your opponent's turn: Destroy all cards in your Spell \u0026 Trap Zones. When an opponent's monster declares a direct attack: You can Special Summon this card from your hand."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131211_200w.jpg",
+      "modifiedOn": "2024-08-12T20:06:19.07",
+      "name": "Artifact Vajra",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131211,
+      "url": "https://www.tcgplayer.com/product/131211/yugioh-maximum-crisis-artifact-vajra"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Mild Turkey",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN095"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cb\u003ePendulum Effect :\u003c/b\u003e Once per turn: You can roll a six-sided die. Until the end of this turn, reduce this card's Pendulum Scale by that number (min. 1).\r\n\u003cbr\u003e\u003cb\u003eMonster Effect :\u003c/b\u003e \u003ci\u003eThe taste of victory will bowl you over.\u003c/i\u003e"
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131212_200w.jpg",
+      "modifiedOn": "2017-06-22T19:35:27.89",
+      "name": "Mild Turkey",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131212,
+      "url": "https://www.tcgplayer.com/product/131212/yugioh-maximum-crisis-mild-turkey"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ghost Beef",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN096"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cb\u003ePendulum Effect :\u003c/b\u003e Once per turn: You can roll a six-sided die. Until the end of this turn, increase this card's Pendulum Scale by that number (max. 10).\r\n\u003cbr\u003e\u003cb\u003eMonster Effect :\u003c/b\u003e \u003ci\u003eThe Ghost of Christmas Dinner.\u003c/i\u003e"
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131213_200w.jpg",
+      "modifiedOn": "2025-09-05T16:57:26.307",
+      "name": "Ghost Beef",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131213,
+      "url": "https://www.tcgplayer.com/product/131213/yugioh-maximum-crisis-ghost-beef"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Vennu Bright Bird of Divinity",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN097"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Ritual/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can Ritual Summon this card with \"Primal Cry\". Once per turn: You can reveal 1 monster in your hand, then target 1 face-up monster on the field; that target's Level becomes equal to the Level the revealed monster had, until the end of this turn. Once per turn, if another monster is Tributed from your hand or field (except during the Damage Step): You can target 1 monster in your Graveyard; add it to your hand."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131214_200w.jpg",
+      "modifiedOn": "2022-10-03T07:59:20.147",
+      "name": "Vennu, Bright Bird of Divinity",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131214,
+      "url": "https://www.tcgplayer.com/product/131214/yugioh-maximum-crisis-vennu-bright-bird-of-divinity"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Primal Cry",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN098"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Ritual Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card is used to Ritual Summon \"Vennu, Bright Bird of Divinity\". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more. During your End Phase: You can banish this card from your Graveyard, then target 1 Ritual Monster in your Graveyard that was sent there from the field this turn; Special Summon it."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131215_200w.jpg",
+      "modifiedOn": "2023-09-01T10:43:33.8",
+      "name": "Primal Cry",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131215,
+      "url": "https://www.tcgplayer.com/product/131215/yugioh-maximum-crisis-primal-cry"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Onikuji",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-EN099"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn, during your Standby Phase: Your opponent declares 1 card type (Monster, Spell, or Trap). Excavate the top card of your Deck, then if it is that type of card, your opponent draws 1 card. Otherwise, discard 1 random card from their hand. Place the excavated card on the bottom of your Deck."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131216_200w.jpg",
+      "modifiedOn": "2017-06-22T19:37:18.623",
+      "name": "Onikuji",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131216,
+      "url": "https://www.tcgplayer.com/product/131216/yugioh-maximum-crisis-onikuji"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Pendulum Switch MACR ENSP1",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-ENSP1"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can target 1 card in your Pendulum Zone; Special Summon it. You can target 1 Pendulum Monster in your Monster Zone; place it in your Pendulum Zone. You can only use 1 \"Pendulum Switch\" effect per turn, and only once that turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/131360_200w.jpg",
+      "modifiedOn": "2020-12-07T13:55:29.007",
+      "name": "Pendulum Switch (MACR-ENSP1)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 131360,
+      "url": "https://www.tcgplayer.com/product/131360/yugioh-maximum-crisis-pendulum-switch-macr-ensp1"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Maximum Crisis Special Edition Display",
+      "extendedData": [],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/133440_200w.jpg",
+      "modifiedOn": "2017-06-22T18:55:46.46",
+      "name": "Maximum Crisis: Special Edition Display",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 133440,
+      "url": "https://www.tcgplayer.com/product/133440/yugioh-maximum-crisis-maximum-crisis-special-edition-display"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Maximum Crisis Special Edition Box",
+      "extendedData": [],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/133441_200w.jpg",
+      "modifiedOn": "2017-06-22T18:55:38.62",
+      "name": "Maximum Crisis: Special Edition Box",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 133441,
+      "url": "https://www.tcgplayer.com/product/133441/yugioh-maximum-crisis-maximum-crisis-special-edition-box"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Kachi Kochi Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-ENSE1"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Xyz/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "2 Level 4 monsters\u003cBR\u003eOnce per turn, when this card destroys an opponent's monster by battle and sends it to the Graveyard: You can detach 1 Xyz Material from this card; it can attack once again in a row."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/133442_200w.jpg",
+      "modifiedOn": "2017-06-22T18:56:35.477",
+      "name": "Kachi Kochi Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 133442,
+      "url": "https://www.tcgplayer.com/product/133442/yugioh-maximum-crisis-kachi-kochi-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Number S0 Utopic ZEXAL",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-ENSE2"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Xyz/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "3 \"Number\" Xyz Monsters with the same Rank\r\n\u003cbr\u003e\u003ci\u003e(This card's original Rank is always treated as 1.)\u003c/i\u003e You can also Xyz Summon this card by discarding 1 \"Rank-Up-Magic\" Normal Spell Card, then using a \"Utopia\" monster you control as the Xyz Material. (Transfer its Xyz Materials to this card.) This card's Xyz Summon cannot be negated. When Xyz Summoned, your opponent's cards and effects cannot be activated. Gains 1000 ATK and DEF for each Xyz Material attached to it. Once per opponent's turn (Quick Effect): You can detach 1 Xyz Material from this card; your opponent's cards and effects cannot be activated this turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/133443_200w.jpg",
+      "modifiedOn": "2025-11-14T17:26:33.587",
+      "name": "Number S0: Utopic ZEXAL",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 133443,
+      "url": "https://www.tcgplayer.com/product/133443/yugioh-maximum-crisis-number-s0-utopic-zexal"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Emerging Emergency Rescute Rescue",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-ENSE3"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If your LP is lower than your opponent's: Reveal 3 Beast monsters with 300 ATK and 100 DEF from your Deck, your opponent chooses 1 for you to add to your hand, and you shuffle the rest back into your Deck. You can only activate 1 \"Emerging Emergency Rescute Rescue\" per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/133444_200w.jpg",
+      "modifiedOn": "2017-06-22T18:57:00.17",
+      "name": "Emerging Emergency Rescute Rescue",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 133444,
+      "url": "https://www.tcgplayer.com/product/133444/yugioh-maximum-crisis-emerging-emergency-rescute-rescue"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Boogie Trap",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "MACR-ENSE4"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Discard 2 cards, then target 1 Trap in your GY; Set that target. It can be activated this turn. You can only activate 1 \"Boogie Trap\" per turn."
+        }
+      ],
+      "groupId": 1922,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/133445_200w.jpg",
+      "modifiedOn": "2017-06-22T18:57:13.39",
+      "name": "Boogie Trap",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 133445,
+      "url": "https://www.tcgplayer.com/product/133445/yugioh-maximum-crisis-boogie-trap"
+    }
+  ],
+  "success": true,
+  "totalItems": 109
+}

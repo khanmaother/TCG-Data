@@ -1,0 +1,106 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "abbreviation": "BP05",
+      "categoryId": 28,
+      "groupId": 2329,
+      "isSupplemental": false,
+      "modifiedOn": "2018-11-09T18:44:07.21",
+      "name": "Reckoning of Vashr",
+      "publishedOn": "2018-10-26T00:00:00"
+    },
+    {
+      "abbreviation": "BP04",
+      "categoryId": 28,
+      "groupId": 2255,
+      "isSupplemental": false,
+      "modifiedOn": "2019-01-24T14:25:43.12",
+      "name": "Surge of Titans",
+      "publishedOn": "2018-07-06T00:00:00"
+    },
+    {
+      "abbreviation": "TD05",
+      "categoryId": 28,
+      "groupId": 2184,
+      "isSupplemental": false,
+      "modifiedOn": "2018-03-29T17:57:08.27",
+      "name": "TD05: Nature's Wrath",
+      "publishedOn": "2018-03-02T00:00:00"
+    },
+    {
+      "abbreviation": "BP03",
+      "categoryId": 28,
+      "groupId": 2183,
+      "isSupplemental": false,
+      "modifiedOn": "2019-02-20T13:27:32.593",
+      "name": "Gears of Apocalypse",
+      "publishedOn": "2018-02-09T00:00:00"
+    },
+    {
+      "abbreviation": "BP02",
+      "categoryId": 28,
+      "groupId": 2074,
+      "isSupplemental": false,
+      "modifiedOn": "2018-07-09T15:51:03.98",
+      "name": "Oath of Blood",
+      "publishedOn": "2017-11-10T00:00:00"
+    },
+    {
+      "abbreviation": "TD04",
+      "categoryId": 28,
+      "groupId": 2075,
+      "isSupplemental": false,
+      "modifiedOn": "2017-11-10T20:40:33.72",
+      "name": "TD04: Reaper's Gift",
+      "publishedOn": "2017-11-10T00:00:00"
+    },
+    {
+      "abbreviation": "BP01",
+      "categoryId": 28,
+      "groupId": 1958,
+      "isSupplemental": false,
+      "modifiedOn": "2019-01-31T13:55:23.603",
+      "name": "Rally to War",
+      "publishedOn": "2017-08-17T00:00:00"
+    },
+    {
+      "abbreviation": "PR",
+      "categoryId": 28,
+      "groupId": 2017,
+      "isSupplemental": false,
+      "modifiedOn": "2025-09-04T13:00:40.233",
+      "name": "PR Cards",
+      "publishedOn": "2017-08-04T00:00:00"
+    },
+    {
+      "abbreviation": "TD01",
+      "categoryId": 28,
+      "groupId": 1959,
+      "isSupplemental": false,
+      "modifiedOn": "2018-07-18T16:55:39.6",
+      "name": "TD01: Shadow Legion",
+      "publishedOn": "2017-08-04T00:00:00"
+    },
+    {
+      "abbreviation": "TD02",
+      "categoryId": 28,
+      "groupId": 1960,
+      "isSupplemental": false,
+      "modifiedOn": "2017-08-01T17:50:26.52",
+      "name": "TD02: Mystical Hunters",
+      "publishedOn": "2017-08-04T00:00:00"
+    },
+    {
+      "abbreviation": "TD03",
+      "categoryId": 28,
+      "groupId": 1961,
+      "isSupplemental": false,
+      "modifiedOn": "2017-08-01T17:50:37.503",
+      "name": "TD03: Alpha Dominance",
+      "publishedOn": "2017-08-04T00:00:00"
+    }
+  ],
+  "success": true,
+  "totalItems": 11
+}

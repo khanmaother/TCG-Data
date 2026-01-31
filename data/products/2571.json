@@ -1,0 +1,58 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Mystery Booster Booster Pack Retail Exclusive",
+      "extendedData": [
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "The Retail version of the Mystery Booster Pack will also include fifteen cards: fourteen from the main set and one of 121 possible foil cards. The foil cards are cards not found in the main set (yes, above and beyond the 1,694 already in there), making the Draft experience even more repeatable. These unique packs will be available at WPN stores starting Friday March 13, 2020."
+        }
+      ],
+      "groupId": 2571,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/202647_200w.jpg",
+      "modifiedOn": "2021-08-20T19:55:44.883",
+      "name": "Mystery Booster - Booster Pack [Retail Exclusive]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 202647,
+      "url": "https://www.tcgplayer.com/product/202647/magic-mystery-booster-retail-exclusives-mystery-booster-booster-pack-retail-exclusive"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mystery Booster Booster Box Retail Exclusive",
+      "extendedData": [
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each booster box contains 24 packs of 15 random cards."
+        },
+        {
+          "displayName": "UPC",
+          "name": "UPC",
+          "value": "630509896745"
+        }
+      ],
+      "groupId": 2571,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/208523_200w.jpg",
+      "modifiedOn": "2020-02-14T16:02:33.177",
+      "name": "Mystery Booster - Booster Box [Retail Exclusive]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2020-03-13T00:00:00"
+      },
+      "productId": 208523,
+      "url": "https://www.tcgplayer.com/product/208523/magic-mystery-booster-retail-exclusives-mystery-booster-booster-box-retail-exclusive"
+    }
+  ],
+  "success": true,
+  "totalItems": 2
+}

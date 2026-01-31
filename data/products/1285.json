@@ -1,0 +1,65 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Honest",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "TWED-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1900"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During your Main Phase: You can return this card from the field to the hand. During either player's Damage Step, when a LIGHT monster you control battles: You can send this card from your hand to the Graveyard; that monster gains ATK equal to the ATK of the opponent's monster it is battling, until the End Phase."
+        }
+      ],
+      "groupId": 1285,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/77878_200w.jpg",
+      "modifiedOn": "2014-01-22T15:12:21.587",
+      "name": "Honest",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 77878,
+      "url": "https://www.tcgplayer.com/product/77878/yugioh-twilight-edition-honest"
+    }
+  ],
+  "success": true,
+  "totalItems": 1
+}

@@ -1,0 +1,2653 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Disenchant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "20"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target artifact or enchantment."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I implore you not to forget the horrors of the past. You would have us start the Brothers' War anew!\"\u003cbr\u003e—Sorine Relicbane, Soldevi heretic\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82369_200w.jpg",
+      "modifiedOn": "2023-07-27T12:27:44.017",
+      "name": "Disenchant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82369,
+      "url": "https://www.tcgplayer.com/product/82369/magic-coldsnap-theme-deck-reprints-disenchant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kjeldoran Elite Guard",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "34"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Target creature gets +2/+2 until end of turn. When that creature leaves play this turn, sacrifice Kjeldoran Elite Guard. Play this ability only during combat."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe winged helms of the guard are put on for pageants—but taken off for war.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82370_200w.jpg",
+      "modifiedOn": "2025-01-10T09:50:57.997",
+      "name": "Kjeldoran Elite Guard",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82370,
+      "url": "https://www.tcgplayer.com/product/82370/magic-coldsnap-theme-deck-reprints-kjeldoran-elite-guard"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kjeldoran Home Guard",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Kjeldoran Home Guard attacks or blocks, put a -0/-1 counter on it at end of combat. If you do, put a 0/1 white Deserter creature token into play."
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82371_200w.jpg",
+      "modifiedOn": "2023-07-27T14:45:23.21",
+      "name": "Kjeldoran Home Guard",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82371,
+      "url": "https://www.tcgplayer.com/product/82371/magic-coldsnap-theme-deck-reprints-kjeldoran-home-guard"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kjeldoran Pride",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9b"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant creature\r\n\u003cbr\u003e\r\nEnchanted creature gets +1/+2.\r\n\u003cbr\u003e\r\n2U: Attach Kjeldoran Pride to target creature."
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82372_200w.jpg",
+      "modifiedOn": "2023-07-27T14:52:54.117",
+      "name": "Kjeldoran Pride",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82372,
+      "url": "https://www.tcgplayer.com/product/82372/magic-coldsnap-theme-deck-reprints-kjeldoran-pride"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Reinforcements Version 2",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12b"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Put up to three target creature cards from your graveyard on top of your library."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Let them send their legions! I will show them that my truth is stronger than their swords.\"\u003cbr\u003e—General Varchild\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82373_200w.jpg",
+      "modifiedOn": "2024-06-27T16:10:58.367",
+      "name": "Reinforcements (Version 2)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82373,
+      "url": "https://www.tcgplayer.com/product/82373/magic-coldsnap-theme-deck-reprints-reinforcements-version-2"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Scars of the Veteran",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may remove a white card in your hand from the game rather than pay Scars of the Veteran's mana cost.\r\n\u003cbr\u003e\r\nPrevent the next 7 damage that would be dealt to target creature or player this turn. For each 1 damage to a creature prevented this way, put a +0/+1 counter on that creature at end of turn."
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82374_200w.jpg",
+      "modifiedOn": "2023-07-27T20:14:45.177",
+      "name": "Scars of the Veteran",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82374,
+      "url": "https://www.tcgplayer.com/product/82374/magic-coldsnap-theme-deck-reprints-scars-of-the-veteran"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swords to Plowshares",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "54"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Remove target creature from the game. Its controller gains life equal to its power."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“The so-called barbarians will not respect us for our military might—they will respect us for our honor.”\u003cbr\u003e—Lucilde Fiksdotter,\u003cbr\u003eleader of the Order of the White Shield\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82375_200w.jpg",
+      "modifiedOn": "2024-02-15T15:02:57.797",
+      "name": "Swords to Plowshares",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82375,
+      "url": "https://www.tcgplayer.com/product/82375/magic-coldsnap-theme-deck-reprints-swords-to-plowshares"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Binding Grasp",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "60"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant creature\r\n\u003cbr\u003e\r\nAt the beginning of your upkeep, sacrifice Binding Grasp unless you pay 1U.\r\n\u003cbr\u003e\r\nYou control enchanted creature.\r\n\u003cbr\u003e\r\nEnchanted creature gets +0/+1."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“What I want, I take.”\u003cbr\u003e—Gustha Ebbasdotter, Kjeldoran royal mage\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82376_200w.jpg",
+      "modifiedOn": "2023-07-26T20:35:18.233",
+      "name": "Binding Grasp",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82376,
+      "url": "https://www.tcgplayer.com/product/82376/magic-coldsnap-theme-deck-reprints-binding-grasp"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Brainstorm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "61"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Draw three cards, then put two cards from your hand on top of your library."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I reeled from the blow, and then suddenly, I knew exactly what to do. Within moments, victory was mine.\"\u003cbr\u003e—Gustha Ebbasdotter, Kjeldoran royal mage\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82377_200w.jpg",
+      "modifiedOn": "2025-10-22T23:07:32.477",
+      "name": "Brainstorm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82377,
+      "url": "https://www.tcgplayer.com/product/82377/magic-coldsnap-theme-deck-reprints-brainstorm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Browse",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "25"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2UU: Look at the top five cards of your library and put one of them into your hand. Remove the rest from the game."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e”Once great literature—now great litter.”\u003cbr\u003e—Jaya Ballard, task mage\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82378_200w.jpg",
+      "modifiedOn": "2023-07-26T20:51:38.723",
+      "name": "Browse",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82378,
+      "url": "https://www.tcgplayer.com/product/82378/magic-coldsnap-theme-deck-reprints-browse"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Essence Flare",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "69"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant creature\r\n\u003cbr\u003e\r\nEnchanted creature gets +2/+0.\r\n\u003cbr\u003e\r\nAt the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eNever underestimate the power of the soul unleashed.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82379_200w.jpg",
+      "modifiedOn": "2023-07-27T12:32:14.603",
+      "name": "Essence Flare",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82379,
+      "url": "https://www.tcgplayer.com/product/82379/magic-coldsnap-theme-deck-reprints-essence-flare"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Iceberg",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "73"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Iceberg comes into play with X ice counters on it.\r\n\u003cbr\u003e\r\n3: Put an ice counter on Iceberg.\r\n\u003cbr\u003e\r\nRemove an ice counter from Iceberg: Add 1 to your mana pool."
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82380_200w.jpg",
+      "modifiedOn": "2023-07-27T14:09:28.33",
+      "name": "Iceberg",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82380,
+      "url": "https://www.tcgplayer.com/product/82380/magic-coldsnap-theme-deck-reprints-iceberg"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lat Nams Legacy",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "30b"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Shuffle a card from your hand into your library. If you do, draw two cards at the beginning of the next turn's upkeep."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"All the knowledge of Lat-Nam could not protect the sages from the Brothers' War.\"\u003cbr\u003e—Gerda Äagesdotter, Archmage of the Unseen\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82381_200w.jpg",
+      "modifiedOn": "2023-12-29T11:01:34.24",
+      "name": "Lat-Nam's Legacy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82381,
+      "url": "https://www.tcgplayer.com/product/82381/magic-coldsnap-theme-deck-reprints-lat-nams-legacy"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mistfolk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "84"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Illusion"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "U: Counter target spell that targets Mistfolk."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Although my official log will state there is no evidence pointing to the existence of the Mistfolk, my certainty is lessened by the cursed consistency of the expedition’s eyewitness accounts.”\u003cbr\u003e—Disa the Restless, journal entry\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82382_200w.jpg",
+      "modifiedOn": "2023-07-27T18:56:09.74",
+      "name": "Mistfolk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82382,
+      "url": "https://www.tcgplayer.com/product/82382/magic-coldsnap-theme-deck-reprints-mistfolk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Portent",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "90"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Look at the top three cards of target player’s library, then put them back in any order. You may have that player shuffle his or her library.\r\n\u003cbr\u003e\r\nDraw a card at the beginning of the next turn's upkeep."
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82383_200w.jpg",
+      "modifiedOn": "2023-07-27T19:53:56.063",
+      "name": "Portent",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82383,
+      "url": "https://www.tcgplayer.com/product/82383/magic-coldsnap-theme-deck-reprints-portent"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Snow Devil",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "100"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant creature\r\n\u003cbr\u003e\r\nEnchanted creature has flying.\r\n\u003cbr\u003e\r\nEnchanted creature has first strike as long as it's blocking and you control a snow land."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Give me wings to fly and speed to strike. In return, the glory I earn shall be yours.”—Steinar Icefist, Balduvian Shaman\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82384_200w.jpg",
+      "modifiedOn": "2023-07-27T20:30:26.237",
+      "name": "Snow Devil",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82384,
+      "url": "https://www.tcgplayer.com/product/82384/magic-coldsnap-theme-deck-reprints-snow-devil"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Storm Elemental",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "37"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nU, Remove the top card of your library from the game: Tap target creature with flying.\r\n\u003cbr\u003e\r\nU, Remove the top card of your library from the game: If the removed card is a snow land, Storm Elemental gets +1/+1 until end of turn."
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82385_200w.jpg",
+      "modifiedOn": "2023-07-27T20:38:39.873",
+      "name": "Storm Elemental",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82385,
+      "url": "https://www.tcgplayer.com/product/82385/magic-coldsnap-theme-deck-reprints-storm-elemental"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Viscerid Drone",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "42"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Homarid Drone"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T, Sacrifice a creature and a Swamp: Destroy target nonartifact creature. It can't be regenerated.\r\n\u003cbr\u003e\r\nT, Sacrifice a creature and a snow Swamp: Destroy target creature. It can't be regenerated."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eNot all of Terisiare's flooding was natural . . . .\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82386_200w.jpg",
+      "modifiedOn": "2023-07-27T20:59:56.927",
+      "name": "Viscerid Drone",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82386,
+      "url": "https://www.tcgplayer.com/product/82386/magic-coldsnap-theme-deck-reprints-viscerid-drone"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Zuran Spellcaster",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "112"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Zuran Spellcaster deals 1 damage to target creature or player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“A mage must be precise as well as potent; cautious, as well as clever.”\u003cbr\u003e—Zur the Enchanter"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82387_200w.jpg",
+      "modifiedOn": "2023-07-29T17:25:13.74",
+      "name": "Zuran Spellcaster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82387,
+      "url": "https://www.tcgplayer.com/product/82387/magic-coldsnap-theme-deck-reprints-zuran-spellcaster"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ashen Ghoul",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "114"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003e\r\nB: Return Ashen Ghoul from your graveyard to play. Play this ability only during your upkeep and only if three or more creature cards are above Ashen Ghoul."
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82388_200w.jpg",
+      "modifiedOn": "2023-07-26T20:25:16.087",
+      "name": "Ashen Ghoul",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82388,
+      "url": "https://www.tcgplayer.com/product/82388/magic-coldsnap-theme-deck-reprints-ashen-ghoul"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Balduvian Dead",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "43"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2R, Remove a creature card in your graveyard from the game: Put a 3/1 black and red Graveborn creature token with haste into play. Sacrifice it at end of turn."
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82389_200w.jpg",
+      "modifiedOn": "2023-07-26T20:28:25.903",
+      "name": "Balduvian Dead",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82389,
+      "url": "https://www.tcgplayer.com/product/82389/magic-coldsnap-theme-deck-reprints-balduvian-dead"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Casting of Bones",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "44b"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant creature\r\n\u003cbr\u003e\r\nWhen enchanted creature is put into a graveyard, draw three cards, then discard one of them."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Only a necromancer would create such a foul form of divination.\"\u003cbr\u003e—Gerda Âagesdotter, Archmage of the Unseen\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82390_200w.jpg",
+      "modifiedOn": "2023-07-26T20:56:24.56",
+      "name": "Casting of Bones",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82390,
+      "url": "https://www.tcgplayer.com/product/82390/magic-coldsnap-theme-deck-reprints-casting-of-bones"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dark Banishing",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "119"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target nonblack creature. It can't be regenerated."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Will not the mountains quake and hills melt at the coming of the darkness? Share this vision with your enemies, Lim-Dûl, and they shall wither.\"\u003cbr\u003e—Leshrac, Walker of Night\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82391_200w.jpg",
+      "modifiedOn": "2023-07-27T12:16:02.787",
+      "name": "Dark Banishing",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82391,
+      "url": "https://www.tcgplayer.com/product/82391/magic-coldsnap-theme-deck-reprints-dark-banishing"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dark Ritual",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "120"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Add BBB to your mana pool."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Leshrac, my liege, grant me the power I am due.”\u003cbr\u003e—Lim-Dûl, the Necromancer\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82392_200w.jpg",
+      "modifiedOn": "2023-07-27T12:18:22.157",
+      "name": "Dark Ritual",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82392,
+      "url": "https://www.tcgplayer.com/product/82392/magic-coldsnap-theme-deck-reprints-dark-ritual"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Drift of the Dead",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "123"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Wall"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "*"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "*"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Defender\r\n\u003cbr\u003e\r\nDrift of the Dead's power and toughness are each equal to the number of snow lands you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Take their dead, and entomb them in the snow. Risen, they shall serve a new purpose.\"\u003cbr\u003e—Lim-Dûl the Necromancer\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82393_200w.jpg",
+      "modifiedOn": "2023-07-27T12:30:13.567",
+      "name": "Drift of the Dead",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82393,
+      "url": "https://www.tcgplayer.com/product/82393/magic-coldsnap-theme-deck-reprints-drift-of-the-dead"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gangrenous Zombies",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "127"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T, Sacrifice Gangrenous Zombies: Gangrenous Zombies deals 1 damage to each creature and each player. If you control a snow Swamp, Gangrenous Zombies deals 2 damage to each creature and each player instead."
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82394_200w.jpg",
+      "modifiedOn": "2024-10-27T06:21:52.017",
+      "name": "Gangrenous Zombies",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82394,
+      "url": "https://www.tcgplayer.com/product/82394/magic-coldsnap-theme-deck-reprints-gangrenous-zombies"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Insidious Bookworms",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "51a"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Worm"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Insidious Bookworms is put into a graveyard from play, you may pay 1B. If you do, target player discards a card at random."
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82395_200w.jpg",
+      "modifiedOn": "2024-11-18T09:35:34.79",
+      "name": "Insidious Bookworms",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82395,
+      "url": "https://www.tcgplayer.com/product/82395/magic-coldsnap-theme-deck-reprints-insidious-bookworms"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kjeldoran Dead",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "137"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Skeleton"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Kjeldoran Dead comes into play, sacrifice a creature.\r\n\u003cbr\u003e\r\nB: Regenerate Kjeldoran Dead."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“They shall kill those whom once they loved.”\u003cbr\u003e—Lim-Dûl, the Necromancer\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82396_200w.jpg",
+      "modifiedOn": "2024-01-30T06:43:21.423",
+      "name": "Kjeldoran Dead",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82396,
+      "url": "https://www.tcgplayer.com/product/82396/magic-coldsnap-theme-deck-reprints-kjeldoran-dead"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Legions of Lim Dul",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "142"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Snow swampwalk"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“I have seen the faces of my dead friends among that grim band, and I can bear no more.”\u003cbr\u003e—Lucilde Fiksdotter, Leader of the Order of the White Shield.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82397_200w.jpg",
+      "modifiedOn": "2023-07-27T17:22:21.983",
+      "name": "Legions of Lim-Dul",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82397,
+      "url": "https://www.tcgplayer.com/product/82397/magic-coldsnap-theme-deck-reprints-legions-of-lim-dul"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phantasmal Fiend",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "57a"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Illusion"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "B: +1/-1 until end of turn\r\n\u003cbr\u003e\r\n1U: Switch Phantasmal Fiend's power and toughness until end of turn."
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82398_200w.jpg",
+      "modifiedOn": "2023-07-27T19:42:21.543",
+      "name": "Phantasmal Fiend",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82398,
+      "url": "https://www.tcgplayer.com/product/82398/magic-coldsnap-theme-deck-reprints-phantasmal-fiend"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Soul Burn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "161"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Spend only black and/or red mana on X.\r\n\u003cbr\u003e\r\nSoul Burn deals X damage to target creature or player. You gain life equal to the damage dealt, but not more than the amount of B spent on X, the player's life total before Soul Burn dealt damage, or the creature's toughness."
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82399_200w.jpg",
+      "modifiedOn": "2023-07-27T20:31:33.893",
+      "name": "Soul Burn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82399,
+      "url": "https://www.tcgplayer.com/product/82399/magic-coldsnap-theme-deck-reprints-soul-burn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Death Spark",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "70"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Death Spark deals 1 damage to target creature or player.\r\n\u003cbr\u003e\r\nAt the beginning of your upkeep, if Death Spark is in your graveyard with a creature card directly above it, you may pay 1. If you do, return Death Spark to your hand."
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82400_200w.jpg",
+      "modifiedOn": "2025-01-19T09:09:41.69",
+      "name": "Death Spark",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82400,
+      "url": "https://www.tcgplayer.com/product/82400/magic-coldsnap-theme-deck-reprints-death-spark"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gorilla Shaman",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "72a"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Ape Shaman"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "XX1: Destroy target non-creature artifact with converted mana cost X."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Frankly, destruction is best left to professionals.\"\u003cbr\u003e—Jaya Ballard, task mage\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82401_200w.jpg",
+      "modifiedOn": "2023-07-27T13:55:27.247",
+      "name": "Gorilla Shaman",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82401,
+      "url": "https://www.tcgplayer.com/product/82401/magic-coldsnap-theme-deck-reprints-gorilla-shaman"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Incinerate",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "194"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Yes, I think 'toast' is an appropriate description.\"\u003cbr\u003e—Jaya Ballard, task mage\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82402_200w.jpg",
+      "modifiedOn": "2024-10-16T05:26:03.223",
+      "name": "Incinerate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82402,
+      "url": "https://www.tcgplayer.com/product/82402/magic-coldsnap-theme-deck-reprints-incinerate"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Orcish Healer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "208"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Orc Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "RR, T: Target creature cannot regenerate this turn.\r\n\u003cbr\u003e\r\nBBR, T: Regenerate target black or green creature.\r\n\u003cbr\u003e\r\nRGG, T: Regenerate target black or green creature."
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82403_200w.jpg",
+      "modifiedOn": "2023-07-27T19:02:11.467",
+      "name": "Orcish Healer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82403,
+      "url": "https://www.tcgplayer.com/product/82403/magic-coldsnap-theme-deck-reprints-orcish-healer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Orcish Lumberjack",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "210"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Orc"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T, Sacrifice a Forest: Add three mana of any combination of red and/or green to your mana pool."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"How did I ever let myself get talked into this project?\"\u003cbr\u003e—Toothlicker Harj, orcish captain\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82404_200w.jpg",
+      "modifiedOn": "2023-07-27T19:08:57.747",
+      "name": "Orcish Lumberjack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82404,
+      "url": "https://www.tcgplayer.com/product/82404/magic-coldsnap-theme-deck-reprints-orcish-lumberjack"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Aurochs",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "225"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Aurochs"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\r\n\u003cbr\u003e\r\nWhenever Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eOne aurochs may feed a village, but a herd will flatten it.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82405_200w.jpg",
+      "modifiedOn": "2024-08-14T15:50:31.073",
+      "name": "Aurochs",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82405,
+      "url": "https://www.tcgplayer.com/product/82405/magic-coldsnap-theme-deck-reprints-aurochs"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bounty of the Hunt",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "85"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may remove a green card in your hand from the game rather than pay Bounty of the Hunt's mana cost.\r\n\u003cbr\u003e\r\nUntil end of turn, target creature gets +1/+1, target creature gets +1/+1, and target creature gets +1/+1."
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82406_200w.jpg",
+      "modifiedOn": "2023-07-26T20:44:38.837",
+      "name": "Bounty of the Hunt",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82406,
+      "url": "https://www.tcgplayer.com/product/82406/magic-coldsnap-theme-deck-reprints-bounty-of-the-hunt"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Deadly Insect",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "65"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Insect"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Deadly Insect can't be the target of spells or abilities."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"There is no time for pain when this beast leaves its terrible sting.\"\u003cbr\u003e—Jaeuhl Carthalion,\u003cbr\u003eJuniper Order advocate\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82407_200w.jpg",
+      "modifiedOn": "2023-07-27T12:19:42.747",
+      "name": "Deadly Insect",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82407,
+      "url": "https://www.tcgplayer.com/product/82407/magic-coldsnap-theme-deck-reprints-deadly-insect"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tinder Wall",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "270"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Plant Wall"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Defender\r\n\u003cbr\u003e\r\nSacrifice Tinder Wall: Add RR to your mana pool.\r\n\u003cbr\u003e\r\nR, Sacrifice Tinder Wall: Tinder Wall deals 2 damage to target creature it's blocking."
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82408_200w.jpg",
+      "modifiedOn": "2023-07-27T20:54:58.283",
+      "name": "Tinder Wall",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82408,
+      "url": "https://www.tcgplayer.com/product/82408/magic-coldsnap-theme-deck-reprints-tinder-wall"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Woolly Mammoths",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "278"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elephant"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Woolly Mammoths has trample as long as you control a snow land."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Mammoths may be good to ride on, but they're certainly bad to fall off of!\"\u003cbr\u003e—Disa the Restless, journal entry\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82409_200w.jpg",
+      "modifiedOn": "2023-07-29T17:32:49.297",
+      "name": "Woolly Mammoths",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82409,
+      "url": "https://www.tcgplayer.com/product/82409/magic-coldsnap-theme-deck-reprints-woolly-mammoths"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Giant Trap Door Spider",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "293"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spider"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1RG, T: Remove from the game Giant Trap Door Spider and target creature without flying that's attacking you."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"So large and so quiet—a combination best avoided.\"\u003cbr\u003e—Disa the Restless, journal entry\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82410_200w.jpg",
+      "modifiedOn": "2023-07-27T13:49:06.49",
+      "name": "Giant Trap Door Spider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82410,
+      "url": "https://www.tcgplayer.com/product/82410/magic-coldsnap-theme-deck-reprints-giant-trap-door-spider"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wings of Aesthir",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "305"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant creature\r\n\u003cbr\u003e\r\nEnchanted creature gets +1/+0 and has flying and first strike."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"For those of courage, even the sky holds no limit.\"\u003cbr\u003e—Arnjlot Olasson, sky mage\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82411_200w.jpg",
+      "modifiedOn": "2023-07-29T17:32:08.323",
+      "name": "Wings of Aesthir",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82411,
+      "url": "https://www.tcgplayer.com/product/82411/magic-coldsnap-theme-deck-reprints-wings-of-aesthir"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Arcums Weathervane",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "310"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2, T: Target snow-covered land becomes a non-snow-covered land of the same type. Mark the changed land with a counter.\r\n\u003cbr\u003e\r\n2, T: Target non-snow-covered basic land becomes a snow-covered land of the same type. Mark the changed land with a counter."
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82412_200w.jpg",
+      "modifiedOn": "2023-07-26T20:24:29.167",
+      "name": "Arcum's Weathervane",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82412,
+      "url": "https://www.tcgplayer.com/product/82412/magic-coldsnap-theme-deck-reprints-arcums-weathervane"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Barbed Sextant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "312"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1, T, Sacrifice Barbed Sextant: Add one mana of any color to your mana pool. Draw a card at the beginning of the next turn's upkeep."
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82413_200w.jpg",
+      "modifiedOn": "2023-07-26T20:33:48.33",
+      "name": "Barbed Sextant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82413,
+      "url": "https://www.tcgplayer.com/product/82413/magic-coldsnap-theme-deck-reprints-barbed-sextant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Skull Catapult",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "311"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1, T, Sacrifice a creature: Skull Catapult deals 2 damage to target creature or player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Let any who doubt the evil of using the ancient devices look at this infernal machine. What manner of fiend would design such a sadistic device?”\u003cbr\u003e—Sorine Relicbane, Soldevi Heretic"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82414_200w.jpg",
+      "modifiedOn": "2023-07-27T20:26:37.01",
+      "name": "Skull Catapult",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82414,
+      "url": "https://www.tcgplayer.com/product/82414/magic-coldsnap-theme-deck-reprints-skull-catapult"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Whalebone Glider",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "349"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2, T: Target creature with power no greater than 3 gains flying until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“It’s no Ornithopter, but then I’m no Urza.”\u003cbr\u003e—Arcum Dagsson, Soldevi Machinist\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82415_200w.jpg",
+      "modifiedOn": "2023-07-29T17:28:20.127",
+      "name": "Whalebone Glider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82415,
+      "url": "https://www.tcgplayer.com/product/82415/magic-coldsnap-theme-deck-reprints-whalebone-glider"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plains 369",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "369"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Plains"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82416_200w.jpg",
+      "modifiedOn": "2024-07-26T16:52:06.463",
+      "name": "Plains (369)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82416,
+      "url": "https://www.tcgplayer.com/product/82416/magic-coldsnap-theme-deck-reprints-plains-369"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plains 370",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "370"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Plains"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82417_200w.jpg",
+      "modifiedOn": "2023-07-27T19:52:50.813",
+      "name": "Plains (370)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82417,
+      "url": "https://www.tcgplayer.com/product/82417/magic-coldsnap-theme-deck-reprints-plains-370"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plains 371",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "371"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Plains"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82418_200w.jpg",
+      "modifiedOn": "2023-07-27T19:53:11.207",
+      "name": "Plains (371)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82418,
+      "url": "https://www.tcgplayer.com/product/82418/magic-coldsnap-theme-deck-reprints-plains-371"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 372",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "372"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Island"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82419_200w.jpg",
+      "modifiedOn": "2024-07-26T16:52:06.557",
+      "name": "Island (372)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82419,
+      "url": "https://www.tcgplayer.com/product/82419/magic-coldsnap-theme-deck-reprints-island-372"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 373",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "373"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Island"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82420_200w.jpg",
+      "modifiedOn": "2023-07-27T14:16:13.063",
+      "name": "Island (373)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82420,
+      "url": "https://www.tcgplayer.com/product/82420/magic-coldsnap-theme-deck-reprints-island-373"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 374",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "374"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Island"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82421_200w.jpg",
+      "modifiedOn": "2023-07-27T14:17:16.387",
+      "name": "Island (374)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82421,
+      "url": "https://www.tcgplayer.com/product/82421/magic-coldsnap-theme-deck-reprints-island-374"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 375",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "375"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Swamp"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82422_200w.jpg",
+      "modifiedOn": "2023-07-27T20:49:00.16",
+      "name": "Swamp (375)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82422,
+      "url": "https://www.tcgplayer.com/product/82422/magic-coldsnap-theme-deck-reprints-swamp-375"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 376",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "376"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Swamp"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82423_200w.jpg",
+      "modifiedOn": "2024-02-15T15:00:05.847",
+      "name": "Swamp (376)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82423,
+      "url": "https://www.tcgplayer.com/product/82423/magic-coldsnap-theme-deck-reprints-swamp-376"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 377",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "377"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Swamp"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82424_200w.jpg",
+      "modifiedOn": "2023-07-27T20:49:35.747",
+      "name": "Swamp (377)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82424,
+      "url": "https://www.tcgplayer.com/product/82424/magic-coldsnap-theme-deck-reprints-swamp-377"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 378",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "378"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Mountain"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82425_200w.jpg",
+      "modifiedOn": "2023-07-27T18:56:34.683",
+      "name": "Mountain (378)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82425,
+      "url": "https://www.tcgplayer.com/product/82425/magic-coldsnap-theme-deck-reprints-mountain-378"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 379",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "379"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Mountain"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82426_200w.jpg",
+      "modifiedOn": "2023-07-27T18:56:59.97",
+      "name": "Mountain (379)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82426,
+      "url": "https://www.tcgplayer.com/product/82426/magic-coldsnap-theme-deck-reprints-mountain-379"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 380",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "380"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Mountain"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82427_200w.jpg",
+      "modifiedOn": "2023-07-27T18:57:17.127",
+      "name": "Mountain (380)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82427,
+      "url": "https://www.tcgplayer.com/product/82427/magic-coldsnap-theme-deck-reprints-mountain-380"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 381",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "381"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Forest"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82428_200w.jpg",
+      "modifiedOn": "2023-07-27T12:42:03.607",
+      "name": "Forest (381)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82428,
+      "url": "https://www.tcgplayer.com/product/82428/magic-coldsnap-theme-deck-reprints-forest-381"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 382",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "382"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Forest"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82429_200w.jpg",
+      "modifiedOn": "2023-07-27T12:42:29.98",
+      "name": "Forest (382)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82429,
+      "url": "https://www.tcgplayer.com/product/82429/magic-coldsnap-theme-deck-reprints-forest-382"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 383",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "383"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Forest"
+        }
+      ],
+      "groupId": 1348,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82430_200w.jpg",
+      "modifiedOn": "2023-07-27T12:42:40.713",
+      "name": "Forest (383)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82430,
+      "url": "https://www.tcgplayer.com/product/82430/magic-coldsnap-theme-deck-reprints-forest-383"
+    }
+  ],
+  "success": true,
+  "totalItems": 62
+}

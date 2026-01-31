@@ -1,0 +1,34 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "abbreviation": "PNTP",
+      "categoryId": 43,
+      "groupId": 2021,
+      "isSupplemental": false,
+      "modifiedOn": "2022-11-09T21:44:44.333",
+      "name": "Citadel Paint Pots",
+      "publishedOn": "2017-08-15T00:00:00"
+    },
+    {
+      "abbreviation": "PNTS",
+      "categoryId": 43,
+      "groupId": 2022,
+      "isSupplemental": false,
+      "modifiedOn": "2019-01-18T20:33:02.993",
+      "name": "Citadel Paint Sets",
+      "publishedOn": "2017-08-15T00:00:00"
+    },
+    {
+      "abbreviation": "SPRY",
+      "categoryId": 43,
+      "groupId": 2023,
+      "isSupplemental": false,
+      "modifiedOn": "2017-12-06T19:31:38.813",
+      "name": "Citadel Spray Paints",
+      "publishedOn": "2017-08-15T00:00:00"
+    }
+  ],
+  "success": true,
+  "totalItems": 3
+}

@@ -1,0 +1,843 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Kaalia of the Vast",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eWhenever Kaalia of the Vast attacks an opponent, you may put an Angel, Demon, or Dragon creature card from your hand onto the battlefield tapped and attacking that opponent."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I'll have my revenge if I have to call on every force from above and below.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 568,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67174_200w.jpg",
+      "modifiedOn": "2023-06-29T20:25:55.07",
+      "name": "Kaalia of the Vast",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67174,
+      "url": "https://www.tcgplayer.com/product/67174/magic-commanders-arsenal-kaalia-of-the-vast"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Mimeoplasm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Ooze"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "0"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As The Mimeoplasm enters the battlefield, you may exile two creature cards from graveyards. If you do, it enters the battlefield as a copy of one of those cards with a number of additional +1/+1 counters on it equal to the power of the other card."
+        }
+      ],
+      "groupId": 568,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67175_200w.jpg",
+      "modifiedOn": "2023-06-29T20:32:50.053",
+      "name": "The Mimeoplasm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67175,
+      "url": "https://www.tcgplayer.com/product/67175/magic-commanders-arsenal-the-mimeoplasm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Edric Spymaster of Trest",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elf Rogue"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever a creature deals combat damage to one of your opponents, its controller may draw a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“I am not at liberty to reveal my sources, but I can assure you, the price on your head is high.”\u003c/em\u003e"
+        }
+      ],
+      "groupId": 568,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67176_200w.jpg",
+      "modifiedOn": "2024-09-18T16:27:20.32",
+      "name": "Edric, Spymaster of Trest",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67176,
+      "url": "https://www.tcgplayer.com/product/67176/magic-commanders-arsenal-edric-spymaster-of-trest"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Maelstrom Wanderer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "7"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Creatures you control have haste. \r\n\u003cbr\u003eCascade, cascade \u003cem\u003e(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order. Then do it again.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 568,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67177_200w.jpg",
+      "modifiedOn": "2023-06-29T20:28:15.297",
+      "name": "Maelstrom Wanderer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67177,
+      "url": "https://www.tcgplayer.com/product/67177/magic-commanders-arsenal-maelstrom-wanderer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Vela the Night Clad",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "18"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Intimidate\r\n\u003cbr\u003eOther creatures you control have intimidate. \r\n\u003cbr\u003eWhenever Vela the Night-Clad or another creature you control leaves the battlefield, each opponent loses 1 life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e Vela snuffs out every trace of Krond’s reign, leaving pure nightfall in her wake.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 568,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67178_200w.jpg",
+      "modifiedOn": "2024-04-23T15:49:33.757",
+      "name": "Vela the Night-Clad",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67178,
+      "url": "https://www.tcgplayer.com/product/67178/magic-commanders-arsenal-vela-the-night-clad"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Diaochan Artful Beauty",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Advisor"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Destroy target creature of your choice, then destroy target creature of an opponent’s choice. Activate this ability only during your turn, before attackers are declared."
+        }
+      ],
+      "groupId": 568,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67179_200w.jpg",
+      "modifiedOn": "2023-06-29T20:21:24.607",
+      "name": "Diaochan, Artful Beauty",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67179,
+      "url": "https://www.tcgplayer.com/product/67179/magic-commanders-arsenal-diaochan-artful-beauty"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Loyal Retainers",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Advisor"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate only during your turn, before attackers are declared."
+        }
+      ],
+      "groupId": 568,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67180_200w.jpg",
+      "modifiedOn": "2023-06-29T20:26:56.137",
+      "name": "Loyal Retainers",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67180,
+      "url": "https://www.tcgplayer.com/product/67180/magic-commanders-arsenal-loyal-retainers"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Duplicant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Shapeshifter"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eImprint\u003c/em\u003e — When Duplicant enters the battlefield, you may exile target nontoken creature.\r\n\u003cBR\u003eAs long as the exiled card is a creature card, Duplicant has that card's power, toughness, and creature types. It's still a Shapeshifter."
+        }
+      ],
+      "groupId": 568,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67181_200w.jpg",
+      "modifiedOn": "2023-06-29T20:23:24.047",
+      "name": "Duplicant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67181,
+      "url": "https://www.tcgplayer.com/product/67181/magic-commanders-arsenal-duplicant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dragonlair Spider",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spider"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Reach\r\n\u003cBR\u003eWhenever an opponent casts a spell, put a 1/1 green Insect creature token onto the battlefield."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eSwarms thrive in its nest, feeding on leathery bits of discarded wing.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 568,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67182_200w.jpg",
+      "modifiedOn": "2025-05-08T18:52:58.267",
+      "name": "Dragonlair Spider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67182,
+      "url": "https://www.tcgplayer.com/product/67182/magic-commanders-arsenal-dragonlair-spider"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Decree of Pain",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way.\r\n\u003cbr\u003eCycling 3BB \u003cem\u003e(3BB, Discard this card: Draw a card.)\u003c/em\u003e\r\n\u003cbr\u003eWhen you cycle Decree of Pain, all creatures get -2/-2 until end of turn."
+        }
+      ],
+      "groupId": 568,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67183_200w.jpg",
+      "modifiedOn": "2023-06-29T20:19:24.683",
+      "name": "Decree of Pain",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67183,
+      "url": "https://www.tcgplayer.com/product/67183/magic-commanders-arsenal-decree-of-pain"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Chaos Warp",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "The owner of target permanent shuffles it into his or her library, then reveals the top card of his or her library. If it's a permanent card, he or she puts it onto the battlefield."
+        }
+      ],
+      "groupId": 568,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67184_200w.jpg",
+      "modifiedOn": "2023-06-29T20:15:32.253",
+      "name": "Chaos Warp",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67184,
+      "url": "https://www.tcgplayer.com/product/67184/magic-commanders-arsenal-chaos-warp"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Desertion",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Counter target spell. If it's an artifact or creature card, put it into play under your control instead of into its owner's graveyard."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eFirst the insult, then the injury.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 568,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67185_200w.jpg",
+      "modifiedOn": "2023-06-29T20:20:34.587",
+      "name": "Desertion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67185,
+      "url": "https://www.tcgplayer.com/product/67185/magic-commanders-arsenal-desertion"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Miraris Wake",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Creatures you control get +1/+1.\r\n\u003cbr\u003eWhenever you tap a land for mana, add one mana to your mana pool of any type that land produced."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eEven after a false god tore the magic from Dominaria, power still radiated from the Mirari sword that slew her.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 568,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67186_200w.jpg",
+      "modifiedOn": "2024-09-18T16:33:34.017",
+      "name": "Mirari's Wake",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67186,
+      "url": "https://www.tcgplayer.com/product/67186/magic-commanders-arsenal-miraris-wake"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sylvan Library",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "17"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library."
+        }
+      ],
+      "groupId": 568,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67187_200w.jpg",
+      "modifiedOn": "2023-06-29T20:31:54.76",
+      "name": "Sylvan Library",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67187,
+      "url": "https://www.tcgplayer.com/product/67187/magic-commanders-arsenal-sylvan-library"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rhystic Study",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever an opponent casts a spell, you may draw a card unless that player pays 1."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eFriends teach what you want to know. Enemies teach what you need to know.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 568,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67188_200w.jpg",
+      "modifiedOn": "2023-06-29T20:30:47.083",
+      "name": "Rhystic Study",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67188,
+      "url": "https://www.tcgplayer.com/product/67188/magic-commanders-arsenal-rhystic-study"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Scroll Rack",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1, T: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order."
+        }
+      ],
+      "groupId": 568,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67189_200w.jpg",
+      "modifiedOn": "2025-04-09T19:24:42.677",
+      "name": "Scroll Rack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67189,
+      "url": "https://www.tcgplayer.com/product/67189/magic-commanders-arsenal-scroll-rack"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Minds Eye",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever an opponent draws a card, you may pay 1. If you do, draw a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Ideas drift like petals on the wind. I have only to lift my face to the breeze.”\u003c/em\u003e"
+        }
+      ],
+      "groupId": 568,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67190_200w.jpg",
+      "modifiedOn": "2023-08-14T13:56:30.53",
+      "name": "Mind's Eye",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67190,
+      "url": "https://www.tcgplayer.com/product/67190/magic-commanders-arsenal-minds-eye"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Command Tower",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap: Add to your mana pool one mana of any color in your commander's color identity."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eWhen defeat is near and guidance is scarce, all eyes look in one direction.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 568,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67191_200w.jpg",
+      "modifiedOn": "2023-06-29T20:16:44.947",
+      "name": "Command Tower",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67191,
+      "url": "https://www.tcgplayer.com/product/67191/magic-commanders-arsenal-command-tower"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Commanders Arsenal Box Set",
+      "extendedData": [],
+      "groupId": 568,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/71419_200w.jpg",
+      "modifiedOn": "2014-09-03T03:32:24.69",
+      "name": "Commander's Arsenal - Box Set",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 71419,
+      "url": "https://www.tcgplayer.com/product/71419/magic-commanders-arsenal-commanders-arsenal-box-set"
+    }
+  ],
+  "success": true,
+  "totalItems": 19
+}

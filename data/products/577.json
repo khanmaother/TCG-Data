@@ -1,0 +1,123 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Wind Up Shark",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CBLZ-ENSE1"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fish"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When a \"Wind-Up\" monster is Normal or Special Summoned to your side of the field: You can Special Summon this card from your hand. Once per turn: You can activate 1 of these effects.\r\n\u003cbr\u003e• Increase this cardÆs Level by 1, until the End Phase. \r\n\u003cbr\u003e• Reduce this card's Level by 1, until the End Phase."
+        }
+      ],
+      "groupId": 577,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67779_200w.jpg",
+      "modifiedOn": "2024-03-28T16:10:26.927",
+      "name": "Wind-Up Shark",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67779,
+      "url": "https://www.tcgplayer.com/product/67779/yugioh-cosmo-blazer-se-wind-up-shark"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Blade Armor Ninja",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CBLZ-ENSE2"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Xyz/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "2 Level 4 Warrior-Type monsters // Once per turn: You can detach 1 Xyz Material from this card to target 1 face-up \"Ninja\" monster you control; this turn, that monster can attack twice during each Battle Phase."
+        }
+      ],
+      "groupId": 577,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/67780_200w.jpg",
+      "modifiedOn": "2024-03-28T16:10:26.997",
+      "name": "Blade Armor Ninja",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 67780,
+      "url": "https://www.tcgplayer.com/product/67780/yugioh-cosmo-blazer-se-blade-armor-ninja"
+    }
+  ],
+  "success": true,
+  "totalItems": 2
+}

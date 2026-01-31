@@ -1,0 +1,2792 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Hopeful Initiate",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "20"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Warlock"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Training \u003cem\u003e(Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)\u003c/em\u003e\r\n\u003cbr\u003e2W, Remove two +1/+1 counters from among creatures you control: Destroy target artifact or enchantment."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/255209_200w.jpg",
+      "modifiedOn": "2023-05-09T12:57:27.1",
+      "name": "Hopeful Initiate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 255209,
+      "url": "https://www.tcgplayer.com/product/255209/magic-promo-pack-march-of-the-machine-hopeful-initiate"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Scrappy Bruiser",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "382"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Raccoon Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Scrappy Bruiser attacks, up to one target attacking creature gets +2/+0 and gains trample until end of turn. Return that creature to its owner's hand at end of combat. \u003cem\u003e(Return it only if it's on the battlefield.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/490341_200w.jpg",
+      "modifiedOn": "2026-01-14T18:39:26.853",
+      "name": "Scrappy Bruiser",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 490341,
+      "url": "https://www.tcgplayer.com/product/490341/magic-promo-pack-march-of-the-machine-scrappy-bruiser"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Norns Inquisitor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "381"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Phyrexian Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Norn's Inquisitor enters the battlefield, incubate 2.\r\n\u003cbr\u003e\r\nWhenever a permanent you control transforms into a Phyrexian, put a +1/+1 counter on it."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/490342_200w.jpg",
+      "modifiedOn": "2025-12-10T23:33:13.12",
+      "name": "Norn's Inquisitor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 490342,
+      "url": "https://www.tcgplayer.com/product/490342/magic-promo-pack-march-of-the-machine-norns-inquisitor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kami of Whispered Hopes",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "383"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spirit"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If one or more +1/+1 counters would be put on a permanent you control, that many plus one +1/+1 counters are put on that permanent instead.\r\n\u003cbr\u003e\r\nT: Add X mana of any one color, where X is Kami of Whispered Hope's power."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/490344_200w.jpg",
+      "modifiedOn": "2026-01-02T15:15:44.047",
+      "name": "Kami of Whispered Hopes",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 490344,
+      "url": "https://www.tcgplayer.com/product/490344/magic-promo-pack-march-of-the-machine-kami-of-whispered-hopes"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Botanical Brawler",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "384"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "0"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\r\n\u003cbr\u003e\r\nBotanical Brawler enters the battlefield with two +1/+1 counters on it.\r\n\u003cbr\u003e\r\nWhenever one or more +1/+1 counters are put on another permanent you control, if it's the first time +1/+1 counters have been put on that permanent this turn, put a +1/+1 counter on Botanical Brawler."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/490346_200w.jpg",
+      "modifiedOn": "2025-12-22T14:02:26.753",
+      "name": "Botanical Brawler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 490346,
+      "url": "https://www.tcgplayer.com/product/490346/magic-promo-pack-march-of-the-machine-botanical-brawler"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Halo Forager",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "385"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Faerie Rogue"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nWhen Halo Forager enters the battlefield, you may pay X. When you do, you may cast target instant or sorcery card with mana value X from a graveyard without paying its mana cost. If that spell would be put into a graveyard, exile it instead."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/490430_200w.jpg",
+      "modifiedOn": "2025-05-15T19:53:41.09",
+      "name": "Halo Forager",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 490430,
+      "url": "https://www.tcgplayer.com/product/490430/magic-promo-pack-march-of-the-machine-halo-forager"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Archangel Elspeth",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Elspeth"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "[+1]: Create a 1/1 white Soldier creature token with lifelink.\r\n\u003cbr\u003e\r\n[-2]: Put two +1/+1 counters on target creature. It becomes an Angel in addition to its other types and gains flying.\r\n\u003cbr\u003e\r\n[-6]: Return all nonland permanent cards with mana value 3 or less from your graveyard to the battlefield."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492798_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Archangel Elspeth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492798,
+      "url": "https://www.tcgplayer.com/product/492798/magic-promo-pack-march-of-the-machine-archangel-elspeth"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Boon Bringer Valkyrie",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Angel Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Backup 1 \u003cem\u003e(When this creature enters the battlefield, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nFlying, first strike, lifelink"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eHer blades were twin beacons, calling the worthy to glory and the wretched to despair.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492800_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Boon-Bringer Valkyrie",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492800,
+      "url": "https://www.tcgplayer.com/product/492800/magic-promo-pack-march-of-the-machine-boon-bringer-valkyrie"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dusk Legion Duelist",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Vampire Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "VIgiliance\r\n\u003cbr\u003e\r\nWhenever one or more +1/+1 counters are put on Dusk Legion Duelist, draw a card. This ability triggers only once each turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"We sailed to Ixalan guided by a promise—the Age of Everflowing Blood. No machine will take that from us.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492801_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Dusk Legion Duelist",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492801,
+      "url": "https://www.tcgplayer.com/product/492801/magic-promo-pack-march-of-the-machine-dusk-legion-duelist"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Guardian of Ghirapur",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Angel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nWhen Guardian of Ghirapur enters the battlefield, exile up to one other target creature or artifact you control. Return it to the battlefield under its owner's control at the beginning of the next end step."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eShe was hope incarnate, an incandescent bulwark against the tide of machines.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492804_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Guardian of Ghirapur",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492804,
+      "url": "https://www.tcgplayer.com/product/492804/magic-promo-pack-march-of-the-machine-guardian-of-ghirapur"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Knight Errant of Eos",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "26"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Convoke\r\n\u003cbr\u003e\r\nWhen Knight-Errant of Eos enters the battlefield, look at the top six cards of your library. You may reveal up to two creature cards with mana value X or less from among them, where X is the number of creatures that convoked Knight-Errant of Eos. Put the revealed cards into your hand, then shuffle."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492806_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Knight-Errant of Eos",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492806,
+      "url": "https://www.tcgplayer.com/product/492806/magic-promo-pack-march-of-the-machine-knight-errant-of-eos"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Monastery Mentor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "28"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Monk"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Prowess \u003cem\u003e(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nWhenever you cast a noncreature spell, create a 1/1 white Monk creature token with prowess."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"One path. Many feet.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492811_200w.jpg",
+      "modifiedOn": "2026-01-02T15:06:32.19",
+      "name": "Monastery Mentor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492811,
+      "url": "https://www.tcgplayer.com/product/492811/magic-promo-pack-march-of-the-machine-monastery-mentor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Progenitor Exarch",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "32"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Phyrexian Cat Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Progenitor Exarch enters the battlefield, incubate 3 X times. \u003cem\u003e(To incubate 3, create an Incubator token with three +1/+1 counters on it and \"2: Transform this artifact.\" It transforms into a 0/0 Phyrexian artifact creature.)\u003c/em\u003e\r\n\u003cbr\u003eT: Transform target Incubator token you control."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492815_200w.jpg",
+      "modifiedOn": "2025-05-15T19:53:41.137",
+      "name": "Progenitor Exarch",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492815,
+      "url": "https://www.tcgplayer.com/product/492815/magic-promo-pack-march-of-the-machine-progenitor-exarch"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sunfall",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "40"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exile all creature. Incubate X, where X is the number of creatures exiled this way. \u003cem\u003e(Create an Incubator token with X +1/+1 counters on it and \"2: Transform this artifact.\" it transforms into a 0/0 Phyrexian artifact creature)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Let the light scour away your imperfect flesh.\" —Heliod\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492817_200w.jpg",
+      "modifiedOn": "2026-01-02T15:08:59.667",
+      "name": "Sunfall",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492817,
+      "url": "https://www.tcgplayer.com/product/492817/magic-promo-pack-march-of-the-machine-sunfall"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Chrome Host Seedshark",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "51"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Phyrexian Shark"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nWhenever you cast a noncreature spell, incubate X, where X is that spell's mana value. \u003cem\u003e(Create an Incubator token with X +1/+1 counters on it and \"2: Transform this artifact.\" It transforms into a 0/0 Phyrexian artifact creature.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492818_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Chrome Host Seedshark",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492818,
+      "url": "https://www.tcgplayer.com/product/492818/magic-promo-pack-march-of-the-machine-chrome-host-seedshark"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Complete the Circuit",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "52"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Convoke \u003cem\u003e(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature's color.)\u003c/em\u003e\r\n\u003cbr\u003eYou may cast sorcery spells this turn as though they had flash.\r\n\u003cbr\u003eWhen you next cast an instant or sorcery spell this turn, copy that spell twice. You may choose new targets for the copies."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492819_200w.jpg",
+      "modifiedOn": "2024-05-25T15:13:08.27",
+      "name": "Complete the Circuit",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492819,
+      "url": "https://www.tcgplayer.com/product/492819/magic-promo-pack-march-of-the-machine-complete-the-circuit"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Faerie Mastermind",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "58"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Faerie Rogue"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\r\n\u003cbr\u003e\r\nFlying\r\n\u003cbr\u003e\r\nWhenever an opponent draws their second card each turn, you draw a card.\r\n\u003cbr\u003e\r\n3U: Each player draws a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eYuta Takahashi, World Champion XXVII\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492820_200w.jpg",
+      "modifiedOn": "2026-01-02T15:02:15.893",
+      "name": "Faerie Mastermind",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492820,
+      "url": "https://www.tcgplayer.com/product/492820/magic-promo-pack-march-of-the-machine-faerie-mastermind"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Transcendent Message",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "83"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Convoke \u003cem\u003e(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature's color.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nDraw X cards."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eWrenn reached out to Teferi through the Blind Eternities, and an impossible connection flared across the vast emptiness.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492821_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Transcendent Message",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492821,
+      "url": "https://www.tcgplayer.com/product/492821/magic-promo-pack-march-of-the-machine-transcendent-message"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Zephyr Singer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "86"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Siren Pirate"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Convoke \u003cem\u003e(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature's color.)\u003c/em\u003e\r\n\u003cbr\u003eFlying, vigilance\r\n\u003cbr\u003eWhen Zephyr Singer enters the battlefield, put a flying counter on each creature that convoked it."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492822_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Zephyr Singer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492822,
+      "url": "https://www.tcgplayer.com/product/492822/magic-promo-pack-march-of-the-machine-zephyr-singer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Archpriest of Shadows",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "89"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Warlock"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Backup 1 \u003cem\u003e(When this creature enters the battlefield, put a +1/+1 counter on target creature. If that's another creature, it gains the following abilities until end of turn.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nDeathtouch\r\n\u003cbr\u003e\r\nWhenever this creature deals combat damage to a player or battle, return target creature card from your graveyard to the battlefield."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492823_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Archpriest of Shadows",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492823,
+      "url": "https://www.tcgplayer.com/product/492823/magic-promo-pack-march-of-the-machine-archpriest-of-shadows"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bloated Processor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "93"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Phyrexian"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Sacrifice another Phyrexian: Put a +1/+1 counter on Bloated Processor.\r\n\u003cbr\u003eWhen Bloated Processor dies, incubate X, where X is its power. \u003cem\u003e(Create an Incubator token with X +1/+1 counters on it and \"2: Transform this artifact.\" It transforms into a 0/0 Phyrexian artifact creature.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492825_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Bloated Processor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492825,
+      "url": "https://www.tcgplayer.com/product/492825/magic-promo-pack-march-of-the-machine-bloated-processor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Breach the Multiverse",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "94"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each player mills ten cards. For each player, choose a creature or planeswalker card in that player's graveyard. Put those cards onto the battlefield under your control. Then each creature you control becomes a Phyrexian in addition to its other types."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"All worlds will know perfection.\"\u003cbr\u003e—Elesh Norn\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492827_200w.jpg",
+      "modifiedOn": "2025-11-22T02:51:14.377",
+      "name": "Breach the Multiverse",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492827,
+      "url": "https://www.tcgplayer.com/product/492827/magic-promo-pack-march-of-the-machine-breach-the-multiverse"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Grafted Butcher",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "109"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Phyrexian Samurai"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Grafted Butcher enters the battlefield, Phyrexians you control gain menace until end of turn.\r\n\u003cbr\u003e\r\nOther Phyrexians you control get +1/+1.\r\n\u003cbr\u003e\r\n3B, Sacrifice an artifact or creature: Return Grafted Butcher from your graveyard to the battlefield. Activate only as a sorcery."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492828_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Grafted Butcher",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492828,
+      "url": "https://www.tcgplayer.com/product/492828/magic-promo-pack-march-of-the-machine-grafted-butcher"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hoarding Broodlord",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "110"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "7"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Convoke\r\n\u003cbr\u003e\r\nFlying\r\n\u003cbr\u003e\r\nWhen Hoarding Broodlord enters the battlefield, search your library for a card, exile it face down, then shuffle. For as long as that card remains exiled, you may play it.\r\n\u003cbr\u003e\r\nSpells you cast from exile have convoke."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492829_200w.jpg",
+      "modifiedOn": "2025-11-25T01:12:14.23",
+      "name": "Hoarding Broodlord",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492829,
+      "url": "https://www.tcgplayer.com/product/492829/magic-promo-pack-march-of-the-machine-hoarding-broodlord"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pile On",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "122"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Convoke \u003cem\u003e(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature's color.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nDestroy target creature or planeswalker. Surveil 2. \u003cem\u003e(Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492830_200w.jpg",
+      "modifiedOn": "2023-08-14T14:08:49.07",
+      "name": "Pile On",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492830,
+      "url": "https://www.tcgplayer.com/product/492830/magic-promo-pack-march-of-the-machine-pile-on"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bloodfeather Phoenix",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "132"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Phoenix"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nBloodfeather Phoenix can't block.\r\n\u003cbr\u003e\r\nWhenever an instant or sorcery spell you control deals damage to an opponent or battle, you may pay R. If you do, return Bloodfeather Phoenix from your graveyard to the battlefield. It gains haste until end of turn."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492833_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Bloodfeather Phoenix",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492833,
+      "url": "https://www.tcgplayer.com/product/492833/magic-promo-pack-march-of-the-machine-bloodfeather-phoenix"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Chandra Hopes Beacon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "134"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Chandra"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy. This ability triggers only once each turn.\r\n\u003cbr\u003e\r\n[+2]: Add two mana in any combination of colors.\r\n\u003cbr\u003e\r\n[+1]: Exile the top five cards of your library. Until the end of your next turn, you may cast an instant or sorcery spell from among those exiled cards.\r\n\u003cbr\u003e\r\n[-X]: Chandra, Hope's Beacon deals X damage to each of up to two targets."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492835_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Chandra, Hope's Beacon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492835,
+      "url": "https://www.tcgplayer.com/product/492835/magic-promo-pack-march-of-the-machine-chandra-hopes-beacon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "City on Fire",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "135"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Convoke \u003cem\u003e(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature's color.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nIf a source you control would deal damage to a permanent or player, it deals triple that damage instead."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492836_200w.jpg",
+      "modifiedOn": "2025-12-15T21:19:43.643",
+      "name": "City on Fire",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492836,
+      "url": "https://www.tcgplayer.com/product/492836/magic-promo-pack-march-of-the-machine-city-on-fire"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nahiris Warcrafting",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "155"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Nahiri's Warcrafting deals 5 damage to target creature, planeswalker, or battle. Look at the top X cards of your library, where X is the excess damage dealt this way. You may exile one of those cards. Put the rest on the bottom of your library in a random order. You may play the exiled card this turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Zendikar must be broken before it can be saved.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492839_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Nahiri's Warcrafting",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492839,
+      "url": "https://www.tcgplayer.com/product/492839/magic-promo-pack-march-of-the-machine-nahiris-warcrafting"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rampaging Raptor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "160"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Dinosaur"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample, haste\r\n\u003cbr\u003e\r\n2R: Rampaging Raptor gets +2/+0 until end of turn.\r\n\u003cbr\u003e\r\nWhenever Rampaging Raptor deals combat damage to an opponent, it deals that much damage to target planeswalker that player controls or battle that player protects."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492841_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Rampaging Raptor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492841,
+      "url": "https://www.tcgplayer.com/product/492841/magic-promo-pack-march-of-the-machine-rampaging-raptor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Voldaren Thrillseeker",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "171"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Vampire Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Backup 2 \u003cem\u003e(When this creature enters the battlefield, put two +1/+1 counters on target creature. If that's another creature, it gains the following ability until end of turn.)\u003c/em\u003e\r\n\u003cbr\u003e\r\n1, Sacrifice this creature: It deals damage equal to its power to any target."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The end is always nigh. Let's have some fun!\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492842_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Voldaren Thrillseeker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492842,
+      "url": "https://www.tcgplayer.com/product/492842/magic-promo-pack-march-of-the-machine-voldaren-thrillseeker"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ancient Imperiosaur",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "174"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Dinosaur"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Convoke \u003cem\u003e(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature's color.)\u003c/em\u003e\r\n\u003cbr\u003eTrample, ward 2\r\n\u003cbr\u003eAncient Imperiosaur enters the battlefield with two +1/+1 counters on it for each creature that convoked it."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492844_200w.jpg",
+      "modifiedOn": "2026-01-09T04:11:53.517",
+      "name": "Ancient Imperiosaur",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492844,
+      "url": "https://www.tcgplayer.com/product/492844/magic-promo-pack-march-of-the-machine-ancient-imperiosaur"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Deeproot Wayfinder",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "184"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Merfolk Scout"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Deeproot Wayfinder deals combat damage to a player or battle, surveil 1, then you may return a land card from your graveyard to the battlefield tapped. \u003cem\u003e(To surveil 1, look at the top card of your library. You may put that card into your graveyard.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eHer warning raced through the roots and rivers of Ixalan: prepare for war.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492846_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Deeproot Wayfinder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492846,
+      "url": "https://www.tcgplayer.com/product/492846/magic-promo-pack-march-of-the-machine-deeproot-wayfinder"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Doomskar Warrior",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "185"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Backup 1\r\n\u003cbr\u003eTrample\r\n\u003cbr\u003eWhenever this creature deals combat damage to a player or battle, look at that many cards from the top of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492849_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Doomskar Warrior",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492849,
+      "url": "https://www.tcgplayer.com/product/492849/magic-promo-pack-march-of-the-machine-doomskar-warrior"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Glistening Dawn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "187"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Incubate X twice, where X is the number of lands you control. \u003cem\u003e(To incubate X, create an Incubator token with X +1/+1 counters on it and \"2: Transform this artifact.\" It transforms into a 0/0 Phyrexian artifact creature.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eUnleashed on new worlds, the Phyrexians driven by a simple imperative: spread and were conquer.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492850_200w.jpg",
+      "modifiedOn": "2023-06-01T04:40:05.573",
+      "name": "Glistening Dawn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492850,
+      "url": "https://www.tcgplayer.com/product/492850/magic-promo-pack-march-of-the-machine-glistening-dawn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ozolith the Shattered Spire",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "198"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If one or more +1/+1 counters would be put on an artifact or creature you control, that many plus one +1/+1 counters are put on it instead.\r\n\u003cbr\u003e\r\n1G, T: Put a +1/+1 counter on target artifact or creature you control. Activate only as a sorcery.\r\n\u003cbr\u003e\r\nCycling 2 \u003cem\u003e(2, Discard this card: Draw a card.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492852_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Ozolith, the Shattered Spire",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492852,
+      "url": "https://www.tcgplayer.com/product/492852/magic-promo-pack-march-of-the-machine-ozolith-the-shattered-spire"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tribute to the World Tree",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "211"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever a creature enters the battlefield under your control, draw a card if its power is 3 or greater. Otherwise, put two +1/+1 counters on it."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The Tree was the heart of our world. It made me what I am and pulled me back from the brink of death. I won't allow it to be forgotten.\"\u003cbr\u003e—Esika, god of the Tree\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492854_200w.jpg",
+      "modifiedOn": "2024-07-02T08:09:50.687",
+      "name": "Tribute to the World Tree",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492854,
+      "url": "https://www.tcgplayer.com/product/492854/magic-promo-pack-march-of-the-machine-tribute-to-the-world-tree"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wrenn and Realmbreaker",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "217"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Wrenn"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lands you control have \"T: Add one mana of any color.\"\r\n\u003cbr\u003e\r\n[+1]: Up to one target land you control becomes a 3/3 Elemental creature with vigilance, hexproof, and haste until your next turn. It's still a land.\r\n\u003cbr\u003e\r\n[-2]: Mill three cards. You may put a permanent card from among the milled cards into your hand.\r\n\u003cbr\u003e\r\n[-7]: You get an emblem with \"You may play lands and cast permanent spells from your graveyard.\""
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492856_200w.jpg",
+      "modifiedOn": "2026-01-20T14:07:17.49",
+      "name": "Wrenn and Realmbreaker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492856,
+      "url": "https://www.tcgplayer.com/product/492856/magic-promo-pack-march-of-the-machine-wrenn-and-realmbreaker"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Baral and Kari Zev",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "218"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike, menace\r\n\u003cbr\u003e\r\nWhenever you cast your first instant or sorcery spell each turn, you may cast a spell with lesser mana value that shares a card type with it from your hand without paying its mana cost. If you don't, create First Mate Ragavan, a legendary 2/1 red Monkey Pirate creature token. It gains haste until end of turn."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492860_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Baral and Kari Zev",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492860,
+      "url": "https://www.tcgplayer.com/product/492860/magic-promo-pack-march-of-the-machine-baral-and-kari-zev"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Borborygmos and Fblthp",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "219"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Cyclops Homunculus"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Borborygmos and Fblthp enters the battlefield or attacks, draw a card, then you may discard any number of land cards. When you discard one or more cards this way, Borborygmos and Fblthp deals twice that much damage to target creature.\r\n\u003cbr\u003e1U: Put Borborygmos and Fblthp into its owner's library third from the top."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492861_200w.jpg",
+      "modifiedOn": "2023-09-21T14:46:22.927",
+      "name": "Borborygmos and Fblthp",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492861,
+      "url": "https://www.tcgplayer.com/product/492861/magic-promo-pack-march-of-the-machine-borborygmos-and-fblthp"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Djeru and Hazoret",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "221"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human God"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As long as you have one or fewer cards in hand, Djeru and Hazoret has vigilance and haste.\r\n\u003cbr\u003e\r\nWhenever Djeru and Hazoret attacks, look at the top six cards of your library. You may exile a legendary creature card from among them. Put the rest on the bottom of your library in a random order. Until end of turn, you may cast the exiled card without paying its mana cost."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492862_200w.jpg",
+      "modifiedOn": "2026-01-07T20:26:26.23",
+      "name": "Djeru and Hazoret",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492862,
+      "url": "https://www.tcgplayer.com/product/492862/magic-promo-pack-march-of-the-machine-djeru-and-hazoret"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Drana and Linvala",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "222"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Vampire Angel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, vigilance\r\n\u003cbr\u003e\r\nActivated abilities of creatures your opponents control can't be activated.\r\n\u003cbr\u003e\r\nDrana and Linvala has all activated abilities of all creatures your opponents control. You may spend mana as though it were mana of any color to activate those abilities."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492863_200w.jpg",
+      "modifiedOn": "2026-01-02T14:59:53.277",
+      "name": "Drana and Linvala",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492863,
+      "url": "https://www.tcgplayer.com/product/492863/magic-promo-pack-march-of-the-machine-drana-and-linvala"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Errant and Giada",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "224"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Angel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\r\n\u003cbr\u003e\r\nFlying\r\n\u003cbr\u003e\r\nYou may look at the top card of your library at any time.\r\n\u003cbr\u003e\r\nYou may cast spells with flash or flying from the top of your library."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492864_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Errant and Giada",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492864,
+      "url": "https://www.tcgplayer.com/product/492864/magic-promo-pack-march-of-the-machine-errant-and-giada"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hidetsugu and Kairi",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "228"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Ogre Demon Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nWhen Hidetsugu and Kairi enters the battlefield, draw three cards, then put two cards from your hand on top of your library in any order.\r\n\u003cbr\u003e\r\nWhen Hidetsugu and Kairi dies, exile the top card of your library. Target opponent loses life equal to its mana value. If it's an instant or sorcery card, you may cast it without paying its mana cost."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492865_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Hidetsugu and Kairi",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492865,
+      "url": "https://www.tcgplayer.com/product/492865/magic-promo-pack-march-of-the-machine-hidetsugu-and-kairi"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Inga and Esika",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "229"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human God"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Creatures you control have vigilance and \"T: Add one mana of any color. Spend this mana only to cast a creature spell.\"\r\n\u003cbr\u003eWhenever you cast a creature spell, if three or more mana from creatures was spent to cast it, draw a card."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492866_200w.jpg",
+      "modifiedOn": "2023-06-28T14:40:16.383",
+      "name": "Inga and Esika",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492866,
+      "url": "https://www.tcgplayer.com/product/492866/magic-promo-pack-march-of-the-machine-inga-and-esika"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kroxa and Kunoros",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "245"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elder Giant Dog"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance, menace, lifelink\r\n\u003cbr\u003e\r\nWhenever Kroxa and Kunoros enters the battlefield or attacks, you may exile five cards from your graveyard. When you do, return target creature card from your graveyard to the battlefield."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eWhen the Invasion Tree reached the Underworld, it found only teeth and fury.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492867_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Kroxa and Kunoros",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492867,
+      "url": "https://www.tcgplayer.com/product/492867/magic-promo-pack-march-of-the-machine-kroxa-and-kunoros"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Omnath Locus of All",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "249"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Phyrexian Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If you would lose unspent mana, that mana becomes black instead.\r\n\u003cbr\u003e\r\nAt the beginning of your precombat main phase, look at the top card of your library. You may reveal that card if it has three or more colored mana symbols in its mana cost. If you do, add three mana in any combination of its colors and put it into your hand. If you don't reveal it, put it into your hand."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492868_200w.jpg",
+      "modifiedOn": "2025-05-15T19:53:41.2",
+      "name": "Omnath, Locus of All",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492868,
+      "url": "https://www.tcgplayer.com/product/492868/magic-promo-pack-march-of-the-machine-omnath-locus-of-all"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Quintorius Loremaster",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "250"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elephant Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance\r\n\u003cbr\u003eAt the beginning of your end step, exile target noncreature, nonland card from your graveyard. Create a 3/2 red and white Spirit creature token.\r\n\u003cbr\u003e1RW, T, Sacrifice a Spirit: Choose target card exiled with Quintorius. You may cast that card this turn without paying its mana cost. If that spell would be put into a graveyard, put it on the bottom of its owner's library instead."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492870_200w.jpg",
+      "modifiedOn": "2025-05-15T19:53:41.247",
+      "name": "Quintorius, Loremaster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492870,
+      "url": "https://www.tcgplayer.com/product/492870/magic-promo-pack-march-of-the-machine-quintorius-loremaster"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thalia and The Gitrog Monster",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "255"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Frog Horror"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike, deathtouch\r\n\u003cbr\u003e\r\nYou may play an additional land on each of your turns.\r\n\u003cbr\u003e\r\nCreatures and nonbasic lands your opponents control enter the battlefield tapped.\r\n\u003cbr\u003e\r\nWhenever Thalia and The Gitrog Monster attacks, sacrifice a creature or land, then draw a card."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492872_200w.jpg",
+      "modifiedOn": "2026-01-02T15:10:38.867",
+      "name": "Thalia and The Gitrog Monster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492872,
+      "url": "https://www.tcgplayer.com/product/492872/magic-promo-pack-march-of-the-machine-thalia-and-the-gitrog-monster"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Yargle and Multani",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "256"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Frog Spirit Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "18"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I've heard much about you from my daughter,\" Multani rumbled. \"There was a time when I'd balk at your aid, phantom, but she has shown me the merit in Urborg's strange ways.\"\u003cbr\u003e\"Gnshhagghkkapphribbit,\" replied Yargle."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492874_200w.jpg",
+      "modifiedOn": "2023-05-05T12:45:19.347",
+      "name": "Yargle and Multani",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492874,
+      "url": "https://www.tcgplayer.com/product/492874/magic-promo-pack-march-of-the-machine-yargle-and-multani"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Zimone and Dina",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "257"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Dryad"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you draw your second card each turn, target opponent loses 2 life and you gain 2 life.\r\n\u003cbr\u003eT, Sacrifice another creature: Draw a card. You may put a land card from your hand onto the battlefield tapped. If you control eight or more lands, repeat this process once."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492877_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Zimone and Dina",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492877,
+      "url": "https://www.tcgplayer.com/product/492877/magic-promo-pack-march-of-the-machine-zimone-and-dina"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Zurgo and Ojutai",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "258"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Orc Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, haste\r\n\u003cbr\u003e\r\nZurgo and Ojutai has hexproof as long as it entered the battlefield this turn.\r\n\u003cbr\u003e\r\nWhenever one or more Dragons you control deal combat damage to a player or battle, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. You may return one of those Dragons to its owner's hand."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492879_200w.jpg",
+      "modifiedOn": "2023-04-21T04:04:54.413",
+      "name": "Zurgo and Ojutai",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-04-21T00:00:00"
+      },
+      "productId": 492879,
+      "url": "https://www.tcgplayer.com/product/492879/magic-promo-pack-march-of-the-machine-zurgo-and-ojutai"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Realmbreaker the Invasion Tree",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "263"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2, T: Target opponent mills three cards. Put a land card from their graveyard onto the battlefield tapped under your control. It gains \"If this land would leave the battlefield, exile it instead of putting it anywhere else.\"\r\n\u003cbr\u003e10, T, Sacrifice Realmbreaker, the Invasion Tree: Search your library for any number of Praetor cards, put them onto the battlefield, then shuffle."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492883_200w.jpg",
+      "modifiedOn": "2024-08-08T17:17:39.297",
+      "name": "Realmbreaker, the Invasion Tree",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492883,
+      "url": "https://www.tcgplayer.com/product/492883/magic-promo-pack-march-of-the-machine-realmbreaker-the-invasion-tree"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sword of Once and Future",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "265"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature gets +2/+2 and has protection from blue and from black.\r\n\u003cbr\u003eWhenever equipped creature deals combat damage to a player, surveil 2. Then you may cast an instant or sorcery spell with mana value 2 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/492885_200w.jpg",
+      "modifiedOn": "2024-03-16T19:55:27.89",
+      "name": "Sword of Once and Future",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 492885,
+      "url": "https://www.tcgplayer.com/product/492885/magic-promo-pack-march-of-the-machine-sword-of-once-and-future"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ghalta and Mavren",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "225"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Dinosaur Vampire"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "12"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "12"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\r\n\u003cbr\u003e\r\nWhenever you attack, choose one —\r\n\u003cbr\u003e\r\n• Create a tapped and attacking X/X green Dinosaur creature token with trample, where X is the greatest power among other attacking creatures.\r\n\u003cbr\u003e\r\n• Create X 1/1 white Vampire creature tokens with lifelink, where X is the number of other attacking creatures."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/494639_200w.jpg",
+      "modifiedOn": "2026-01-02T15:04:09.19",
+      "name": "Ghalta and Mavren",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 494639,
+      "url": "https://www.tcgplayer.com/product/494639/magic-promo-pack-march-of-the-machine-ghalta-and-mavren"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kogla and Yidaro",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "244"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Ape Dinosaur Turtle"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "7"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "7"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Kogla and Yidaro enters the battlefield, choose one —\r\n\u003cbr\u003e\r\n• It gains trample and haste until end of turn.\r\n\u003cbr\u003e\r\n• It fights target creature you don't control.\r\n\u003cbr\u003e\r\n2RG, Discard Kogla and Yidaro: Destroy up to one target artifact or enchantment. Shuffle Kogla and Yidaro into your library from your graveyard, then draw a card."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/494649_200w.jpg",
+      "modifiedOn": "2023-12-23T02:46:11.807",
+      "name": "Kogla and Yidaro",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 494649,
+      "url": "https://www.tcgplayer.com/product/494649/magic-promo-pack-march-of-the-machine-kogla-and-yidaro"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Glissa Herald of Predation",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "226"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Phyrexian Zombie Elf"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of combat on your turn, choose one —\r\n\u003cbr\u003e\r\n• Incubate 2 twice. \u003cem\u003e(To incubate 2, create an Incubator token with two +1/+1 counters on it and \"2: Transform this artifact.\" It transforms into a 0/0 Phyrexian artifact creature.)\u003c/em\u003e\r\n\u003cbr\u003e\r\n• Transform all Incubator tokens you control.\r\n\u003cbr\u003e\r\n• Phyrexians you control gain first strike and deathtouch until end of turn."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/494692_200w.jpg",
+      "modifiedOn": "2023-05-05T12:40:25.5",
+      "name": "Glissa, Herald of Predation",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 494692,
+      "url": "https://www.tcgplayer.com/product/494692/magic-promo-pack-march-of-the-machine-glissa-herald-of-predation"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rankle and Torbran",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "252"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Faerie Dwarf"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, first strike, haste\r\n\u003cbr\u003e\r\nWhenever Rankle and Torbran deals combat damage to a player or battle, choose any number —\r\n\u003cbr\u003e\r\n• Each player creates a Treasure token.\r\n\u003cbr\u003e\r\n• Each player sacrifices a creature.\r\n\u003cbr\u003e\r\n• If a source would deal damage to a player or battle this turn, it deals that much damage plus 2 instead."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/494700_200w.jpg",
+      "modifiedOn": "2025-05-15T19:53:41.31",
+      "name": "Rankle and Torbran",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 494700,
+      "url": "https://www.tcgplayer.com/product/494700/magic-promo-pack-march-of-the-machine-rankle-and-torbran"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "See Double",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "77"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "This spell can't be copied.\r\n\u003cbr\u003eChoose one. If an opponent has eight or more cards in their graveyard, you may choose both.\r\n\u003cbr\u003e• Copy target spell. You may choose new targets for the copy. \u003cem\u003e(A copy of a permanent spell becomes a token.)\u003c/em\u003e\r\n\u003cbr\u003e• Create a token that's a copy of target creature."
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/494705_200w.jpg",
+      "modifiedOn": "2025-02-13T12:37:02.597",
+      "name": "See Double",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 494705,
+      "url": "https://www.tcgplayer.com/product/494705/magic-promo-pack-march-of-the-machine-see-double"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Into the Fire",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "144"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose one —\r\n\u003cbr\u003e\r\n• Into the Fire deals 2 damage to each creature, planeswalker, and battle.\r\n\u003cbr\u003e\r\n• Put any number of cards from your hand on the bottom of your library, then draw that many cards plus one."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe rest of the Gatewatch retreated. Chandra and Wrenn went in blazing.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23099,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/499854_200w.jpg",
+      "modifiedOn": "2023-06-09T12:56:30.477",
+      "name": "Into the Fire",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 499854,
+      "url": "https://www.tcgplayer.com/product/499854/magic-promo-pack-march-of-the-machine-into-the-fire"
+    }
+  ],
+  "success": true,
+  "totalItems": 60
+}

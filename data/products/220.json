@@ -1,0 +1,181 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Brain Crusher",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GX03-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Insect"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn, if this card destroyed an opponent's monster by battle and sent it to the Graveyard, you can Special Summon 1 of those destroyed monsters from the Graveyard during the End Phase."
+        }
+      ],
+      "groupId": 220,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26529_200w.jpg",
+      "modifiedOn": "2024-03-28T16:53:10.303",
+      "name": "Brain Crusher",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26529,
+      "url": "https://www.tcgplayer.com/product/26529/yugioh-gx-spirit-caller-promo-brain-crusher"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Hunter Owl",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GX03-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "900"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card gains 500 ATK for each WIND monster on your side of the field. While there is another WIND monster on your side of the field, your opponent cannot select this card as an attack target."
+        }
+      ],
+      "groupId": 220,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26530_200w.jpg",
+      "modifiedOn": "2024-03-28T16:53:10.353",
+      "name": "Hunter Owl",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26530,
+      "url": "https://www.tcgplayer.com/product/26530/yugioh-gx-spirit-caller-promo-hunter-owl"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Masked Chopper",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GX03-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card destroys an opponent's monster by battle, inflict 2000 damage to your opponent."
+        }
+      ],
+      "groupId": 220,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26531_200w.jpg",
+      "modifiedOn": "2024-03-28T16:53:10.46",
+      "name": "Masked Chopper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26531,
+      "url": "https://www.tcgplayer.com/product/26531/yugioh-gx-spirit-caller-promo-masked-chopper"
+    }
+  ],
+  "success": true,
+  "totalItems": 3
+}

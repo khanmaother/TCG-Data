@@ -1,0 +1,65 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Barrel Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "VB5-003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Toss a coin 3 times. If 2 out of 3 results are Heads, destroy 1 monster on your opponent's side of the field. This card's effect can only be used during your own turn, once per turn."
+        }
+      ],
+      "groupId": 1313,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79676_200w.jpg",
+      "modifiedOn": "2025-06-12T21:06:51.73",
+      "name": "Barrel Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79676,
+      "url": "https://www.tcgplayer.com/product/79676/yugioh-the-valuable-book-volume-5-barrel-dragon"
+    }
+  ],
+  "success": true,
+  "totalItems": 1
+}

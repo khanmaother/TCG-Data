@@ -1,0 +1,65 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Light and Darkness Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "LDPP-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Special Summoned. While this card is face-up on the field, its Attribute is also treated as DARK. When a Spell or Trap Card is activated, or the effect of an Effect Monster is activated, that activation is negated and this card loses 500 ATK and DEF. When this card is destroyed and sent to the Graveyard, select 1 monster in your Graveyard. Then destroy all cards you control, and Special Summon that monster."
+        }
+      ],
+      "groupId": 246,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/39397_200w.jpg",
+      "modifiedOn": "2022-12-20T13:28:41.337",
+      "name": "Light and Darkness Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 39397,
+      "url": "https://www.tcgplayer.com/product/39397/yugioh-light-and-darkness-power-pack-light-and-darkness-dragon"
+    }
+  ],
+  "success": true,
+  "totalItems": 1
+}

@@ -1,0 +1,1512 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Arvinox the Mind Flail",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Enchantment Creature — Horror"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "9"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "9"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Arvinox, the Mind Flail isn’t a creature unless you control three or more permanents you don’t own.\r\n\u003cbr\u003eAt the beginning of your end step, exile the bottom card of each opponent’s library face down. For as long as those cards remain exiled, you may look at them, you may cast permanent spells from among them, and you may spend mana as though it were mana of any color to cast those spells."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(=SLD 340)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268610_200w.jpg",
+      "modifiedOn": "2022-11-07T09:26:08.04",
+      "name": "Arvinox, the Mind Flail",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 268610,
+      "url": "https://www.tcgplayer.com/product/268610/magic-slx-cards-arvinox-the-mind-flail"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bjorna Nightfall Alchemist",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T, Sacrifice an artifact: Bjorna, Nightfall Alchemist deals 1 damage to target creature. Goad that creature. \u003cem\u003e(Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)\u003c/em\u003e\r\n\u003cbr\u003eFriends forever \u003cem\u003e(You can have two commanders if both have friends forever.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(=SLD 344)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268613_200w.jpg",
+      "modifiedOn": "2026-01-12T21:04:00.793",
+      "name": "Bjorna, Nightfall Alchemist",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 268613,
+      "url": "https://www.tcgplayer.com/product/268613/magic-slx-cards-bjorna-nightfall-alchemist"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cecily Haunted Mage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Your maximum hand size is eleven.\r\n\u003cbr\u003eWhenever Cecily, Haunted Mage attacks, you draw a card and you lose 1 life. Then if you have eleven or more cards in your hand, you may cast an instant or sorcery spell from your hand without paying its mana cost.\r\n\u003cbr\u003eFriends forever \u003cem\u003e(You can have two commanders if both have friends forever.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(=SLD 343)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268615_200w.jpg",
+      "modifiedOn": "2025-05-15T20:13:55.707",
+      "name": "Cecily, Haunted Mage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 268615,
+      "url": "https://www.tcgplayer.com/product/268615/magic-slx-cards-cecily-haunted-mage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Elmar Ulvenwald Informant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003eWhenever you cast your second spell each turn, untap target creature, then investigate. \u003cem\u003e(Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)\u003c/em\u003e\r\n\u003cbr\u003eFriends forever \u003cem\u003e(You can have two commanders if both have friends forever.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(=SLD 345)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268617_200w.jpg",
+      "modifiedOn": "2022-07-01T19:12:16.117",
+      "name": "Elmar, Ulvenwald Informant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 268617,
+      "url": "https://www.tcgplayer.com/product/268617/magic-slx-cards-elmar-ulvenwald-informant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hargilde Kindly Runechanter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add 2. Spend this mana only to cast artifact spells or activate abilities of artifacts.\r\n\u003cbr\u003eFriends forever \u003cem\u003e(You can have two commanders if both have friends forever.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(=SLD 342)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268618_200w.jpg",
+      "modifiedOn": "2025-05-15T20:13:55.767",
+      "name": "Hargilde, Kindly Runechanter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-29T00:00:00"
+      },
+      "productId": 268618,
+      "url": "https://www.tcgplayer.com/product/268618/magic-slx-cards-hargilde-kindly-runechanter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Othelm Sigardian Outcast",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2, T: Choose target creature card in your graveyard that was put there from the battlefield this turn. Return it to the battlefield tapped.\r\n\u003cbr\u003eFriends forever \u003cem\u003e(You can have two commanders if both have friends forever.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(=SLD 346)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268619_200w.jpg",
+      "modifiedOn": "2025-05-15T20:13:55.83",
+      "name": "Othelm, Sigardian Outcast",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-29T00:00:00"
+      },
+      "productId": 268619,
+      "url": "https://www.tcgplayer.com/product/268619/magic-slx-cards-othelm-sigardian-outcast"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sophina Spearsage Deserter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace\r\n\u003cbr\u003eWhenever Sophina, Spearsage Deserter attacks, investigate once for each nontoken attacking creature.\r\n\u003cbr\u003eFriends forever \u003cem\u003e(You can have two commanders if both have friends forever.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(=SLD 341)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268621_200w.jpg",
+      "modifiedOn": "2025-05-15T20:13:55.927",
+      "name": "Sophina, Spearsage Deserter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 268621,
+      "url": "https://www.tcgplayer.com/product/268621/magic-slx-cards-sophina-spearsage-deserter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wernog Riders Chaplain",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Wernog, Rider’s Chaplain enters or leaves the battlefield, each opponent may investigate. Each opponent who doesn’t loses 1 life. You investigate X times, where X is one plus the number of opponents who investigated this way.\r\n\u003cbr\u003eFriends forever \u003cem\u003e(You can have two commanders if both have friends forever.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(=SLD 347)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268623_200w.jpg",
+      "modifiedOn": "2023-03-17T14:40:46.753",
+      "name": "Wernog, Rider's Chaplain",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 268623,
+      "url": "https://www.tcgplayer.com/product/268623/magic-slx-cards-wernog-riders-chaplain"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Havengul Laboratory",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add C.\r\n\u003cbr\u003e4, T: Investigate.\r\n\u003cbr\u003eAt the beginning of your end step, if you sacrificed three or more clues this turn, transform Havengul Laboratory.\r\n\u003cbr\u003e\u003cbr\u003e---------------------\r\n\u003cbr\u003e\u003cstrong\u003eHavengul Mystery\u003c/strong\u003e\r\n\u003cbr\u003eWhen this land transforms into Havengul Mystery, return target creature card from your graveyard to the battlefield.\r\n\u003cbr\u003eWhen the creature put onto the battlefield with Havengul Mystery leaves the battlefield, transform Havengul Mystery.\r\n\u003cbr\u003eT, Pay 1 life: Add B."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(=SLD 609)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 2,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268625_200w.jpg",
+      "modifiedOn": "2022-12-09T11:35:35.803",
+      "name": "Havengul Laboratory",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 268625,
+      "url": "https://www.tcgplayer.com/product/268625/magic-slx-cards-havengul-laboratory"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Vikya Scorching Stalwart",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Training \u003cem\u003e(Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)\u003c/em\u003e\r\n\u003cbr\u003e\r\n4R, UT, Discard a card: Vikya, Scorching Stalwart deals damage equal to its power to any target. If excess damage was dealt to a creature this way, draw a card. \u003cem\u003e(UT is the untap symbol.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(=SLD 429)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/475511_200w.jpg",
+      "modifiedOn": "2025-12-11T21:25:30.53",
+      "name": "Vikya, Scorching Stalwart",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 475511,
+      "url": "https://www.tcgplayer.com/product/475511/magic-slx-cards-vikya-scorching-stalwart"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Maarika Brutal Gladiator",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "7"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Maarika, Brutal Gladiator must be blocked if able.\r\n\u003cbr\u003e\r\nAs long as it's your turn, Maarika has indestructible.\r\n\u003cbr\u003e\r\nWhenever Maarika deals damage to a creature, if that creature was dealt excess damage this turn, that creature's controller sacrifices a noncreature, nonland permanent."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(=SLD 435)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/475512_200w.jpg",
+      "modifiedOn": "2026-01-16T00:29:02.42",
+      "name": "Maarika, Brutal Gladiator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 475512,
+      "url": "https://www.tcgplayer.com/product/475512/magic-slx-cards-maarika-brutal-gladiator"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Aisha of Sparks and Smoke",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Prowess \u003cem\u003e(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\u003c/em\u003e\r\n\u003cbr\u003e\r\n(R/W): Aisha of Sparks and Smoke gains first strike until end of turn.\r\n\u003cbr\u003e\r\nWhenever Aisha deals combat damage, you may cast a sorcery spell from your hand with mana value less than or equal to that damage without paying its mana cost."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(=SLD 430)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/475513_200w.jpg",
+      "modifiedOn": "2023-04-09T19:08:32.133",
+      "name": "Aisha of Sparks and Smoke",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 475513,
+      "url": "https://www.tcgplayer.com/product/475513/magic-slx-cards-aisha-of-sparks-and-smoke"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Howling Abomination",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Beast Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003e\r\nThe Howling Abomination has trample as long as you've cast three or more spells this turn.\r\n\u003cbr\u003e\r\nWhenever The Howling Abomination becomes the target of a spell, it gets +2/+2 until end of turn and deals 2 damage to each opponent."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(=SLD 431)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/475514_200w.jpg",
+      "modifiedOn": "2025-12-11T21:24:09.233",
+      "name": "The Howling Abomination",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 475514,
+      "url": "https://www.tcgplayer.com/product/475514/magic-slx-cards-the-howling-abomination"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Baldin Century Herdmaster",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "7"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As long as it's your turn, each creature assigns combat damage equal to its toughness rather than its power.\r\n\u003cbr\u003e\r\nWhenever Baldin, Century Herdmaster attacks, up to one hundred target creatures each get +0/+X until end of turn, where X is the number of cards in your hand."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(=SLD 428)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/475515_200w.jpg",
+      "modifiedOn": "2025-02-03T14:45:13.367",
+      "name": "Baldin, Century Herdmaster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 475515,
+      "url": "https://www.tcgplayer.com/product/475515/magic-slx-cards-baldin-century-herdmaster"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Zethi Arcane Blademaster",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "17"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Multikicker (W/U)\r\n\u003cbr\u003e\r\nWhen Zethi, Arcane Blademaster enters the battlefield, exile up to X target instant cards from your graveyard, where X is the number of times Zethi was kicked. Put a kick counter on each of them.\r\n\u003cbr\u003e\r\nWhenever Zethi attacks, copy each exiled card you own with a kick counter on it. You may cast the copies."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(=SLD 432)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/475516_200w.jpg",
+      "modifiedOn": "2025-02-03T14:55:56.707",
+      "name": "Zethi, Arcane Blademaster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 475516,
+      "url": "https://www.tcgplayer.com/product/475516/magic-slx-cards-zethi-arcane-blademaster"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Immard the Stormcleaver",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Immard, the Stormcleaver enters the battlefield or attacks, put a charge counter on it or remove one from it. When you remove a counter this way, choose one —\r\n\u003cbr\u003e\r\n• Immard deals 4 damage to any target.\r\n\u003cbr\u003e\r\n• Immard gains lifelink and indestructible until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(=SLD 434)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/475517_200w.jpg",
+      "modifiedOn": "2025-05-15T20:13:56.517",
+      "name": "Immard, the Stormcleaver",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 475517,
+      "url": "https://www.tcgplayer.com/product/475517/magic-slx-cards-immard-the-stormcleaver"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tadeas Juniper Ascendant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Monk"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Reach\r\n\u003cbr\u003e\r\nTadeas has hexproof unless it's attacking.\r\n\u003cbr\u003e\r\nWhenever a creature you control with reach attacks, untap it and it can't be blocked by creatures with greater power this combat.\r\n\u003cbr\u003e\r\nWhenever one or more creatures you control deal combat damage to a player, draw a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(=SLD 433)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/475518_200w.jpg",
+      "modifiedOn": "2025-02-03T14:53:19.653",
+      "name": "Tadeas, Juniper Ascendant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 475518,
+      "url": "https://www.tcgplayer.com/product/475518/magic-slx-cards-tadeas-juniper-ascendant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Malik Grim Manipulator",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "23"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Rogue"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Malik, Grim Manipulator enters the battlefield, you and target opponent each secretly choose a creature that player controls. Then those choices are revealed, and that player sacrifices those creatures.\r\n\u003cbr\u003e\r\nWhenever an opponent sacrifices a creature, you create a Treasure token."
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/513290_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Malik, Grim Manipulator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-29T00:00:00"
+      },
+      "productId": 513290,
+      "url": "https://www.tcgplayer.com/product/513290/magic-slx-cards-malik-grim-manipulator"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gregor Shrewd Magistrate",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "21"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Advisor"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Skulk \u003cem\u003e(This creature can't be blocked by creatures with greater power.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nWhenever Gregor, Shrewd Magistrate deals combat damage to a player, draw cards equal to its power."
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/513291_200w.jpg",
+      "modifiedOn": "2026-01-12T21:15:06.127",
+      "name": "Gregor, Shrewd Magistrate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 513291,
+      "url": "https://www.tcgplayer.com/product/513291/magic-slx-cards-gregor-shrewd-magistrate"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hansk Slayer Zealot",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "22"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Archer"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your upkeep, target opponent creates three Walker tokens. \u003cem\u003e(They're 2/2 black Zombie creatures.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nT: Hansk, Slayer Zealot deals 2 damage to target creature.\r\n\u003cbr\u003e\r\nWhenever a Zombie an opponent controls dies, draw a card."
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/513292_200w.jpg",
+      "modifiedOn": "2025-10-10T01:43:38.67",
+      "name": "Hansk, Slayer Zealot",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 513292,
+      "url": "https://www.tcgplayer.com/product/513292/magic-slx-cards-hansk-slayer-zealot"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Enkira Hostile Scavenger",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "20"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Enkira, Hostile Scavenger enters the battlefield, create two Walker tokens. \u003cem\u003e(They're 2/2 black Zombie creatures.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nAs long as Enkira is equipped, it must be blocked if able.\r\n\u003cbr\u003e\r\nWhenever Enkira and at least two Zombies attack, Enkira gains indestructible until end of turn/"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/513294_200w.jpg",
+      "modifiedOn": "2025-10-10T00:42:47.893",
+      "name": "Enkira, Hostile Scavenger",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 513294,
+      "url": "https://www.tcgplayer.com/product/513294/magic-slx-cards-enkira-hostile-scavenger"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Greymond Avacyns Stalwart",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "18"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As Greymond, Avacyn's Stalwart enters the battlefield, choose two abilities from among first strike, vigilance, and lifelink.\r\n\u003cbr\u003e\r\nHumans you control have each of the chosen abilities.\r\n\u003cbr\u003e\r\nAs long as you control four or more Humans, Humans you control get +2/+2."
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/513295_200w.jpg",
+      "modifiedOn": "2026-01-14T06:12:07.487",
+      "name": "Greymond, Avacyn's Stalwart",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 513295,
+      "url": "https://www.tcgplayer.com/product/513295/magic-slx-cards-greymond-avacyns-stalwart"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gisas Favorite Shovel",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "19"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature gets +2/+0 and has menace.\r\n\u003cbr\u003e\r\nWhenever equipped creature attacks, defending player sacrifices a creature. If they do, you create a Walker token. \u003cem\u003e(It's a 2/2 black Zombie creature.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nEquip 4"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/513296_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Gisa's Favorite Shovel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-29T00:00:00"
+      },
+      "productId": 513296,
+      "url": "https://www.tcgplayer.com/product/513296/magic-slx-cards-gisas-favorite-shovel"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rashel Fist of Torm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "24"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Double strike\r\n\u003cbr\u003eAuras you control have exalted. \u003cem\u003e(Whenever a creature you control attacks alone, it gets +1/+1 until end of turn for each instance of exalted among permanents you control.)"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630002_200w.jpg",
+      "modifiedOn": "2025-05-02T18:02:52.14",
+      "name": "Rashel, Fist of Torm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 630002,
+      "url": "https://www.tcgplayer.com/product/630002/magic-slx-cards-rashel-fist-of-torm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mathise Surge Channeler",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "25"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Elf Shaman"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you cast an instant or sorcery spell with mana value 3 or greater, roll a d20.\r\n\u003cbr\u003e1-9 | Each player draws a card.\r\n\u003cbr\u003e10-19 | You draw a card.\r\n\u003cbr\u003e20 | Copy that spell. You may choose new targets for the copy."
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630003_200w.jpg",
+      "modifiedOn": "2025-05-02T18:05:08.363",
+      "name": "Mathise, Surge Channeler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 630003,
+      "url": "https://www.tcgplayer.com/product/630003/magic-slx-cards-mathise-surge-channeler"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Evin Waterdeep Opportunist",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "26"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Rogue"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace\r\n\u003cbr\u003eWard—Sacrifice a creature.\r\n\u003cbr\u003eForge, Neverwinter Charalatan gets a +2/+0 for each Treasure you control.\r\n\u003cbr\u003eWhenever one or more players sacrifice one or more creatures, you create a tapped Treasure token. This ability triggers only once each turn."
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630004_200w.jpg",
+      "modifiedOn": "2025-05-02T18:08:35.643",
+      "name": "Evin, Waterdeep Opportunist",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 630004,
+      "url": "https://www.tcgplayer.com/product/630004/magic-slx-cards-evin-waterdeep-opportunist"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Jurin Leading the Charge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "27"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Barbarian"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003eHolga, Relentless Rager must be blocked if able.\r\n\u003cbr\u003eWhenever Holga attacks, each creature you control attacking a player gets +1/+0 until end of turn for reach creature that player controls."
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630005_200w.jpg",
+      "modifiedOn": "2025-05-02T18:12:23.057",
+      "name": "Jurin, Leading the Charge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 630005,
+      "url": "https://www.tcgplayer.com/product/630005/magic-slx-cards-jurin-leading-the-charge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Themberchaud",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "28"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\r\n\u003cbr\u003eWhen Themberchaud enters the battlefield, he deals X damage to each other creature without flying and each player, where X is the number of Mountains you control.\r\n\u003cbr\u003eYou may exert Themberchaud as he attacks. When you do, he gains flying until end of turn. \u003cem\u003e(An exerted creature won’t untap during your next untap step.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630006_200w.jpg",
+      "modifiedOn": "2025-05-02T18:14:00.653",
+      "name": "Themberchaud",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 630006,
+      "url": "https://www.tcgplayer.com/product/630006/magic-slx-cards-themberchaud"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Casal Lurkwood Pathfinder",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "29"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Tiefling Druid // Bird Bear"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cstrong\u003eCasal, Lurkwood Pathfinder 3G\u003c/strong\u003e\r\n\u003cbr\u003eVigilance\r\n\u003cbr\u003eWhen Casal enters, search your library for a Forest card, put it onto the battlefield tapped, then shuffle.\r\n\u003cbr\u003eWhenever Casal attacks, you may pay 1G. If you do, transform her.\r\n\u003cbr\u003e\r\n\u003cbr\u003e\u003cstrong\u003eCasal, Pathbreaker Owlbear\u003c/strong\u003e\r\n\u003cbr\u003eVigilance, trample\r\n\u003cbr\u003eWhen this creature transforms into Casal, Pathbreaker Owlbear, other legendary creatures you control get +2/+2 and gain trample until end of turn.\r\n\u003cbr\u003eAt the beginning of your upkeep, transform Casal."
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 2,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630007_200w.jpg",
+      "modifiedOn": "2025-05-02T18:17:22.65",
+      "name": "Casal, Lurkwood Pathfinder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 630007,
+      "url": "https://www.tcgplayer.com/product/630007/magic-slx-cards-casal-lurkwood-pathfinder"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bohn Beguiling Balladeer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "30"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Bard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each nonland card in your hand without foretell has foretell. Its foretell cost is equal to its mana cost reduced by 2. \u003cem\u003e(During your turn, you may pay 2 and exile it from your hand face down. Cast it on a later turn for its foretell cost.)\u003c/em\u003e\r\n\u003cbr\u003eWhenever you cast your second spell each turn, goad target creature an opponent controls."
+        }
+      ],
+      "groupId": 3054,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630008_200w.jpg",
+      "modifiedOn": "2025-05-02T18:19:36.53",
+      "name": "Bohn, Beguiling Balladeer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 630008,
+      "url": "https://www.tcgplayer.com/product/630008/magic-slx-cards-bohn-beguiling-balladeer"
+    }
+  ],
+  "success": true,
+  "totalItems": 30
+}

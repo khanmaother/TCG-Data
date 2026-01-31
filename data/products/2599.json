@@ -1,0 +1,4965 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Blast Zone WAR",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "244"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Blast Zone enters the battlefield with a charge counter on it. \r\n\u003cbr\u003eT, Add C.\r\n\u003cbr\u003eXX, T: Put X charge counters on Blast Zone.\r\n\u003cbr\u003e3, T, Sacrifice Blast Zone: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Blast Zone."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207604_200w.jpg",
+      "modifiedOn": "2022-11-22T16:34:14.45",
+      "name": "Blast Zone (WAR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207604,
+      "url": "https://www.tcgplayer.com/product/207604/magic-promo-pack-theros-beyond-death-blast-zone-war"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tamiyo Collector of Tales",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "220"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Tamiyo"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Spells and abilities your opponents control can’t cause you to discard cards or sacrifice permanents.\r\n\u003cbr\u003e[+1]: Choose a nonland card name, then reveal the top four cards of your library. Put all cards with the chosen name from among them into your hand and the rest into your graveyard.\r\n\u003cbr\u003e[-3]: Return target card from your graveyard to your hand."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207606_200w.jpg",
+      "modifiedOn": "2022-04-19T18:49:35.607",
+      "name": "Tamiyo, Collector of Tales",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207606,
+      "url": "https://www.tcgplayer.com/product/207606/magic-promo-pack-theros-beyond-death-tamiyo-collector-of-tales"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Feather the Redeemed",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "197"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Angel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nWhenever you cast an instant or sorcery spell that targets a creature you control, exile that card instead of putting it into your graveyard as it resolves. If you do, return it to your hand at the beginning of the next end step."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207608_200w.jpg",
+      "modifiedOn": "2021-02-05T13:40:20.587",
+      "name": "Feather, the Redeemed",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207608,
+      "url": "https://www.tcgplayer.com/product/207608/magic-promo-pack-theros-beyond-death-feather-the-redeemed"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Disallow",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "31"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Counter target spell, activated ability, or triggered ability. \u003cem\u003e(Mana abilities can't be targeted.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"How easily your flames are quenched.\" —Baral, Chief of Compliance\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207610_200w.jpg",
+      "modifiedOn": "2024-03-20T21:36:09.563",
+      "name": "Disallow",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207610,
+      "url": "https://www.tcgplayer.com/product/207610/magic-promo-pack-theros-beyond-death-disallow"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bolass Citadel",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "79"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may look at the top card of your library any time.\r\n\u003cbr\u003e\r\nYou may play the top card of your library. If you cast a spell this way, pay life equal to its converted mana cost rather than pay its mana cost.\r\n\u003cbr\u003e\r\nT, Sacrifice ten nonland permanents: Each opponent loses 10 life."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207612_200w.jpg",
+      "modifiedOn": "2026-01-19T14:11:09.27",
+      "name": "Bolas's Citadel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207612,
+      "url": "https://www.tcgplayer.com/product/207612/magic-promo-pack-theros-beyond-death-bolass-citadel"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Heroic Intervention",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "109"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Permanents you control gain hexproof and indestructible until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Wherever the strong would harm the weak, I will be there.\" —Ajani Goldmane\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207615_200w.jpg",
+      "modifiedOn": "2024-06-14T07:23:31.593",
+      "name": "Heroic Intervention",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207615,
+      "url": "https://www.tcgplayer.com/product/207615/magic-promo-pack-theros-beyond-death-heroic-intervention"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Narsets Reversal",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "62"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Copy target instant or sorcery spell, then return it to its owner’s hand. You may choose new targets for the copy."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“In the disarray of battle, an enemy’s attack may be your most convenient weapon.”  —Narset\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207617_200w.jpg",
+      "modifiedOn": "2021-11-28T19:35:28.583",
+      "name": "Narset's Reversal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207617,
+      "url": "https://www.tcgplayer.com/product/207617/magic-promo-pack-theros-beyond-death-narsets-reversal"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Karn the Great Creator",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Karn"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Activated abilities of artifacts your opponents control can’t be activated.\r\n\u003cbr\u003e[+1]: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness equal to its converted mana cost.\r\n\u003cbr\u003e[-2]: You may choose an artifact card you own from outside the game or in exile, reveal that card, and put it into your hand."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207620_200w.jpg",
+      "modifiedOn": "2024-07-18T16:49:56.423",
+      "name": "Karn, the Great Creator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207620,
+      "url": "https://www.tcgplayer.com/product/207620/magic-promo-pack-theros-beyond-death-karn-the-great-creator"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Aven Mindcensor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Bird Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash \r\n\u003cbr\u003eFlying \r\n\u003cbr\u003eIf an opponent would search a library, that player searches the top four cards of that library instead."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The only question we need to ask is how best to fulfill the will of the God-Pharaoh.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207621_200w.jpg",
+      "modifiedOn": "2022-03-01T22:05:47.073",
+      "name": "Aven Mindcensor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207621,
+      "url": "https://www.tcgplayer.com/product/207621/magic-promo-pack-theros-beyond-death-aven-mindcensor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Temple of Plenty",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "248"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Temple of Plenty enters the battlefield tapped.\r\n\u003cbr\u003eWhen Temple of Plenty enters the battlefield, scry 1.\r\n\u003cbr\u003eT: Add G or W to your mana pool."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207626_200w.jpg",
+      "modifiedOn": "2022-11-28T15:41:43.617",
+      "name": "Temple of Plenty",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207626,
+      "url": "https://www.tcgplayer.com/product/207626/magic-promo-pack-theros-beyond-death-temple-of-plenty"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pull from Tomorrow",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "65"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Draw X cards, then discard a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I do things in my own time.\" —Etha, initiate of the Rhet crop\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207628_200w.jpg",
+      "modifiedOn": "2023-07-08T18:46:31.777",
+      "name": "Pull from Tomorrow",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207628,
+      "url": "https://www.tcgplayer.com/product/207628/magic-promo-pack-theros-beyond-death-pull-from-tomorrow"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Temple of Malice",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "247"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Temple of Malice enters the battlefield tapped.\r\n\u003cbr\u003eWhen Temple of Malice enters the battlefield, scry 1.\r\n\u003cbr\u003eT: Add B or R to your mana pool."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207629_200w.jpg",
+      "modifiedOn": "2021-11-13T21:11:41.493",
+      "name": "Temple of Malice",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207629,
+      "url": "https://www.tcgplayer.com/product/207629/magic-promo-pack-theros-beyond-death-temple-of-malice"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sidisi Undead Vizier",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "120"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Zombie Naga"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Deathtouch \r\n\r\n\u003cbr\u003eExploit \u003cem\u003e(When this creature enters the battlefield, you may sacrifice a creature.) \u003c/em\u003e\r\n\r\n\u003cbr\u003eWhen Sidisi, Undead Vizier exploits a creature, you may search your library for a card, put it into your hand, then shuffle your library."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207631_200w.jpg",
+      "modifiedOn": "2022-11-10T16:04:17.16",
+      "name": "Sidisi, Undead Vizier",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207631,
+      "url": "https://www.tcgplayer.com/product/207631/magic-promo-pack-theros-beyond-death-sidisi-undead-vizier"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Temple of Enlightenment",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "246"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Temple of Enlightenment enters the battlefield tapped.\r\n\u003cbr\u003eWhen Temple of Enlightenment enters the battlefield, scry 1.\r\n\u003cbr\u003eT: Add W or U to your mana pool."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207633_200w.jpg",
+      "modifiedOn": "2025-10-21T22:27:37.45",
+      "name": "Temple of Enlightenment",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207633,
+      "url": "https://www.tcgplayer.com/product/207633/magic-promo-pack-theros-beyond-death-temple-of-enlightenment"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dawn of Hope",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you gain life, you may pay 2. If you do, draw a card.\r\n\u003cbr\u003e3W: Create a 1/1 white Soldier creature token with lifelink."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"To wage war, secure peace within yourself\"—Emmara\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207634_200w.jpg",
+      "modifiedOn": "2022-07-19T13:49:20.007",
+      "name": "Dawn of Hope",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207634,
+      "url": "https://www.tcgplayer.com/product/207634/magic-promo-pack-theros-beyond-death-dawn-of-hope"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Temple of Deceit",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "245"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Temple of Deceit enters the battlefield tapped.\r\n\u003cbr\u003eWhen Temple of Deceit enters the battlefield, scry 1.\r\n\u003cbr\u003eT: Add U or B to your mana pool."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207637_200w.jpg",
+      "modifiedOn": "2025-05-15T19:58:38.317",
+      "name": "Temple of Deceit",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207637,
+      "url": "https://www.tcgplayer.com/product/207637/magic-promo-pack-theros-beyond-death-temple-of-deceit"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Divine Visitation",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If one or more creature token would be created under your control, that many 4/4 white Angel creature tokens with flying and vigilance are created instead."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe angels appreciated the offer but politely declined to eat any birdseed.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207638_200w.jpg",
+      "modifiedOn": "2022-10-05T19:09:28.127",
+      "name": "Divine Visitation",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207638,
+      "url": "https://www.tcgplayer.com/product/207638/magic-promo-pack-theros-beyond-death-divine-visitation"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Venerated Loxodon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "30"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elephant Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Convoke \u003cem\u003e(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or more mana of that creature's color.)\u003c/em\u003e\r\n\u003cbr\u003eWhen Venerated Loxodon enters the battlefield, put a +1/+1 counter on each creature that convoked it."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207640_200w.jpg",
+      "modifiedOn": "2023-03-06T20:58:07.893",
+      "name": "Venerated Loxodon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207640,
+      "url": "https://www.tcgplayer.com/product/207640/magic-promo-pack-theros-beyond-death-venerated-loxodon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Temple of Abandon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "244"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Temple of Abandon enters the battlefield tapped.\r\n\u003cbr\u003eWhen Temple of Abandon enters the battlefield, scry 1.\r\n\u003cbr\u003eT: Add R or G to your mana pool."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207641_200w.jpg",
+      "modifiedOn": "2023-09-14T21:07:37.017",
+      "name": "Temple of Abandon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207641,
+      "url": "https://www.tcgplayer.com/product/207641/magic-promo-pack-theros-beyond-death-temple-of-abandon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Labyrinth of Skophos",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "243"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add C.\r\n\u003cbr\u003e4, T: Remove target attacking or blocking creature from combat."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eFor centuries, the minotaur polis of Skophos was unknown to humans. It remains unexplored.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207644_200w.jpg",
+      "modifiedOn": "2023-07-13T15:34:43.703",
+      "name": "Labyrinth of Skophos",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207644,
+      "url": "https://www.tcgplayer.com/product/207644/magic-promo-pack-theros-beyond-death-labyrinth-of-skophos"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mission Briefing",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "44"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Surveil 2, then choose an instant or sorcery card in your graveyard. You may cast that card this turn. If that card would be put into your graveyard this turn, exile it instead. \u003cem\u003e(To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207646_200w.jpg",
+      "modifiedOn": "2023-04-19T20:54:15.733",
+      "name": "Mission Briefing",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207646,
+      "url": "https://www.tcgplayer.com/product/207646/magic-promo-pack-theros-beyond-death-mission-briefing"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shadowspear",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "236"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature gets +1/+1 and has trample and lifelink.\r\n\u003cbr\u003e1: Permanents your opponents control lose hexproof and indestructible until end of turn.\r\n\u003cbr\u003eEquip 2"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eA weapon of darkness for a warrior of light.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207648_200w.jpg",
+      "modifiedOn": "2025-11-21T16:16:00.097",
+      "name": "Shadowspear",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207648,
+      "url": "https://www.tcgplayer.com/product/207648/magic-promo-pack-theros-beyond-death-shadowspear"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Quasiduplicate",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "51"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Create a token that's a copy of target creature you control.\r\n\u003cbr\u003e\r\nJump-start \u003cem\u003e(You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"My greatest creation—me!\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207650_200w.jpg",
+      "modifiedOn": "2020-01-17T16:16:09.43",
+      "name": "Quasiduplicate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207650,
+      "url": "https://www.tcgplayer.com/product/207650/magic-promo-pack-theros-beyond-death-quasiduplicate"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nyx Lotus",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "235"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Nyx Lotus enters the battlefield tapped.\r\n\u003cbr\u003eT: Choose a color. Add an amount of mana of that color equal to your devotion to that color. \u003cem\u003e(Your devotion is the number of mana symbols of that color in the mana costs of permanents you control.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207653_200w.jpg",
+      "modifiedOn": "2024-04-21T06:16:58.187",
+      "name": "Nyx Lotus",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207653,
+      "url": "https://www.tcgplayer.com/product/207653/magic-promo-pack-theros-beyond-death-nyx-lotus"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Uro Titan of Natures Wrath",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "229"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elder Giant"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Uro enters the battlefield, sacrifice it unless it escaped.\r\n\u003cbr\u003eWhenever Uro enters the battlefield or attacks, you gain 3 life and draw a card, then you may put a land card from your hand onto the battlefield.\r\n\u003cbr\u003eEscape —GGUU, Exile five other cards from your graveyard. \u003cem\u003e(You may cast this card from your graveyard for its escape cost.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207654_200w.jpg",
+      "modifiedOn": "2022-03-16T19:36:02.977",
+      "name": "Uro, Titan of Nature's Wrath",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207654,
+      "url": "https://www.tcgplayer.com/product/207654/magic-promo-pack-theros-beyond-death-uro-titan-of-natures-wrath"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Polukranos Unchained",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "224"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Zombie Hydra"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "0"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Polukranos enters the battlefield with six +1/+1 counters on it. It escapes with twelve +1/+1 counters on it instead.\r\n\u003cbr\u003eIf damage would be dealt to Polukranos while it has a +1/+1 counter on it, prevent that damage and remove that many +1/+1 counters from it.\r\n\u003cbr\u003e1BG: Polukranos fights another target creature.\r\n\u003cbr\u003eEscape—4BG, Exile six other cards from your graveyard."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207655_200w.jpg",
+      "modifiedOn": "2020-01-17T16:21:46.907",
+      "name": "Polukranos, Unchained",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207655,
+      "url": "https://www.tcgplayer.com/product/207655/magic-promo-pack-theros-beyond-death-polukranos-unchained"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mausoleum Secrets",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "75"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eUndergrowth\u003c/em\u003e — Search your library for a black card with converted mana cost less than or equal to the number of creature cards in your graveyard, reveal it, put it into your hand, then shuffle your library."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207656_200w.jpg",
+      "modifiedOn": "2022-06-16T18:09:51.78",
+      "name": "Mausoleum Secrets",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207656,
+      "url": "https://www.tcgplayer.com/product/207656/magic-promo-pack-theros-beyond-death-mausoleum-secrets"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ritual of Soot",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "84"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy all creatures with converted mana cost 3 or less."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eOnly the patrol's armor was found, so tainted with the acrid smell of sudden death that it could never be worn again.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207657_200w.jpg",
+      "modifiedOn": "2021-12-15T05:20:26.67",
+      "name": "Ritual of Soot",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207657,
+      "url": "https://www.tcgplayer.com/product/207657/magic-promo-pack-theros-beyond-death-ritual-of-soot"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kunoros Hound of Athreos",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "222"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Hound"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance, menace, lifelink\r\n\u003cbr\u003e\r\nCreature cards in graveyards can’t enter the battlefield.\r\n\u003cbr\u003e\r\nPlayers can’t cast spells from graveyards."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207658_200w.jpg",
+      "modifiedOn": "2020-01-17T16:24:33.39",
+      "name": "Kunoros, Hound of Athreos",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207658,
+      "url": "https://www.tcgplayer.com/product/207658/magic-promo-pack-theros-beyond-death-kunoros-hound-of-athreos"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kroxa Titan of Deaths Hunger",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "221"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elder Giant"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Kroxa enters the battlefield, sacrifice it unless it escaped.\r\n\u003cbr\u003eWhenever Kroxa enters the battlefield or attacks, each opponent discards a card, then each opponent who didn't discard a nonland card this way loses 3 life.\r\n\u003cbr\u003eEscape—BBRR, Exile five other cards from your graveyard. \u003cem\u003e(You may cast this card from your graveyard for its escape cost.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207659_200w.jpg",
+      "modifiedOn": "2024-03-14T13:14:29.527",
+      "name": "Kroxa, Titan of Death's Hunger",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207659,
+      "url": "https://www.tcgplayer.com/product/207659/magic-promo-pack-theros-beyond-death-kroxa-titan-of-deaths-hunger"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Klothys God of Destiny",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "220"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Enchantment Creature — God"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Indestructible\r\n\u003cbr\u003eAs long as your devotion to red and green is less than seven, Klothys isn't a creature.\r\n\u003cbr\u003eAt the beginning of your precombat main phase, exile target card from a graveyard. If it was a land card, add R or G. Otherwise, you gain 2 life and Klothys deals 2 damage to each opponent."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207660_200w.jpg",
+      "modifiedOn": "2020-10-01T17:20:49.57",
+      "name": "Klothys, God of Destiny",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207660,
+      "url": "https://www.tcgplayer.com/product/207660/magic-promo-pack-theros-beyond-death-klothys-god-of-destiny"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Haktos the Unscarred",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "218"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haktos the Unscarred attacks each combat if able.\r\n\u003cbr\u003eAs Haktos enters the battlefield, choose 2, 3, or 4 at random.\r\n\u003cbr\u003eHaktos has protection from each converted mana cost other than the chosen number."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Many have sought my weakness. All have failed.\"\u003c/eM\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207661_200w.jpg",
+      "modifiedOn": "2021-01-13T00:48:19.077",
+      "name": "Haktos the Unscarred",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207661,
+      "url": "https://www.tcgplayer.com/product/207661/magic-promo-pack-theros-beyond-death-haktos-the-unscarred"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gallia of the Endless Dance",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "217"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Satyr"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003e\r\nOther Satyrs you control get +1/+1 and have haste.\r\n\u003cbr\u003e\r\nWhenever you attack with three or more creatures, you may discard a card at random. If you do, draw two cards."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"There's no success like excess!\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207662_200w.jpg",
+      "modifiedOn": "2020-01-17T16:28:57.153",
+      "name": "Gallia of the Endless Dance",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207662,
+      "url": "https://www.tcgplayer.com/product/207662/magic-promo-pack-theros-beyond-death-gallia-of-the-endless-dance"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Legion Warboss",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "109"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Goblin Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Mentor \u003cem\u003e(Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lower power.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nAt the beginning of combat on your turn, create a 1/1 red Goblin creature token. That creature gains haste until end of turn and attacks this combat if able."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207663_200w.jpg",
+      "modifiedOn": "2020-01-17T16:30:01.92",
+      "name": "Legion Warboss",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207663,
+      "url": "https://www.tcgplayer.com/product/207663/magic-promo-pack-theros-beyond-death-legion-warboss"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Enigmatic Incarnation",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "215"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your end step, you may sacrifice another enchantment. If you do, search your library for a creature card with converted mana cost equal to 1 plus the sacrificed enchantment's converted mana cost, put that card onto the battlefield, then shuffle your library."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207664_200w.jpg",
+      "modifiedOn": "2023-07-14T17:43:29.543",
+      "name": "Enigmatic Incarnation",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207664,
+      "url": "https://www.tcgplayer.com/product/207664/magic-promo-pack-theros-beyond-death-enigmatic-incarnation"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pelt Collector",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "141"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elf Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever another creature you control enters the battlefield or dies, if that creature's power is greater than Pelt Collector's, put a +1/+1 counter on Pelt Collector. \r\n\u003cbr\u003eAs long as Pelt Collector has three or more +1/+1 counters on it, it has trample."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207665_200w.jpg",
+      "modifiedOn": "2020-01-17T16:30:52.177",
+      "name": "Pelt Collector",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207665,
+      "url": "https://www.tcgplayer.com/product/207665/magic-promo-pack-theros-beyond-death-pelt-collector"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dream Trawler",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "214"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Sphinx"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, lifelink\r\n\u003cbr\u003eWhenever you draw a card, Dream Trawler gets +1/+0 until end of turn.\r\n\u003cbr\u003eWhenever Dream Trawler attacks, draw a card.\r\n\u003cbr\u003eDiscard a card: Dream Trawler gains hexproof until end of turn. Tap it."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207666_200w.jpg",
+      "modifiedOn": "2024-04-26T15:45:03.87",
+      "name": "Dream Trawler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207666,
+      "url": "https://www.tcgplayer.com/product/207666/magic-promo-pack-theros-beyond-death-dream-trawler"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dalakos Crafter of Wonders",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "212"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Merfolk Artificer"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add colorless colorless. Spend this mana only to cast artifact spells or active abilities of artifacts.\r\n\u003cbr\u003eEquipped creatures you control have flying and haste."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eHis imagination soars from the depths of the sea to the heights of the heavens.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207668_200w.jpg",
+      "modifiedOn": "2020-01-17T16:32:12.19",
+      "name": "Dalakos, Crafter of Wonders",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207668,
+      "url": "https://www.tcgplayer.com/product/207668/magic-promo-pack-theros-beyond-death-dalakos-crafter-of-wonders"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Deafening Clarion",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "165"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose one or both — \r\n\u003cbr\u003e• Deafening Clarion deals 3 damage to each creature.\r\n\u003cbr\u003e• Creatures you control gain lifelink until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Commander, what's the signal to attack?\"\u003cbr\u003e\"You'll know.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207669_200w.jpg",
+      "modifiedOn": "2023-06-08T20:18:36.077",
+      "name": "Deafening Clarion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207669,
+      "url": "https://www.tcgplayer.com/product/207669/magic-promo-pack-theros-beyond-death-deafening-clarion"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Unmoored Ego",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "212"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose a card name. Search target opponent's graveyard, hand, and library for up to four cards with that name and exile them. That player shuffles their library, then draws a card for each card exiled from their hand this way."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eA well-chosen word can restore a mind or snap its tethers.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207672_200w.jpg",
+      "modifiedOn": "2022-05-24T15:06:25.507",
+      "name": "Unmoored Ego",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207672,
+      "url": "https://www.tcgplayer.com/product/207672/magic-promo-pack-theros-beyond-death-unmoored-ego"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Calix Destinys Hand",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "211"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Calix"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "[+1]: Look at the top four cards of your library. You may reveal an enchantment card from among them and put that card into your hand. Put the rest on the bottom of your library in a random order.\r\n\u003cbr\u003e[-3]: Exile target creature or enchantment you don't control until target enchantment you control leaves the battlefield.\r\n\u003cbr\u003e[-7]: Return all enchantment cards from your graveyard to the battlefield."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207673_200w.jpg",
+      "modifiedOn": "2023-07-13T17:10:54.127",
+      "name": "Calix, Destiny's Hand",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207673,
+      "url": "https://www.tcgplayer.com/product/207673/magic-promo-pack-theros-beyond-death-calix-destinys-hand"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Vraska Golgari Queen",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "213"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Vraska"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "[+2]: You may sacrifice another permanent. If you do, gain 1 life and draw a card.\r\n\u003cbr\u003e[-3]: Destroy target nonland permanent with converted mana cost 3 or less.\r\n\u003cbr\u003e[-9]: You get an emblem with \"Whenever a creature you control deals combat damage to a player, that player loses the game.\""
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207675_200w.jpg",
+      "modifiedOn": "2020-11-26T13:50:57.56",
+      "name": "Vraska, Golgari Queen",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207675,
+      "url": "https://www.tcgplayer.com/product/207675/magic-promo-pack-theros-beyond-death-vraska-golgari-queen"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bronzehide Lion",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "210"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Cat"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "GW: Bronzehide Lion gains Indestructible until end of turn.\r\n\u003cbr\u003eWhen Bronzehide Lion dies, return it to the battlefield. It's an Aura enchantment with enchant creature you control and \"GW: Enchanted creature gains indestructible until end of turn,\" and it loses all other abilities."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207677_200w.jpg",
+      "modifiedOn": "2023-03-20T22:40:09.657",
+      "name": "Bronzehide Lion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207677,
+      "url": "https://www.tcgplayer.com/product/207677/magic-promo-pack-theros-beyond-death-bronzehide-lion"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Atris Oracle of Half Truths",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "209"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Advisor"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace\r\n\u003cbr\u003eWhen Atris, Oracle of Half-Truths enters the battlefield, target opponent looks at the top three cards of your library and separates them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207678_200w.jpg",
+      "modifiedOn": "2020-01-17T16:35:11.28",
+      "name": "Atris, Oracle of Half-Truths",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207678,
+      "url": "https://www.tcgplayer.com/product/207678/magic-promo-pack-theros-beyond-death-atris-oracle-of-half-truths"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ashiok Nightmare Muse",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "208"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Ashiok"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "[+1]: Create a 2/3 blue and black Nightmare creature token with \"Whenever this creature attacks or blocks, each opponent exiles the top two cards of their library.\"\r\n\u003cbr\u003e[-3]: Return target nonland permanent to its owner's hand, then that player exiles a card from their hand.\r\n\u003cbr\u003e[-7]: You may cast up to three face-up cards your opponents own from exile without paying their mana costs."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207681_200w.jpg",
+      "modifiedOn": "2023-07-20T12:27:01.133",
+      "name": "Ashiok, Nightmare Muse",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207681,
+      "url": "https://www.tcgplayer.com/product/207681/magic-promo-pack-theros-beyond-death-ashiok-nightmare-muse"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mirage Mirror",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "165"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2: Mirage Mirror becomes a copy of target artifact, creature, enchantment, or land until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eMost mirrors show your reflection. Others show you your potential.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207682_200w.jpg",
+      "modifiedOn": "2022-09-26T14:57:27.253",
+      "name": "Mirage Mirror",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207682,
+      "url": "https://www.tcgplayer.com/product/207682/magic-promo-pack-theros-beyond-death-mirage-mirror"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Combustible Gearhulk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "112"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Construct"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike\r\n\u003cbr\u003eWhen Combustible Gearhulk enters the battlefield, target opponent may have you draw three cards. If the player doesn't, put the top three cards of your library into your graveyard, then Combustible Gearhulk deals damage to that player equal to the total converted mana cost of those cards."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207684_200w.jpg",
+      "modifiedOn": "2020-01-17T16:37:18.057",
+      "name": "Combustible Gearhulk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207684,
+      "url": "https://www.tcgplayer.com/product/207684/magic-promo-pack-theros-beyond-death-combustible-gearhulk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Allure of the Unknown",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "207"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Reveal the top six cards of your library. An opponent exiles a nonland card from among them, then you put the rest into your hand. That opponent may cast the exiled card without paying its mana cost."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe light of hope blinded Pantor to the ills of the world.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207685_200w.jpg",
+      "modifiedOn": "2020-01-17T16:37:18.917",
+      "name": "Allure of the Unknown",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207685,
+      "url": "https://www.tcgplayer.com/product/207685/magic-promo-pack-theros-beyond-death-allure-of-the-unknown"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Setessan Champion",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "198"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eConstellation\u003c/em\u003e — Whenever an enchantment enters the battlefield under your control, put a +1/+1 counter on Setessan Champion and draw a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“A blessing is not a gift. It is a duty.”\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207687_200w.jpg",
+      "modifiedOn": "2023-07-12T21:39:52.38",
+      "name": "Setessan Champion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207687,
+      "url": "https://www.tcgplayer.com/product/207687/magic-promo-pack-theros-beyond-death-setessan-champion"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Clever Impersonator",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "34"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Shapeshifter"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "0"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may have Clever Impersonator enter the battlefield as a copy of any nonland permanent on the battlefield."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Our own selves are the greatest obstacles to enlightenment.\" -Narset, khan of the Jeskai\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207689_200w.jpg",
+      "modifiedOn": "2022-08-15T14:23:43.617",
+      "name": "Clever Impersonator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207689,
+      "url": "https://www.tcgplayer.com/product/207689/magic-promo-pack-theros-beyond-death-clever-impersonator"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "In Garruks Wake",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "100"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy all creatures you don't control and all planeswalkers you don't control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eBeyond pain, beyond obsession and wild despair, there lies a place of twisted power only the most tormented souls can reach.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207691_200w.jpg",
+      "modifiedOn": "2025-01-08T16:09:04.693",
+      "name": "In Garruk's Wake",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207691,
+      "url": "https://www.tcgplayer.com/product/207691/magic-promo-pack-theros-beyond-death-in-garruks-wake"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nyxbloom Ancient",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "190"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\r\n\u003cbr\u003eIf you tap a permanent for mana, it produces three times as much of that mana instead."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eAncient yet ever-young, it is wise and subtle—and cruel and reckless as the spring itself.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207692_200w.jpg",
+      "modifiedOn": "2022-06-24T15:40:18.123",
+      "name": "Nyxbloom Ancient",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207692,
+      "url": "https://www.tcgplayer.com/product/207692/magic-promo-pack-theros-beyond-death-nyxbloom-ancient"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nyleas Intervention",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "188"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose one —\r\n\u003cbr\u003e• Search your library for up to X land cards, reveal them, put them into your hand, then shuffle your library.\r\n\u003cbr\u003e• Nylea’s Intervention deals twice X damage to each creature with flying."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“I bring a wilderness no law can tame.”\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207694_200w.jpg",
+      "modifiedOn": "2022-09-26T16:29:45.713",
+      "name": "Nylea's Intervention",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207694,
+      "url": "https://www.tcgplayer.com/product/207694/magic-promo-pack-theros-beyond-death-nyleas-intervention"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Soul of New Phyrexia",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "231"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Avatar"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\r\n\u003cbr\u003e5: Permanents you control gain indestructible until end of turn.\r\n\u003cbr\u003e5, Exile Soul of New Phyrexia from your graveyard: Permanents you control gain indestructible until end of turn."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207695_200w.jpg",
+      "modifiedOn": "2020-01-17T16:40:28.46",
+      "name": "Soul of New Phyrexia",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207695,
+      "url": "https://www.tcgplayer.com/product/207695/magic-promo-pack-theros-beyond-death-soul-of-new-phyrexia"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nylea Keen Eyed",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "185"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Enchantment Creature — God"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Indestructible\r\n\u003cbr\u003eAs long as your devotion to green is less than five, Nylea isn't a creature.\r\n\u003cbr\u003eCreature spell you cast cost 1 less to cast.\r\n\u003cbr\u003e2G: Reveal the top card of your library. If it's a creature card, put it into your hand. Otherwise, you may put it into your graveyard."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207697_200w.jpg",
+      "modifiedOn": "2020-01-17T16:41:08.11",
+      "name": "Nylea, Keen-Eyed",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207697,
+      "url": "https://www.tcgplayer.com/product/207697/magic-promo-pack-theros-beyond-death-nylea-keen-eyed"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Liliana Dreadhorde General",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "97"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Liliana"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever a creature you control dies, draw a card.\r\n\u003cbr\u003e\r\n[+1]: Create a 2/2 black Zombie creature token.\r\n\u003cbr\u003e\r\n[-4]: Each player sacrifices two creatures.\r\n\u003cbr\u003e\r\n[-9]: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207700_200w.jpg",
+      "modifiedOn": "2024-10-08T20:02:29.94",
+      "name": "Liliana, Dreadhorde General",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207700,
+      "url": "https://www.tcgplayer.com/product/207700/magic-promo-pack-theros-beyond-death-liliana-dreadhorde-general"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nessian Boar",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "181"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Boar"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "10"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All creatures able to block Nessian Boar do so.\r\n\u003cbr\u003eWhenever Nessian Boar becomes blocked by a creature, that creature’s controller draws a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eRenata led the best hunters in all of Theros on a quest to bring down the terror of the Setessan wilds.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207701_200w.jpg",
+      "modifiedOn": "2022-05-20T12:30:46.737",
+      "name": "Nessian Boar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207701,
+      "url": "https://www.tcgplayer.com/product/207701/magic-promo-pack-theros-beyond-death-nessian-boar"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mantle of the Wolf",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "178"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant Creature\r\n\u003cbr\u003eEnchanted creature gets +4/+4.\r\n\u003cbr\u003eWhen Mantle of the Wolf is put into a graveyard from the battlefield, create two 2/2 green Wolf creature tokens."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Be fearless, for a furious rebirth awaits you.\"—Nylea, god of the hunt\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207702_200w.jpg",
+      "modifiedOn": "2020-01-17T16:43:33.563",
+      "name": "Mantle of the Wolf",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207702,
+      "url": "https://www.tcgplayer.com/product/207702/magic-promo-pack-theros-beyond-death-mantle-of-the-wolf"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sword of the Animist",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "240"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature gets +1/+1.\r\n\u003cbr\u003eWhenever equipped creature attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.\r\n\u003cbr\u003eEquip 2"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe blade glows only for Zendikar's chosen.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207704_200w.jpg",
+      "modifiedOn": "2022-09-26T15:50:19.797",
+      "name": "Sword of the Animist",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207704,
+      "url": "https://www.tcgplayer.com/product/207704/magic-promo-pack-theros-beyond-death-sword-of-the-animist"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mass Manipulation",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "42"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Gain control of X target creatures and/or planeswalkers."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThose who cross the Dimir find enemies everywhere they turn.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207705_200w.jpg",
+      "modifiedOn": "2020-01-17T16:44:22.227",
+      "name": "Mass Manipulation",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207705,
+      "url": "https://www.tcgplayer.com/product/207705/magic-promo-pack-theros-beyond-death-mass-manipulation"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The First Iroan Games",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "170"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Saga"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003e(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)\u003c/em\u003e\r\n\u003cbr\u003e(I)— Create a 1/1 white Human Soldier token.\r\n\u003cbr\u003e(II)— Put three +1/+1 counters on target creature you control.\r\n\u003cbr\u003e(III)— If you control a creature with power 4 or greater, draw two cards.\r\n\u003cbr\u003e(IV)— Create a Gold token."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207706_200w.jpg",
+      "modifiedOn": "2023-06-26T16:22:26.49",
+      "name": "The First Iroan Games",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207706,
+      "url": "https://www.tcgplayer.com/product/207706/magic-promo-pack-theros-beyond-death-the-first-iroan-games"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Biogenic Ooze",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "122"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Ooze"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Biogenic Ooze enters the battlefield, create a 2/2 green Ooze creature token.\r\n\u003cbr\u003eAt the beginning of your end step, put a +1/+1 counter on each Ooze you control.\r\n\u003cbr\u003e1GGG: Create a 2/2 green Ooze creature token."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207708_200w.jpg",
+      "modifiedOn": "2020-01-17T16:45:17.18",
+      "name": "Biogenic Ooze",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207708,
+      "url": "https://www.tcgplayer.com/product/207708/magic-promo-pack-theros-beyond-death-biogenic-ooze"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Guardian Project",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "130"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever a nontoken creature enters the battlefield under your control, if it doesn't have the same name as another creature or a creature card in your graveyard, draw a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eSimic's strength comes from its diversity.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207709_200w.jpg",
+      "modifiedOn": "2023-12-08T15:04:25.877",
+      "name": "Guardian Project",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207709,
+      "url": "https://www.tcgplayer.com/product/207709/magic-promo-pack-theros-beyond-death-guardian-project"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Eerie Interlude",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exile any number of target creatures you control. Return those cards to the battlefield under their owner's control at the beginning of the next end step."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe barrier between existence and oblivion is thinner than you know.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207710_200w.jpg",
+      "modifiedOn": "2020-07-16T19:12:35.06",
+      "name": "Eerie Interlude",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207710,
+      "url": "https://www.tcgplayer.com/product/207710/magic-promo-pack-theros-beyond-death-eerie-interlude"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Anguished Unmaking",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "242"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exile target nonland permanent. You lose 3 life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eSorin had created Avacyn, so it was a cruelty beyond imagining, a pain beyond description, that it fell upon him to end her forever.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207711_200w.jpg",
+      "modifiedOn": "2025-12-05T23:16:15.307",
+      "name": "Anguished Unmaking",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207711,
+      "url": "https://www.tcgplayer.com/product/207711/magic-promo-pack-theros-beyond-death-anguished-unmaking"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Archon of Suns Grace",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Archon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, lifelink\r\n\u003cbr\u003e\r\nPegasus creatures you control have lifelink.\r\n\u003cbr\u003e\r\n\u003cem\u003eConstellation\u003c/em\u003e—Whenever an enchantment enters the battlefield under your control create a 2/2 white Pegasus creature token with flying."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207712_200w.jpg",
+      "modifiedOn": "2023-04-14T15:28:37.527",
+      "name": "Archon of Sun's Grace",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207712,
+      "url": "https://www.tcgplayer.com/product/207712/magic-promo-pack-theros-beyond-death-archon-of-suns-grace"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Eidolon of Obstruction",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Spirit"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike\r\n\u003cbr\u003eLoyalty abilities of planeswalkers your opponents control cost 1 more to activate."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eDeath turned admirable conviction into pointless intransigence.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207713_200w.jpg",
+      "modifiedOn": "2020-01-22T22:08:58.367",
+      "name": "Eidolon of Obstruction",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207713,
+      "url": "https://www.tcgplayer.com/product/207713/magic-promo-pack-theros-beyond-death-eidolon-of-obstruction"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Elspeth Conquers Death",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Saga"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003e(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\u003c/em\u003e\r\n\u003cbr\u003eI — Exile target permanent an opponent controls with converted mana cost 3 or greater.\r\n\u003cbr\u003eII — Noncreature spells your opponents cast cost {2} more to cast until your next turn.\r\n\u003cbr\u003eIII — Return target creature or planeswalker card from your graveyard to the battlefield. Put a +1/+1 counter or a loyalty counter on it."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207714_200w.jpg",
+      "modifiedOn": "2024-06-17T18:46:23",
+      "name": "Elspeth Conquers Death",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207714,
+      "url": "https://www.tcgplayer.com/product/207714/magic-promo-pack-theros-beyond-death-elspeth-conquers-death"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Elspeth Suns Nemesis",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Elspeth"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "[-1]: Up to two target creatures you control each get +2/+1 until end of turn.\r\n\u003cbr\u003e[-2]: Create two 1/1 white Human Soldier creature tokens.\r\n\u003cbr\u003e[-3]: You gain 5 life.\r\n\u003cbr\u003eEscape—4WW, Exile four other cards from your graveyard. \u003cem\u003e(You may cast this card from your graveyard for its escape cost.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207715_200w.jpg",
+      "modifiedOn": "2023-07-13T15:01:27.917",
+      "name": "Elspeth, Sun's Nemesis",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207715,
+      "url": "https://www.tcgplayer.com/product/207715/magic-promo-pack-theros-beyond-death-elspeth-suns-nemesis"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Heliod Sun Crowned",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "18"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Enchantment Creature — God"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Indestructible\r\n\u003cbr\u003e\r\nAs long as your devotion to white is less than five, Heliod isn't a creature.\r\n\u003cbr\u003eWhenever you gain life, put a +1/+1 counter on target creature or enchantment you control.\r\n\u003cbr\u003e1W: Another target creature gains lifelink until end of turn."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207716_200w.jpg",
+      "modifiedOn": "2022-08-15T16:27:27.957",
+      "name": "Heliod, Sun-Crowned",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207716,
+      "url": "https://www.tcgplayer.com/product/207716/magic-promo-pack-theros-beyond-death-heliod-sun-crowned"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dryad of the Ilysian Grove",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "169"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Nymph"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may play an additional land on each of your turns.\r\n\u003cbr\u003eLands you control are every basic land type in addition to their other types."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Vine-wreathed, he nurtures life among the dead.\"\u003cbr\u003e—Psemila, Meletian poet\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207717_200w.jpg",
+      "modifiedOn": "2024-10-25T08:29:08.62",
+      "name": "Dryad of the Ilysian Grove",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207717,
+      "url": "https://www.tcgplayer.com/product/207717/magic-promo-pack-theros-beyond-death-dryad-of-the-ilysian-grove"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Heliods Intervention",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "19"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose one—\r\n\u003cbr\u003e\r\n• Destroy X target artifacts and enchantments\r\n\u003cbr\u003e• Target player gains twice X life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I bring a dawn that no night can follow.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207718_200w.jpg",
+      "modifiedOn": "2025-11-13T03:44:15.627",
+      "name": "Heliod's Intervention",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207718,
+      "url": "https://www.tcgplayer.com/product/207718/magic-promo-pack-theros-beyond-death-heliods-intervention"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Idyllic Tutor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "24"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Search your library for an enchantment card, reveal it, put it into your hand, then shuffle your library."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"You are loved, child.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207719_200w.jpg",
+      "modifiedOn": "2022-08-04T19:19:43.28",
+      "name": "Idyllic Tutor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207719,
+      "url": "https://www.tcgplayer.com/product/207719/magic-promo-pack-theros-beyond-death-idyllic-tutor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shatter the Sky",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "37"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each player who controls a creature with power 4 or greater draws a card. Then destroy all creatures."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eWhen the gods go to war, mortals pay the highest price.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207720_200w.jpg",
+      "modifiedOn": "2022-03-19T18:09:30.147",
+      "name": "Shatter the Sky",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207720,
+      "url": "https://www.tcgplayer.com/product/207720/magic-promo-pack-theros-beyond-death-shatter-the-sky"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Taranika Akroan Veteran",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "39"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance\r\n\u003cbr\u003eWhenever Taranika, Akroan Veteran attacks, untap another target creature you control. Until end of turn, that creature has base power and toughness 4/4 and gains indestructible."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I like to think Kytheon keeps watch over all of us.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207721_200w.jpg",
+      "modifiedOn": "2023-03-13T20:14:45.27",
+      "name": "Taranika, Akroan Veteran",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207721,
+      "url": "https://www.tcgplayer.com/product/207721/magic-promo-pack-theros-beyond-death-taranika-akroan-veteran"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Arasta of the Endless Web",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "165"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Enchantment Creature — Spider"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Reach\r\n\u003cbr\u003eWhenever an opponent casts an instant or sorcery spell, create a 1/2 green Spider creature token with reach."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eHer webs, spun from her own hair, reach from Nyx to the mortal world and even into the Underworld.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207722_200w.jpg",
+      "modifiedOn": "2023-06-23T14:40:03.517",
+      "name": "Arasta of the Endless Web",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207722,
+      "url": "https://www.tcgplayer.com/product/207722/magic-promo-pack-theros-beyond-death-arasta-of-the-endless-web"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ashioks Erasure",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "43"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\r\n\u003cbr\u003eWhen Ashiok’s Erasure enters the battlefield, exile target spell.\r\n\u003cbr\u003eYour opponents can’t cast spells with the same name as the exiled card.\r\n\u003cbr\u003eWhen Ashiok’s Erasure leaves the battlefield, return the exiled card to its owner’s hand."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207723_200w.jpg",
+      "modifiedOn": "2025-11-13T03:47:13.197",
+      "name": "Ashiok's Erasure",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207723,
+      "url": "https://www.tcgplayer.com/product/207723/magic-promo-pack-theros-beyond-death-ashioks-erasure"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Underworld Breach",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "161"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each nonland card in your graveyard has escape. The escape cost is equal to the card’s mana cost plus exile three other cards from your graveyard.\u003cem\u003e (You may cast cards from your graveyard for their escape cost.)\u003c/em\u003e\r\n\u003cbr\u003eAt the beginning of the end step, sacrifice Underworld Breach."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207724_200w.jpg",
+      "modifiedOn": "2023-12-05T14:18:01.183",
+      "name": "Underworld Breach",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207724,
+      "url": "https://www.tcgplayer.com/product/207724/magic-promo-pack-theros-beyond-death-underworld-breach"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kiora Bests the Sea God",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "52"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Saga"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003e(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\u003c/em\u003e\r\n\u003cbr\u003e(I)— Create an 8/8 blue Kraken creature token with hexproof.\r\n\u003cbr\u003e(II)— Tap all nonland permanents target opponent controls. They don't untap during their controller's next untap step.\r\n\u003cbr\u003e(III)— Gain control of target permanent an opponent controls. Untap it."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207725_200w.jpg",
+      "modifiedOn": "2020-01-22T22:09:15.507",
+      "name": "Kiora Bests the Sea God",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207725,
+      "url": "https://www.tcgplayer.com/product/207725/magic-promo-pack-theros-beyond-death-kiora-bests-the-sea-god"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tectonic Giant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "158"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental Giant"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Tectonic Giant attacks or becomes the target of a spell an opponent controls, choose one —\r\n\u003cbr\u003e• Tectonic Giant deals 3 damage to each opponent.\r\n\u003cbr\u003e• Exile the top two cards of your library. Choose one of them. Until the end of your next turn, you may play that card."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207726_200w.jpg",
+      "modifiedOn": "2022-08-03T17:24:30.973",
+      "name": "Tectonic Giant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207726,
+      "url": "https://www.tcgplayer.com/product/207726/magic-promo-pack-theros-beyond-death-tectonic-giant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Storms Wrath",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "157"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Storm’s Wrath deals 4 damage to each creature and each planeswalker."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eDistant thunder rumbled, a dread forewarning of Keranos’s displeasure.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207727_200w.jpg",
+      "modifiedOn": "2020-01-17T16:59:49.443",
+      "name": "Storm's Wrath",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207727,
+      "url": "https://www.tcgplayer.com/product/207727/magic-promo-pack-theros-beyond-death-storms-wrath"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Storm Herald",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "156"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Shaman"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003e\r\nWhen Storm Herald enters the battlefield, return any number of Aura cards from your graveyard to the battlefield attached to creatures you control. Exile those Auras at the beginning of your next end step. If those Auras would leave the battlefield, exile them instead of putting them anywhere else."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207728_200w.jpg",
+      "modifiedOn": "2023-03-07T20:11:35.76",
+      "name": "Storm Herald",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207728,
+      "url": "https://www.tcgplayer.com/product/207728/magic-promo-pack-theros-beyond-death-storm-herald"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Purphoross Intervention",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "151"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose one —\r\n\u003cbr\u003e• Create an X/1 red Elemental creature token with trample and haste. Sacrifice it at the beginning of the next end step.\r\n\u003cbr\u003e• Purphoros’s Intervention deals twice X damage to target creature or planeswalker."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“I bring a fire to recast all the world.”\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207729_200w.jpg",
+      "modifiedOn": "2020-01-17T17:01:55.087",
+      "name": "Purphoros's Intervention",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207729,
+      "url": "https://www.tcgplayer.com/product/207729/magic-promo-pack-theros-beyond-death-purphoross-intervention"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Purphoros Bronze Blooded",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "150"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Enchantment Creature — God"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "7"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Indestructible\r\n\u003cbr\u003eAs long as your devotion to red is less than five, Purphoros, Bronze-Blooded isn't a creature.\r\n\u003cbr\u003eOther creatures you control have haste.\r\n\u003cbr\u003e2R: You may put a red creature card or an artifact creature card from your hand onto the battlefield. Sacrifice it at the beginning of the next end step.\u003c"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207730_200w.jpg",
+      "modifiedOn": "2020-12-02T18:40:43.74",
+      "name": "Purphoros, Bronze-Blooded",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207730,
+      "url": "https://www.tcgplayer.com/product/207730/magic-promo-pack-theros-beyond-death-purphoros-bronze-blooded"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phoenix of Ash",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "148"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Phoenix"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, haste\r\n\u003cbr\u003e\r\n2R: Phoenix of Ash gets +2/+0 until end of turn.\r\n\u003cbr\u003eEscape—2RR, Exile three other cards from your graveyard.\r\n\u003cbr\u003ePhoenix of Ash escapes with +1/+1 counter on it."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207731_200w.jpg",
+      "modifiedOn": "2020-08-08T16:58:05.157",
+      "name": "Phoenix of Ash",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207731,
+      "url": "https://www.tcgplayer.com/product/207731/magic-promo-pack-theros-beyond-death-phoenix-of-ash"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ox of Agonas",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "147"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Ox"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Ox of Agonas enters the battlefield, discard your hand, then draw three cards.\r\n\u003cbr\u003eEscape—RR, Exile eight other cards from your graveyard. \u003c/em\u003e(You may cast this card from your graveyard for its escape cost.)\u003c/em\u003e\r\n\u003cbr\u003eOx of Agonas escapes with a +1/+1 counter on it."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207732_200w.jpg",
+      "modifiedOn": "2020-01-17T17:04:53.703",
+      "name": "Ox of Agonas",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207732,
+      "url": "https://www.tcgplayer.com/product/207732/magic-promo-pack-theros-beyond-death-ox-of-agonas"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Akroan War",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "124"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Saga"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003e(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\u003c/em\u003e\r\n\u003cbr\u003e\r\n(I) — Gain control of target creature for as long as The Akroan War remains on the battlefield.\r\n\u003cbr\u003e\r\n(II) — Until your next turn, creatures your opponents control attack each combat if able.\r\n\u003cbr\u003e\r\n(III) — Each tapped creature deals damage to itself equal to its power."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207733_200w.jpg",
+      "modifiedOn": "2023-07-08T02:37:05.973",
+      "name": "The Akroan War",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207733,
+      "url": "https://www.tcgplayer.com/product/207733/magic-promo-pack-theros-beyond-death-the-akroan-war"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Woe Strider",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "123"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Horror"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Woe Strider enters the battlefield, create a 0/1 white Goat creature token.\r\n\u003cbr\u003eSacrifice another creature: Scry 1.\r\n\u003cbr\u003eEscape—3BB, Exile four other cards from your graveyard. \u003cem\u003e(You may cast this card from your graveyard for its escape cost.)\u003c/em\u003e\r\n\u003cbr\u003eWoe Strider escapes with two +1/+1 counters on it."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207734_200w.jpg",
+      "modifiedOn": "2023-07-05T20:22:48.573",
+      "name": "Woe Strider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207734,
+      "url": "https://www.tcgplayer.com/product/207734/magic-promo-pack-theros-beyond-death-woe-strider"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tymaret Calls the Dead",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "118"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Saga"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003e(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\u003c/em\u003e\r\n\u003cbr\u003e\r\n(I), (II) — Put the top three cards of your library into your graveyard. Then you may exile a creature or enchantment card from your graveyard. If you do, create a 2/2 black Zombie creature token.\r\n\u003cbr\u003e\r\n(III) — You gain X life and scry X, where X is the number of Zombies you control."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207735_200w.jpg",
+      "modifiedOn": "2024-10-30T21:13:43.05",
+      "name": "Tymaret Calls the Dead",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207735,
+      "url": "https://www.tcgplayer.com/product/207735/magic-promo-pack-theros-beyond-death-tymaret-calls-the-dead"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Treacherous Blessing",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "117"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Treacherous Blessing enters the battlefield, draw three cards.\r\n\u003cbr\u003e\r\nWhenever you cast a spell, you lose 1 life.\r\n\u003cbr\u003e\r\nWhen Treacherous Blessing becomes the target of a spell or ability, sacrifice it."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207736_200w.jpg",
+      "modifiedOn": "2020-01-17T17:15:15.837",
+      "name": "Treacherous Blessing",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207736,
+      "url": "https://www.tcgplayer.com/product/207736/magic-promo-pack-theros-beyond-death-treacherous-blessing"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nightmare Shepherd",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "108"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Demon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eWhenever another nontoken creature you control dies, you may exile it. If you do, create a token that’s a copy of that creature, except it has base power and toughness 1/1 and it’s a Nightmare in addition to its other types."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207737_200w.jpg",
+      "modifiedOn": "2023-06-17T13:15:18.773",
+      "name": "Nightmare Shepherd",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207737,
+      "url": "https://www.tcgplayer.com/product/207737/magic-promo-pack-theros-beyond-death-nightmare-shepherd"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gravebreaker Lamia",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "98"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Snake Lamia"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lifelink\r\n\u003cbr\u003eWhen Gravebreaker Lamia enters the battlefield, search your library for a card, put it into your graveyard, then shuffle your library.\r\n\u003cbr\u003eSpells you cast from your graveyard cost 1 less to cast."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207738_200w.jpg",
+      "modifiedOn": "2023-02-10T15:19:15.33",
+      "name": "Gravebreaker Lamia",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207738,
+      "url": "https://www.tcgplayer.com/product/207738/magic-promo-pack-theros-beyond-death-gravebreaker-lamia"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ereboss Intervention",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "94"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose one —\r\n\u003cbr\u003e• Target creature gets -X/-X until end of turn. You gain X life.\r\n\u003cbr\u003e• Exile up to twice X target cards from graveyards."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I bring a death none can escape.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207739_200w.jpg",
+      "modifiedOn": "2022-10-05T11:31:48.203",
+      "name": "Erebos's Intervention",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207739,
+      "url": "https://www.tcgplayer.com/product/207739/magic-promo-pack-theros-beyond-death-ereboss-intervention"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Erebos Bleak Hearted",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "93"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Enchantment Creature — God"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Indestructible\r\n\u003cbr\u003eAs long as your devotion to black is less than five, Erebos isn't a creature.\r\n\u003cbr\u003eWhenever another creature you control dies, you may pay 2 life. If you do, draw a card.\r\n\u003cbr\u003e1B, Sacrifice another creature: Target creature gets -2/-1 until end of turn."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207740_200w.jpg",
+      "modifiedOn": "2020-09-15T21:40:07.57",
+      "name": "Erebos, Bleak-Hearted",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207740,
+      "url": "https://www.tcgplayer.com/product/207740/magic-promo-pack-theros-beyond-death-erebos-bleak-hearted"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Eat to Extinction",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "90"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exile target creature or planeswalker. Look at the top card of your library. You may put that card into your graveyard."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e “Kroxa devours what he may—not for sustenance or pleasure, but because it is his nature. He is unending hunger given form.” —Klothys, god of destiny\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207741_200w.jpg",
+      "modifiedOn": "2020-10-21T13:57:44.887",
+      "name": "Eat to Extinction",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207741,
+      "url": "https://www.tcgplayer.com/product/207741/magic-promo-pack-theros-beyond-death-eat-to-extinction"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Aphemia the Cacophony",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "84"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Enchantment Creature — Harpy"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eAt the beginning of your end step, you may exile an enchantment card from your graveyard. If you do, create a 2/2 black Zombie creature token."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Sing, beauty. Sing for death, and for the dead.”\u003cbr\u003e—Ashiok\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207742_200w.jpg",
+      "modifiedOn": "2022-07-20T12:37:16.68",
+      "name": "Aphemia, the Cacophony",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207742,
+      "url": "https://www.tcgplayer.com/product/207742/magic-promo-pack-theros-beyond-death-aphemia-the-cacophony"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wavebreak Hippocamp",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "80"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Horse Fish"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you cast your first spell during each opponent’s turn, draw a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eTritons search for omens in its wake.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207743_200w.jpg",
+      "modifiedOn": "2023-03-07T18:20:32.777",
+      "name": "Wavebreak Hippocamp",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207743,
+      "url": "https://www.tcgplayer.com/product/207743/magic-promo-pack-theros-beyond-death-wavebreak-hippocamp"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thryx the Sudden Storm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "76"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elemental Giant"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\r\n\u003cbr\u003eFlying\r\n\u003cbr\u003eSpells you cast with converted mana costs 5 or greater cost 1 less to cast and can't be countered."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207744_200w.jpg",
+      "modifiedOn": "2020-01-27T20:01:56.937",
+      "name": "Thryx, the Sudden Storm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207744,
+      "url": "https://www.tcgplayer.com/product/207744/magic-promo-pack-theros-beyond-death-thryx-the-sudden-storm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thassas Oracle",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "73"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Merfolk Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Thassa's Oracle enters the battlefield, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. \u003cem\u003e(Each U in the mana costs of permanents you control counts toward your devotion to blue.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207746_200w.jpg",
+      "modifiedOn": "2021-11-20T22:51:02.82",
+      "name": "Thassa's Oracle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207746,
+      "url": "https://www.tcgplayer.com/product/207746/magic-promo-pack-theros-beyond-death-thassas-oracle"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thassas Intervention",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "72"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose one —\r\n\u003cbr\u003e• Look at the top X cards of your library. Put up to two of them into your hand and the rest on the bottom of your library in a random order.\r\n\u003cbr\u003e• Counter target spell unless its controller pays twice X."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I bring a flood that nothing can withstand.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207747_200w.jpg",
+      "modifiedOn": "2022-05-12T16:23:08.037",
+      "name": "Thassa's Intervention",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207747,
+      "url": "https://www.tcgplayer.com/product/207747/magic-promo-pack-theros-beyond-death-thassas-intervention"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thassa Deep Dwelling",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "71"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Enchantment Creature — God"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Indestructible\r\n\u003cbr\u003eAs long as your devotion to blue is less than five, Thassa isn’t a creature.\r\n\u003cbr\u003eAt the beginning of your end step, exile up to one other target creature you control, then return that card to the battlefield under your control.\r\n\u003cbr\u003e3U: Tap another target creature."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207748_200w.jpg",
+      "modifiedOn": "2023-02-24T19:26:51.827",
+      "name": "Thassa, Deep-Dwelling",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207748,
+      "url": "https://www.tcgplayer.com/product/207748/magic-promo-pack-theros-beyond-death-thassa-deep-dwelling"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Protean Thaumaturge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "60"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eConstellation\u003c/em\u003e — Whenever an enchantment enters the battlefield under your control, you may have Protean Thaumaturge become a copy of another target creature, except it has this ability."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Once you see past the veil we call 'reality,' altering your own shape is elementary.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207749_200w.jpg",
+      "modifiedOn": "2025-11-21T14:41:43.147",
+      "name": "Protean Thaumaturge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207749,
+      "url": "https://www.tcgplayer.com/product/207749/magic-promo-pack-theros-beyond-death-protean-thaumaturge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nadir Kraken",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "55"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Kraken"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you draw a card, you may pay 1. If you do, put a +1/+1 counter on Nadir Kraken and create a 1/1 blue Tentacle creature token."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/207750_200w.jpg",
+      "modifiedOn": "2022-03-17T20:11:50.98",
+      "name": "Nadir Kraken",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 207750,
+      "url": "https://www.tcgplayer.com/product/207750/magic-promo-pack-theros-beyond-death-nadir-kraken"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Alseid of Lifes Bounty",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "353"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Nymph"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lifelink\r\n\u003cbr\u003e1, Sacrifice Alseid of Life's Bounty: Target creature or enchantment you control gains protection from the color of your choice until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Dawn-kissed, he nourishes the golden grain.\"\u003cbr\u003e— Psemilla, Meletian poet\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/208023_200w.jpg",
+      "modifiedOn": "2023-02-12T05:45:57.437",
+      "name": "Alseid of Life's Bounty",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 208023,
+      "url": "https://www.tcgplayer.com/product/208023/magic-promo-pack-theros-beyond-death-alseid-of-lifes-bounty"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gray Merchant of Asphodel",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "355"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Gray Merchant of Asphodel enters the battlefield, each opponent loses X life, where X is your devotion to black. You gain life equal to the life lost this way. \u003cem\u003e(Each B in the mana costs of permanents you control counts towards your devotion to black.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/208024_200w.jpg",
+      "modifiedOn": "2024-08-07T17:52:09.45",
+      "name": "Gray Merchant of Asphodel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 208024,
+      "url": "https://www.tcgplayer.com/product/208024/magic-promo-pack-theros-beyond-death-gray-merchant-of-asphodel"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thirst for Meaning",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "354"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Draw three cards. Then discard two cards unless you discard an enchantment card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eA sip of recollection, an ocean of regrets.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/208025_200w.jpg",
+      "modifiedOn": "2023-08-24T21:45:27.693",
+      "name": "Thirst for Meaning",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 208025,
+      "url": "https://www.tcgplayer.com/product/208025/magic-promo-pack-theros-beyond-death-thirst-for-meaning"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thrill of Possibility",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "356"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As an additional cost to cast this spell, discard a card.\r\n\u003cbr\u003eDraw two cards."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eRight now, in these first moments of creation, it is simultaneously nothing and everything.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/208026_200w.jpg",
+      "modifiedOn": "2022-05-27T15:42:06.153",
+      "name": "Thrill of Possibility",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 208026,
+      "url": "https://www.tcgplayer.com/product/208026/magic-promo-pack-theros-beyond-death-thrill-of-possibility"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wolfwillow Haven",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "357"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant land\r\n\u003cbr\u003e\r\nWhenever enchanted land is tapped for mana, its controller adds an additional G.\r\n\u003cbr\u003e\r\n4G, Sacrifice Wolfwillow Haven: Create a 2/2 green Wolf creature token. Activate this ability only during your turn."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/208027_200w.jpg",
+      "modifiedOn": "2022-03-01T19:18:09.06",
+      "name": "Wolfwillow Haven",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 208027,
+      "url": "https://www.tcgplayer.com/product/208027/magic-promo-pack-theros-beyond-death-wolfwillow-haven"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Noxious Gearhulk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "96"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Construct"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace\r\n\u003cbr\u003eWhen Noxious Gearhulk enters the battlefield, you may destroy another target creature. If a creature is destroyed this way, you gain life equal to its toughness."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/208028_200w.jpg",
+      "modifiedOn": "2022-08-15T14:29:29.7",
+      "name": "Noxious Gearhulk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 208028,
+      "url": "https://www.tcgplayer.com/product/208028/magic-promo-pack-theros-beyond-death-noxious-gearhulk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Zendikar Resurgent",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "147"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced. \u003cem\u003e(The types of mana are white, blue, black, red, green, and colorless.)\u003c/em\u003e\r\n\u003cbr\u003eWhenever you cast a creature spell, draw a card."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/208029_200w.jpg",
+      "modifiedOn": "2022-06-08T17:54:05.017",
+      "name": "Zendikar Resurgent",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 208029,
+      "url": "https://www.tcgplayer.com/product/208029/magic-promo-pack-theros-beyond-death-zendikar-resurgent"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tajic Legions Edge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "204"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003eMentor \u003cem\u003e(Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)\u003c/em\u003e\r\n\u003cbr\u003ePrevent all noncombat damage that would be dealt to other creatures you control.\r\n\u003cbr\u003eRW: Tajic, Legion's Edge gains first strike until end of turn."
+        }
+      ],
+      "groupId": 2599,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/208030_200w.jpg",
+      "modifiedOn": "2025-11-29T16:38:30.22",
+      "name": "Tajic, Legion's Edge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 208030,
+      "url": "https://www.tcgplayer.com/product/208030/magic-promo-pack-theros-beyond-death-tajic-legions-edge"
+    }
+  ],
+  "success": true,
+  "totalItems": 111
+}

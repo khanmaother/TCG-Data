@@ -1,0 +1,161 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Infernity Archfiend",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "WC09-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When you have no cards in your hand and draw this card, you can reveal it to Special Summon it. When this card is Special Summoned, if you have no cards in your hand, you can add 1 \"Infernity\" card from your Deck to your hand."
+        }
+      ],
+      "groupId": 288,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/34470_200w.jpg",
+      "modifiedOn": "2020-03-13T19:23:41.607",
+      "name": "Infernity Archfiend",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 34470,
+      "url": "https://www.tcgplayer.com/product/34470/yugioh-stardust-accelerator-promos-infernity-archfiend"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Infernity Dwarf",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "WC09-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "While you have no cards in your hand, during battle between an attacking monster you control and a Defense Position monster whose DEF is lower than the ATK of the attacking monster inflict the difference as Battle Damage to your opponent."
+        }
+      ],
+      "groupId": 288,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/34471_200w.jpg",
+      "modifiedOn": "2019-01-29T20:18:00.597",
+      "name": "Infernity Dwarf",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 34471,
+      "url": "https://www.tcgplayer.com/product/34471/yugioh-stardust-accelerator-promos-infernity-dwarf"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Infernity Guardian",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "WC09-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1700"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "While you have no cards in your hand, this face-up card cannot be destroyed by battle or by card effects."
+        }
+      ],
+      "groupId": 288,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/34472_200w.jpg",
+      "modifiedOn": "2022-08-23T20:06:29.85",
+      "name": "Infernity Guardian",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 34472,
+      "url": "https://www.tcgplayer.com/product/34472/yugioh-stardust-accelerator-promos-infernity-guardian"
+    }
+  ],
+  "success": true,
+  "totalItems": 3
+}

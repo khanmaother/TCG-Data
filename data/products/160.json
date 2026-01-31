@@ -1,0 +1,4744 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Fire Darts",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN049"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only activate this card when you have no cards in your hand. Roll a six-sided die 3 times, and inflict damage to your opponent''s Life Points equal to the total result of the die rolls x 100 points."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24451_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Fire Darts",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24451,
+      "url": "https://www.tcgplayer.com/product/24451/yugioh-cybernetic-revolution-fire-darts"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Spiritual Earth Art Kurogane",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN050"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Tribute 1 EARTH monster on your side of the field. Special Summon 1 Level 4 or lower EARTH monster from your Graveyard, except the Tributed monster."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24452_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Spiritual Earth Art - Kurogane",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24452,
+      "url": "https://www.tcgplayer.com/product/24452/yugioh-cybernetic-revolution-spiritual-earth-art-kurogane"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Spiritual Water Art Aoi",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN051"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Tribute 1 WATER monster on your side of the field. Look at your opponent''s hand, select 1 card from it, and send that card to the Graveyard."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24453_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Spiritual Water Art - Aoi",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24453,
+      "url": "https://www.tcgplayer.com/product/24453/yugioh-cybernetic-revolution-spiritual-water-art-aoi"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Spiritual Fire Art Kurenai",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN052"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Tribute 1 FIRE monster on your side of the field. Inflict damage to your opponent''s Life Points equal to the original ATK of the Tributed monster."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24454_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Spiritual Fire Art - Kurenai",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24454,
+      "url": "https://www.tcgplayer.com/product/24454/yugioh-cybernetic-revolution-spiritual-fire-art-kurenai"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Spiritual Wind Art Miyabi",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN053"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Tribute 1 WIND monster on your side of the field. Select 1 card on your opponent''s side of the field, and return it to the bottom of the owner''s Deck."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24455_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Spiritual Wind Art - Miyabi",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24455,
+      "url": "https://www.tcgplayer.com/product/24455/yugioh-cybernetic-revolution-spiritual-wind-art-miyabi"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "A Rival Appears",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN054"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Select 1 face-up monster on your opponent''s side of the field. Special Summon from your hand 1 monster that has the same Level as the selected monster."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24456_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "A Rival Appears!",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24456,
+      "url": "https://www.tcgplayer.com/product/24456/yugioh-cybernetic-revolution-a-rival-appears"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Magical Explosion",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN055"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only activate this card when you have no cards in your hand. Inflict 200 points of damage to your opponent''s Life Points for each Spell Card in your Graveyard."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24457_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Magical Explosion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24457,
+      "url": "https://www.tcgplayer.com/product/24457/yugioh-cybernetic-revolution-magical-explosion"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Rising Energy",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN056"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Discard 1 card from your hand. Increase the ATK of 1 face-up monster on the field by 1500 points until the End Phase of this turn."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24458_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Rising Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24458,
+      "url": "https://www.tcgplayer.com/product/24458/yugioh-cybernetic-revolution-rising-energy"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "DD Trap Hole",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN057"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only activate this card when your opponent Sets 1 monster in Defense Position. Destroy and remove from play the Set monster and 1 monster on your side of the field."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24459_200w.jpg",
+      "modifiedOn": "2025-01-10T14:12:57.687",
+      "name": "D.D. Trap Hole",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24459,
+      "url": "https://www.tcgplayer.com/product/24459/yugioh-cybernetic-revolution-dd-trap-hole"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Conscription",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN058"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Pick up the top card of your opponent''s Deck. If the picked-up card can be Normal Summoned, Special Summon it to your side of the field. If not, add that card to your opponent''s hand."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24460_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Conscription",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24460,
+      "url": "https://www.tcgplayer.com/product/24460/yugioh-cybernetic-revolution-conscription"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dimension Wall",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN059"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only activate this card when your opponent declares an attack with a monster. Instead of you, your opponent takes the Battle Damage you would have taken as a result of this battle."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24461_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Dimension Wall",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24461,
+      "url": "https://www.tcgplayer.com/product/24461/yugioh-cybernetic-revolution-dimension-wall"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Prepare to Strike Back",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN060"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each time your opponent declares an attack on a face-up Defense Position monster, toss a coin and call it. If you call it right, change the targeted face-up Defense Position monster to Attack Position. If you call it wrong, the controller of this card takes damage equal to the difference between the ATK of the attacking monster and the DEF of the attacked monster."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24462_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Prepare to Strike Back",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24462,
+      "url": "https://www.tcgplayer.com/product/24462/yugioh-cybernetic-revolution-prepare-to-strike-back"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Power Bond",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN037"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Send, from your hand or your side of the field to the Graveyard, Fusion Material Monsters that are listed on a Machine-Type Fusion Monster Card, and Special Summon that Fusion Monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon). Increase the ATK of this Special Summoned Fusion Monster by an amount equal to its original ATK. During the End Phase of this turn, the player who activated this card takes damage equal to the original ATK of the Special Summoned monster."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24463_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Power Bond",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24463,
+      "url": "https://www.tcgplayer.com/product/24463/yugioh-cybernetic-revolution-power-bond"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Fusion Recovery",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN038"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Add 1 Polymerization, and 1 Fusion Material Monster that was used for a Fusion Summon, from your Graveyard to your hand."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24464_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Fusion Recovery",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24464,
+      "url": "https://www.tcgplayer.com/product/24464/yugioh-cybernetic-revolution-fusion-recovery"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Miracle Fusion",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN039"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Remove from play, from your side of the field or your Graveyard, Fusion Material Monsters that are listed on a Fusion Monster Card that includes Elemental Hero in its card name, and Special Summon that Fusion Monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon)."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24465_200w.jpg",
+      "modifiedOn": "2013-10-23T19:15:26.207",
+      "name": "Miracle Fusion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24465,
+      "url": "https://www.tcgplayer.com/product/24465/yugioh-cybernetic-revolution-miracle-fusion"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dragons Mirror",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN040"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Remove from play, from your side of the field or your Graveyard, Fusion Material Monsters that are listed on a Dragon-Type Fusion Monster Card, and Special Summon that Fusion Monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon)."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24466_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Dragon's Mirror",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24466,
+      "url": "https://www.tcgplayer.com/product/24466/yugioh-cybernetic-revolution-dragons-mirror"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "System Down",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN041"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Pay 1000 Life Points. Remove from play all Machine-Type monsters on your opponent''s side of the field and in their Graveyard."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24467_200w.jpg",
+      "modifiedOn": "2021-12-20T13:43:15.557",
+      "name": "System Down",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24467,
+      "url": "https://www.tcgplayer.com/product/24467/yugioh-cybernetic-revolution-system-down"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Des Croaking",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN042"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only activate this card when there are 3 face-up Des Frog on your side of the field. Destroy all cards on your opponent''s side of the field."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24468_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Des Croaking",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24468,
+      "url": "https://www.tcgplayer.com/product/24468/yugioh-cybernetic-revolution-des-croaking"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Pot of Generosity",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN043"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Return 2 cards from your hand to your Deck. Then shuffle your Deck."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24469_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Pot of Generosity",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24469,
+      "url": "https://www.tcgplayer.com/product/24469/yugioh-cybernetic-revolution-pot-of-generosity"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Shiens Spy",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN044"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Select 1 face-up monster on your side of the field to activate this card. Until the End Phase of this turn, shift control of the selected monster to your opponent."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24470_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Shien's Spy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24470,
+      "url": "https://www.tcgplayer.com/product/24470/yugioh-cybernetic-revolution-shiens-spy"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Transcendent Wings",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN045"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Quick-Play Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Send to the Graveyard 1 Winged Kuriboh from your side of the field and 2 cards from your hand. Special Summon 1 Winged Kuriboh LV10 from your hand or Deck."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24471_200w.jpg",
+      "modifiedOn": "2018-09-19T12:24:21.6",
+      "name": "Transcendent Wings",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24471,
+      "url": "https://www.tcgplayer.com/product/24471/yugioh-cybernetic-revolution-transcendent-wings"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Bubble Shuffle",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN046"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Quick-Play Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only activate this card when there is a face-up Elemental Hero Bubbleman on the field. Change 1 Elemental Hero Bubbleman in face-up Attack Position on your side of the field and 1 monster in face-up Attack Position on your opponent''s side of the field to Defense Position. Tribute the Elemental Hero Bubbleman that was changed to Defense Position and Special Summon 1 monster from your hand that includes Elemental Hero in its card name."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24472_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Bubble Shuffle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24472,
+      "url": "https://www.tcgplayer.com/product/24472/yugioh-cybernetic-revolution-bubble-shuffle"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Spark Blaster",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN047"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Equip Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only equip this card to Elemental Hero Sparkman. During the Main Phase of your turn, you can change the battle position of 1 face-up monster. After you use this effect 3 times, destroy this card."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24473_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Spark Blaster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24473,
+      "url": "https://www.tcgplayer.com/product/24473/yugioh-cybernetic-revolution-spark-blaster"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Skyscraper",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN048"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Field Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When a monster that includes Elemental Hero in its card name attacks, if its ATK is lower than the ATK of the attack target, increase the ATK of the attacking monster by 1000 points during damage calculation only."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24474_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Skyscraper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24474,
+      "url": "https://www.tcgplayer.com/product/24474/yugioh-cybernetic-revolution-skyscraper"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cycroid",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "The most lovable and friendly of all the Vehicroids. It can arm itself with training wheels!"
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24475_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:07.307",
+      "name": "Cycroid",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24475,
+      "url": "https://www.tcgplayer.com/product/24475/yugioh-cybernetic-revolution-cycroid"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Soitsu",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Angel"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Apparently totally unreliable, he wonders if he has incredible potential."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24476_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:07.51",
+      "name": "Soitsu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24476,
+      "url": "https://www.tcgplayer.com/product/24476/yugioh-cybernetic-revolution-soitsu"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Mad Lobster",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Aqua"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "A gourmet food renowned by the Dark World upper crust. It has sensational flavor."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24477_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:07.66",
+      "name": "Mad Lobster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24477,
+      "url": "https://www.tcgplayer.com/product/24477/yugioh-cybernetic-revolution-mad-lobster"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Jerry Beans Man",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN004"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Plant"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1750"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Jerry, a bean soldier, believes he is the strongest warrior in the world, but his true abilities are still untested."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24478_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:07.74",
+      "name": "Jerry Beans Man",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24478,
+      "url": "https://www.tcgplayer.com/product/24478/yugioh-cybernetic-revolution-jerry-beans-man"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Winged Kuriboh LV10",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN005"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by the effect of Transcendent Wings. Tribute this face-up card on your side of the field to destroy all Attack Position monsters on your opponent''s side of the field and inflict damage to your opponent''s Life Points equal to the combined original ATK of those destroyed monster(s). You can only activate this effect during your opponent''s Battle Phase."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24479_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:07.787",
+      "name": "Winged Kuriboh LV10",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24479,
+      "url": "https://www.tcgplayer.com/product/24479/yugioh-cybernetic-revolution-winged-kuriboh-lv10"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Patroid",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN006"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Pick up and look at 1 Set card on your opponent''s side of the field, then return it to its original position. You can only activate this effect once per turn, during your Main Phase."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24480_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:07.89",
+      "name": "Patroid",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24480,
+      "url": "https://www.tcgplayer.com/product/24480/yugioh-cybernetic-revolution-patroid"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gyroid",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN007"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn, if this card would be destroyed as a result of battle, it is not destroyed. (Damage calculation is applied normally)."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24481_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:07.97",
+      "name": "Gyroid",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24481,
+      "url": "https://www.tcgplayer.com/product/24481/yugioh-cybernetic-revolution-gyroid"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Steamroid",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN008"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card attacks your opponent''s monster, increase the ATK of this card by 500 points during the Damage Step only. If this card is attacked by your opponent''s monster, decrease the ATK of this card by 500 points during the Damage Step only."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24482_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:08.033",
+      "name": "Steamroid",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24482,
+      "url": "https://www.tcgplayer.com/product/24482/yugioh-cybernetic-revolution-steamroid"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Drillroid",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN009"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card attacks a Defense Position monster, destroy the monster with this card''s effect without applying damage calculation."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24483_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:08.093",
+      "name": "Drillroid",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24483,
+      "url": "https://www.tcgplayer.com/product/24483/yugioh-cybernetic-revolution-drillroid"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "UFOroid",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN010"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is destroyed as a result of battle and sent to the Graveyard, you can Special Summon from your Deck 1 Machine-Type monster with an ATK of 1500 or less in face-up Attack Position. Then shuffle your Deck."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24484_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:08.22",
+      "name": "UFOroid",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24484,
+      "url": "https://www.tcgplayer.com/product/24484/yugioh-cybernetic-revolution-uforoid"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Jetroid",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN011"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "At the time this card is selected as an attack target by your opponent''s monster, the controller of this card can activate Trap Card(s) from their hand."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24485_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:08.297",
+      "name": "Jetroid",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24485,
+      "url": "https://www.tcgplayer.com/product/24485/yugioh-cybernetic-revolution-jetroid"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Wroughtweiler",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN012"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is destroyed as a result of battle and sent to the Graveyard, add from your Graveyard to your hand 1 card that includes Elemental Hero in its card name, and 1 Polymerization."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24486_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:08.53",
+      "name": "Wroughtweiler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24486,
+      "url": "https://www.tcgplayer.com/product/24486/yugioh-cybernetic-revolution-wroughtweiler"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Catapulter",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN013"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During your Standby Phase, if this card is in Defense Position, put 1 counter on this card. Remove from play a number of card(s) in your Graveyard equal to the number of counters on this card to destroy that same number of Spell or Trap Card(s) on the field. Then remove all counter(s) from this card."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24487_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:08.837",
+      "name": "Dark Catapulter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24487,
+      "url": "https://www.tcgplayer.com/product/24487/yugioh-cybernetic-revolution-dark-catapulter"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Elemental Hero Bubbleman",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN014"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this is the only card in your hand, you can Special Summon this card from your hand. When this card is Normal Summoned, Flip Summoned or Special Summoned successfully, if there are no other cards on your side of the field or in your hand, you can draw 2 cards from your Deck."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24488_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:09.09",
+      "name": "Elemental Hero Bubbleman",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24488,
+      "url": "https://www.tcgplayer.com/product/24488/yugioh-cybernetic-revolution-elemental-hero-bubbleman"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cyber Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN015"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If there is a monster on your opponent''s side of the field and there are no monsters on your side of the field, you can Special Summon this card from your hand."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24489_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:09.167",
+      "name": "Cyber Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24489,
+      "url": "https://www.tcgplayer.com/product/24489/yugioh-cybernetic-revolution-cyber-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cybernetic Magician",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN016"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Discard 1 card from your hand. The ATK of 1 face-up monster on the field becomes 2000 until the End Phase of this turn."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24490_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:09.247",
+      "name": "Cybernetic Magician",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24490,
+      "url": "https://www.tcgplayer.com/product/24490/yugioh-cybernetic-revolution-cybernetic-magician"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cybernetic Cyclopean",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast-Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "While you have no cards in your hand, increase the ATK of this card by 1000 points."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24491_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:09.323",
+      "name": "Cybernetic Cyclopean",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24491,
+      "url": "https://www.tcgplayer.com/product/24491/yugioh-cybernetic-revolution-cybernetic-cyclopean"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Mechanical Hound",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN018"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "While you have no cards in your hand, your opponent cannot activate Spell Cards."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24492_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:09.403",
+      "name": "Mechanical Hound",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24492,
+      "url": "https://www.tcgplayer.com/product/24492/yugioh-cybernetic-revolution-mechanical-hound"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cyber Archfiend",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN019"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "At the beginning of your Draw Phase, if you have no cards in your hand, draw 1 more card in addition to the normal draw. During your End Phase, if you have 1 or more card(s) in your hand, destroy this card."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24493_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:09.493",
+      "name": "Cyber Archfiend",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24493,
+      "url": "https://www.tcgplayer.com/product/24493/yugioh-cybernetic-revolution-cyber-archfiend"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Goblin Elite Attack Force",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN020"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase. This card''s battle position cannot be changed until the end of your next turn, except with a card effect."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24494_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:09.663",
+      "name": "Goblin Elite Attack Force",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24494,
+      "url": "https://www.tcgplayer.com/product/24494/yugioh-cybernetic-revolution-goblin-elite-attack-force"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "BES Crystal Core",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN021"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Put 3 counters on this card when you Normal Summon it. This card is not destroyed as a result of battle. If this card battles a monster, remove 1 counter from this card at the end of the Damage Step. If this card battles without a counter, destroy this card at the end of the Damage Step. Once per turn, during your Main Phase, you can change 1 face-up Attack Position monster on your opponent''s side of the field to face-up Defense Position."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24495_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:09.743",
+      "name": "B.E.S. Crystal Core",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24495,
+      "url": "https://www.tcgplayer.com/product/24495/yugioh-cybernetic-revolution-bes-crystal-core"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Giant Kozaky",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN022"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If there is no face-up Kozaky on the field, destroy this card. If this face-up card on the field is destroyed, inflict damage to the current controller''s Life Points equal to the original ATK of this card."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24496_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:09.803",
+      "name": "Giant Kozaky",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24496,
+      "url": "https://www.tcgplayer.com/product/24496/yugioh-cybernetic-revolution-giant-kozaky"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Indomitable Fighter Lei Lei",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN023"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast-Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase. This card''s battle position cannot be changed until the end of your next turn, except with a card effect."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24497_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:09.867",
+      "name": "Indomitable Fighter Lei Lei",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24497,
+      "url": "https://www.tcgplayer.com/product/24497/yugioh-cybernetic-revolution-indomitable-fighter-lei-lei"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Protective Soul Ailin",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN024"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Union Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your Indomitable Fighter Lei Lei as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card''s effect, you can change the equipped monster''s battle position once per turn. (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)"
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24498_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:09.94",
+      "name": "Protective Soul Ailin",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24498,
+      "url": "https://www.tcgplayer.com/product/24498/yugioh-cybernetic-revolution-protective-soul-ailin"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Doitsu",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN025"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Union Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your Soitsu as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card''s effect, increase the ATK of the equipped monster by 2500 points. (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)"
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24499_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:10.02",
+      "name": "Doitsu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24499,
+      "url": "https://www.tcgplayer.com/product/24499/yugioh-cybernetic-revolution-doitsu"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Des Frog",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN026"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Aqua"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Tribute Summoned successfully, you can Special Summon 1 Des Frog from your hand for each T.A.D.P.O.L.E. in your Graveyard."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24500_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:10.337",
+      "name": "Des Frog",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24500,
+      "url": "https://www.tcgplayer.com/product/24500/yugioh-cybernetic-revolution-des-frog"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "TADPOLE",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN027"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Aqua"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card on your side of the field is destroyed as a result of battle and sent to your Graveyard, you can add any T.A.D.P.O.L.E.(s) from your Deck to your hand. Then shuffle your Deck."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24501_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:10.487",
+      "name": "T.A.D.P.O.L.E.",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24501,
+      "url": "https://www.tcgplayer.com/product/24501/yugioh-cybernetic-revolution-tadpole"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Poison Draw Frog",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN028"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Aqua"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this face-up card on the field is sent to the Graveyard (unless it was attacked while face-down and destroyed as a result of battle), you can draw 1 card from your Deck."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24502_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:10.583",
+      "name": "Poison Draw Frog",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24502,
+      "url": "https://www.tcgplayer.com/product/24502/yugioh-cybernetic-revolution-poison-draw-frog"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Tyranno Infinity",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN029"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dinosaur"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "The original ATK of this card becomes the number of your Dinosaur-Type monsters that are removed from play x 1000 points."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24503_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:10.677",
+      "name": "Tyranno Infinity",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24503,
+      "url": "https://www.tcgplayer.com/product/24503/yugioh-cybernetic-revolution-tyranno-infinity"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Batteryman C",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN030"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Thunder"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If all Batteryman C(s) on your side of the field are in Attack Position, increase the ATK of all Machine-Type monsters on your side of the field by 500 points for each Batteryman C on your side of the field. If all Batteryman C(s) on your side of the field are in Defense Position, increase the DEF of all Machine-Type monsters on your side of the field by 500 points for each Batteryman C on your side of the field."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24504_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:10.843",
+      "name": "Batteryman C",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24504,
+      "url": "https://www.tcgplayer.com/product/24504/yugioh-cybernetic-revolution-batteryman-c"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ebon Magician Curran",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN031"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During your Standby Phase, inflict 300 points of damage to your opponent''s Life Points for each monster on your opponent''s side of the field."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24505_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:10.937",
+      "name": "Ebon Magician Curran",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24505,
+      "url": "https://www.tcgplayer.com/product/24505/yugioh-cybernetic-revolution-ebon-magician-curran"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "DDM Different Dimension Master",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN032"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Discard 1 Spell Card from your hand. Special Summon 1 of your monsters that is currently removed from play. You can only activate this effect once per turn, during your Main Phase."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24506_200w.jpg",
+      "modifiedOn": "2025-01-10T14:13:08.153",
+      "name": "D.D.M. - Different Dimension Master",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24506,
+      "url": "https://www.tcgplayer.com/product/24506/yugioh-cybernetic-revolution-ddm-different-dimension-master"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Steam Gyroid",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN033"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Gyroid + Steamroid"
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24507_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:11.5",
+      "name": "Steam Gyroid",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24507,
+      "url": "https://www.tcgplayer.com/product/24507/yugioh-cybernetic-revolution-steam-gyroid"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "UFOroid Fighter",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN034"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "UFOroid + 1 Warrior-Type monster - A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. The original ATK and DEF of this card become equal to the combined original ATK of the 2 Fusion Material Monsters you used for the Fusion Summon of this card."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24508_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:11.603",
+      "name": "UFOroid Fighter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24508,
+      "url": "https://www.tcgplayer.com/product/24508/yugioh-cybernetic-revolution-uforoid-fighter"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cyber Twin Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN035"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cyber Dragon + Cyber Dragon - A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. This card can attack twice during the same Battle Phase."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24509_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:11.697",
+      "name": "Cyber Twin Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24509,
+      "url": "https://www.tcgplayer.com/product/24509/yugioh-cybernetic-revolution-cyber-twin-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cyber End Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN036"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "4000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cyber Dragon + Cyber Dragon + Cyber Dragon - A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. During battle between this card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent''s Life Points."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24510_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:11.787",
+      "name": "Cyber End Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24510,
+      "url": "https://www.tcgplayer.com/product/24510/yugioh-cybernetic-revolution-cyber-end-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cybernetic Revolution Booster Box 1st Edition",
+      "extendedData": [
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each box contains 24 packs, each with 9 cards."
+        },
+        {
+          "displayName": "UPC",
+          "name": "UPC",
+          "value": "53334427432"
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57224_200w.jpg",
+      "modifiedOn": "2020-06-23T20:14:51.84",
+      "name": "Cybernetic Revolution - Booster Box [1st Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57224,
+      "url": "https://www.tcgplayer.com/product/57224/yugioh-cybernetic-revolution-cybernetic-revolution-booster-box-1st-edition"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Winged Kuriboh LV10 UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN005"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by the effect of Transcendent Wings. Tribute this face-up card on your side of the field to destroy all Attack Position monsters on your opponent''s side of the field and inflict damage to your opponent''s Life Points equal to the combined original ATK of those destroyed monster(s). You can only activate this effect during your opponent''s Battle Phase."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58626_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:11.87",
+      "name": "Winged Kuriboh LV10 (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58626,
+      "url": "https://www.tcgplayer.com/product/58626/yugioh-cybernetic-revolution-winged-kuriboh-lv10-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "UFOroid UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN010"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is destroyed as a result of battle and sent to the Graveyard, you can Special Summon from your Deck 1 Machine-Type monster with an ATK of 1500 or less in face-up Attack Position. Then shuffle your Deck."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58627_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:12.07",
+      "name": "UFOroid (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58627,
+      "url": "https://www.tcgplayer.com/product/58627/yugioh-cybernetic-revolution-uforoid-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Wroughtweiler UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN012"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is destroyed as a result of battle and sent to the Graveyard, add from your Graveyard to your hand 1 card that includes Elemental Hero in its card name, and 1 Polymerization."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58628_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:12.163",
+      "name": "Wroughtweiler (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58628,
+      "url": "https://www.tcgplayer.com/product/58628/yugioh-cybernetic-revolution-wroughtweiler-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Catapulter UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN013"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During your Standby Phase, if this card is in Defense Position, put 1 counter on this card. Remove from play a number of card(s) in your Graveyard equal to the number of counters on this card to destroy that same number of Spell or Trap Card(s) on the field. Then remove all counter(s) from this card."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58629_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:12.227",
+      "name": "Dark Catapulter (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58629,
+      "url": "https://www.tcgplayer.com/product/58629/yugioh-cybernetic-revolution-dark-catapulter-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Elemental Hero Bubbleman UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN014"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this is the only card in your hand, you can Special Summon this card from your hand. When this card is Normal Summoned, Flip Summoned or Special Summoned successfully, if there are no other cards on your side of the field or in your hand, you can draw 2 cards from your Deck."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58716_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:12.497",
+      "name": "Elemental Hero Bubbleman (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58716,
+      "url": "https://www.tcgplayer.com/product/58716/yugioh-cybernetic-revolution-elemental-hero-bubbleman-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cyber Dragon UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN015"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If there is a monster on your opponent''s side of the field and there are no monsters on your side of the field, you can Special Summon this card from your hand."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58717_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:12.583",
+      "name": "Cyber Dragon (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58717,
+      "url": "https://www.tcgplayer.com/product/58717/yugioh-cybernetic-revolution-cyber-dragon-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cybernetic Magician UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN016"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Discard 1 card from your hand. The ATK of 1 face-up monster on the field becomes 2000 until the End Phase of this turn."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58718_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:12.91",
+      "name": "Cybernetic Magician (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58718,
+      "url": "https://www.tcgplayer.com/product/58718/yugioh-cybernetic-revolution-cybernetic-magician-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Goblin Elite Attack Force UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN020"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase. This card''s battle position cannot be changed until the end of your next turn, except with a card effect."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58719_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:12.993",
+      "name": "Goblin Elite Attack Force (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58719,
+      "url": "https://www.tcgplayer.com/product/58719/yugioh-cybernetic-revolution-goblin-elite-attack-force-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "BES Crystal Core UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN021"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Put 3 counters on this card when you Normal Summon it. This card is not destroyed as a result of battle. If this card battles a monster, remove 1 counter from this card at the end of the Damage Step. If this card battles without a counter, destroy this card at the end of the Damage Step. Once per turn, during your Main Phase, you can change 1 face-up Attack Position monster on your opponent''s side of the field to face-up Defense Position."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58720_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:13.087",
+      "name": "B.E.S. Crystal Core (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58720,
+      "url": "https://www.tcgplayer.com/product/58720/yugioh-cybernetic-revolution-bes-crystal-core-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "DDM Different Dimension Master UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN032"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Discard 1 Spell Card from your hand. Special Summon 1 of your monsters that is currently removed from play. You can only activate this effect once per turn, during your Main Phase."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58721_200w.jpg",
+      "modifiedOn": "2024-08-05T16:31:35.607",
+      "name": "D.D.M. - Different Dimension Master (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58721,
+      "url": "https://www.tcgplayer.com/product/58721/yugioh-cybernetic-revolution-ddm-different-dimension-master-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "UFOroid Fighter UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN034"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "UFOroid + 1 Warrior-Type monster \r\n\u003cbr\u003eA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. The original ATK and DEF of this card become equal to the combined original ATK of the 2 Fusion Material Monsters you used for the Fusion Summon of this card."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58722_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:13.26",
+      "name": "UFOroid Fighter (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58722,
+      "url": "https://www.tcgplayer.com/product/58722/yugioh-cybernetic-revolution-uforoid-fighter-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cyber Twin Dragon UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN035"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cyber Dragon + Cyber Dragon\r\n\u003cbr\u003eA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. This card can attack twice during the same Battle Phase."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58723_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:13.367",
+      "name": "Cyber Twin Dragon (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58723,
+      "url": "https://www.tcgplayer.com/product/58723/yugioh-cybernetic-revolution-cyber-twin-dragon-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cyber End Dragon UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN036"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "4000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cyber Dragon + Cyber Dragon + Cyber Dragon\r\n\u003cbr\u003eA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. During battle between this card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent''s Life Points."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58724_200w.jpg",
+      "modifiedOn": "2024-03-28T16:15:13.713",
+      "name": "Cyber End Dragon (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58724,
+      "url": "https://www.tcgplayer.com/product/58724/yugioh-cybernetic-revolution-cyber-end-dragon-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Power Bond UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN037"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Send, from your hand or your side of the field to the Graveyard, Fusion Material Monsters that are listed on a Machine-Type Fusion Monster Card, and Special Summon that Fusion Monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon). Increase the ATK of this Special Summoned Fusion Monster by an amount equal to its original ATK. During the End Phase of this turn, the player who activated this card takes damage equal to the original ATK of the Special Summoned monster."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58725_200w.jpg",
+      "modifiedOn": "2015-11-19T13:35:32.24",
+      "name": "Power Bond (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58725,
+      "url": "https://www.tcgplayer.com/product/58725/yugioh-cybernetic-revolution-power-bond-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Miracle Fusion UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN039"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Remove from play, from your side of the field or your Graveyard, Fusion Material Monsters that are listed on a Fusion Monster Card that includes Elemental Hero in its card name, and Special Summon that Fusion Monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon)."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58726_200w.jpg",
+      "modifiedOn": "2015-11-19T13:35:10.343",
+      "name": "Miracle Fusion (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58726,
+      "url": "https://www.tcgplayer.com/product/58726/yugioh-cybernetic-revolution-miracle-fusion-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "System Down UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN041"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Pay 1000 Life Points. Remove from play all Machine-Type monsters on your opponent''s side of the field and in their Graveyard."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58727_200w.jpg",
+      "modifiedOn": "2015-11-19T13:37:24.9",
+      "name": "System Down (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58727,
+      "url": "https://www.tcgplayer.com/product/58727/yugioh-cybernetic-revolution-system-down-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Transcendent Wings UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN045"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Quick-Play Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Send to the Graveyard 1 Winged Kuriboh from your side of the field and 2 cards from your hand. Special Summon 1 Winged Kuriboh LV10 from your hand or Deck."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58728_200w.jpg",
+      "modifiedOn": "2015-11-19T13:37:46.887",
+      "name": "Transcendent Wings (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58728,
+      "url": "https://www.tcgplayer.com/product/58728/yugioh-cybernetic-revolution-transcendent-wings-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Bubble Shuffle UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN046"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Quick-Play Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only activate this card when there is a face-up Elemental Hero Bubbleman on the field. Change 1 Elemental Hero Bubbleman in face-up Attack Position on your side of the field and 1 monster in face-up Attack Position on your opponent''s side of the field to Defense Position. Tribute the Elemental Hero Bubbleman that was changed to Defense Position and Special Summon 1 monster from your hand that includes Elemental Hero in its card name."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58729_200w.jpg",
+      "modifiedOn": "2015-11-19T13:24:24.9",
+      "name": "Bubble Shuffle (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58729,
+      "url": "https://www.tcgplayer.com/product/58729/yugioh-cybernetic-revolution-bubble-shuffle-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Spark Blaster UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN047"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Equip Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only equip this card to Elemental Hero Sparkman. During the Main Phase of your turn, you can change the battle position of 1 face-up monster. After you use this effect 3 times, destroy this card."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58730_200w.jpg",
+      "modifiedOn": "2015-11-19T13:37:03.71",
+      "name": "Spark Blaster (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58730,
+      "url": "https://www.tcgplayer.com/product/58730/yugioh-cybernetic-revolution-spark-blaster-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Skyscraper UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN048"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Field Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When a monster that includes Elemental Hero in its card name attacks, if its ATK is lower than the ATK of the attack target, increase the ATK of the attacking monster by 1000 points during damage calculation only."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58731_200w.jpg",
+      "modifiedOn": "2015-11-19T13:36:35.44",
+      "name": "Skyscraper (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58731,
+      "url": "https://www.tcgplayer.com/product/58731/yugioh-cybernetic-revolution-skyscraper-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Fire Darts UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN049"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only activate this card when you have no cards in your hand. Roll a six-sided die 3 times, and inflict damage to your opponent''s Life Points equal to the total result of the die rolls x 100 points."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58732_200w.jpg",
+      "modifiedOn": "2015-11-19T13:33:15.853",
+      "name": "Fire Darts (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58732,
+      "url": "https://www.tcgplayer.com/product/58732/yugioh-cybernetic-revolution-fire-darts-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Magical Explosion UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN055"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only activate this card when you have no cards in your hand. Inflict 200 points of damage to your opponent''s Life Points for each Spell Card in your Graveyard."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58733_200w.jpg",
+      "modifiedOn": "2015-11-19T13:34:38.033",
+      "name": "Magical Explosion (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58733,
+      "url": "https://www.tcgplayer.com/product/58733/yugioh-cybernetic-revolution-magical-explosion-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Rising Energy UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN056"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Discard 1 card from your hand. Increase the ATK of 1 face-up monster on the field by 1500 points until the End Phase of this turn."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58734_200w.jpg",
+      "modifiedOn": "2015-11-19T13:36:10.163",
+      "name": "Rising Energy (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58734,
+      "url": "https://www.tcgplayer.com/product/58734/yugioh-cybernetic-revolution-rising-energy-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "DD Trap Hole UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN057"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only activate this card when your opponent Sets 1 monster in Defense Position. Destroy and remove from play the Set monster and 1 monster on your side of the field."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58735_200w.jpg",
+      "modifiedOn": "2024-08-26T12:04:33.58",
+      "name": "D.D. Trap Hole (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58735,
+      "url": "https://www.tcgplayer.com/product/58735/yugioh-cybernetic-revolution-dd-trap-hole-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dimension Wall UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "CRV-EN059"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only activate this card when your opponent declares an attack with a monster. Instead of you, your opponent takes the Battle Damage you would have taken as a result of this battle."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/58736_200w.jpg",
+      "modifiedOn": "2015-11-19T13:32:02.357",
+      "name": "Dimension Wall (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 58736,
+      "url": "https://www.tcgplayer.com/product/58736/yugioh-cybernetic-revolution-dimension-wall-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cybernetic Revolution Booster Box Unlimited Edition",
+      "extendedData": [
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each box contains 24 packs, each with 9 cards."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/216828_200w.jpg",
+      "modifiedOn": "2020-06-23T20:16:21.407",
+      "name": "Cybernetic Revolution - Booster Box [Unlimited Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 216828,
+      "url": "https://www.tcgplayer.com/product/216828/yugioh-cybernetic-revolution-cybernetic-revolution-booster-box-unlimited-edition"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cybernetic Revolution Booster Pack 1st Edition",
+      "extendedData": [
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each pack contains 9 cards."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/216829_200w.jpg",
+      "modifiedOn": "2020-06-23T20:17:21.083",
+      "name": "Cybernetic Revolution - Booster Pack [1st Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 216829,
+      "url": "https://www.tcgplayer.com/product/216829/yugioh-cybernetic-revolution-cybernetic-revolution-booster-pack-1st-edition"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cybernetic Revolution Booster Pack Unlimited Edition",
+      "extendedData": [
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each pack contains 9 cards."
+        }
+      ],
+      "groupId": 160,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/216830_200w.jpg",
+      "modifiedOn": "2020-06-23T20:18:12.28",
+      "name": "Cybernetic Revolution - Booster Pack [Unlimited Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 216830,
+      "url": "https://www.tcgplayer.com/product/216830/yugioh-cybernetic-revolution-cybernetic-revolution-booster-pack-unlimited-edition"
+    }
+  ],
+  "success": true,
+  "totalItems": 89
+}

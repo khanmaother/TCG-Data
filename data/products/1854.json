@@ -1,0 +1,3116 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Destiny Soldiers Booster Box",
+      "extendedData": [],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125162_200w.jpg",
+      "modifiedOn": "2016-11-18T13:47:24.787",
+      "name": "Destiny Soldiers Booster Box",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 125162,
+      "url": "https://www.tcgplayer.com/product/125162/yugioh-destiny-soldiers-destiny-soldiers-booster-box"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Destiny Soldiers Booster Pack",
+      "extendedData": [],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125163_200w.jpg",
+      "modifiedOn": "2016-11-18T13:47:29.323",
+      "name": "Destiny Soldiers Booster Pack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 125163,
+      "url": "https://www.tcgplayer.com/product/125163/yugioh-destiny-soldiers-destiny-soldiers-booster-pack"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Destiny HERO Drilldark",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is Normal or Special Summoned: You can Special Summon 1 \"Destiny HERO\" monster from your hand with ATK less than or equal to this card's ATK on the field. You can only use this effect of \"Destiny HERO - Drilldark\" once per turn. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125257_200w.jpg",
+      "modifiedOn": "2016-11-18T15:12:15.623",
+      "name": "Destiny HERO - Drilldark",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125257,
+      "url": "https://www.tcgplayer.com/product/125257/yugioh-destiny-soldiers-destiny-hero-drilldark"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Destiny HERO Dynatag",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During damage calculation (in either player's turn) when you would take battle damage: You can discard this card; make yourself take no battle damage from that battle, and if you do, each player takes 1000 damage. You can banish this card from your Graveyard, then target 1 \"Destiny HERO\" monster you control; it gains 1000 ATK until the end of your opponent's next turn."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125258_200w.jpg",
+      "modifiedOn": "2016-11-18T15:16:25.223",
+      "name": "Destiny HERO - Dynatag",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125258,
+      "url": "https://www.tcgplayer.com/product/125258/yugioh-destiny-soldiers-destiny-hero-dynatag"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Destiny HERO Decider",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Level 6 or higher monsters your opponent controls cannot target this card for attacks. You can only use each of the following effects of \"Destiny HERO - Decider\" once per Duel.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e If this card is Normal or Special Summoned: You can add 1 \"HERO\" monster from your Graveyard to your hand during the End Phase of this turn.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e During either player's turn, when a card or effect is activated that would inflict damage to you, while this card is in your Graveyard: Return this card to your hand, and if you do, make that effect damage to you 0."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125259_200w.jpg",
+      "modifiedOn": "2025-11-14T18:22:29.77",
+      "name": "Destiny HERO - Decider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 125259,
+      "url": "https://www.tcgplayer.com/product/125259/yugioh-destiny-soldiers-destiny-hero-decider"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Destiny HERO Dystopia",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN004"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "2 \"Destiny HERO\" monsters\r\n\u003cbr\u003eIf this card is Special Summoned: You can target 1 Level 4 or lower \"Destiny HERO\" monster in your Graveyard; inflict damage to your opponent equal to that target's ATK. During either player's turn, if this card's current ATK is different from its original ATK (except during the Damage Step): You can target 1 card on the field; destroy it, and if you do, this card's ATK becomes equal to card's original ATK. You can only use each effect of \"Destiny HERO - Dystopia\" once per turn."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125260_200w.jpg",
+      "modifiedOn": "2016-11-18T15:16:50.277",
+      "name": "Destiny HERO - Dystopia",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125260,
+      "url": "https://www.tcgplayer.com/product/125260/yugioh-destiny-soldiers-destiny-hero-dystopia"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Destiny HERO Dark Angel",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN005"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If you have 3 or more \"Destiny HERO\" monsters in your Graveyard: You can discard this card, then target 1 \"Destiny HERO\" monster in your Graveyard; Special Summon it to your opponent's field in Defense Position. When a Spell Card or effect you activate resolves, negate that effect, and if you do, or if it did not have an effect, destroy that card. During your Standby Phase: You can banish this card and 1 \"Destiny HERO\" monster from your Graveyard; each player chooses 1 Normal Spell Card from their Deck, and places it on top of their Deck."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125261_200w.jpg",
+      "modifiedOn": "2025-01-09T05:26:40.88",
+      "name": "Destiny HERO - Dark Angel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 125261,
+      "url": "https://www.tcgplayer.com/product/125261/yugioh-destiny-soldiers-destiny-hero-dark-angel"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Destiny HERO Celestial",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN006"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card declares an attack: You can target 1 face-up Spell Card your opponent controls; destroy it, and if you do, inflict 500 damage to your opponent. While you have no cards in your hand, except the turn this card was sent to the Graveyard: You can banish this card and 1 \"Destiny HERO\" monster from your Graveyard; draw 2 cards. You can only use this effect of \"Destiny HERO - Celestial\" once per turn."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125262_200w.jpg",
+      "modifiedOn": "2023-03-07T12:22:14.69",
+      "name": "Destiny HERO - Celestial",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 125262,
+      "url": "https://www.tcgplayer.com/product/125262/yugioh-destiny-soldiers-destiny-hero-celestial"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "D Cubed",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN007"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is Normal Summoned: It is also treated as a \"Destiny HERO\" monster while face-up on the field. You can only use each of the following effects of \"D Cubed\" once per turn.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e You can discard up to 2 cards; Special Summon \"D Cubed\" from your hand, Deck, and/or Graveyard, equal to the number discarded, also for the rest of this turn, you cannot Normal or Special Summon other monsters, except \"Destiny HERO\" monsters.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e If this card is destroyed by battle or card effect: You can send 1 \"Destiny HERO\" monster from your Deck to the Graveyard."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125263_200w.jpg",
+      "modifiedOn": "2016-11-18T15:17:29.537",
+      "name": "D Cubed",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125263,
+      "url": "https://www.tcgplayer.com/product/125263/yugioh-destiny-soldiers-d-cubed"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "D Fusion",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN008"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials, and if you do, it cannot be destroyed by battle or card effects this turn. Only \"Destiny HERO\" monsters can be used as Fusion Materials for a Fusion Summon using this card's effect."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125264_200w.jpg",
+      "modifiedOn": "2016-11-18T15:17:38.96",
+      "name": "D-Fusion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125264,
+      "url": "https://www.tcgplayer.com/product/125264/yugioh-destiny-soldiers-d-fusion"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Destiny HERO Diamond Dude",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN009"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn: You can excavate the top card of your Deck, and if it is a Normal Spell Card, send it to the Graveyard, otherwise place it on the bottom of your Deck. During the Main Phase of your next turn, you can activate the effect of that Spell Card in your Graveyard (even if you no longer control this face-up card)."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125265_200w.jpg",
+      "modifiedOn": "2016-11-18T15:35:36.92",
+      "name": "Destiny HERO - Diamond Dude",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125265,
+      "url": "https://www.tcgplayer.com/product/125265/yugioh-destiny-soldiers-destiny-hero-diamond-dude"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Destiny HERO Malicious",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN010"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can banish this card from your Graveyard; Special Summon 1 \"Destiny HERO - Malicious\" from your Deck."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125266_200w.jpg",
+      "modifiedOn": "2017-02-13T14:43:13.883",
+      "name": "Destiny HERO - Malicious",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 125266,
+      "url": "https://www.tcgplayer.com/product/125266/yugioh-destiny-soldiers-destiny-hero-malicious"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Destiny HERO Dogma",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN011"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters, including at least 1 \"Destiny HERO\" monster, and cannot be Special Summoned by other ways. If you still control this face-up card during your opponent's next Standby Phase after you Special Summoned it this way: Halve your opponent's LP."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125267_200w.jpg",
+      "modifiedOn": "2017-02-13T14:42:00.06",
+      "name": "Destiny HERO - Dogma",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 125267,
+      "url": "https://www.tcgplayer.com/product/125267/yugioh-destiny-soldiers-destiny-hero-dogma"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Destiny HERO Plasma",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN012"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters, and cannot be Special Summoned by other ways. Negate the effects of face-up monsters while your opponent controls them. Once per turn: You can target 1 monster your opponent controls; equip that target to this card (you can only equip 1 monster at a time to this card with this effect). This card gains ATK equal to the half the original ATK of the monster equipped to it by this effect."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125268_200w.jpg",
+      "modifiedOn": "2016-11-18T15:36:49.653",
+      "name": "Destiny HERO - Plasma",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125268,
+      "url": "https://www.tcgplayer.com/product/125268/yugioh-destiny-soldiers-destiny-hero-plasma"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Destiny End Dragoon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN013"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "3000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\"Destiny HERO - Plasma\" + \"Destiny HERO - Dogma\"\r\n\u003cbr\u003eA Fusion Summon of this card can only be done with the above Fusion Materials. Once per turn: You can target 1 monster your opponent controls; destroy that target, and if it was face-up, inflict damage to your opponent equal to the ATK it had on the field. You cannot conduct your Battle Phase the turn you activate this effect. Once per turn, during your Standby Phase, if this card is in your Graveyard: You can banish 1 \"Destiny HERO\" card from your Graveyard; Special Summon this card."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125269_200w.jpg",
+      "modifiedOn": "2016-11-18T15:37:08.817",
+      "name": "Destiny End Dragoon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125269,
+      "url": "https://www.tcgplayer.com/product/125269/yugioh-destiny-soldiers-destiny-end-dragoon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Destiny Draw",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN014"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Discard 1 \"Destiny HERO\" card; draw 2 cards."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125270_200w.jpg",
+      "modifiedOn": "2016-11-18T15:37:31.23",
+      "name": "Destiny Draw",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125270,
+      "url": "https://www.tcgplayer.com/product/125270/yugioh-destiny-soldiers-destiny-draw"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Over Destiny",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN015"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Target 1 \"Destiny HERO\" monster in your Graveyard; Special Summon 1 \"Destiny HERO\" monster from your Deck whose Level is less than or equal to half of that target's Level, but destroy it during the End Phase of this turn."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125271_200w.jpg",
+      "modifiedOn": "2016-11-18T15:37:41.187",
+      "name": "Over Destiny",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125271,
+      "url": "https://www.tcgplayer.com/product/125271/yugioh-destiny-soldiers-over-destiny"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Abyss Actor Evil Heel",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN016"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cb\u003ePendulum Effect :\u003c/b\u003e Once per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 face-up monster your opponent controls; it loses ATK equal to the original ATK of the Tributed monster, until the end of this turn (even if this card leaves the field).\r\n\u003cbr\u003e\u003cb\u003eMonster Effect :\u003c/b\u003e If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; it loses 1000 ATK for each \"Abyss Actor\" monster you currently control, until the end of this turn. When this card destroys an opponent's monster by battle: You can target 1 \"Abyss Script\" Spell Card in your Graveyard; Set that card"
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125272_200w.jpg",
+      "modifiedOn": "2016-11-18T15:37:53.74",
+      "name": "Abyss Actor - Evil Heel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125272,
+      "url": "https://www.tcgplayer.com/product/125272/yugioh-destiny-soldiers-abyss-actor-evil-heel"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Abyss Actor Funky Comedian",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cb\u003ePendulum Effect :\u003c/b\u003e Once per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 \"Abyss Actor\" monster you control; it gains ATK equal to the original ATK of the Tributed monster, until the end of this turn (even if this card leaves the field).\r\n\u003cbr\u003e\u003cb\u003eMonster Effect :\u003c/b\u003e If this card is Normal or Special Summoned: You can make this card gain 300 ATK for each \"Abyss Actor\" monster you currently control, until the end of this turn. You can target 1 other \"Abyss Actor\" monster you control; it gains ATK equal to this card's current ATK, until the end of this turn. This card cannot attack the turn this effect is activated. You can only use this effect of \"Abyss Actor - Funky Comedian\" once per turn."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125273_200w.jpg",
+      "modifiedOn": "2016-11-18T15:38:06.81",
+      "name": "Abyss Actor - Funky Comedian",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125273,
+      "url": "https://www.tcgplayer.com/product/125273/yugioh-destiny-soldiers-abyss-actor-funky-comedian"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Abyss Actor Superstar",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN018"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cb\u003ePendulum Effect :\u003c/b\u003e Once per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 \"Abyss Script\" Spell Card in your Graveyard; add it to your hand.\r\n\u003cbr\u003e\u003cb\u003eMonster Effect :\u003c/b\u003e When Normal or Special Summoned, your opponent's Spell/Trap Cards and effects cannot be activated. Once per turn: You can Set 1 \"Abyss Script\" Spell Card directly from your Deck, but it is sent to the Graveyard during the End Phase."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125274_200w.jpg",
+      "modifiedOn": "2018-05-30T20:58:55.24",
+      "name": "Abyss Actor - Superstar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 125274,
+      "url": "https://www.tcgplayer.com/product/125274/yugioh-destiny-soldiers-abyss-actor-superstar"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Abyss Actor Sassy Rookie",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN019"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cb\u003ePendulum Effect :\u003c/b\u003e If an \"Abyss Actor\" monster(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead.\r\n\u003cbr\u003e\u003cb\u003eMonster Effect :\u003c/b\u003e The first time this card would be destroyed by battle or card effect each turn, it is not destroyed. If this card is destroyed by battle, or if this card in its owner's Monster Zone is destroyed by an opponent's card effect: You can Special Summon 1 Level 4 or lower \"Abyss Actor\" monster from your Deck, except \"Abyss Actor - Sassy Rookie\". If this card in the Pendulum Zone is destroyed: You can target 1 Level 4 or lower monster your opponent controls; destroy it."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125275_200w.jpg",
+      "modifiedOn": "2016-11-18T15:38:57.343",
+      "name": "Abyss Actor - Sassy Rookie",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125275,
+      "url": "https://www.tcgplayer.com/product/125275/yugioh-destiny-soldiers-abyss-actor-sassy-rookie"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Abyss Actor Extras",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN020"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cb\u003ePendulum Effect :\u003c/b\u003eIf your opponent controls a monster: You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Abyss Actor - Extras\" once per turn.\r\n\u003cbr\u003e\u003cb\u003eMonster Effect :\u003c/b\u003e You can Tribute this card; place 1 \"Abyss Actor\" Pendulum Monster from your Deck in your Pendulum Zone, also for the rest of this turn, you cannot Special Summon monsters, except \"Abyss Actor\" monsters, nor activate the Pendulum Effect of \"Abyss Actor - Extras\". You can only use this effect of \"Abyss Actor - Extras\" once per turn."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125276_200w.jpg",
+      "modifiedOn": "2016-11-18T15:39:11.48",
+      "name": "Abyss Actor - Extras",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125276,
+      "url": "https://www.tcgplayer.com/product/125276/yugioh-destiny-soldiers-abyss-actor-extras"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Abyss Actor Leading Lady",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN021"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cb\u003ePendulum Effect :\u003c/b\u003e Once per turn, when you take battle damage from an opponent's attacking monster: You can activate 1 of these effects;\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e That opponent's monster loses ATK equal to the battle damage you took (even if this card leaves the field).\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Add 1 face-up \"Abyss Actor\" Pendulum Monster from your Extra Deck to your hand with ATK less than or equal to the damage you took.\r\n\u003cbr\u003e\u003cb\u003eMonster Effect :\u003c/b\u003e Once per turn, when battle damage is inflicted: You can target 1 face-up monster your opponent controls; it loses ATK equal to that battle damage. When this card is destroyed by battle, or if this card in its owner's Monster Zone is destroyed by an opponent's card effect: You can Set 1 \"Abyss Script\" Spell Card directly from your Deck."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125277_200w.jpg",
+      "modifiedOn": "2016-11-18T15:39:26.82",
+      "name": "Abyss Actor - Leading Lady",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125277,
+      "url": "https://www.tcgplayer.com/product/125277/yugioh-destiny-soldiers-abyss-actor-leading-lady"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Abyss Actor Wild Hope",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN022"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cb\u003ePendulum Effect :\u003c/b\u003e Once per turn: You can target 1 \"Abyss Actor\" card in your other Pendulum Zone; its Pendulum Scale becomes 9 until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except \"Abyss Actor\" monsters (even if this card leaves the field).\r\n\u003cbr\u003e\u003cb\u003eMonster Effect :\u003c/b\u003e Once per turn: You can make this card gain 100 ATK for each \"Abyss Actor\" monster you currently control with different names, until the end of this turn. If this card is destroyed by battle or card effect: You can add 1 \"Abyss Actor\" card from your Deck to your hand, except \"Abyss Actor - Wild Hope\". You can only use this effect of \"Abyss Actor - Wild Hope\" once per turn."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125278_200w.jpg",
+      "modifiedOn": "2016-11-18T15:39:50.273",
+      "name": "Abyss Actor - Wild Hope",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125278,
+      "url": "https://www.tcgplayer.com/product/125278/yugioh-destiny-soldiers-abyss-actor-wild-hope"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Abyss Script Fantasy Magic",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN023"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Target 1 \"Abyss Actor\" monster you control; this turn, every monster that battles it, but is not destroyed, returns to the hand at the end of the Damage Step. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can target 1 card your opponent controls; place it on top of the Deck."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125279_200w.jpg",
+      "modifiedOn": "2016-11-18T15:40:05.59",
+      "name": "Abyss Script - Fantasy Magic",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125279,
+      "url": "https://www.tcgplayer.com/product/125279/yugioh-destiny-soldiers-abyss-script-fantasy-magic"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Abyss Script Opening Ceremony",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN024"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Gain 500 LP for each \"Abyss Actor\" monster you control. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can draw until you have 5 cards in your hand. You can only use each effect of \"Abyss Script - Opening Ceremony\" once per turn."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125280_200w.jpg",
+      "modifiedOn": "2016-11-18T15:43:09.32",
+      "name": "Abyss Script - Opening Ceremony",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125280,
+      "url": "https://www.tcgplayer.com/product/125280/yugioh-destiny-soldiers-abyss-script-opening-ceremony"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Abyss Script Fire Dragons Lair",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN025"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Target 1 \"Abyss Actor\" monster you control; if it destroys your opponent's monster by battle this turn, your opponent banishes 3 monsters from their Extra Deck (their choice). If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can look at your opponent's Extra Deck, also banish 1 monster from their Extra Deck. You can only use this effect of \"Abyss Script - Fire Dragon's Lair\" once per turn."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125281_200w.jpg",
+      "modifiedOn": "2016-11-18T15:43:21.713",
+      "name": "Abyss Script - Fire Dragon's Lair",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125281,
+      "url": "https://www.tcgplayer.com/product/125281/yugioh-destiny-soldiers-abyss-script-fire-dragons-lair"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Abyss Prop Wild Wagon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN026"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "The first time each \"Abyss Actor\" monster you control would be destroyed by battle each turn, it is not destroyed. Once per turn: You can target 1 \"Abyss Actor\" monster you control; your opponent cannot target it with card effects until the end of their turn (even if this card leaves the field). If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can return all cards your opponent controls to the hand."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125282_200w.jpg",
+      "modifiedOn": "2016-11-18T15:43:32.273",
+      "name": "Abyss Prop - Wild Wagon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125282,
+      "url": "https://www.tcgplayer.com/product/125282/yugioh-destiny-soldiers-abyss-prop-wild-wagon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Abyss Script Rise of the Abyss King",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN027"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Target face-up cards on the field, up to the number of Attack Position \"Abyss Actor\" monsters with different names you control; destroy them. If you control a Level 7 or higher \"Abyss Actor\" monster, your opponent cannot activate cards or effects in response to this card's activation. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can add up to 2 \"Abyss Actor\" cards and/or \"Abyss Script\" Spell Cards with different names from your Deck to your hand."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125283_200w.jpg",
+      "modifiedOn": "2025-05-06T18:18:52.32",
+      "name": "Abyss Script - Rise of the Abyss King",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 125283,
+      "url": "https://www.tcgplayer.com/product/125283/yugioh-destiny-soldiers-abyss-script-rise-of-the-abyss-king"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Abyss Actors Back Stage",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN028"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If you have 2 \"Abyss Actor\" cards in your Pendulum Zones: Add 2 \"Abyss Actor\" Pendulum Monsters with different names from your Deck to your Extra Deck face-up. You can only activate 1 \"Abyss Actors Back Stage\" per turn."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125284_200w.jpg",
+      "modifiedOn": "2016-11-18T15:43:56.263",
+      "name": "Abyss Actors Back Stage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125284,
+      "url": "https://www.tcgplayer.com/product/125284/yugioh-destiny-soldiers-abyss-actors-back-stage"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Darklord Morningstar",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN029"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "3000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cannot be Special Summoned. If this card is Tribute Summoned: You can Special Summon \"Darklord\" monsters from your hand and/or Deck, up to the number of Effect Monsters your opponent controls. While you control another \"Darklord\" monster, your opponent cannot target this card with card effects. Once per turn: You can send cards from the top of your Deck to the Graveyard, equal to the number of \"Darklord\" monsters on the field, and if you do, gain 500 LP for each \"Darklord\" card sent to the Graveyard by this effect."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125285_200w.jpg",
+      "modifiedOn": "2016-11-18T15:44:06.803",
+      "name": "Darklord Morningstar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125285,
+      "url": "https://www.tcgplayer.com/product/125285/yugioh-destiny-soldiers-darklord-morningstar"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Darklord Ixchel",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN030"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2900"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can discard this card and 1 \"Darklord\" card; draw 2 cards. During either player's turn: You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap Card in your Graveyard; apply that target's effect, then shuffle that target into the Deck. You can only use each effect of \"Darklord Ixchel\" once per turn. You can only Special Summon \"Darklord Ixchel(s)\" once per turn."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125286_200w.jpg",
+      "modifiedOn": "2024-11-21T08:50:00.3",
+      "name": "Darklord Ixchel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 125286,
+      "url": "https://www.tcgplayer.com/product/125286/yugioh-destiny-soldiers-darklord-ixchel"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Darklord Tezcatlipoca",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN031"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If a \"Darklord\" monster(s) you control would be destroyed by battle or card effect, you can discard this card instead. During either player's turn: You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap Card in your Graveyard; apply that target's effect, then shuffle that target into the Deck. You can only use this effect of \"Darklord Tezcatlipoca\" once per turn. You can only Special Summon \"Darklord Tezcatlipoca(s)\" once per turn."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125287_200w.jpg",
+      "modifiedOn": "2016-11-18T15:44:32.587",
+      "name": "Darklord Tezcatlipoca",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125287,
+      "url": "https://www.tcgplayer.com/product/125287/yugioh-destiny-soldiers-darklord-tezcatlipoca"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Darklord Nasten",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN032"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can discard 2 other \"Darklord\" cards; Special Summon this card from your hand. During either player's turn: You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap Card in your Graveyard; apply that target's effect, then shuffle that target into the Deck. You can only use this effect of \"Darklord Nasten\" once per turn. You can only Special Summon \"Darklord Nasten(s)\" once per turn."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125288_200w.jpg",
+      "modifiedOn": "2016-11-18T15:44:49.883",
+      "name": "Darklord Nasten",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125288,
+      "url": "https://www.tcgplayer.com/product/125288/yugioh-destiny-soldiers-darklord-nasten"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Darklord Amdusc",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN033"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can discard this card and 1 \"Darklord\" card, then target 1 \"Darklord\" card in your Graveyard; add it to your hand. During either player's turn: You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap Card in your Graveyard; apply that target's effect, then shuffle that target into the Deck. You can only use each effect of \"Darklord Amdusc\" once per turn. You can only Special Summon \"Darklord Amdusc(s)\" once per turn."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125289_200w.jpg",
+      "modifiedOn": "2016-11-18T15:45:04.67",
+      "name": "Darklord Amdusc",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125289,
+      "url": "https://www.tcgplayer.com/product/125289/yugioh-destiny-soldiers-darklord-amdusc"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Banishment of the Darklords",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN034"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Add 1 \"Darklord\" card from your Deck to your hand, except \"Banishment of the Darklords\". You can only activate 1 \"Banishment of the Darklords\" per turn."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125290_200w.jpg",
+      "modifiedOn": "2025-12-03T18:01:11.44",
+      "name": "Banishment of the Darklords",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 125290,
+      "url": "https://www.tcgplayer.com/product/125290/yugioh-destiny-soldiers-banishment-of-the-darklords"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Darklord Contact",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN035"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Special Summon 1 \"Darklord\" monster from your Graveyard in Defense Position. You can only activate 1 \"Darklord Contact\" per turn."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125291_200w.jpg",
+      "modifiedOn": "2024-07-20T10:09:01.733",
+      "name": "Darklord Contact",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 125291,
+      "url": "https://www.tcgplayer.com/product/125291/yugioh-destiny-soldiers-darklord-contact"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Darklord Rebellion",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN036"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Send 1 \"Darklord\" monster from your hand or face-up from your field to the Graveyard; destroy 1 card on the field. You can only activate 1 \"Darklord Rebellion\" per turn."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125292_200w.jpg",
+      "modifiedOn": "2016-11-18T15:46:45.63",
+      "name": "Darklord Rebellion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125292,
+      "url": "https://www.tcgplayer.com/product/125292/yugioh-destiny-soldiers-darklord-rebellion"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Darklord Enchantment",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN037"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Send 1 \"Darklord\" monster from your hand or face-up from your field to the Graveyard; take control of 1 face-up monster your opponent controls until the End Phase. You can only activate 1 \"Darklord Enchantment\" per turn."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125293_200w.jpg",
+      "modifiedOn": "2016-11-18T15:47:04.017",
+      "name": "Darklord Enchantment",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125293,
+      "url": "https://www.tcgplayer.com/product/125293/yugioh-destiny-soldiers-darklord-enchantment"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Darklord Asmodeus",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN038"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cannot be Special Summoned from the Deck or Graveyard. Once per turn: You can send 1 Fairy-Type monster from your Deck to the Graveyard. If this card you control is destroyed and sent to your Graveyard: Special Summon 1 \"Asmo Token\" (Fairy-Type/DARK/Level 5/ATK 1800/DEF 1300) and 1 \"Deus Token\" (Fairy-Type/DARK/Level 3/ATK 1200/DEF 1200). \"Asmo Token\" cannot be destroyed by card effects. \"Deus Token\" cannot be destroyed by battle."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125294_200w.jpg",
+      "modifiedOn": "2017-02-13T14:44:41.967",
+      "name": "Darklord Asmodeus",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 125294,
+      "url": "https://www.tcgplayer.com/product/125294/yugioh-destiny-soldiers-darklord-asmodeus"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Darklord Superbia",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN039"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Special Summoned from the Graveyard: You can target 1 Fairy-Type monster in your Graveyard, except \"Darklord Superbia\"; Special Summon that target."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125295_200w.jpg",
+      "modifiedOn": "2016-11-18T15:47:35.607",
+      "name": "Darklord Superbia",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125295,
+      "url": "https://www.tcgplayer.com/product/125295/yugioh-destiny-soldiers-darklord-superbia"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Darklord Edeh Arae",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN040"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is Special Summoned from the Graveyard, it gains this effect.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125296_200w.jpg",
+      "modifiedOn": "2017-02-13T14:43:51.41",
+      "name": "Darklord Edeh Arae",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 125296,
+      "url": "https://www.tcgplayer.com/product/125296/yugioh-destiny-soldiers-darklord-edeh-arae"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Darklord Zerato",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN041"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If you have 4 or more DARK monsters with different names in your Graveyard, you can Tribute Summon this card by Tributing 1 DARK monster. You can send 1 DARK monster from your hand to the Graveyard; destroy all monsters your opponent controls. Once per turn, during the End Phase, if this effect was activated this turn: Destroy this card."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125297_200w.jpg",
+      "modifiedOn": "2016-11-18T15:47:58.293",
+      "name": "Darklord Zerato",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125297,
+      "url": "https://www.tcgplayer.com/product/125297/yugioh-destiny-soldiers-darklord-zerato"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Hole",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN042"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Destroy all monsters on the field."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125298_200w.jpg",
+      "modifiedOn": "2016-11-18T15:48:09.237",
+      "name": "Dark Hole",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125298,
+      "url": "https://www.tcgplayer.com/product/125298/yugioh-destiny-soldiers-dark-hole"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Fires of Doomsday",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN043"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Quick-Play Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Special Summon 2 \"Doomsday Tokens\" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon, unless it is for a DARK monster. You cannot Summon other monsters the turn you activate this card (but you can Set)."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125299_200w.jpg",
+      "modifiedOn": "2016-11-18T15:48:19.903",
+      "name": "Fires of Doomsday",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125299,
+      "url": "https://www.tcgplayer.com/product/125299/yugioh-destiny-soldiers-fires-of-doomsday"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Allure of Darkness",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN044"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Draw 2 cards, then banish 1 DARK monster from your hand, or, if you do not have any in your hand, send your entire hand to the Graveyard."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125300_200w.jpg",
+      "modifiedOn": "2025-12-09T20:48:15.51",
+      "name": "Allure of Darkness",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 125300,
+      "url": "https://www.tcgplayer.com/product/125300/yugioh-destiny-soldiers-allure-of-darkness"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Escape from the Dark Dimension",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN045"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Target 1 of your banished DARK monsters; Special Summon that target. When this card leaves the field, destroy and banish that target. When that target is destroyed, destroy this card."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125301_200w.jpg",
+      "modifiedOn": "2016-11-18T15:48:45.277",
+      "name": "Escape from the Dark Dimension",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125301,
+      "url": "https://www.tcgplayer.com/product/125301/yugioh-destiny-soldiers-escape-from-the-dark-dimension"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Darklord Marie",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN046"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "As long as this card is in the Graveyard, increase your Life Points by 200 during each of your Standby Phases.\r\n\u003cbr\u003e\r\n\u003cbr\u003e\u003cem\u003e(Formally named \"Marie the Fallen One\".)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125302_200w.jpg",
+      "modifiedOn": "2016-11-18T15:49:08.04",
+      "name": "Darklord Marie",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125302,
+      "url": "https://www.tcgplayer.com/product/125302/yugioh-destiny-soldiers-darklord-marie"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Prometheus King of the Shadows",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN047"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When you Normal Summon this card, remove from play any number of DARK monsters from your Graveyard. This card gains 400 ATK for each removed card, until the End Phase of this turn."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125303_200w.jpg",
+      "modifiedOn": "2016-11-18T15:49:21.653",
+      "name": "Prometheus, King of the Shadows",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125303,
+      "url": "https://www.tcgplayer.com/product/125303/yugioh-destiny-soldiers-prometheus-king-of-the-shadows"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Darklord Nurse Reficule",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN048"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Any effect that would make your opponent gain LP inflicts the same amount of damage to them, instead."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125304_200w.jpg",
+      "modifiedOn": "2016-11-18T15:49:32.9",
+      "name": "Darklord Nurse Reficule",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125304,
+      "url": "https://www.tcgplayer.com/product/125304/yugioh-destiny-soldiers-darklord-nurse-reficule"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Doomsday Horror",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN049"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "The ATK and DEF of this card are each equal to the number of removed from play DARK monsters x 300. When this card is destroyed and sent to the Graveyard, return all removed from play DARK monsters to their owners' Graveyards."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125305_200w.jpg",
+      "modifiedOn": "2016-11-18T15:55:11.83",
+      "name": "Doomsday Horror",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125305,
+      "url": "https://www.tcgplayer.com/product/125305/yugioh-destiny-soldiers-doomsday-horror"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Archlord Kristya",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN050"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If you have exactly 4 Fairy-Type monsters in your Graveyard, you can Special Summon this card (from your hand). When you do: Target 1 Fairy-Type monster in your Graveyard; add that target to your hand. Neither player can Special Summon monsters. If this face-up card would be sent from the field to the Graveyard, it returns to the top of the Deck, instead."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125306_200w.jpg",
+      "modifiedOn": "2016-11-18T15:55:25.113",
+      "name": "Archlord Kristya",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125306,
+      "url": "https://www.tcgplayer.com/product/125306/yugioh-destiny-soldiers-archlord-kristya"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Trade In",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN051"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Discard 1 Level 8 monster; draw 2 cards."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125307_200w.jpg",
+      "modifiedOn": "2023-01-29T22:47:18.187",
+      "name": "Trade-In",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 125307,
+      "url": "https://www.tcgplayer.com/product/125307/yugioh-destiny-soldiers-trade-in"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Veil of Darkness",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN052"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During your Draw Phase, if you draw a DARK monster(s): You can reveal any number of them; send them to the Graveyard, then you can draw 1 more card."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125308_200w.jpg",
+      "modifiedOn": "2016-11-18T15:55:42.597",
+      "name": "Veil of Darkness",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125308,
+      "url": "https://www.tcgplayer.com/product/125308/yugioh-destiny-soldiers-veil-of-darkness"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Beginning of the End",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN053"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate only if there are 7 or more DARK monsters in your Graveyard. Remove from play 5 DARK monsters from your Graveyard to draw 3 cards."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125309_200w.jpg",
+      "modifiedOn": "2016-11-18T15:55:51.843",
+      "name": "The Beginning of the End",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125309,
+      "url": "https://www.tcgplayer.com/product/125309/yugioh-destiny-soldiers-the-beginning-of-the-end"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Eruption",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN054"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Target 1 DARK monster with 1500 or less ATK in your Graveyard; add that target to your hand."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125310_200w.jpg",
+      "modifiedOn": "2016-11-18T15:56:08.313",
+      "name": "Dark Eruption",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125310,
+      "url": "https://www.tcgplayer.com/product/125310/yugioh-destiny-soldiers-dark-eruption"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Valhalla Hall of the Fallen",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN055"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn: You can Special Summon 1 Fairy-Type monster from your hand. You must control no monsters to activate and to resolve this effect."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125311_200w.jpg",
+      "modifiedOn": "2016-11-18T15:56:17.28",
+      "name": "Valhalla, Hall of the Fallen",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125311,
+      "url": "https://www.tcgplayer.com/product/125311/yugioh-destiny-soldiers-valhalla-hall-of-the-fallen"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Advance Draw",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN056"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Tribute 1 face-up Level 8 or higher monster you control; draw 2 cards."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125312_200w.jpg",
+      "modifiedOn": "2016-11-18T15:56:27.417",
+      "name": "Advance Draw",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125312,
+      "url": "https://www.tcgplayer.com/product/125312/yugioh-destiny-soldiers-advance-draw"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Mambele",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN057"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If you control 3 or more DARK monsters: Target 1 face-up card on the field; banish that target."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125313_200w.jpg",
+      "modifiedOn": "2016-11-18T15:57:04.15",
+      "name": "Dark Mambele",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125313,
+      "url": "https://www.tcgplayer.com/product/125313/yugioh-destiny-soldiers-dark-mambele"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Creeping Darkness",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN058"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Banish 2 DARK monsters from your Graveyard; add 1 Level 4 DARK monster from your Deck to your hand."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125314_200w.jpg",
+      "modifiedOn": "2016-11-18T15:57:19.007",
+      "name": "Creeping Darkness",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125314,
+      "url": "https://www.tcgplayer.com/product/125314/yugioh-destiny-soldiers-creeping-darkness"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Destiny Signal",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN059"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When a monster you control is destroyed by battle and sent to the Graveyard: Special Summon 1 Level 4 or lower \"Destiny HERO\" monster from your hand or Deck."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125315_200w.jpg",
+      "modifiedOn": "2016-11-18T15:57:29.453",
+      "name": "Destiny Signal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125315,
+      "url": "https://www.tcgplayer.com/product/125315/yugioh-destiny-soldiers-destiny-signal"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Illusion",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DESO-EN060"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Negate the activation of a Spell Card, Trap Card, or Effect Monster's effect that targets a face-up DARK monster, and destroy that card."
+        }
+      ],
+      "groupId": 1854,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125316_200w.jpg",
+      "modifiedOn": "2016-11-18T15:57:41.457",
+      "name": "Dark Illusion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-11-18T00:00:00"
+      },
+      "productId": 125316,
+      "url": "https://www.tcgplayer.com/product/125316/yugioh-destiny-soldiers-dark-illusion"
+    }
+  ],
+  "success": true,
+  "totalItems": 62
+}

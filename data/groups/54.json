@@ -1,0 +1,52 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "abbreviation": "WHAOSWB2",
+      "categoryId": 54,
+      "groupId": 2450,
+      "isSupplemental": true,
+      "modifiedOn": "2019-06-04T19:13:50.56",
+      "name": "Warband Collectors Pack 2",
+      "publishedOn": "2019-05-31T00:00:00"
+    },
+    {
+      "abbreviation": "WHAOSSA",
+      "categoryId": 54,
+      "groupId": 2414,
+      "isSupplemental": false,
+      "modifiedOn": "2019-11-14T16:19:27.973",
+      "name": "Wave 3 - Savagery",
+      "publishedOn": "2019-04-05T00:00:00"
+    },
+    {
+      "abbreviation": "WHAOSWCP",
+      "categoryId": 54,
+      "groupId": 2405,
+      "isSupplemental": false,
+      "modifiedOn": "2025-02-28T22:34:39.89",
+      "name": "Warband Collectors Pack 1",
+      "publishedOn": "2019-03-08T00:00:00"
+    },
+    {
+      "abbreviation": "WHAOSCO",
+      "categoryId": 54,
+      "groupId": 2357,
+      "isSupplemental": false,
+      "modifiedOn": "2025-02-28T22:35:38.67",
+      "name": "Wave 2 - Onslaught",
+      "publishedOn": "2018-11-30T00:00:00"
+    },
+    {
+      "abbreviation": "WHAOSC",
+      "categoryId": 54,
+      "groupId": 2263,
+      "isSupplemental": false,
+      "modifiedOn": "2025-02-28T22:37:29.167",
+      "name": "Wave 1",
+      "publishedOn": "2018-08-02T00:00:00"
+    }
+  ],
+  "success": true,
+  "totalItems": 5
+}

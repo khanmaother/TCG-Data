@@ -1,0 +1,3966 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Tanglespan Lookout",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "379"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Satyr"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever an Aura enters the battlefield under your control, draw a card."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514257_200w.jpg",
+      "modifiedOn": "2025-05-15T19:59:25.667",
+      "name": "Tanglespan Lookout",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514257,
+      "url": "https://www.tcgplayer.com/product/514257/magic-promo-pack-wilds-of-eldraine-tanglespan-lookout"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sleight of Hand",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "376"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514258_200w.jpg",
+      "modifiedOn": "2025-11-11T07:35:53.867",
+      "name": "Sleight of Hand",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514258,
+      "url": "https://www.tcgplayer.com/product/514258/magic-promo-pack-wilds-of-eldraine-sleight-of-hand"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Torch the Tower",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "378"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Bargain\r\n\u003cbr\u003e\r\nTorch the Tower deals 2 damage to target creature or planeswalker. If this spell was bargained, instead it deals 3 damage to that permanent and you scry 1.\r\n\u003cbr\u003e\r\nIf a permanent dealt damage by Torch the Tower would die this turn, exile it instead."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514259_200w.jpg",
+      "modifiedOn": "2025-12-02T18:07:48.74",
+      "name": "Torch the Tower",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514259,
+      "url": "https://www.tcgplayer.com/product/514259/magic-promo-pack-wilds-of-eldraine-torch-the-tower"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Stroke of Midnight",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "375"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target nonland permanent. Its controller creates a 1/1 white Human creature token."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514260_200w.jpg",
+      "modifiedOn": "2025-11-11T07:41:17.7",
+      "name": "Stroke of Midnight",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514260,
+      "url": "https://www.tcgplayer.com/product/514260/magic-promo-pack-wilds-of-eldraine-stroke-of-midnight"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Faerie Dreamthief",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "377"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Faerie Warlock"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nWhen Faerie Dreamthief enters the battlefield, surveil 1.\r\n\u003cbr\u003e\r\n2B, Exile Faerie Dreamthief from your graveyard: You draw a card and you lose 1 life."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514261_200w.jpg",
+      "modifiedOn": "2025-11-12T06:35:37.397",
+      "name": "Faerie Dreamthief",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514261,
+      "url": "https://www.tcgplayer.com/product/514261/magic-promo-pack-wilds-of-eldraine-faerie-dreamthief"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Restless Fortress",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "259"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Restless Fortress enters the battlefield tapped.\r\n\u003cbr\u003e\r\nT: Add W or B.\r\n\u003cbr\u003e\r\n2WB: Restless Fortress becomes a 1/4 white and black Nightmare creature until end of turn. It's still a land.\r\n\u003cbr\u003e\r\nWhenever Restless Fortress attacks, defending player loses 2 life and you gain 2 life."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514274_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Restless Fortress",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514274,
+      "url": "https://www.tcgplayer.com/product/514274/magic-promo-pack-wilds-of-eldraine-restless-fortress"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gruff Triplets",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "172"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Satyr Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\r\n\u003cbr\u003eWhen Gruff Triplets enters the battlefield, if it isn't a token, create two tokens that are copies of it.\r\n\u003cbr\u003eWhen Gruff Triplets dies, put a number of +1/+1 counters equal to its power on each creature you control named Gruff Triplets."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514275_200w.jpg",
+      "modifiedOn": "2025-11-26T21:35:49.953",
+      "name": "Gruff Triplets",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514275,
+      "url": "https://www.tcgplayer.com/product/514275/magic-promo-pack-wilds-of-eldraine-gruff-triplets"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rotisserie Elemental",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "148"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace\r\n\u003cbr\u003e\r\nWhenever Rotisserie Elemental deals combat damage to a player, put a skewer counter on Rotisserie Elemental. Then you may sacrifice it. If you do, exile the top X cards of your library, where X is the number of skewer counters on Rotisserie Elemental. You may play those cards this turn."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514276_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Rotisserie Elemental",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514276,
+      "url": "https://www.tcgplayer.com/product/514276/magic-promo-pack-wilds-of-eldraine-rotisserie-elemental"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Raging Battle Mouse",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "143"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Mouse"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "The second spell you cast each turn costs 1 less to cast.\r\n\u003cbr\u003e\r\n\u003cem\u003eCelebration\u003c/em\u003e — At the beginning of combat on your turn, if two or more nonland permanents entered the battlefield under your control this turn, target creature you control gets +1/+1 until end of turn."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514277_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Raging Battle Mouse",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514277,
+      "url": "https://www.tcgplayer.com/product/514277/magic-promo-pack-wilds-of-eldraine-raging-battle-mouse"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Restless Spire",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "260"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Restless Spire enters the battlefield tapped.\r\n\u003cbr\u003e\r\nT: Add U or R.\r\n\u003cbr\u003e\r\nUR: Until end of turn, Restless Spire becomes a 2/1 blue and red Elemental creature with \"As long as it's your turn, this creature has first strike.\" It's still a land.\r\n\u003cbr\u003e\r\nWhenever Restless Spire attacks, scry 1."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514278_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Restless Spire",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514278,
+      "url": "https://www.tcgplayer.com/product/514278/magic-promo-pack-wilds-of-eldraine-restless-spire"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Irencrag",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "248"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add C.\r\n\u003cbr\u003eWhenever a legendary creature enters the battlefield under your control, you may have The Irencrag become a legendary Equipment artifact named Everflame, Heroes' Legacy. If you do ,it gains equip 3 and \"Equipped creature gets +3/+3\" and loses all other abilities."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514279_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "The Irencrag",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514279,
+      "url": "https://www.tcgplayer.com/product/514279/magic-promo-pack-wilds-of-eldraine-the-irencrag"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bramble Familiar",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "164"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental Raccoon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add G.\r\n\u003cbr\u003e1G, T, Discard a card: Return Bramble Familiar to its owner's hand.\r\n\u003cbr\u003e\u003cstrong\u003eFetch Quest\u003c/strong\u003e 5GG\r\n\u003cbr\u003eSorcery — Adventure\r\n\u003cbr\u003eMill seven cards.\r\n\u003cbr\u003eThen put a creature, enchantment, or land card from among cards milled this way onto the battlefield."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514280_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Bramble Familiar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514280,
+      "url": "https://www.tcgplayer.com/product/514280/magic-promo-pack-wilds-of-eldraine-bramble-familiar"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Agatha of the Vile Cauldron",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "199"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Warlock"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Activated abilities of creatures you control cost X less to activate, where X is Agatha of the Vile Cauldron's power. This effect can't reduce the mana in that cost to less than one mana.\r\n\u003cbr\u003e\r\n4RG: Other creatures you control get +1/+1 and gain trample and haste until end of turn."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514281_200w.jpg",
+      "modifiedOn": "2025-11-12T06:39:48.857",
+      "name": "Agatha of the Vile Cauldron",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514281,
+      "url": "https://www.tcgplayer.com/product/514281/magic-promo-pack-wilds-of-eldraine-agatha-of-the-vile-cauldron"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Blossoming Tortoise",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "163"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Turtle"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Blossoming Tortoise enters the battlefield or attacks, mill three cards, then return a land card from your graveyard to the battlefield tapped.\r\n\u003cbr\u003e\r\nActivated abilities of lands you control cost 1 less to activate.\r\n\u003cbr\u003e\r\nLand creatures you control get +1/+1."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514282_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Blossoming Tortoise",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514282,
+      "url": "https://www.tcgplayer.com/product/514282/magic-promo-pack-wilds-of-eldraine-blossoming-tortoise"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Elusive Otter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "225"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Otter"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Prowess \u003cem\u003e(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\u003c/em\u003e\r\n\u003cbr\u003eCreatures with power less than Elusive Otter's power can't block it.\r\n\u003cbr\u003e\u003cstrong\u003eGrove's Bounty\u003c/strong\u003e XG\r\n\u003cbr\u003eSorcery — Adventure\r\n\u003cbr\u003eDistribute X +1/+1 counters among any number of target creatures you control. \u003cem\u003e(Then exile this card. You may cast the creature later from exile.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514283_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Elusive Otter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514283,
+      "url": "https://www.tcgplayer.com/product/514283/magic-promo-pack-wilds-of-eldraine-elusive-otter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Eriette of the Charmed Apple",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "202"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Warlock"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each creature that's enchanted by an Aura you control can't attack you or planeswalkers you control.\r\n\u003cbr\u003e\r\nAt the beginning of your end step, each opponent loses X life and you gain X life, where X is the number of Auras you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Hush now. I need your beauty sleep.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514284_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Eriette of the Charmed Apple",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514284,
+      "url": "https://www.tcgplayer.com/product/514284/magic-promo-pack-wilds-of-eldraine-eriette-of-the-charmed-apple"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "A Tale for the Ages",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "34"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchanted creatures you control get +2/+2."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eWith every retelling of Agatha's demise, Kellan got taller and Ruby got stronger. But the core story stayed the same, and people remembered what happens to those who prey on the weak.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514285_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "A Tale for the Ages",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514285,
+      "url": "https://www.tcgplayer.com/product/514285/magic-promo-pack-wilds-of-eldraine-a-tale-for-the-ages"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Imodane the Pyrohammer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "137"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever an instant or sorcery spell you control that targets only a single creature deals damage to that creature, Imodane deals that much damage to each opponent."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“The realm needs a ruler, not a boy playing king.”\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514286_200w.jpg",
+      "modifiedOn": "2025-05-01T16:02:44.597",
+      "name": "Imodane, the Pyrohammer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514286,
+      "url": "https://www.tcgplayer.com/product/514286/magic-promo-pack-wilds-of-eldraine-imodane-the-pyrohammer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rankles Prank",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "102"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose one or more —\r\n\u003cbr\u003e\r\n• Each player discards two cards.\r\n\u003cbr\u003e\r\n• Each player loses 4 life.\r\n\u003cbr\u003e\r\n• Each player sacrifices two creatures."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe louder they scream, the harder he laughs.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514287_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Rankle's Prank",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514287,
+      "url": "https://www.tcgplayer.com/product/514287/magic-promo-pack-wilds-of-eldraine-rankles-prank"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Will Scion of Peace",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "218"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance\r\n\u003cbr\u003e\r\nT: Spells you cast this turn that are white and/or blue cost X less to cast, where X is the amount of life you gained this turn. Activate only as a sorcery."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"It's easy to cry 'For glory!' and charge those who disagree with you. But it takes finess to turn enemies into allies rather than corpses.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514288_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Will, Scion of Peace",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514288,
+      "url": "https://www.tcgplayer.com/product/514288/magic-promo-pack-wilds-of-eldraine-will-scion-of-peace"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Redcap Gutter Dweller",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "146"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Goblin Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace\r\n\u003cbr\u003eWhen Redcap Gutter-Dweller enters the battlefield, create two 1/1 black Rat creature tokens with “This creature can’t block.”\r\n\u003cbr\u003eAt the beginning of your upkeep, you may sacrifice another creature. If you do, put a +1/+1 counter on Redcap Gutter-Dweller and exile the top card of your library. You may play that card this turn."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514289_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Redcap Gutter-Dweller",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514289,
+      "url": "https://www.tcgplayer.com/product/514289/magic-promo-pack-wilds-of-eldraine-redcap-gutter-dweller"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Song of Totentanz",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "150"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Create X 1/1 black Rat creature tokens with \"This creature can't block.\" Creatures you control gain haste until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eTownsfolk tapped their feet and hummed along, unwittingly amplifying the tune that would summon their doom.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514290_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Song of Totentanz",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514290,
+      "url": "https://www.tcgplayer.com/product/514290/magic-promo-pack-wilds-of-eldraine-song-of-totentanz"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Three Blind Mice",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "35"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Saga"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003e(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)\u003c/em\u003e\r\n\u003cbr\u003e\r\n[I] Create a 1/1 white Mouse creature token.\r\n\u003cbr\u003e\r\n[II] [III] Create a token that's a copy of target token you control.\r\n\u003cbr\u003e\r\n[IV] Creatures you control get +1/+1 and gain vigilance until end of turn."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514291_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Three Blind Mice",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514291,
+      "url": "https://www.tcgplayer.com/product/514291/magic-promo-pack-wilds-of-eldraine-three-blind-mice"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Moonshaker Cavalry",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "21"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spirit Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nWhen Moonshaker Cavalry enters the battlefield, creatures you control gain flying and get +X/+X until end of turn, where X is the number of creatures you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eHigh King Kenrith's armies followed him into the afterlife, ready to charge at his command.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514292_200w.jpg",
+      "modifiedOn": "2024-04-13T13:56:46.81",
+      "name": "Moonshaker Cavalry",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514292,
+      "url": "https://www.tcgplayer.com/product/514292/magic-promo-pack-wilds-of-eldraine-moonshaker-cavalry"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Extraordinary Journey",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "48"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Extraordinary Journey enters the battlefield, exile up to X target creatures. For each of those cards, its owner may play it for as long as it remains exiled.\r\n\u003cbr\u003eWhenever one or more nontoken creatures enter the battlefield, if one or more of them entered from exile or was cast from exile, you draw a card. This ability triggers only once each turn."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514293_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Extraordinary Journey",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514293,
+      "url": "https://www.tcgplayer.com/product/514293/magic-promo-pack-wilds-of-eldraine-extraordinary-journey"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Scalding Viper",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "235"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental Snake"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever an opponent casts a spell with mana value 3 or less, Scalding Viper deals 1 damage to that player.\r\n\u003cbr\u003e\r\n\u003cstrong\u003eSteam Clean\u003c/strong\u003e 1U\r\n\u003cbr\u003e\r\nSorcery — Adventure\r\n\u003cbr\u003e\r\nReturn target nonland permanent to its owner's hand. \u003cem\u003e(Then exile this card. You may cast the creature later from exile.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514294_200w.jpg",
+      "modifiedOn": "2024-02-09T15:24:45.693",
+      "name": "Scalding Viper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514294,
+      "url": "https://www.tcgplayer.com/product/514294/magic-promo-pack-wilds-of-eldraine-scalding-viper"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Restless Vinestalk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "261"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Restless Vinestalk enters the battlefield tapped.\r\n\u003cbr\u003eT: Add G or U.\r\n\u003cbr\u003e3GU: Until end of turn, Restless Vinestalk becomes a 5/5 green and blue Plant creature with trample. It's still a land.\r\n\u003cbr\u003eWhenever Restless Vinestalk attacks, up to one other target creature has base power and toughness 3/3 until end of turn."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514295_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Restless Vinestalk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514295,
+      "url": "https://www.tcgplayer.com/product/514295/magic-promo-pack-wilds-of-eldraine-restless-vinestalk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The End",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "87"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "This spell costs 2 less to cast if your life total is 5 or less.\r\n\u003cbr\u003e\r\nExile target creature or planeswalker. Search its controller's graveyard, hand, and library for any number of cards with the same name as that permanent and exile them. That player shuffles, then draws a card for each card exiled from their hand this way."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514296_200w.jpg",
+      "modifiedOn": "2024-09-10T12:31:25.297",
+      "name": "The End",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514296,
+      "url": "https://www.tcgplayer.com/product/514296/magic-promo-pack-wilds-of-eldraine-the-end"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hyldas Crown of Winter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "247"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1,T: Tap target creature. This ability costs 1 less to activate during your turn.\r\n\u003cbr\u003e\r\n3, Sacrifice Hylda's Crown of Winter: Draw a card for each tapped creature your opponents control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eWith each day she wore the crown, her icy kingdom spread, and her heart grew ever colder.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514297_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Hylda's Crown of Winter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514297,
+      "url": "https://www.tcgplayer.com/product/514297/magic-promo-pack-wilds-of-eldraine-hyldas-crown-of-winter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Expel the Interlopers",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose a number between 0 and 10. Destroy all creatures with power greater than or equal to the chosen number."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eWhen a redcap raid threatened the Grand Ball at Delverhaugh, Goddric had no choice but to reveal his true identity and douse the invaders in dragonfire.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514298_200w.jpg",
+      "modifiedOn": "2025-05-15T19:59:25.73",
+      "name": "Expel the Interlopers",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514298,
+      "url": "https://www.tcgplayer.com/product/514298/magic-promo-pack-wilds-of-eldraine-expel-the-interlopers"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Food Fight",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "129"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Artifacts you control have \"2, Sacrifice this artifact: It deals damage to any target equal to 1 plus the number of permanents named Food Fight you control.\""
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eWith no time to gather weapons, the dwarves fought the redcaps with anything within reach.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514299_200w.jpg",
+      "modifiedOn": "2025-05-15T19:59:25.793",
+      "name": "Food Fight",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514299,
+      "url": "https://www.tcgplayer.com/product/514299/magic-promo-pack-wilds-of-eldraine-food-fight"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Goose Mother",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "204"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Bird Hydra"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nThe Goose Mother enters the battlefield with X +1/+1 counters on it.\r\n\u003cbr\u003e\r\nWhen The Goose Mother enters the battlefield, create half X Food tokens, rounded up.\r\n\u003cbr\u003e\r\nWhenever The Goose Mother attacks, you may sacrifice a Food. If you do, draw a card."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514300_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "The Goose Mother",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514300,
+      "url": "https://www.tcgplayer.com/product/514300/magic-promo-pack-wilds-of-eldraine-the-goose-mother"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Yenna Redtooth Regent",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "219"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elf Noble"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2, T: Choose target enchantment you control that doesn't have the same name as another permanent you control. Create a token that's a copy of it, except it isn't legendary. If the token is an Aura, untap Yenna, Redtooth Regent, then scry 2. Activate only as a sorcery."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"My people are both bloom and thorn.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514301_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Yenna, Redtooth Regent",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514301,
+      "url": "https://www.tcgplayer.com/product/514301/magic-promo-pack-wilds-of-eldraine-yenna-redtooth-regent"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Werefox Bodyguard",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "39"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elf Fox Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\r\n\u003cbr\u003eWhen Werefox Bodyguard enters the battlefield, exile up to one other target non-Fox creature until Werefox Bodyguard leaves the battlefield.\r\n\u003cbr\u003e1W, Sacrifice Werefox Bodyguard: You gain 2 life."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514302_200w.jpg",
+      "modifiedOn": "2024-01-25T15:26:27.097",
+      "name": "Werefox Bodyguard",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514302,
+      "url": "https://www.tcgplayer.com/product/514302/magic-promo-pack-wilds-of-eldraine-werefox-bodyguard"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hylda of the Icy Crown",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "206"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Warlock"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you tap an untapped creature an opponent controls, you may pay 1. When you do, choose one —\r\n\u003cbr\u003e\r\n• Create a 4/4 white and blue Elemental creature token.\r\n\u003cbr\u003e\r\n• Put a +1/+1 counter on each creature you control.\r\n\u003cbr\u003e\r\n• Scry 2, then draw a card."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514303_200w.jpg",
+      "modifiedOn": "2025-11-12T06:32:48.017",
+      "name": "Hylda of the Icy Crown",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514303,
+      "url": "https://www.tcgplayer.com/product/514303/magic-promo-pack-wilds-of-eldraine-hylda-of-the-icy-crown"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ingenious Prodigy",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "56"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Skulk \u003cem\u003e(This creature can't be blocked by creatures with greater power.)\u003c/em\u003e\r\n\u003cbr\u003e Ingenious Prodigy enters the battlefield with X +1/+1 counters on it.\r\n\u003cbr\u003eAt the beginning of your upkeep, if Ingenious Prodigy has one or more +1/+1 counters on it, you may remove a +1/+1 counter from it. If you do, draw a card."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514304_200w.jpg",
+      "modifiedOn": "2025-11-12T06:33:20.557",
+      "name": "Ingenious Prodigy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514304,
+      "url": "https://www.tcgplayer.com/product/514304/magic-promo-pack-wilds-of-eldraine-ingenious-prodigy"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Talion the Kindly Lord",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "215"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Faerie Noble"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nAs Talion, the Kindly Lord enters the battlefield, choose a number between 1 and 10.\r\n\u003cbr\u003e\r\nWhenever an opponent casts a spell with mana value, power, or toughness equal to the chosen number, that player loses 2 life and you draw a card."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514305_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Talion, the Kindly Lord",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514305,
+      "url": "https://www.tcgplayer.com/product/514305/magic-promo-pack-wilds-of-eldraine-talion-the-kindly-lord"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Faunsbane Troll",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "203"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Troll"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Faunsbane Troll enters the battlefield, create a Monster Role token attached to it. \u003cem\u003e(Enchanted creature gets +1/+1 and has trample.)\u003c/em\u003e\r\n\u003cbr\u003e\r\n1, Sacrifice an Aura attached to Faunsbane Troll: Faunsbane Troll fights target creature you don't control. If that creature would die this turn, exile it instead. Activate only as a sorcery."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514306_200w.jpg",
+      "modifiedOn": "2025-05-15T19:59:25.857",
+      "name": "Faunsbane Troll",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514306,
+      "url": "https://www.tcgplayer.com/product/514306/magic-promo-pack-wilds-of-eldraine-faunsbane-troll"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goddric Cloaked Reveler",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "132"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Noble"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003e\r\n\u003cem\u003eCelebration\u003c/em\u003e — As long as two or more nonland permanents entered the battlefield under your control this turn, Goddric, Cloaked Reveler is a Dragon with base power and toughness 4/4, flying, and \"R: Dragons you control get +1/+0 until end of turn.\" \u003cem\u003e(It loses all other creature types.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514309_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Goddric, Cloaked Reveler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514309,
+      "url": "https://www.tcgplayer.com/product/514309/magic-promo-pack-wilds-of-eldraine-goddric-cloaked-reveler"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Archon of the Wild Rose",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Archon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nOther creatures you control that are enchanted by Auras you control have base power and toughness 4/4 and have flying."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe curse of Redtooth Keep could only be broken by a mystical rose that blooms in moonlight.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514310_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Archon of the Wild Rose",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514310,
+      "url": "https://www.tcgplayer.com/product/514310/magic-promo-pack-wilds-of-eldraine-archon-of-the-wild-rose"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Specter of Mortality",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "107"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Specter"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nWhen Specter of Mortality enters the battlefield, you may exile one or more creature cards from your graveyard. When you do, each other creature gets -X/-X until end of turn, where X is the number of cards exiled this way."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514311_200w.jpg",
+      "modifiedOn": "2025-05-15T19:59:25.917",
+      "name": "Specter of Mortality",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514311,
+      "url": "https://www.tcgplayer.com/product/514311/magic-promo-pack-wilds-of-eldraine-specter-of-mortality"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Feral Encounter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "169"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Look at the top five cards of your library. You may exile a creature card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card this turn. At the beginning of the next combat phase this turn, target creature you control deals damage equal to its power to up to one target creature you don't control."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514312_200w.jpg",
+      "modifiedOn": "2025-05-15T19:59:25.98",
+      "name": "Feral Encounter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514312,
+      "url": "https://www.tcgplayer.com/product/514312/magic-promo-pack-wilds-of-eldraine-feral-encounter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Beseech the Mirror",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "82"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Bargain \u003cem\u003e(You may sacrifice an artifact, enchantment, or token as you cast this spell.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nSearch your library for a card, exile it face down, then shuffle. If this spell was bargained, you may cast the exiled card without paying its mana cost if that spell's mana value is 4 or less. Put the exiled card into your hand if it wasn't cast this way."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514313_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Beseech the Mirror",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514313,
+      "url": "https://www.tcgplayer.com/product/514313/magic-promo-pack-wilds-of-eldraine-beseech-the-mirror"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lord Skitters Blessing",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "98"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Lord Skitter's Blessing enters the battlefield, create a Wicked Role token attached to target creature you control. \u003cem\u003e(Enchanted creature gets +1/+1. When this Aura is put into a graveyard, each opponent loses 1 life.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nAt the beginning of your draw step, if you control an enchanted creature, you lose 1 life and you draw an additional card."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514314_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Lord Skitter's Blessing",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514314,
+      "url": "https://www.tcgplayer.com/product/514314/magic-promo-pack-wilds-of-eldraine-lord-skitters-blessing"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kellan the Fae Blooded",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "230"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Faerie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Double strike\r\n\u003cbr\u003e\r\nOther creatures you control get +1/+0 for each Aura and Equipment attached to Kellan, the Fae-Blooded.\r\n\u003cbr\u003e\r\n\u003cstrong\u003eBirthright Boon\u003c/strong\u003e 1W\r\n\u003cbr\u003e\r\nSorcery — Adventure\r\n\u003cbr\u003e\r\nSearch your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514315_200w.jpg",
+      "modifiedOn": "2024-10-25T11:18:01.27",
+      "name": "Kellan, the Fae-Blooded",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514315,
+      "url": "https://www.tcgplayer.com/product/514315/magic-promo-pack-wilds-of-eldraine-kellan-the-fae-blooded"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Realm Scorcher Hellkite",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "145"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Bargain \u003cem\u003e(You may sacrifice an artifact, enchantment, or token as you cast this spell.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nFlying, haste\r\n\u003cbr\u003e\r\nWhen Realm-Scorcher Hellkite enters the battlefield, if it was bargained, add four mana in any combination of colors.\r\n\u003cbr\u003e\r\n1R: Realm-Scorcher Hellkite deals 1 damage to any target."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514316_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Realm-Scorcher Hellkite",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514316,
+      "url": "https://www.tcgplayer.com/product/514316/magic-promo-pack-wilds-of-eldraine-realm-scorcher-hellkite"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sentinel of Lost Lore",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "184"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elf Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Sentinel of Lost Lore enters the battlefield, choose one or more —\r\n\u003cbr\u003e\r\n• Return target card you own in exile that has an Adventure to your hand.\r\n\u003cbr\u003e\r\n• Put target card you don't own in exile that has an Adventure on the bottom of its owner's library.\r\n\u003cbr\u003e\r\n• Exile target player's graveyard."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514317_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Sentinel of Lost Lore",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514317,
+      "url": "https://www.tcgplayer.com/product/514317/magic-promo-pack-wilds-of-eldraine-sentinel-of-lost-lore"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Agathas Soul Cauldron",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "242"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may spend mana as though it were mana of any color to activate abilities of creatures you control.\r\n\u003cbr\u003e\r\nCreatures you control with +1/+1 counters on them have all activated abilities of all creature cards exiled with Agatha's Soul Cauldron.\r\n\u003cbr\u003e\r\nT: Exile target card from a graveyard. When a creature card is exiled this way, put a +1/+1 counter on target creature you control."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514318_200w.jpg",
+      "modifiedOn": "2025-11-29T00:50:39.623",
+      "name": "Agatha's Soul Cauldron",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514318,
+      "url": "https://www.tcgplayer.com/product/514318/magic-promo-pack-wilds-of-eldraine-agathas-soul-cauldron"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Likeness Looter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "208"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Faerie Shapeshifter"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eT: Draw a card, then discard a card.\r\n\u003cbr\u003eX: Likeness Looter becomes a copy of target creature card in your graveyard with mana value X, except it has flying and this ability. Activate only as a sorcery."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514319_200w.jpg",
+      "modifiedOn": "2024-01-04T21:08:43.793",
+      "name": "Likeness Looter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514319,
+      "url": "https://www.tcgplayer.com/product/514319/magic-promo-pack-wilds-of-eldraine-likeness-looter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Charming Scoundrel",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "124"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Rogue"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003e\r\nWhen Charming Scoundrel enters the battlefield, choose one —\r\n\u003cbr\u003e\r\n• Discard a card, then draw a card.\r\n\u003cbr\u003e\r\n• Create a Treasure token.\r\n\u003cbr\u003e\r\n• Create a Wicked Role token attached to target creature you control."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514320_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Charming Scoundrel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514320,
+      "url": "https://www.tcgplayer.com/product/514320/magic-promo-pack-wilds-of-eldraine-charming-scoundrel"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Virtue of Persistence",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "115"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control.\r\n\u003cbr\u003e\r\n\u003cstrong\u003eLocthwain Scorn\u003c/strong\u003e\r\n\u003cbr\u003e\r\nSorcery — Adventure\r\n\u003cbr\u003e\r\nTarget creature gets -3/-3 until end of turn. You gain 2 life."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514321_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Virtue of Persistence",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514321,
+      "url": "https://www.tcgplayer.com/product/514321/magic-promo-pack-wilds-of-eldraine-virtue-of-persistence"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lord Skitter Sewer King",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "97"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Rat Noble"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever another Rat enters the battlefield under your control, exile up to one target card from an opponent’s graveyard.\r\n\u003cbr\u003eAt the beginning of combat on your turn, create a 1/1 black Rat creature token with “This creature can’t block.”"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514322_200w.jpg",
+      "modifiedOn": "2026-01-16T20:12:42.67",
+      "name": "Lord Skitter, Sewer King",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514322,
+      "url": "https://www.tcgplayer.com/product/514322/magic-promo-pack-wilds-of-eldraine-lord-skitter-sewer-king"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Questing Druid",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "234"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Druid"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you cast a spell that's white, blue, black, or red, put a +1/+1 counter on Questing Druid.\r\n\u003cbr\u003e\u003cstrong\u003eSeek the Beast\u003c/strong\u003e 1R\r\n\u003cbr\u003eInstant — Adventure\r\n\u003cbr\u003eExile the top two cards of your library. Until you next end step, you may play those cards."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514323_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Questing Druid",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514323,
+      "url": "https://www.tcgplayer.com/product/514323/magic-promo-pack-wilds-of-eldraine-questing-druid"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Huntsmans Redemption",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "176"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Saga"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003e(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\u003c/em\u003e\r\n\u003cbr\u003e\r\n[I] Create a 3/3 green Beast creature token.\r\n\u003cbr\u003e\r\n[II] You may sacrifice a creature. If you do, search your library for a creature or basic land card, reveal it, put it into your hand, then shuffle."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514324_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "The Huntsman's Redemption",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514324,
+      "url": "https://www.tcgplayer.com/product/514324/magic-promo-pack-wilds-of-eldraine-the-huntsmans-redemption"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Syr Ginger the Meal Ender",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "252"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact Creature — Food Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Syr Ginger, the Meal Ender has trample, hexproof, and haste as long as an opponent controls a planeswalker.\r\n\u003cbr\u003e\r\nWhenever another artifact you control is put into a graveyard from the battlefield, put a +1/+1 counter on Syr Ginger and scry 1.\r\n\u003cbr\u003e\r\n2, T, Sacrifice Syr Ginger: You gain life equal to its power."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514325_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Syr Ginger, the Meal Ender",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514325,
+      "url": "https://www.tcgplayer.com/product/514325/magic-promo-pack-wilds-of-eldraine-syr-ginger-the-meal-ender"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Virtue of Strength",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "197"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If you tap a basic land for mana, it produces three times as much of that mana instead.\r\n\u003cbr\u003e\r\n\u003cstrong\u003eGarenbrig Growth\u003c/strong\u003e G\r\n\u003cbr\u003e\r\nSorcery — Adventure\r\n\u003cbr\u003e\r\nReturn target creature or land card from your graveyard to your hand. \u003cem\u003e(Then exile this card. You may cast the enchantment later from exile.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514326_200w.jpg",
+      "modifiedOn": "2025-11-13T16:13:34.06",
+      "name": "Virtue of Strength",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514326,
+      "url": "https://www.tcgplayer.com/product/514326/magic-promo-pack-wilds-of-eldraine-virtue-of-strength"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cruel Somnophage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "222"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Nightmare"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "*"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "*"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Cruel Somnophage's power and toughness are each equal to the number of creature cards in all graveyards.\r\n\u003cbr\u003e\r\n\u003cstrong\u003eCan't Wake Up\u003c/strong\u003e 1U\r\n\u003cbr\u003e\r\nSorcery — Adventure\r\n\u003cbr\u003e\r\nTarget player mills four cards. \u003cem\u003e(Then exile this card. You may cast the creature later from exile.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514327_200w.jpg",
+      "modifiedOn": "2023-12-03T05:15:54.293",
+      "name": "Cruel Somnophage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514327,
+      "url": "https://www.tcgplayer.com/product/514327/magic-promo-pack-wilds-of-eldraine-cruel-somnophage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Beluna Grandsquall",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "220"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Giant Noble"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\r\n\u003cbr\u003e\r\nPermanent spells you cast that have an Adventure cost 1 less to cast.\r\n\u003cbr\u003e\r\n\u003cstrong\u003eSeek Thrills\u003c/strong\u003e 2GUR\r\n\u003cbr\u003e\r\nInstant — Adventure\r\n\u003cbr\u003e\r\nMill seven cards. Then put all cards that have an Adventure from among the milled cards into your hand."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514328_200w.jpg",
+      "modifiedOn": "2024-02-10T12:35:12.283",
+      "name": "Beluna Grandsquall",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514328,
+      "url": "https://www.tcgplayer.com/product/514328/magic-promo-pack-wilds-of-eldraine-beluna-grandsquall"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rowan Scion of War",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "211"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace\r\n\u003cbr\u003e\r\nT: Spells you cast this turn that are black and/or red cost X less to cast, where X is the amount of life you lost this turn. Activate only as a sorcery."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"No more days withering at a negotiating table with my brother. I will rebuild Eldraine myself—the old way, with power.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514329_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Rowan, Scion of War",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514329,
+      "url": "https://www.tcgplayer.com/product/514329/magic-promo-pack-wilds-of-eldraine-rowan-scion-of-war"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Virtue of Knowledge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "76"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\r\n\u003cbr\u003e\r\n\u003cstrong\u003eVantress Visions\u003c/strong\u003e 1U\r\n\u003cbr\u003e\r\nInstant — Adventure\r\n\u003cbr\u003e\r\nCopy target activated or triggered ability you control. You may choose new targets for the copy."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514330_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Virtue of Knowledge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514330,
+      "url": "https://www.tcgplayer.com/product/514330/magic-promo-pack-wilds-of-eldraine-virtue-of-knowledge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Horned Loch Whale",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "53"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Whale"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\r\n\u003cbr\u003e\r\nWard 2\r\n\u003cbr\u003e\r\nHorned Loch-Whale enters the battlefield tapped unless it's your turn.\r\n\u003cbr\u003e\r\n\u003cstrong\u003eLagoon Breach\u003c/strong\u003e 1U\r\n\u003cbr\u003e\r\nInstant — Adventure\r\n\u003cbr\u003e\r\nThe owner of target attacking creature you don't control puts it on the top or bottom of their library."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514331_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Horned Loch-Whale",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514331,
+      "url": "https://www.tcgplayer.com/product/514331/magic-promo-pack-wilds-of-eldraine-horned-loch-whale"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Virtue of Courage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "157"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever a source you control deals noncombat damage to an opponent, you may exile that many cards from the top of your library. You may play those cards this turn.\r\n\u003cstrong\u003eEmbereth Blaze\u003c/strong\u003e 1R\r\n\u003cbr\u003e\r\nInstant — Adventure\r\n\u003cbr\u003e\r\nEmbereth Blaze deals 2 damage to any target. \u003cem\u003e(Then exile this card. You may cast the enchantment later from exile.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514332_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Virtue of Courage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514332,
+      "url": "https://www.tcgplayer.com/product/514332/magic-promo-pack-wilds-of-eldraine-virtue-of-courage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Twining Twins",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "240"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Faerie Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, vigilance, ward 1\r\n\u003cbr\u003e\r\n\u003cstrong\u003eSwift Spiral\u003c/strong\u003e 1W\r\n\u003cbr\u003e\r\nInstant — Adventure\r\n\u003cbr\u003e\r\nExile target nontoken creature. Return it to the battlefield under its owner's control at the beginning of the next end step."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"We spin and spin to keep us busy, but somehow you're the one who's dizzy.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514333_200w.jpg",
+      "modifiedOn": "2025-05-15T19:59:26.043",
+      "name": "Twining Twins",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514333,
+      "url": "https://www.tcgplayer.com/product/514333/magic-promo-pack-wilds-of-eldraine-twining-twins"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Regal Bunnicorn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "25"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Rabbit Unicorn"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "*"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "*"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Regal Bunnicorn's power and toughness are each equal to the number of nonland permanents you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"It's entirely peaceful, as long as you don't try to pet it, pen it, take its food, take its hide, sit on its grass, or dress it up in colorful garb for human holidays.\"\u003cbr\u003e—Sturwynn, Boundary Lands ranger\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514334_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Regal Bunnicorn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514334,
+      "url": "https://www.tcgplayer.com/product/514334/magic-promo-pack-wilds-of-eldraine-regal-bunnicorn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sleep Cursed Faerie",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "66"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Faerie Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, ward 2\r\n\u003cbr\u003eSleep-Cursed Faerie enters the battlefield tapped with three stun counters on it. \u003cem\u003e(If it would become untapped, remove a stun counter from it instead.)\u003c/em\u003e\r\n\u003cbr\u003e1U: Untap Sleep-Cursed Faerie."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514335_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Sleep-Cursed Faerie",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514335,
+      "url": "https://www.tcgplayer.com/product/514335/magic-promo-pack-wilds-of-eldraine-sleep-cursed-faerie"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Restless Cottage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "258"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Restless Cottage enters the battlefield tapped.\r\n\u003cbr\u003e\r\nT: Add B or G.\r\n\u003cbr\u003e\r\n2BG: Restless Cottage becomes a 4/4 black and green Horror creature until end of turn. It's still a land.\r\n\u003cbr\u003e\r\nWhenever Restless Cottage attacks, create a Food token and exile up to one target card from a graveyard."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514336_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Restless Cottage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514336,
+      "url": "https://www.tcgplayer.com/product/514336/magic-promo-pack-wilds-of-eldraine-restless-cottage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Asinine Antics",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "42"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may cast Asinine Antics as though it had flash if you pay 2 more to cast it.\r\n\u003cbr\u003eFor each creature your opponents control, create a Cursed Role token attached to that creature. \u003cem\u003e(If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514337_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Asinine Antics",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514337,
+      "url": "https://www.tcgplayer.com/product/514337/magic-promo-pack-wilds-of-eldraine-asinine-antics"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Virtue of Loyalty",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "38"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your end step, put a +1/+1 counter on each creature you control. Untap those creatures.\r\n\u003cbr\u003e\r\n\u003cstrong\u003eArdenvale Fealty\u003c/strong\u003e 1W\r\n\u003cbr\u003e\r\nInstant — Adventure\r\n\u003cbr\u003e\r\nCreate a 2/2 white Knight creature token with vigilance. \u003cem\u003e(Then exile this card. You may cast the enchantment late from exile.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514338_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Virtue of Loyalty",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514338,
+      "url": "https://www.tcgplayer.com/product/514338/magic-promo-pack-wilds-of-eldraine-virtue-of-loyalty"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pollen Shield Hare",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "233"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Rabbit"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Creature tokens you control get +1/+1.\r\n\u003cbr\u003e\r\n\u003cstrong\u003eHare Raising\u003c/strong\u003e G\r\n\u003cbr\u003e\r\nSorcery — Adventure\r\n\u003cbr\u003e\r\nTarget creature you control gains vigilance and gets +X/+X until end of turn, where X is the number of creatures you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eShe can drive off any threat, from owl to hunter to Phyrexian monster.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514339_200w.jpg",
+      "modifiedOn": "2025-05-15T19:59:26.11",
+      "name": "Pollen-Shield Hare",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514339,
+      "url": "https://www.tcgplayer.com/product/514339/magic-promo-pack-wilds-of-eldraine-pollen-shield-hare"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Spiteful Hexmage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "108"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Warlock"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Spiteful Hexmage enters the battlefield, create a Cursed Role token attached to target creature you control. \u003cem\u003e(If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Who’ll never amount to anything now, Father?”\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514340_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Spiteful Hexmage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514340,
+      "url": "https://www.tcgplayer.com/product/514340/magic-promo-pack-wilds-of-eldraine-spiteful-hexmage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thunderous Debut",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "190"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Bargain \u003cem\u003e(You may sacrifice an artifact, enchantment, or token as you cast this spell.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nLook at the top twenty cards of your library. You may reveal up to two creature cards from among them. If this spell was bargained, put the revealed cards onto the battlefield. Otherwise, put the revealed cards into your hand. Then shuffle."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514341_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Thunderous Debut",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514341,
+      "url": "https://www.tcgplayer.com/product/514341/magic-promo-pack-wilds-of-eldraine-thunderous-debut"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Restless Bivouac",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "257"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Restless Bivouac enters the battlefield tapped.\r\n\u003cbr\u003e\r\nT: Add R or W.\r\n\u003cbr\u003e\r\n1RW: Restless Bivouac becomes a 2/2 red and white Ox creature until end of turn. It's still a land.\r\n\u003cbr\u003e\r\nWhenever Restless Bivouac attacks, put a +1/+1 counter on target creature you control."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514342_200w.jpg",
+      "modifiedOn": "2023-11-19T21:20:22.703",
+      "name": "Restless Bivouac",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514342,
+      "url": "https://www.tcgplayer.com/product/514342/magic-promo-pack-wilds-of-eldraine-restless-bivouac"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Spellbook Vendor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "31"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Peasant"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance\r\n\u003cbr\u003eAt the beginning of combat on your turn, you may pay 1. When you do, create a Sorcerer Role token attached to target creature you control. \u003cem\u003e(If you control another Role on it, put that one into the graveyard. Enchanted creature\r\ngets +1/+1 and has \"Whenever this creature attacks, scry 1.\")\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514343_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Spellbook Vendor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514343,
+      "url": "https://www.tcgplayer.com/product/514343/magic-promo-pack-wilds-of-eldraine-spellbook-vendor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ashiok Wicked Manipulator",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "78"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Ashiok"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If you would pay life while your library has at least that many cards in it, exile that many cards from the top of your library instead.\r\n\u003cbr\u003e\r\n[+1]: Look at the top two cards of your library. Exile one of them and put the other into your hand.\r\n\u003cbr\u003e\r\n[-2]: Create two 1/1 black Nightmare creature tokens with \"At the beginning of combat on your turn, if a card was put into exile this turn, put a +1/+1 counter on this creature.\"\r\n\u003cbr\u003e\r\n[-7]: Target player exiles the top X cards of their library, where X is the total mana value of cards you own in exile."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514344_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Ashiok, Wicked Manipulator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514344,
+      "url": "https://www.tcgplayer.com/product/514344/magic-promo-pack-wilds-of-eldraine-ashiok-wicked-manipulator"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Devouring Sugarmaw",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "224"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Horror"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace, trample\r\n\u003cbr\u003e\r\nAt the beginning of your upkeep, you may sacrifice an artifact, enchantment, or token. If you don't, tap Devouring Sugarmaw.\r\n\u003cbr\u003e\r\n\u003cstrong\u003eHave for Dinner\u003c/strong\u003e 1W\r\n\u003cbr\u003e\r\nInstant — Adventure\r\n\u003cbr\u003e\r\nCreate a 1/1 white Human creature token and a Food token. \u003cem\u003e(Then exile this card. You may cast the creature later from exile.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514345_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Devouring Sugarmaw",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514345,
+      "url": "https://www.tcgplayer.com/product/514345/magic-promo-pack-wilds-of-eldraine-devouring-sugarmaw"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tangled Colony",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "113"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Rat"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tangled Colony can't block.\r\n\u003cbr\u003e\r\nWhen Tangled Colony dies, create X 1/1 black Rat creature tokens with \"This creature can't block,\" where X is the amount of damage dealt to it this turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eClawing for scraps and driven mad by hunger, the individual rats became a writhing mass.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514346_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Tangled Colony",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514346,
+      "url": "https://www.tcgplayer.com/product/514346/magic-promo-pack-wilds-of-eldraine-tangled-colony"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lich Knights Conquest",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "96"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Sacrifice any number of artifacts, enchantments, and/or tokens. Return that many creature cards from your graveyard to the battlefield."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIn their rotting minds, they still quest for virtue and glory.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514347_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Lich-Knights' Conquest",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514347,
+      "url": "https://www.tcgplayer.com/product/514347/magic-promo-pack-wilds-of-eldraine-lich-knights-conquest"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gumdrop Poisoner",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "93"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Warlock"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lifelink\r\n\u003cbr\u003e\r\nWhen Gumdrop Poisoner enters the battlefield, up to one target creature gets -X/-X until end of turn, where X is the amount of life you gained this turn.\r\n\u003cbr\u003e\r\n\u003cstrong\u003eTempt with Treats\u003c/strong\u003e B\r\n\u003cbr\u003e\r\nInstant — Adventure\r\n\u003cbr\u003e\r\nCreate a Food token. \u003cem\u003e(Then exile this card. You may cast the creature later from exile.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514348_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Gumdrop Poisoner",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514348,
+      "url": "https://www.tcgplayer.com/product/514348/magic-promo-pack-wilds-of-eldraine-gumdrop-poisoner"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Elvish Archivist",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "168"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elf Artificer"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever one or more artifacts enter the battlefield under your control, put two +1/+1 counters on Elvish Archivist. This ability triggers only once each turn.\r\n\u003cbr\u003e\r\nWhenever one or more enchantments enter the battlefield under your control, draw a card. This ability triggers only once each turn."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514349_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Elvish Archivist",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514349,
+      "url": "https://www.tcgplayer.com/product/514349/magic-promo-pack-wilds-of-eldraine-elvish-archivist"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Heartflame Duelist",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "228"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Instant and sorcery spells you control have lifelink.\r\n\u003cbr\u003e\u003cstrong\u003eHeartflame Slash\u003c/strong. 2R\r\n\u003cbr\u003eInstant — Adventure\r\n\u003cbr\u003eHeartflame Slash deals 3 damage to any target. \u003cem\u003e(Then exile this card. You may cast the creature later from exile.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The fire of Embereth will never be doused!\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514350_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Heartflame Duelist",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514350,
+      "url": "https://www.tcgplayer.com/product/514350/magic-promo-pack-wilds-of-eldraine-heartflame-duelist"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Apprentices Folly",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "200"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Saga"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003e(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\u003c/em\u003e\r\n\u003cbr\u003e\r\n[I][II] Choose target nontoken creature you control that doesn't have the same name as a token you control. Create a token that's a copy of it, except it isn't legendary, is a Reflection in addition to its other types, and has haste. \r\n\u003cbr\u003e\r\n[III] Sacrifice all Reflections you control."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514351_200w.jpg",
+      "modifiedOn": "2024-09-12T18:16:18.137",
+      "name": "The Apprentice's Folly",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514351,
+      "url": "https://www.tcgplayer.com/product/514351/magic-promo-pack-wilds-of-eldraine-the-apprentices-folly"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Talions Messenger",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "73"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Faerie Noble"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eWhenever you attack with one or more Faeries, draw a card, then discard. When you discard a card this way, put a +1/+1 counter on target Faerie you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The Kindly Lord does not issue invitations to their court lightly. I suggest you accept.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514352_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Talion's Messenger",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514352,
+      "url": "https://www.tcgplayer.com/product/514352/magic-promo-pack-wilds-of-eldraine-talions-messenger"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Decadent Dragon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "223"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, trample\r\n\u003cbr\u003e\r\nWhenever Decadent Dragon attacks, create a Treasure token.\r\n\u003cbr\u003e\r\n\u003cstrong\u003eExpensive Taste\u003c/strong\u003e 2B\r\n\u003cbr\u003e\r\nExile the top two cards of target opponent's library face down. You may look at and play those cards for as long as they remain exiled."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514353_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Decadent Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514353,
+      "url": "https://www.tcgplayer.com/product/514353/magic-promo-pack-wilds-of-eldraine-decadent-dragon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mosswood Dreadknight",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "231"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\r\n\u003cbr\u003eWhen Mosswood Dreadknight dies, you may cast it from your graveyard as an Adventure until the end of your next turn.\r\n\u003cbr\u003e\u003cstrong\u003eDread Whispers\u003c/strong\u003e 1B\r\n\u003cbr\u003eSorcery — Adventure\r\n\u003cbr\u003eYou draw a card and you lose 1 life. \u003cem\u003e(Then exile this card. You may cast the creature later from exile.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514354_200w.jpg",
+      "modifiedOn": "2024-03-11T13:02:55.053",
+      "name": "Mosswood Dreadknight",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 514354,
+      "url": "https://www.tcgplayer.com/product/514354/magic-promo-pack-wilds-of-eldraine-mosswood-dreadknight"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Farsight Ritual",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "49"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Bargain \u003cem\u003e(You may sacrifice an artifact, enchantment, or token as you cast this spell.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nLook at the top four cards of your library. If this spell was bargained, look at the top eight cards of your library instead. Put two of them into your hand and the rest on the bottom of your library in a random order."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/514355_200w.jpg",
+      "modifiedOn": "2023-09-08T04:03:58.997",
+      "name": "Farsight Ritual",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2023-09-08T00:00:00"
+      },
+      "productId": 514355,
+      "url": "https://www.tcgplayer.com/product/514355/magic-promo-pack-wilds-of-eldraine-farsight-ritual"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wheel of Fate",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "198"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Suspend 4—1R \u003cem\u003e(Rather than cast this card from your hand, pay 1R and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)\u003c/em\u003e\r\n\u003cbr\u003eEach player discards their hand, then draws seven cards."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/516941_200w.jpg",
+      "modifiedOn": "2024-10-21T16:53:18.417",
+      "name": "Wheel of Fate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 516941,
+      "url": "https://www.tcgplayer.com/product/516941/magic-promo-pack-wilds-of-eldraine-wheel-of-fate"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Angels Grace",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Split second \u003cem\u003e(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)\u003c/em\u003e\r\n\u003cbr\u003eYou can't lose the game this turn and your opponents can't win the game this turn. Until end of turn, damage that would reduce your life total to less than 1 reduces it to 1 instead."
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/516942_200w.jpg",
+      "modifiedOn": "2025-10-23T22:27:59.363",
+      "name": "Angel's Grace",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 516942,
+      "url": "https://www.tcgplayer.com/product/516942/magic-promo-pack-wilds-of-eldraine-angels-grace"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swarmyard",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "284"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add C.\r\n\u003cbr\u003eT: Regenerate target Insect, Rat, Spider, or Squirrel. \u003cem\u003e(The next time it would be destroyed, instead tap it, remove it from combat, and heal all damage on it)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23224,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/516943_200w.jpg",
+      "modifiedOn": "2024-01-02T15:56:50.817",
+      "name": "Swarmyard",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 516943,
+      "url": "https://www.tcgplayer.com/product/516943/magic-promo-pack-wilds-of-eldraine-swarmyard"
+    }
+  ],
+  "success": true,
+  "totalItems": 88
+}

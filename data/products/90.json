@@ -1,0 +1,1319 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Premium Deck Series Graveborn",
+      "extendedData": [],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/48163_200w.jpg",
+      "modifiedOn": "2014-06-19T15:49:09.71",
+      "name": "Premium Deck Series: Graveborn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 48163,
+      "url": "https://www.tcgplayer.com/product/48163/magic-premium-deck-series-graveborn-premium-deck-series-graveborn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Animate Dead",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant creature card in a graveyard\r\n\u003cbr\u003e\r\nWhen Animate Dead enters the battlefield, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with Animate Dead.\" Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.\r\n\u003cbr\u003e\r\nEnchanted creature gets -1/-0."
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57244_200w.jpg",
+      "modifiedOn": "2025-12-06T01:15:02.557",
+      "name": "Animate Dead",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57244,
+      "url": "https://www.tcgplayer.com/product/57244/magic-premium-deck-series-graveborn-animate-dead"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Avatar of Woe",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Avatar"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If there are ten or more creature cards total in all graveyards, Avatar of Woe costs 6 less to cast.\r\n\u003cbr\u003e\r\nFear \u003cem\u003e(This creature can't be blocked except by artifact creatures and/or black creatures.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nT: Destroy target creature. It can't be regenerated."
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57245_200w.jpg",
+      "modifiedOn": "2024-06-14T19:52:15.913",
+      "name": "Avatar of Woe",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57245,
+      "url": "https://www.tcgplayer.com/product/57245/magic-premium-deck-series-graveborn-avatar-of-woe"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Buried Alive",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "20"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Search your library for up to three creature cards and put them into your graveyard. Then shuffle your library."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe scrape of shovels and the tumble of cold dirt soon muffled their pleas\u003c/em\u003e"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57246_200w.jpg",
+      "modifiedOn": "2025-12-06T01:15:53.143",
+      "name": "Buried Alive",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57246,
+      "url": "https://www.tcgplayer.com/product/57246/magic-premium-deck-series-graveborn-buried-alive"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Crosis the Purger",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nWhenever Crosis, the Purger deals combat damage to a player, you may pay 2B. If you do, choose a color. That player reveals his or her hand and discards all cards of that color from it."
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57247_200w.jpg",
+      "modifiedOn": "2024-06-14T19:57:40.44",
+      "name": "Crosis, the Purger",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57247,
+      "url": "https://www.tcgplayer.com/product/57247/magic-premium-deck-series-graveborn-crosis-the-purger"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Entomb",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Search your library for a card and put that card into your graveyard. Then shuffle your library."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eA grave is the safest place to store ill-gotten treasures.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57248_200w.jpg",
+      "modifiedOn": "2024-06-14T20:25:03.123",
+      "name": "Entomb",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57248,
+      "url": "https://www.tcgplayer.com/product/57248/magic-premium-deck-series-graveborn-entomb"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 27",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "27"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Swamp"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57363_200w.jpg",
+      "modifiedOn": "2025-04-09T08:39:51.05",
+      "name": "Swamp (27)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57363,
+      "url": "https://www.tcgplayer.com/product/57363/magic-premium-deck-series-graveborn-swamp-27"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Polluted Mire",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "26"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Polluted Mire enters the battlefield tapped.\r\n\u003cbr\u003e\r\nT: Add B to your mana pool.\r\n\u003cbr\u003e\r\nCycling 2 \u003cem\u003e(2, Discard this card: Draw a card.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57364_200w.jpg",
+      "modifiedOn": "2024-06-14T20:31:52.2",
+      "name": "Polluted Mire",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57364,
+      "url": "https://www.tcgplayer.com/product/57364/magic-premium-deck-series-graveborn-polluted-mire"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ebon Stronghold",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "25"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Ebon Stronghold comes into play tapped.\r\n\u003cbr\u003e\r\nT: Add B to your mana pool.\r\n\u003cbr\u003e\r\nT, Sacrifice Ebon Stronghold: Add BB to your mana pool."
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57365_200w.jpg",
+      "modifiedOn": "2025-12-01T14:16:47.387",
+      "name": "Ebon Stronghold",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57365,
+      "url": "https://www.tcgplayer.com/product/57365/magic-premium-deck-series-graveborn-ebon-stronghold"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Crystal Vein",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "24"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add 1 to your mana pool.\r\n\u003cbr\u003e\r\nT, Sacrifice Crystal Vein: Add 2 to your mana pool."
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57366_200w.jpg",
+      "modifiedOn": "2024-06-14T19:58:14.25",
+      "name": "Crystal Vein",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57366,
+      "url": "https://www.tcgplayer.com/product/57366/magic-premium-deck-series-graveborn-crystal-vein"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Inkwell Leviathan",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Leviathan"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "7"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "11"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Islandwalk, trample, shroud"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Into its maw went the seventh sea, never to be seen again while the world remains.\"\r\n\u003cbr\u003e\r\n—Esper fable\u003c/em\u003e"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57367_200w.jpg",
+      "modifiedOn": "2024-06-14T20:28:56.187",
+      "name": "Inkwell Leviathan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57367,
+      "url": "https://www.tcgplayer.com/product/57367/magic-premium-deck-series-graveborn-inkwell-leviathan"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sphinx of the Steel Wind",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Sphinx"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, first strike, vigilance, lifelink, protection from red and from green"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eNo one has properly answered her favorite riddle: \"Why should I spare your life?\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57368_200w.jpg",
+      "modifiedOn": "2024-06-14T20:34:11.397",
+      "name": "Sphinx of the Steel Wind",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57368,
+      "url": "https://www.tcgplayer.com/product/57368/magic-premium-deck-series-graveborn-sphinx-of-the-steel-wind"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Terastodon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elephant"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "9"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "9"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller puts a 3/3 green Elephant creature token onto the battlefield."
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57369_200w.jpg",
+      "modifiedOn": "2024-06-14T20:35:59.787",
+      "name": "Terastodon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57369,
+      "url": "https://www.tcgplayer.com/product/57369/magic-premium-deck-series-graveborn-terastodon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Verdant Force",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "7"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "7"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "During each player?s upkeep, put a Saproling token into play. Treat this token as a 1/1 green creature."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eLeft to itself, nature overflows any container, overthrows any restriction, and overreaches any boundary.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57370_200w.jpg",
+      "modifiedOn": "2024-06-14T20:37:53.3",
+      "name": "Verdant Force",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57370,
+      "url": "https://www.tcgplayer.com/product/57370/magic-premium-deck-series-graveborn-verdant-force"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Blazing Archon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Archon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nCreatures can't attack you."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Through the haze of battle I saw the glint of sun on golden mane, the sheen of glory clad in mail, and I dropped my sword and wept at the idiocy of war.\"\u003cbr\u003e—Dravin, Gruul deserter\u003c/em\u003e"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57371_200w.jpg",
+      "modifiedOn": "2024-06-14T19:52:33.463",
+      "name": "Blazing Archon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57371,
+      "url": "https://www.tcgplayer.com/product/57371/magic-premium-deck-series-graveborn-blazing-archon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Putrid Imp",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie Imp"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Discard a card from your hand: Putrid Imp gains flying until end of turn.\r\n\u003cbr\u003e\r\n\u003cem\u003eThreshold\u003c/em\u003e — Putrid Imp gets +1/+1 and can`t block."
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57372_200w.jpg",
+      "modifiedOn": "2024-06-14T20:32:30.04",
+      "name": "Putrid Imp",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57372,
+      "url": "https://www.tcgplayer.com/product/57372/magic-premium-deck-series-graveborn-putrid-imp"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hidden Horror",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Horror"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIf the presence of evil were obvious, it wouldn't be nearly as dangerous.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57373_200w.jpg",
+      "modifiedOn": "2025-12-06T01:18:20.233",
+      "name": "Hidden Horror",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57373,
+      "url": "https://www.tcgplayer.com/product/57373/magic-premium-deck-series-graveborn-hidden-horror"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Faceless Butcher",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Nightmare Horror"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Faceless Butcher enters the battlefield, exile target creature other than Faceless Butcher.\r\n\u003cbr\u003e\r\nWhen Faceless Butcher leaves the battlefield, return the exiled card to the battlefield under its owner's control."
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57374_200w.jpg",
+      "modifiedOn": "2024-06-14T20:26:31.33",
+      "name": "Faceless Butcher",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57374,
+      "url": "https://www.tcgplayer.com/product/57374/magic-premium-deck-series-graveborn-faceless-butcher"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Twisted Abomination",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie Mutant"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "B: Regenerate Twisted Abomination.\r\n\u003cbr\u003e\r\nSwampcycling 2 \u003cem\u003e(2, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57375_200w.jpg",
+      "modifiedOn": "2024-06-14T20:36:32.813",
+      "name": "Twisted Abomination",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57375,
+      "url": "https://www.tcgplayer.com/product/57375/magic-premium-deck-series-graveborn-twisted-abomination"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Reanimate",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"You will learn to earn death.\"\r\n\u003cbr\u003e\r\n—Volrath\u003c/em\u003e"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57376_200w.jpg",
+      "modifiedOn": "2025-12-08T19:01:17.317",
+      "name": "Reanimate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57376,
+      "url": "https://www.tcgplayer.com/product/57376/magic-premium-deck-series-graveborn-reanimate"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Zombie Infestation",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "19"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Discard two cards: Put a 2/2 black Zombie creature token onto the battlefield."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe nomads' funeral pyres are more practical than ceremonial.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57377_200w.jpg",
+      "modifiedOn": "2024-06-14T20:39:21.053",
+      "name": "Zombie Infestation",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57377,
+      "url": "https://www.tcgplayer.com/product/57377/magic-premium-deck-series-graveborn-zombie-infestation"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cabal Therapy",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Name a nonland card. Target player reveals  his or her hand and discards from it all  cards with that name.\r\n\u003cbr\u003e\r\nFlashback—Sacrifice a  creature. \u003cem\u003e(You may play this card from your  graveyard for its flashback cost. Then remove  it from the game.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57378_200w.jpg",
+      "modifiedOn": "2024-06-14T19:57:05.593",
+      "name": "Cabal Therapy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57378,
+      "url": "https://www.tcgplayer.com/product/57378/magic-premium-deck-series-graveborn-cabal-therapy"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Last Rites",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "21"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Discard any number of cards from your hand. Target player reveals his or her hand, then you choose a nonland card from it for each card discarded this way. That player discards those cards."
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57379_200w.jpg",
+      "modifiedOn": "2025-05-15T19:46:03.67",
+      "name": "Last Rites",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57379,
+      "url": "https://www.tcgplayer.com/product/57379/magic-premium-deck-series-graveborn-last-rites"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sickening Dreams",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "18"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As an additional cost to cast Sickening Dreams, discard X cards from your hand. \r\n\u003cbr\u003e\r\nSickening Dreams deals X damage to each creature and each player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe Patriarch dreams of vile plague.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57380_200w.jpg",
+      "modifiedOn": "2024-06-14T20:33:39.333",
+      "name": "Sickening Dreams",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57380,
+      "url": "https://www.tcgplayer.com/product/57380/magic-premium-deck-series-graveborn-sickening-dreams"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Exhume",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "17"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each player puts a creature card from his or her graveyard onto the battlefield."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Death—an outmoded concept. We sleep, and we change.\"\r\n\u003cbr\u003e\r\n—Sitrik, birth priest\u003c/em\u003e"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57381_200w.jpg",
+      "modifiedOn": "2024-06-14T20:25:35.97",
+      "name": "Exhume",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57381,
+      "url": "https://www.tcgplayer.com/product/57381/magic-premium-deck-series-graveborn-exhume"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Duress",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Don't worry. I'm not going to deprive you of all your secrets. Just your most precious one.\"\r\n\u003cbr\u003e\r\n—Liliana Vess\u003c/em\u003e"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57382_200w.jpg",
+      "modifiedOn": "2025-05-15T19:46:03.733",
+      "name": "Duress",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57382,
+      "url": "https://www.tcgplayer.com/product/57382/magic-premium-deck-series-graveborn-duress"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Diabolic Servitude",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "22"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Diabolic Servitude enters the battlefield, return target creature card from your graveyard to the battlefield.\r\n\u003cbr\u003e\r\nWhen the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner's hand.\r\n\u003cbr\u003e\r\nWhen Diabolic Servitude leaves the battlefield, exile the creature put onto the battlefield with Diabolic Servitude."
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57383_200w.jpg",
+      "modifiedOn": "2024-06-14T19:59:28.877",
+      "name": "Diabolic Servitude",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57383,
+      "url": "https://www.tcgplayer.com/product/57383/magic-premium-deck-series-graveborn-diabolic-servitude"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dread Return",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "23"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Return target creature card from your graveyard to the battlefield.\r\n\u003cbr\u003e\r\nFlashback—Sacrifice three creatures. \u003cem\u003e(You may cast this card from your graveyard for its flashback cost. Then exile it.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThose who forget the horrors of the past are doomed to re-meet them.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57384_200w.jpg",
+      "modifiedOn": "2024-06-14T20:01:25.347",
+      "name": "Dread Return",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57384,
+      "url": "https://www.tcgplayer.com/product/57384/magic-premium-deck-series-graveborn-dread-return"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 28",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "28"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Swamp"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57650_200w.jpg",
+      "modifiedOn": "2024-06-14T20:34:51.77",
+      "name": "Swamp (28)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57650,
+      "url": "https://www.tcgplayer.com/product/57650/magic-premium-deck-series-graveborn-swamp-28"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 29",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "29"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Swamp"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57651_200w.jpg",
+      "modifiedOn": "2024-06-14T20:35:09.9",
+      "name": "Swamp (29)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57651,
+      "url": "https://www.tcgplayer.com/product/57651/magic-premium-deck-series-graveborn-swamp-29"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 30",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "30"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Swamp"
+        }
+      ],
+      "groupId": 90,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57652_200w.jpg",
+      "modifiedOn": "2024-06-14T20:35:28.02",
+      "name": "Swamp (30)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57652,
+      "url": "https://www.tcgplayer.com/product/57652/magic-premium-deck-series-graveborn-swamp-30"
+    }
+  ],
+  "success": true,
+  "totalItems": 31
+}

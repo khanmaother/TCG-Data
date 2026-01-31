@@ -1,0 +1,97 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "abbreviation": "EOH",
+      "categoryId": 61,
+      "groupId": 2722,
+      "isSupplemental": false,
+      "modifiedOn": "2020-10-16T16:01:54.397",
+      "name": "Echoes of Hokken",
+      "publishedOn": "2020-10-16T00:00:00"
+    },
+    {
+      "abbreviation": "ASC",
+      "categoryId": 61,
+      "groupId": 2611,
+      "isSupplemental": false,
+      "modifiedOn": "2023-06-16T16:13:51.08",
+      "name": "Ascension",
+      "publishedOn": "2020-03-26T00:00:00"
+    },
+    {
+      "abbreviation": "CON",
+      "categoryId": 61,
+      "groupId": 2588,
+      "isSupplemental": false,
+      "modifiedOn": "2020-01-02T21:59:50.88",
+      "name": "Expansion Pack 3: Conviction",
+      "publishedOn": "2020-01-23T00:00:00"
+    },
+    {
+      "abbreviation": "REV",
+      "categoryId": 61,
+      "groupId": 2540,
+      "isSupplemental": false,
+      "modifiedOn": "2020-10-28T14:01:18.177",
+      "name": "Revelations",
+      "publishedOn": "2019-11-14T00:00:00"
+    },
+    {
+      "abbreviation": "GENE",
+      "categoryId": 61,
+      "groupId": 2522,
+      "isSupplemental": true,
+      "modifiedOn": "2019-10-04T13:40:32.85",
+      "name": "Expansion Pack 2: Genesis",
+      "publishedOn": "2019-10-11T00:00:00"
+    },
+    {
+      "abbreviation": "GEN",
+      "categoryId": 61,
+      "groupId": 2520,
+      "isSupplemental": false,
+      "modifiedOn": "2019-08-26T20:13:14.797",
+      "name": "Expansion Pack 1: Generations",
+      "publishedOn": "2019-09-12T00:00:00"
+    },
+    {
+      "abbreviation": "ADD",
+      "categoryId": 61,
+      "groupId": 2506,
+      "isSupplemental": false,
+      "modifiedOn": "2020-08-19T21:34:47.987",
+      "name": "Alpha Demo Intro Decks",
+      "publishedOn": "2019-08-01T00:00:00"
+    },
+    {
+      "abbreviation": "PR",
+      "categoryId": 61,
+      "groupId": 2507,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-04T17:27:20.437",
+      "name": "Argent Saga Promos",
+      "publishedOn": "2019-08-01T00:00:00"
+    },
+    {
+      "abbreviation": "BET",
+      "categoryId": 61,
+      "groupId": 2508,
+      "isSupplemental": false,
+      "modifiedOn": "2022-07-27T15:15:57.563",
+      "name": "Betrayal",
+      "publishedOn": "2019-08-01T00:00:00"
+    },
+    {
+      "abbreviation": "INT",
+      "categoryId": 61,
+      "groupId": 2509,
+      "isSupplemental": false,
+      "modifiedOn": "2020-08-19T21:34:04.97",
+      "name": "Intro Decks - 2019",
+      "publishedOn": "2019-08-01T00:00:00"
+    }
+  ],
+  "success": true,
+  "totalItems": 10
+}

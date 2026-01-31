@@ -1,0 +1,118 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Doomcaliber Knight",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SJCS-EN006"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Special Summoned. When the effect of an Effect Monster is activated, you must Tribute this face-up card on your side of the field to negate the activation and effect of that card and destroy it."
+        }
+      ],
+      "groupId": 279,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26691_200w.jpg",
+      "modifiedOn": "2024-07-29T20:50:32.86",
+      "name": "Doomcaliber Knight",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26691,
+      "url": "https://www.tcgplayer.com/product/26691/yugioh-shonen-jump-championship-series-prize-cards-doomcaliber-knight"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark End Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SJCS-EN007"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Synchro Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "1 Tuner + 1 or more non-Tuner DARK monsters\r\nOnce per turn, you can have this card lose 500 ATK and DEF, and send 1 monster your opponent controls to the Graveyard."
+        }
+      ],
+      "groupId": 279,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33482_200w.jpg",
+      "modifiedOn": "2024-07-29T20:50:22.597",
+      "name": "Dark End Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33482,
+      "url": "https://www.tcgplayer.com/product/33482/yugioh-shonen-jump-championship-series-prize-cards-dark-end-dragon"
+    }
+  ],
+  "success": true,
+  "totalItems": 2
+}

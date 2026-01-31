@@ -1,0 +1,61 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "abbreviation": "TTG",
+      "categoryId": 30,
+      "groupId": 2338,
+      "isSupplemental": false,
+      "modifiedOn": "2019-09-20T18:55:24.473",
+      "name": "Teen Titans Go!",
+      "publishedOn": "2018-11-30T00:00:00"
+    },
+    {
+      "abbreviation": "MXB",
+      "categoryId": 30,
+      "groupId": 2252,
+      "isSupplemental": false,
+      "modifiedOn": "2023-06-16T15:40:06.027",
+      "name": "Batman",
+      "publishedOn": "2018-06-29T00:00:00"
+    },
+    {
+      "abbreviation": "AOT",
+      "categoryId": 30,
+      "groupId": 2216,
+      "isSupplemental": false,
+      "modifiedOn": "2018-04-12T20:53:27.687",
+      "name": "Attack on Titan",
+      "publishedOn": "2018-03-30T00:00:00"
+    },
+    {
+      "abbreviation": "GL",
+      "categoryId": 30,
+      "groupId": 2062,
+      "isSupplemental": false,
+      "modifiedOn": "2018-11-16T15:22:02.263",
+      "name": "Green Lantern",
+      "publishedOn": "2017-12-01T00:00:00"
+    },
+    {
+      "abbreviation": "JL",
+      "categoryId": 30,
+      "groupId": 1988,
+      "isSupplemental": false,
+      "modifiedOn": "2018-10-11T11:46:21.517",
+      "name": "Justice League",
+      "publishedOn": "2017-08-04T00:00:00"
+    },
+    {
+      "abbreviation": "PR",
+      "categoryId": 30,
+      "groupId": 2002,
+      "isSupplemental": false,
+      "modifiedOn": "2018-03-28T18:57:44.473",
+      "name": "Promotional Cards",
+      "publishedOn": "2017-07-28T00:00:00"
+    }
+  ],
+  "success": true,
+  "totalItems": 6
+}

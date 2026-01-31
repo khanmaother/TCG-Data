@@ -1,0 +1,885 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Rhox",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "112a"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Beast"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may have Rhox deal combat damage to defending player as though it weren’t blocked.\r\n\u003cbr\u003e\r\n2G: Regenerate Rhox."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "[Note: Comes with Starter 2000 and is foil]"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/21705_200w.jpg",
+      "modifiedOn": "2025-05-15T20:18:10.393",
+      "name": "Rhox",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 21705,
+      "url": "https://www.tcgplayer.com/product/21705/magic-starter-2000-rhox"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Angelic Blessing",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target creature gets +3/+3 and gains flying until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eOnly the warrior who can admit mortal weakness will be bolstered by immortal strength.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37765_200w.jpg",
+      "modifiedOn": "2025-03-26T17:01:25.847",
+      "name": "Angelic Blessing",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37765,
+      "url": "https://www.tcgplayer.com/product/37765/magic-starter-2000-angelic-blessing"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Breath of Life",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Return target creature card from your graveyard to the battlefield."
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37767_200w.jpg",
+      "modifiedOn": "2025-11-11T04:52:43.03",
+      "name": "Breath of Life",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37767,
+      "url": "https://www.tcgplayer.com/product/37767/magic-starter-2000-breath-of-life"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Durkwood Boars",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Boar"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"And the unclean spirits went out, and entered the swine: and the herd ran violently . . . .\"\u003c/em\u003e\r\n\u003cbr\u003e\r\n—The Bible\u003cem\u003e, Mark 5:13\u003c/em\u003e"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37772_200w.jpg",
+      "modifiedOn": "2025-03-26T17:12:01.493",
+      "name": "Durkwood Boars",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37772,
+      "url": "https://www.tcgplayer.com/product/37772/magic-starter-2000-durkwood-boars"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Eager Cadet",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe enthusiasm of the young, sharpened by the discipline of a soldier.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37773_200w.jpg",
+      "modifiedOn": "2025-03-26T17:13:05.143",
+      "name": "Eager Cadet",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37773,
+      "url": "https://www.tcgplayer.com/product/37773/magic-starter-2000-eager-cadet"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Giant Octopus",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Octopus"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eAt the sight of the thing the calamari vendor's eyes went wide, but from fear or avarice none could tell.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37778_200w.jpg",
+      "modifiedOn": "2025-03-26T17:13:46.353",
+      "name": "Giant Octopus",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37778,
+      "url": "https://www.tcgplayer.com/product/37778/magic-starter-2000-giant-octopus"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hand of Death",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target nonblack creature."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe touch of death is never gentle.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37780_200w.jpg",
+      "modifiedOn": "2025-03-26T17:14:05.187",
+      "name": "Hand of Death",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37780,
+      "url": "https://www.tcgplayer.com/product/37780/magic-starter-2000-hand-of-death"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Knight Errant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\". . . Before honor is humility.\"\u003c/em\u003e\r\n\u003cbr\u003e\r\n—The Bible\u003cem\u003e, Proverbs 15:33\u003c/em\u003e"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37784_200w.jpg",
+      "modifiedOn": "2025-03-26T17:14:44.867",
+      "name": "Knight Errant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37784,
+      "url": "https://www.tcgplayer.com/product/37784/magic-starter-2000-knight-errant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lava Axe",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lava Axe deals 5 damage to target player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eMeant to cut through the body and burn straight to the soul.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37785_200w.jpg",
+      "modifiedOn": "2025-03-26T17:16:59.55",
+      "name": "Lava Axe",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37785,
+      "url": "https://www.tcgplayer.com/product/37785/magic-starter-2000-lava-axe"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Monss Goblin Raiders",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Goblin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eJust because they have a club doesn't mean they're organized.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37788_200w.jpg",
+      "modifiedOn": "2025-03-26T17:17:21.367",
+      "name": "Mons's Goblin Raiders",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37788,
+      "url": "https://www.tcgplayer.com/product/37788/magic-starter-2000-monss-goblin-raiders"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Monstrous Growth",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target creature gets +4/+4 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe nightstalkers' little game of tease-the-squirrel suddenly took an unexpected turn.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37789_200w.jpg",
+      "modifiedOn": "2025-03-26T17:18:29.783",
+      "name": "Monstrous Growth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37789,
+      "url": "https://www.tcgplayer.com/product/37789/magic-starter-2000-monstrous-growth"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Moon Sprite",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Faerie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I am that merry wanderer of the night.\"\r\n\u003cbr\u003e\r\n—William Shakespeare,\u003c/em\u003e\r\n\u003cbr\u003e\r\nA Midsummer Night's Dream"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37790_200w.jpg",
+      "modifiedOn": "2025-03-26T17:19:08.59",
+      "name": "Moon Sprite",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37790,
+      "url": "https://www.tcgplayer.com/product/37790/magic-starter-2000-moon-sprite"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ogre Warrior",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Ogre Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eAssault and battery included.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37793_200w.jpg",
+      "modifiedOn": "2025-03-26T17:19:32.51",
+      "name": "Ogre Warrior",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37793,
+      "url": "https://www.tcgplayer.com/product/37793/magic-starter-2000-ogre-warrior"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Royal Falcon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Bird"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eHunter by instinct, weapon by training.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37799_200w.jpg",
+      "modifiedOn": "2025-03-26T17:21:13.33",
+      "name": "Royal Falcon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37799,
+      "url": "https://www.tcgplayer.com/product/37799/magic-starter-2000-royal-falcon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sea Eagle",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Bird"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eWhere air meets water, fish meets talon.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37802_200w.jpg",
+      "modifiedOn": "2025-11-11T05:24:15.663",
+      "name": "Sea Eagle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37802,
+      "url": "https://www.tcgplayer.com/product/37802/magic-starter-2000-sea-eagle"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Time Ebb",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Put target creature on top of its owner's library."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eLike the tide, time both ebbs and flows.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37809_200w.jpg",
+      "modifiedOn": "2025-05-15T20:18:10.44",
+      "name": "Time Ebb",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37809,
+      "url": "https://www.tcgplayer.com/product/37809/magic-starter-2000-time-ebb"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Trained Orgg",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Orgg"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eAll orggs know how to kill; training teaches them\u003c/em\u003e what \u003cem\u003eto kill.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37810_200w.jpg",
+      "modifiedOn": "2025-03-26T18:09:34.033",
+      "name": "Trained Orgg",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37810,
+      "url": "https://www.tcgplayer.com/product/37810/magic-starter-2000-trained-orgg"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Vizzerdrix",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Beast"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIts swamp cousin may be meaner, but the vizzerdrix is much bigger.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37812_200w.jpg",
+      "modifiedOn": "2025-03-26T18:10:29.953",
+      "name": "Vizzerdrix",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37812,
+      "url": "https://www.tcgplayer.com/product/37812/magic-starter-2000-vizzerdrix"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wild Griffin",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Griffin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eTwo little goblins, out in the sun. Down came a griffin, and then there was one.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37813_200w.jpg",
+      "modifiedOn": "2025-11-11T04:57:04.213",
+      "name": "Wild Griffin",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37813,
+      "url": "https://www.tcgplayer.com/product/37813/magic-starter-2000-wild-griffin"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Willow Elf",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elf"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe forest lives in the elf as the elf lives in the forest.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37814_200w.jpg",
+      "modifiedOn": "2025-03-26T18:11:29.763",
+      "name": "Willow Elf",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37814,
+      "url": "https://www.tcgplayer.com/product/37814/magic-starter-2000-willow-elf"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Starter 2000 Sampler Booster Pack",
+      "extendedData": [
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "The Starter 2000 sampler pack contains the following cards:\r\n\u003cbr\u003e• Armored Pegasus\r\n\u003cbr\u003e• Forest\r\n\u003cbr\u003e• Island\r\n\u003cbr\u003e• Merfolk of the Pearl Trident\r\n\u003cbr\u003e• Mountain\r\n\u003cbr\u003e• Plains\r\n\u003cbr\u003e• Python\r\n\u003cbr\u003e• Spined Wurm\r\n\u003cbr\u003e• Stone Rain\r\n\u003cbr\u003e• Swamp"
+        }
+      ],
+      "groupId": 106,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/257333_200w.jpg",
+      "modifiedOn": "2023-04-01T22:51:08.093",
+      "name": "Starter 2000 - Sampler Booster Pack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 257333,
+      "url": "https://www.tcgplayer.com/product/257333/magic-starter-2000-starter-2000-sampler-booster-pack"
+    }
+  ],
+  "success": true,
+  "totalItems": 21
+}

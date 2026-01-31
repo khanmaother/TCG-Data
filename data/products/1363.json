@@ -1,0 +1,166 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Necro Fleur",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "WC11-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Plant"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is destroyed by a card effect and sent to the Graveyard, you can Special Summon 1 \"Sorciere de Fleur\" from your Deck."
+        }
+      ],
+      "groupId": 1363,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83317_200w.jpg",
+      "modifiedOn": "2018-04-05T16:10:07.567",
+      "name": "Necro Fleur",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83317,
+      "url": "https://www.tcgplayer.com/product/83317/yugioh-yu-gi-oh-5ds-over-the-nexus-promo-cards-necro-fleur"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Sorciere de Fleur",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "WC11-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Normal or Special Summoned, select 1 monster in your opponent's Graveyard. Special Summon that monster to your side of the field. It cannot attack your opponent directly, and is destroyed during the End Phase of this turn. The effect of \"Sorciere de Fleur\" can only be activated once per turn."
+        }
+      ],
+      "groupId": 1363,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83320_200w.jpg",
+      "modifiedOn": "2018-04-05T16:27:38.137",
+      "name": "Sorciere de Fleur",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83320,
+      "url": "https://www.tcgplayer.com/product/83320/yugioh-yu-gi-oh-5ds-over-the-nexus-promo-cards-sorciere-de-fleur"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Z ONE",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "WC11-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this Set card is destroyed and sent to the Graveyard, select 1 Continuous Spell or Field Spell Card in your Graveyard, and add it to your hand."
+        }
+      ],
+      "groupId": 1363,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83322_200w.jpg",
+      "modifiedOn": "2018-09-10T17:09:23.45",
+      "name": "Z-ONE",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83322,
+      "url": "https://www.tcgplayer.com/product/83322/yugioh-yu-gi-oh-5ds-over-the-nexus-promo-cards-z-one"
+    }
+  ],
+  "success": true,
+  "totalItems": 3
+}

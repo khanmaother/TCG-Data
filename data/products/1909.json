@@ -1,0 +1,2209 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Aven Mindcensor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Bird Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash \r\n\u003cbr\u003eFlying \r\n\u003cbr\u003eIf an opponent would search a library, that player searches the top four cards of that library instead."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129537_200w.jpg",
+      "modifiedOn": "2021-10-08T12:28:19.54",
+      "name": "Aven Mindcensor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129537,
+      "url": "https://www.tcgplayer.com/product/129537/magic-masterpiece-series-amonkhet-invocations-aven-mindcensor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Chain Lightning",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "26"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Chain Lightning deals 3 damage to target creature or player. Then that player or that creature's controller may pay RR. If the player does, he or she may copy this spell and may choose a new target for that copy."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129538_200w.jpg",
+      "modifiedOn": "2022-03-16T17:47:07.177",
+      "name": "Chain Lightning",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129538,
+      "url": "https://www.tcgplayer.com/product/129538/magic-masterpiece-series-amonkhet-invocations-chain-lightning"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Consecrated Sphinx",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Sphinx"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cBR\u003eWhenever an opponent draws a card, you may draw two cards."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129539_200w.jpg",
+      "modifiedOn": "2020-12-15T16:45:37.827",
+      "name": "Consecrated Sphinx",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129539,
+      "url": "https://www.tcgplayer.com/product/129539/magic-masterpiece-series-amonkhet-invocations-consecrated-sphinx"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Counterbalance",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever an opponent plays a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same converted mana cost as the revealed card."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129540_200w.jpg",
+      "modifiedOn": "2022-11-25T20:43:39.59",
+      "name": "Counterbalance",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129540,
+      "url": "https://www.tcgplayer.com/product/129540/magic-masterpiece-series-amonkhet-invocations-counterbalance"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Counterspell",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Counter target spell."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129541_200w.jpg",
+      "modifiedOn": "2019-03-20T14:05:18.86",
+      "name": "Counterspell",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129541,
+      "url": "https://www.tcgplayer.com/product/129541/magic-masterpiece-series-amonkhet-invocations-counterspell"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cryptic Command",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose two: \r\n\u003cbr\u003e\r\n\u003cbr\u003e- Counter target spell. \r\n\u003cbr\u003e\r\n\u003cbr\u003e- Return target permanent to its owner's hand. \r\n\u003cbr\u003e\r\n\u003cbr\u003e- Tap all creatures your opponents control. \r\n\u003cbr\u003e\r\n\u003cbr\u003e- Draw a card."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129542_200w.jpg",
+      "modifiedOn": "2023-12-29T15:34:20.553",
+      "name": "Cryptic Command",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129542,
+      "url": "https://www.tcgplayer.com/product/129542/magic-masterpiece-series-amonkhet-invocations-cryptic-command"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dark Ritual",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "21"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Add BBB to your mana pool."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129543_200w.jpg",
+      "modifiedOn": "2021-10-08T12:29:16.667",
+      "name": "Dark Ritual",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129543,
+      "url": "https://www.tcgplayer.com/product/129543/magic-masterpiece-series-amonkhet-invocations-dark-ritual"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Daze",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may return an Island you control to its owner's hand rather than pay Daze's mana cost.\u003cbr\u003eCounter target spell unless its controller pays 1."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129544_200w.jpg",
+      "modifiedOn": "2021-10-08T12:29:35.063",
+      "name": "Daze",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129544,
+      "url": "https://www.tcgplayer.com/product/129544/magic-masterpiece-series-amonkhet-invocations-daze"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Force of Will",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may pay 1 life and exile a blue card from your hand rather than pay Force of Will's mana cost.\r\n\u003cbr\u003eCounter target spell."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129545_200w.jpg",
+      "modifiedOn": "2020-12-16T19:39:14.777",
+      "name": "Force of Will",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129545,
+      "url": "https://www.tcgplayer.com/product/129545/magic-masterpiece-series-amonkhet-invocations-force-of-will"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Loyal Retainers",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Advisor"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate this ability only during your turn, before attackers are declared."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129546_200w.jpg",
+      "modifiedOn": "2019-12-02T15:09:51.14",
+      "name": "Loyal Retainers",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129546,
+      "url": "https://www.tcgplayer.com/product/129546/magic-masterpiece-series-amonkhet-invocations-loyal-retainers"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Maelstrom Pulse",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "29"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target nonland permanent and all other permanents with the same name as that permanent."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129547_200w.jpg",
+      "modifiedOn": "2024-06-07T13:36:13.637",
+      "name": "Maelstrom Pulse",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129547,
+      "url": "https://www.tcgplayer.com/product/129547/magic-masterpiece-series-amonkhet-invocations-maelstrom-pulse"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mind Twist",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "24"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target player discards X cards at random."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129548_200w.jpg",
+      "modifiedOn": "2017-04-28T03:27:17.32",
+      "name": "Mind Twist",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2017-04-28T00:00:00"
+      },
+      "productId": 129548,
+      "url": "https://www.tcgplayer.com/product/129548/magic-masterpiece-series-amonkhet-invocations-mind-twist"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pact of Negation",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Counter target spell.\r\n\u003cbr\u003eAt the beginning of your next upkeep, pay 3UU. If you don't, you lose the game."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129549_200w.jpg",
+      "modifiedOn": "2023-02-21T05:44:09.81",
+      "name": "Pact of Negation",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129549,
+      "url": "https://www.tcgplayer.com/product/129549/magic-masterpiece-series-amonkhet-invocations-pact-of-negation"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Vindicate",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "30"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target permanent."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129550_200w.jpg",
+      "modifiedOn": "2022-05-03T15:01:46.603",
+      "name": "Vindicate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129550,
+      "url": "https://www.tcgplayer.com/product/129550/magic-masterpiece-series-amonkhet-invocations-vindicate"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Worship",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129551_200w.jpg",
+      "modifiedOn": "2021-06-26T12:16:10.403",
+      "name": "Worship",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129551,
+      "url": "https://www.tcgplayer.com/product/129551/magic-masterpiece-series-amonkhet-invocations-worship"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wrath of God",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy all creatures. They can't be regenerated."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129552_200w.jpg",
+      "modifiedOn": "2025-12-10T03:16:22.157",
+      "name": "Wrath of God",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129552,
+      "url": "https://www.tcgplayer.com/product/129552/magic-masterpiece-series-amonkhet-invocations-wrath-of-god"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Aggravated Assault",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "25"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "3RR: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate this ability only any time you could cast a sorcery."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129558_200w.jpg",
+      "modifiedOn": "2017-08-10T14:40:20.223",
+      "name": "Aggravated Assault",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129558,
+      "url": "https://www.tcgplayer.com/product/129558/magic-masterpiece-series-amonkhet-invocations-aggravated-assault"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Attrition",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "19"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "B, Sacrifice a creature: Destroy target nonblack creature."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129559_200w.jpg",
+      "modifiedOn": "2021-10-10T12:20:27.453",
+      "name": "Attrition",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129559,
+      "url": "https://www.tcgplayer.com/product/129559/magic-masterpiece-series-amonkhet-invocations-attrition"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Austere Command",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose two — \r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Destroy all artifacts.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Destroy all enchantments. \r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Destroy all creatures with converted mana cost 3 or less.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Destroy all creatures with converted mana cost 4 or greater."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129560_200w.jpg",
+      "modifiedOn": "2019-11-29T16:39:38.027",
+      "name": "Austere Command",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129560,
+      "url": "https://www.tcgplayer.com/product/129560/magic-masterpiece-series-amonkhet-invocations-austere-command"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Containment Priest",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\r\n\u003cbr\u003eIf a nontoken creature would enter the battlefield and it wasn't cast, exile it instead."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129561_200w.jpg",
+      "modifiedOn": "2022-02-23T20:39:35.647",
+      "name": "Containment Priest",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129561,
+      "url": "https://www.tcgplayer.com/product/129561/magic-masterpiece-series-amonkhet-invocations-containment-priest"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Diabolic Intent",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "22"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As an additional cost to cast Diabolic Intent, sacrifice a creature.\r\n\u003cbr\u003eSearch your library for a card and put that card into your hand. Then shuffle your library."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129562_200w.jpg",
+      "modifiedOn": "2023-11-12T04:25:51.113",
+      "name": "Diabolic Intent",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129562,
+      "url": "https://www.tcgplayer.com/product/129562/magic-masterpiece-series-amonkhet-invocations-diabolic-intent"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Divert",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Change the target of target spell with a single target unless that spell's controller pays 2."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129563_200w.jpg",
+      "modifiedOn": "2018-10-04T15:13:54.203",
+      "name": "Divert",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129563,
+      "url": "https://www.tcgplayer.com/product/129563/magic-masterpiece-series-amonkhet-invocations-divert"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Entomb",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "23"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Search your library for a card and put that card into your graveyard. Then shuffle your library."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129564_200w.jpg",
+      "modifiedOn": "2021-05-18T11:42:11.697",
+      "name": "Entomb",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129564,
+      "url": "https://www.tcgplayer.com/product/129564/magic-masterpiece-series-amonkhet-invocations-entomb"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Spell Pierce",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "17"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Counter target noncreature spell unless its controller pays 2."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129565_200w.jpg",
+      "modifiedOn": "2021-10-08T12:31:26.123",
+      "name": "Spell Pierce",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129565,
+      "url": "https://www.tcgplayer.com/product/129565/magic-masterpiece-series-amonkhet-invocations-spell-pierce"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Stifle",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "18"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Counter target activated or triggered ability."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129566_200w.jpg",
+      "modifiedOn": "2025-11-13T19:18:12.21",
+      "name": "Stifle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129566,
+      "url": "https://www.tcgplayer.com/product/129566/magic-masterpiece-series-amonkhet-invocations-stifle"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hazoret the Fervent",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "27"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — God"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Indestructible, haste\r\n\u003cbr\u003eHazoret the Fervent can't attack or block unless you have one or fewer cards in hand.\r\n\u003cbr\u003e2R, Discard a card: Hazoret deals 2 damage to each opponent."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129729_200w.jpg",
+      "modifiedOn": "2022-01-28T06:48:30.067",
+      "name": "Hazoret the Fervent",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129729,
+      "url": "https://www.tcgplayer.com/product/129729/magic-masterpiece-series-amonkhet-invocations-hazoret-the-fervent"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kefnet the Mindful",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — God"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, indestructible\r\n\u003cbr\u003eKefnet the Mindful can't attack or block unless you have seven or more cards in hand.\r\n\u003cbr\u003e3U: Draw a card, then you may return a land you control to its owner's hand."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/129893_200w.jpg",
+      "modifiedOn": "2017-08-16T19:50:21.743",
+      "name": "Kefnet the Mindful",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 129893,
+      "url": "https://www.tcgplayer.com/product/129893/magic-masterpiece-series-amonkhet-invocations-kefnet-the-mindful"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Oketra the True",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — God"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Double strike, indestructible\r\n\u003cbr\u003eOketra the True can't attack or block unless you control at least three other creatures.\r\n\u003cbr\u003e3W: Create a 1/1 white Warrior creature token with vigilance."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130052_200w.jpg",
+      "modifiedOn": "2021-08-17T13:08:57.347",
+      "name": "Oketra the True",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130052,
+      "url": "https://www.tcgplayer.com/product/130052/magic-masterpiece-series-amonkhet-invocations-oketra-the-true"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rhonas the Indomitable",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "28"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — God"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Deathtouch, indestructible\r\n\u003cbr\u003eRhonas the Indomitable can't attack or block unless you control another creature with power 4 or greater.\r\n\u003cbr\u003e2G: Another target creature gets +2/+0 and gains trample until end of turn."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130058_200w.jpg",
+      "modifiedOn": "2020-12-15T16:52:47.037",
+      "name": "Rhonas the Indomitable",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130058,
+      "url": "https://www.tcgplayer.com/product/130058/magic-masterpiece-series-amonkhet-invocations-rhonas-the-indomitable"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bontu the Glorified",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "20"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — God"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace, indestructible\r\n\u003cbr\u003eBontu the Glorified can't attack or block unless a creature died under your control this turn.\r\n\u003cbr\u003e1B, Sacrifice another creature: Scry 1. Each opponent loses 1 life and you gain 1 life."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/130066_200w.jpg",
+      "modifiedOn": "2021-11-08T15:27:45.863",
+      "name": "Bontu the Glorified",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 130066,
+      "url": "https://www.tcgplayer.com/product/130066/magic-masterpiece-series-amonkhet-invocations-bontu-the-glorified"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Armageddon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "31"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy all lands."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134897_200w.jpg",
+      "modifiedOn": "2021-10-08T12:27:45.067",
+      "name": "Armageddon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 134897,
+      "url": "https://www.tcgplayer.com/product/134897/magic-masterpiece-series-amonkhet-invocations-armageddon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Avatar of Woe",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "38"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Avatar"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If there are ten or more creature cards in all graveyards, Avatar of Woe costs 6 less to cast.\r\n\u003cbr\u003eFear \u003cem\u003e\r\n\u003cbr\u003eT: Destroy target creature. It can't be regenerated."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134898_200w.jpg",
+      "modifiedOn": "2017-07-13T23:19:29.35",
+      "name": "Avatar of Woe",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2017-04-28T00:00:00"
+      },
+      "productId": 134898,
+      "url": "https://www.tcgplayer.com/product/134898/magic-masterpiece-series-amonkhet-invocations-avatar-of-woe"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Blood Moon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "46"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Nonbasic lands are Mountains."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134899_200w.jpg",
+      "modifiedOn": "2020-12-15T16:43:56.937",
+      "name": "Blood Moon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 134899,
+      "url": "https://www.tcgplayer.com/product/134899/magic-masterpiece-series-amonkhet-invocations-blood-moon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Boil",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "47"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy all Islands."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134900_200w.jpg",
+      "modifiedOn": "2017-07-13T23:22:07.54",
+      "name": "Boil",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2017-04-28T00:00:00"
+      },
+      "productId": 134900,
+      "url": "https://www.tcgplayer.com/product/134900/magic-masterpiece-series-amonkhet-invocations-boil"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Capsize",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "32"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Buyback 3 \r\n\u003cbr\u003eReturn target permanent to owner’s hand."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134901_200w.jpg",
+      "modifiedOn": "2022-09-26T16:18:54.697",
+      "name": "Capsize",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 134901,
+      "url": "https://www.tcgplayer.com/product/134901/magic-masterpiece-series-amonkhet-invocations-capsize"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Choke",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "50"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Islands don’t untap during their controllers’ untap steps."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134902_200w.jpg",
+      "modifiedOn": "2017-12-25T14:35:29.34",
+      "name": "Choke",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 134902,
+      "url": "https://www.tcgplayer.com/product/134902/magic-masterpiece-series-amonkhet-invocations-choke"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Damnation",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "39"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy all creatures. They can't be regenerated."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134903_200w.jpg",
+      "modifiedOn": "2022-07-07T19:39:45.557",
+      "name": "Damnation",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 134903,
+      "url": "https://www.tcgplayer.com/product/134903/magic-masterpiece-series-amonkhet-invocations-damnation"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Desolation Angel",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "40"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Angel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Kicker WW \r\n\u003cbr\u003eFlying\r\n\u003cbr\u003eWhen Desolation Angel comes into play, destroy all lands you control. If you paid the kicker cost, destroy all lands instead."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134904_200w.jpg",
+      "modifiedOn": "2019-04-01T19:46:27.667",
+      "name": "Desolation Angel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 134904,
+      "url": "https://www.tcgplayer.com/product/134904/magic-masterpiece-series-amonkhet-invocations-desolation-angel"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Diabolic Edict",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "41"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target player sacrifices a creature."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134905_200w.jpg",
+      "modifiedOn": "2021-02-17T20:56:32.743",
+      "name": "Diabolic Edict",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 134905,
+      "url": "https://www.tcgplayer.com/product/134905/magic-masterpiece-series-amonkhet-invocations-diabolic-edict"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Doomsday",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "42"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Search your library and graveyard for five cards and exile the rest. Put the chosen cards on top of your library in any order. You lose half your life, rounded up."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134906_200w.jpg",
+      "modifiedOn": "2021-07-25T14:31:41.98",
+      "name": "Doomsday",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 134906,
+      "url": "https://www.tcgplayer.com/product/134906/magic-masterpiece-series-amonkhet-invocations-doomsday"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forbid",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "33"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Buyback—Discard two cards. Counter target spell."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134907_200w.jpg",
+      "modifiedOn": "2021-11-10T19:56:13.42",
+      "name": "Forbid",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 134907,
+      "url": "https://www.tcgplayer.com/product/134907/magic-masterpiece-series-amonkhet-invocations-forbid"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lord of Extinction",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "52"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "*"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "*"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lord of Extinction's power and toughness are each equal to the number of cards in all graveyards."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134908_200w.jpg",
+      "modifiedOn": "2017-08-16T18:57:18.023",
+      "name": "Lord of Extinction",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 134908,
+      "url": "https://www.tcgplayer.com/product/134908/magic-masterpiece-series-amonkhet-invocations-lord-of-extinction"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "No Mercy",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "43"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever a creature successfully deals damage to you, destroy it."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134909_200w.jpg",
+      "modifiedOn": "2021-10-08T12:30:57.007",
+      "name": "No Mercy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 134909,
+      "url": "https://www.tcgplayer.com/product/134909/magic-masterpiece-series-amonkhet-invocations-no-mercy"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Omniscience",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "34"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may cast Spells from your hand without paying their mana costs."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134910_200w.jpg",
+      "modifiedOn": "2023-04-08T13:29:47.283",
+      "name": "Omniscience",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 134910,
+      "url": "https://www.tcgplayer.com/product/134910/magic-masterpiece-series-amonkhet-invocations-omniscience"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Opposition",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "35"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap an untapped creature you control: Tap target artifact, creature, or land."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134911_200w.jpg",
+      "modifiedOn": "2017-07-14T03:58:24.037",
+      "name": "Opposition",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2017-04-28T00:00:00"
+      },
+      "productId": 134911,
+      "url": "https://www.tcgplayer.com/product/134911/magic-masterpiece-series-amonkhet-invocations-opposition"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shatterstorm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "48"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy all artifacts. They can't be regenerated."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134912_200w.jpg",
+      "modifiedOn": "2021-02-17T20:57:13.827",
+      "name": "Shatterstorm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 134912,
+      "url": "https://www.tcgplayer.com/product/134912/magic-masterpiece-series-amonkhet-invocations-shatterstorm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Slaughter Pact",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "44"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target nonblack creature.\r\nAt the beginning of your next upkeep, pay 2B. If you don't, you lose the game."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134913_200w.jpg",
+      "modifiedOn": "2019-11-19T13:05:02.323",
+      "name": "Slaughter Pact",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 134913,
+      "url": "https://www.tcgplayer.com/product/134913/magic-masterpiece-series-amonkhet-invocations-slaughter-pact"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sunder",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "36"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Return all lands to owners’ hands."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134914_200w.jpg",
+      "modifiedOn": "2019-02-08T19:05:35.467",
+      "name": "Sunder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 134914,
+      "url": "https://www.tcgplayer.com/product/134914/magic-masterpiece-series-amonkhet-invocations-sunder"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Scorpion God",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "54"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — God"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever a creature with a -1/-1 counter on it dies, draw a card.\r\n\u003cbr\u003e1BR: Put a -1/-1 counter on another target creature.\r\n\u003cbr\u003eWhen The Scorpion God dies, return it to its owner's hand at the beginning of the next end step."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134915_200w.jpg",
+      "modifiedOn": "2020-02-25T15:37:26.523",
+      "name": "The Scorpion God",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 134915,
+      "url": "https://www.tcgplayer.com/product/134915/magic-masterpiece-series-amonkhet-invocations-the-scorpion-god"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thoughtseize",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "45"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target player reveals his or her hand. You choose a nonland card from it. That player discards that card. You lose 2 life."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134916_200w.jpg",
+      "modifiedOn": "2023-09-04T02:42:55.36",
+      "name": "Thoughtseize",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 134916,
+      "url": "https://www.tcgplayer.com/product/134916/magic-masterpiece-series-amonkhet-invocations-thoughtseize"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Threads of Disloyalty",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "37"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant creature with converted mana cost 2 or less\r\n\u003cbr\u003eYou control enchanted creature."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134917_200w.jpg",
+      "modifiedOn": "2023-06-11T15:03:43.87",
+      "name": "Threads of Disloyalty",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 134917,
+      "url": "https://www.tcgplayer.com/product/134917/magic-masterpiece-series-amonkhet-invocations-threads-of-disloyalty"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Through the Breach",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "49"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant — Arcane"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice that creature at the beginning of the next end step.\r\n\u003cbr\u003eSplice onto Arcane 2RR"
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134918_200w.jpg",
+      "modifiedOn": "2020-12-20T19:46:15.657",
+      "name": "Through the Breach",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 134918,
+      "url": "https://www.tcgplayer.com/product/134918/magic-masterpiece-series-amonkhet-invocations-through-the-breach"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Locust God",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "51"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — God"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eWhenever you draw a card, create a 1/1 blue and red Insect creature token with flying and haste.\r\n\u003cbr\u003e2UR: Draw a card, then discard a card.\r\n\u003cbr\u003eWhen The Locust God dies, return it to its owner's hand at the beginning of the next end step."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/134932_200w.jpg",
+      "modifiedOn": "2017-07-03T16:54:04.633",
+      "name": "The Locust God",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2017-04-28T00:00:00"
+      },
+      "productId": 134932,
+      "url": "https://www.tcgplayer.com/product/134932/magic-masterpiece-series-amonkhet-invocations-the-locust-god"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Scarab God",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "53"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — God"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your upkeep, each opponent loses X life and you scry X, where X is the number of Zombies you control.\r\n\u003cbr\u003e2UB: Exile target creature card from a graveyard. Create a token that's a copy of it, except it's a 4/4 black Zombie.\r\n\u003cbr\u003eWhen The Scarab God dies, return it to its owner's hand at the beginning of the next end step."
+        }
+      ],
+      "groupId": 1909,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/137121_200w.jpg",
+      "modifiedOn": "2024-10-31T15:11:40.567",
+      "name": "The Scarab God",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 137121,
+      "url": "https://www.tcgplayer.com/product/137121/magic-masterpiece-series-amonkhet-invocations-the-scarab-god"
+    }
+  ],
+  "success": true,
+  "totalItems": 54
+}

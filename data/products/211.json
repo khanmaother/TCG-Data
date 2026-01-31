@@ -1,0 +1,123 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Phantom of Chaos",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLAS-ENSE1"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Any Battle Damage this monster inflicts to your opponent becomes 0. Once per turn, you can remove from play 1 Effect Monster in your Graveyard. Until the End Phase, this card's name is treated as that monster's name, and it gains that monster's effect(s) and ATK."
+        }
+      ],
+      "groupId": 211,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26687_200w.jpg",
+      "modifiedOn": "2025-06-18T15:37:31.417",
+      "name": "Phantom of Chaos",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26687,
+      "url": "https://www.tcgplayer.com/product/26687/yugioh-gladiators-assault-se-phantom-of-chaos"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Vortex Trooper",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLAS-ENSE2"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Aqua"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Normal Summoned, you can shuffle 2 cards from your hand into your Deck, then draw 2 cards. After this card is destroyed, draw 1 card."
+        }
+      ],
+      "groupId": 211,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32810_200w.jpg",
+      "modifiedOn": "2025-06-18T15:39:38.477",
+      "name": "Vortex Trooper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32810,
+      "url": "https://www.tcgplayer.com/product/32810/yugioh-gladiators-assault-se-vortex-trooper"
+    }
+  ],
+  "success": true,
+  "totalItems": 2
+}

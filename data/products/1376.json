@@ -1,0 +1,6599 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 3,
+      "cleanName": "Absol",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "1/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[D] Bad News  \r\n\u003cbr\u003eIf the number of cards in your opponent's hand is at least 6, choose a number of cards there, without looking, until your opponent has 5 cards left.  Have your opponent discard the cards you chose."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1D] Prize Count (20+) \r\n\u003cbr\u003eIf you have more Prize cards left than your opponent, this attack does 20 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83449_200w.jpg",
+      "modifiedOn": "2023-12-22T15:43:08.487",
+      "name": "Absol",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83449,
+      "url": "https://www.tcgplayer.com/product/83449/pokemon-dragon-absol"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Altaria",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "2/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Dragon Dance  \r\n\u003cbr\u003eDuring your next turn, if any of your current Active Pokemon does damage to any Defending Pokemon, the attack does 40 more damage \u003ci\u003e(before applying Weakness and Resistance).\u003c/i\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[LW] Dragon Song (30) \r\n\u003cbr\u003eEach Defending Pokemon is now Asleep."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "C"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "FG"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83513_200w.jpg",
+      "modifiedOn": "2023-12-22T15:43:24.473",
+      "name": "Altaria",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83513,
+      "url": "https://www.tcgplayer.com/product/83513/pokemon-dragon-altaria"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ampharos ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "89/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "150"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Conductivity \r\n\u003cbr\u003eAs long as Ampharos ex is in play, whenever your opponent attaches an Energy card to his or her Pokemon from his or her hand, put 1 damage counter on that Pokemon.  You can't place more than 1 damage counter even if there is more than 1 Ampharos ex in play."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2L] Gigavolt (40+)\r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 40 damage plus 30 more damage.  If tails, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83550_200w.jpg",
+      "modifiedOn": "2025-11-11T04:24:22.937",
+      "name": "Ampharos ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83550,
+      "url": "https://www.tcgplayer.com/product/83550/pokemon-dragon-ampharos-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Bagon 23 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "23/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Paralyzing Gaze\r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1R] Combustion (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "C"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "FR"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83691_200w.jpg",
+      "modifiedOn": "2023-12-22T15:45:37.277",
+      "name": "Bagon - 23/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83691,
+      "url": "https://www.tcgplayer.com/product/83691/pokemon-dragon-bagon-23-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Bagon 49 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "49/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Headbutt (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1R] Flare (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "None"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83692_200w.jpg",
+      "modifiedOn": "2023-12-22T16:16:26.477",
+      "name": "Bagon - 49/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83692,
+      "url": "https://www.tcgplayer.com/product/83692/pokemon-dragon-bagon-49-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Bagon 50 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "50/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Risky Kick (10) \r\n\u003cbr\u003eFlip a coin.  If tails, this attack does nothing."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[RW] Dragon Eye (20) \r\n\u003cbr\u003eThe Defending Pokemon is now Asleep."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "None"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83693_200w.jpg",
+      "modifiedOn": "2023-12-22T16:25:02.917",
+      "name": "Bagon - 50/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83693,
+      "url": "https://www.tcgplayer.com/product/83693/pokemon-dragon-bagon-50-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Balloon Berry",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "82/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Tool"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Attach Balloon Berry to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.\r\n\u003cbr\u003e\r\n\u003cbr\u003eAttach Balloon Berry to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.  When the Pokemon Balloon Berry is attached to retreats, discard Balloon Berry instead of discarding Energy cards.\r\n\r\n\u003cbr\u003e\r\n\u003cbr\u003e\u003cb\u003e\u003cem\u003e(Out-dated Card Text, refer to newest printing)\u003c/b\u003e\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83708_200w.jpg",
+      "modifiedOn": "2023-12-22T18:54:22.57",
+      "name": "Balloon Berry",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83708,
+      "url": "https://www.tcgplayer.com/product/83708/pokemon-dragon-balloon-berry"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Barboach",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "51/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Splash (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1F] Mud Slap (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83726_200w.jpg",
+      "modifiedOn": "2023-12-22T18:55:18.21",
+      "name": "Barboach",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83726,
+      "url": "https://www.tcgplayer.com/product/83726/pokemon-dragon-barboach"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Buffer Piece",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "83/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Item"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Attach Buffer Piece to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.\r\n\u003cbr\u003e\r\n\u003cbr\u003eAttach Buffer Piece to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.  Damage done to the Pokemon Buffer Piece is attached to by an opponent's attack is reduced by 20 \u003cem\u003e(after applying Weakness and Resistance)\u003c/em\u003e.  At the end of your opponent's turn after you played Buffer Piece, discard Buffer Piece."
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84012_200w.jpg",
+      "modifiedOn": "2023-12-22T18:56:03.923",
+      "name": "Buffer Piece",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84012,
+      "url": "https://www.tcgplayer.com/product/84012/pokemon-dragon-buffer-piece"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Camerupt",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "24/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1R] Super Singe (20) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Burned."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2R] Ram (50)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84088_200w.jpg",
+      "modifiedOn": "2024-07-26T17:28:21.54",
+      "name": "Camerupt",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84088,
+      "url": "https://www.tcgplayer.com/product/84088/pokemon-dragon-camerupt"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Charizard",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "100/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "120"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1R] Collect Fire (30) \r\n\u003cbr\u003eFlip a coin.  If heads, search your discard pile for 2 Fire Energy cards and attach them to Charizard (1 if there is only 1)."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3R] Flame Pillar (60) \r\n\u003cbr\u003eYou may discard a Fire Energy card attached to Charizard.  If you do, choose 1 of your opponent's Benched Pokemon and do 30 damage to that Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84187_200w.jpg",
+      "modifiedOn": "2023-12-22T19:20:31.63",
+      "name": "Charizard",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84187,
+      "url": "https://www.tcgplayer.com/product/84187/pokemon-dragon-charizard"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Charmander",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "98/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[R] Flare (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Rage (10+) \r\n\u003cbr\u003eDoes 10 damage plus 10 more damage for each damage counter on Charmander."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84208_200w.jpg",
+      "modifiedOn": "2023-12-22T19:20:40.88",
+      "name": "Charmander",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84208,
+      "url": "https://www.tcgplayer.com/product/84208/pokemon-dragon-charmander"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Charmeleon",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "99/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[R] Smokescreen (10) \r\n\u003cbr\u003eIf the Defending Pokemon tries to attack during your opponent's next turn, your opponent flips a coin.  If tails, that attack does nothing."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1R] Fireworks (40)\r\n\u003cbr\u003e Flip a coin.  If tails, discard a Fire Energy card attached to Charmeleon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84225_200w.jpg",
+      "modifiedOn": "2023-12-22T21:12:07.7",
+      "name": "Charmeleon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84225,
+      "url": "https://www.tcgplayer.com/product/84225/pokemon-dragon-charmeleon"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Combusken",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "25/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Quick Attack (10+) \r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 10 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2R] Combustion (40)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84402_200w.jpg",
+      "modifiedOn": "2023-12-22T21:12:29.347",
+      "name": "Combusken",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84402,
+      "url": "https://www.tcgplayer.com/product/84402/pokemon-dragon-combusken"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Corphish 52 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "52/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Poison Claws \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Poisoned."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[W] Bubble (10) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84429_200w.jpg",
+      "modifiedOn": "2023-12-22T21:12:56.22",
+      "name": "Corphish - 52/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84429,
+      "url": "https://www.tcgplayer.com/product/84429/pokemon-dragon-corphish-52-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Corphish 53 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "53/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Irongrip (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1W] Slash (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84430_200w.jpg",
+      "modifiedOn": "2023-12-22T21:37:26.663",
+      "name": "Corphish - 53/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84430,
+      "url": "https://www.tcgplayer.com/product/84430/pokemon-dragon-corphish-53-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Corphish 54 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "54/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Beat (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Toxic Grip (10) \r\n\u003cbr\u003eThe Defending Pokemon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84431_200w.jpg",
+      "modifiedOn": "2023-12-22T21:37:47.48",
+      "name": "Corphish - 54/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84431,
+      "url": "https://www.tcgplayer.com/product/84431/pokemon-dragon-corphish-54-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Crawdaunt 3 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "3/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Power Pinchers\r\n\u003cbr\u003eAs long as Crawdaunt is your Active Pokemon, when any of your Active Pokemon does damage to the Defending Pokemon, the attack does 10 more damage \u003cem\u003e(before applying Weakness and Resistance).  \u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2W] Guillotine (50)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84461_200w.jpg",
+      "modifiedOn": "2025-11-11T04:26:09.713",
+      "name": "Crawdaunt - 3/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84461,
+      "url": "https://www.tcgplayer.com/product/84461/pokemon-dragon-crawdaunt-3-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Crawdaunt 13 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "13/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Poison Claws (10) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Poisoned."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Rend (30+) \r\n\u003cbr\u003eIf the Defending Pokemon has any damage counters on it, this attack does 30 damage plus 30 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84462_200w.jpg",
+      "modifiedOn": "2023-12-27T18:12:10.33",
+      "name": "Crawdaunt - 13/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84462,
+      "url": "https://www.tcgplayer.com/product/84462/pokemon-dragon-crawdaunt-13-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Dragonair 14 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "14/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1L] Dazzle Blast (20) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2W] Healing Wave (30) \r\n\u003cbr\u003eRemove 1 damage counter from each of your Active Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "C"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "FG"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84899_200w.jpg",
+      "modifiedOn": "2023-12-27T19:16:36.543",
+      "name": "Dragonair - 14/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84899,
+      "url": "https://www.tcgplayer.com/product/84899/pokemon-dragon-dragonair-14-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Dragonite ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "90/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "150"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[LW] Dragon Wave (70) \r\n\u003cbr\u003eDiscard a Water Energy card and a Lightning Energy card attached to Dragonite ex."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[4] Giant Tail (120) \r\n\u003cbr\u003eFlip a coin.  If tails, this attack does nothing."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "C"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "FG"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84918_200w.jpg",
+      "modifiedOn": "2023-12-27T20:06:08.667",
+      "name": "Dragonite ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84918,
+      "url": "https://www.tcgplayer.com/product/84918/pokemon-dragon-dragonite-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Dratini",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "26/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Dragon Dew\r\n\u003cbr\u003eRemove 2 damage counters from 1 of your Pokemon (remove 1 if there is only 1)."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[L] Tail Slap (10)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "C"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "FG"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84932_200w.jpg",
+      "modifiedOn": "2023-12-27T20:33:37.077",
+      "name": "Dratini",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84932,
+      "url": "https://www.tcgplayer.com/product/84932/pokemon-dragon-dratini"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Energy Recycle System",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "84/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Item"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Search your discard pile for basic Energy cards.  You may either show 1 basic Energy card to your opponent and put it into your hand, or show 3 basic Energy cards to your opponent and shuffle them into your deck."
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85216_200w.jpg",
+      "modifiedOn": "2023-12-27T20:34:03.95",
+      "name": "Energy Recycle System",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85216,
+      "url": "https://www.tcgplayer.com/product/85216/pokemon-dragon-energy-recycle-system"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Flaaffy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "27/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[L] Energy Recall \r\n\u003cbr\u003eAttach up to 2 basic Energy cards from your discard pile to Flaaffy."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1L] Lightning Ball (30)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85476_200w.jpg",
+      "modifiedOn": "2025-12-02T00:05:40.677",
+      "name": "Flaaffy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85476,
+      "url": "https://www.tcgplayer.com/product/85476/pokemon-dragon-flaaffy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Flygon 4 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "4/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "120"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[GL] Energy Shower \r\n\u003cbr\u003eAttach any number of basic Energy cards from your hand to your Pokemon in any way you'd like."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Rainbow Burn (30+) \r\n\u003cbr\u003eDoes 30 damage plus 10 more damage for each type of Basic Energy card attached to Flygon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "C"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "FL"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85521_200w.jpg",
+      "modifiedOn": "2023-12-27T20:37:40.847",
+      "name": "Flygon - 4/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85521,
+      "url": "https://www.tcgplayer.com/product/85521/pokemon-dragon-flygon-4-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Flygon 15 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "15/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Sand Guard \r\n\u003cbr\u003eWhenever Flygon would be damaged by your opponent's attack \u003cem\u003e(after applying Weakness and Resistance)\u003c/em\u003e, flip a coin.  If heads, reduce that damage by 20."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1GL] Air Slash (60)\r\n\u003cbr\u003eFlip a coin.  If tails, discard an Energy card attached to Flygon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "None"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85522_200w.jpg",
+      "modifiedOn": "2023-12-27T20:51:53.38",
+      "name": "Flygon - 15/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85522,
+      "url": "https://www.tcgplayer.com/product/85522/pokemon-dragon-flygon-15-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Forretress",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "28/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Metal"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1M] Double Metal Ball \r\n\u003cbr\u003ePut 2 damage counters on each Defending Pokemon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Backspin (40) \r\n\u003cbr\u003eAfter your attack, you may discard 1 Energy card attached to Forretress.  If you do, switch Forretress with 1 of your Benched Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85547_200w.jpg",
+      "modifiedOn": "2023-12-27T21:25:49.403",
+      "name": "Forretress",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85547,
+      "url": "https://www.tcgplayer.com/product/85547/pokemon-dragon-forretress"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Geodude 55 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "55/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Light Punch (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[F] Pebble Throw \r\n\u003cbr\u003eChoose 1 of your opponent's Benched Pokemon.  This attack does 10 damage to that Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85687_200w.jpg",
+      "modifiedOn": "2023-12-27T21:26:02.217",
+      "name": "Geodude - 55/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85687,
+      "url": "https://www.tcgplayer.com/product/85687/pokemon-dragon-geodude-55-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Geodude 56 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "56/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Steady Punch (10+) \r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 10 damage plus 10 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85688_200w.jpg",
+      "modifiedOn": "2024-01-11T18:44:57.03",
+      "name": "Geodude - 56/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85688,
+      "url": "https://www.tcgplayer.com/product/85688/pokemon-dragon-geodude-56-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Girafarig",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "16/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Synchronized Search \r\n\u003cbr\u003eIf Girafarig and the Defending Pokemon have the same amount of Energy attached to them, pick any 1 card from your deck and put it into your hand.  Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1P] Breaking Impact \r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 10 damage for each 1 Energy in that Pokemon's Retreat Cost to that Pokemon \u003ci\u003e(after applying effects to the Retreat Cost).  (Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85729_200w.jpg",
+      "modifiedOn": "2023-12-27T21:26:28.853",
+      "name": "Girafarig",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85729,
+      "url": "https://www.tcgplayer.com/product/85729/pokemon-dragon-girafarig"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Golem",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "5/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "120"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2F] Rock Vengeance (20+) \r\n\u003cbr\u003eDoes 20 damage plus 10 more damage for each damage counter on all of your Active Pokemon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3FF] Rock Slide (60) \r\n\u003cbr\u003eDoes 20 damage to 2 of your opponent's Benched Pokemon (1 if there is only 1).  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "4"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85826_200w.jpg",
+      "modifiedOn": "2023-12-27T21:26:53.433",
+      "name": "Golem",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85826,
+      "url": "https://www.tcgplayer.com/product/85826/pokemon-dragon-golem"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Golem ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "91/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "160"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2F] Magnitude (60) \r\n\u003cbr\u003eDoes 10 damage to each Benched Pokemon (both yours and your opponent's).  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3FF] Double-edge (120) \r\n\u003cbr\u003eGolem ex does 50 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "GW"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "5"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85831_200w.jpg",
+      "modifiedOn": "2023-12-27T21:27:05.043",
+      "name": "Golem ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85831,
+      "url": "https://www.tcgplayer.com/product/85831/pokemon-dragon-golem-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Graveler 29 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "29/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Grind (10x) \r\n\u003cbr\u003eDoes 10 damage times the amount of Energy attached to Graveler."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2FF] Big Explosion \r\n\u003cbr\u003eDoes 80 damage to each Active Pokemon (both yours and your opponent's)."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85889_200w.jpg",
+      "modifiedOn": "2023-12-27T21:27:19.4",
+      "name": "Graveler - 29/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85889,
+      "url": "https://www.tcgplayer.com/product/85889/pokemon-dragon-graveler-29-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Graveler 30 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "30/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1F] Magnitude (20) \r\n\u003cbr\u003eDoes 10 damage to each Benched Pokemon (both yours and your opponent's).\u003ci\u003e  (Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2F] Rollout (40)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85890_200w.jpg",
+      "modifiedOn": "2023-12-27T21:27:37.94",
+      "name": "Graveler - 30/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85890,
+      "url": "https://www.tcgplayer.com/product/85890/pokemon-dragon-graveler-30-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Grimer",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "57/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Pound (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[G] Poison Spurt \r\n\u003cbr\u003eDiscard a Grass Energy card attached to Grimer.  The Defending Pokemon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85908_200w.jpg",
+      "modifiedOn": "2023-12-27T21:27:50.33",
+      "name": "Grimer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85908,
+      "url": "https://www.tcgplayer.com/product/85908/pokemon-dragon-grimer"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Grovyle",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "31/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1G] Fury Cutter (10+) \r\n\u003cbr\u003eFlip 4 coins.  If all of them are heads, this attack does 10 damage plus 60 more damage.  If not, this attack does 10 damage plus 10 more damage for each heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85937_200w.jpg",
+      "modifiedOn": "2023-12-27T21:28:00.667",
+      "name": "Grovyle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85937,
+      "url": "https://www.tcgplayer.com/product/85937/pokemon-dragon-grovyle"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Grumpig",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "6/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1P] Psychic Boom (20+) \r\n\u003cbr\u003eDoes 20 damage plus 10 more damage for each Energy attached to the Defending Pokemon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2P] Mind Trip (50) \r\n\u003cbr\u003eIf Grumpig and the Defending Pokemon have the same amount of Energy attached to them, the Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85964_200w.jpg",
+      "modifiedOn": "2023-12-27T21:28:35.357",
+      "name": "Grumpig",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85964,
+      "url": "https://www.tcgplayer.com/product/85964/pokemon-dragon-grumpig"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Gyarados",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "32/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Dragon Crush\r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 10 damage to each Defending Pokemon.  Discard an Energy card from each Defending Pokemon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[4W] Aqua Sonic (80) \r\n\u003cbr\u003eThis attack's damage is not affected by Resistance."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85990_200w.jpg",
+      "modifiedOn": "2023-12-27T21:28:47.327",
+      "name": "Gyarados",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85990,
+      "url": "https://www.tcgplayer.com/product/85990/pokemon-dragon-gyarados"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "High Pressure System",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "85/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Stadium"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.\r\n\u003cbr\u003e\r\n\u003cbr\u003eEach player pays 1 less to retreat his of her Fire and Water Pokemon."
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86076_200w.jpg",
+      "modifiedOn": "2023-12-27T21:29:00.933",
+      "name": "High Pressure System",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86076,
+      "url": "https://www.tcgplayer.com/product/86076/pokemon-dragon-high-pressure-system"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Horsea 33 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "33/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Retaliate (10x) \r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 10 damage times the number of damage counters on Horsea."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[W] Smokescreen (10) \r\n\u003cbr\u003eIf the Defending Pokemon tries to attack during your opponent's next turn, your opponent flips a coin.  If tails, that attack does nothing."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86188_200w.jpg",
+      "modifiedOn": "2023-12-27T21:29:14.787",
+      "name": "Horsea - 33/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86188,
+      "url": "https://www.tcgplayer.com/product/86188/pokemon-dragon-horsea-33-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Horsea 58 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "58/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Paralyzing Gaze\r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Wave Splash (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86189_200w.jpg",
+      "modifiedOn": "2023-12-27T21:29:40.787",
+      "name": "Horsea - 58/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86189,
+      "url": "https://www.tcgplayer.com/product/86189/pokemon-dragon-horsea-58-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Houndoom",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "34/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1D] Feint Attack \r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on that Pokemon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2R] Flamethrower (50) \r\n\u003cbr\u003eDiscard a Fire Energy card attached to Houndoom."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86205_200w.jpg",
+      "modifiedOn": "2023-12-27T21:35:46.133",
+      "name": "Houndoom",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86205,
+      "url": "https://www.tcgplayer.com/product/86205/pokemon-dragon-houndoom"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Houndour",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "59/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Roar \r\n\u003cbr\u003eYour opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Bite (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86224_200w.jpg",
+      "modifiedOn": "2025-11-21T18:31:11.973",
+      "name": "Houndour",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86224,
+      "url": "https://www.tcgplayer.com/product/86224/pokemon-dragon-houndour"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Kingdra ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "92/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "150"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Genetic Memory\r\n\u003cbr\u003eUse any attack from Kingdra ex's Basic Pokemon card or Stage 1 Evolution card.  \u003ci\u003e(Kingdra ex doesn't have to pay for that attack's Energy cost.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Hydrocannon (50+) \r\n\u003cbr\u003eDoes 50 damage plus 20 more damage for each WaterEnergy attached to Kingdra ex but not used to pay for this attack's Energy cost.  You can't add more than 40 damage in this way."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "GL"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86451_200w.jpg",
+      "modifiedOn": "2025-12-02T22:18:00.023",
+      "name": "Kingdra ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86451,
+      "url": "https://www.tcgplayer.com/product/86451/pokemon-dragon-kingdra-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Latias ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "93/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Hypnosis (10) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1RW] Mist Ball (100)\r\n\u003cbr\u003eDiscard a FIre Energy and a Water Energy attached to Latias ex."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "C"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "FP"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86659_200w.jpg",
+      "modifiedOn": "2025-03-27T20:07:31.94",
+      "name": "Latias ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86659,
+      "url": "https://www.tcgplayer.com/product/86659/pokemon-dragon-latias-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Latios ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "94/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Energy Stream (10) \r\n\u003cbr\u003eFlip a coin.  If heads, search your discard pile for a basic Energy card and attach it to Latios ex."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1GL] Luster Purge (100) \r\n\u003cbr\u003eDiscard 3 Energy attached to Latios ex."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "C"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "FG"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86673_200w.jpg",
+      "modifiedOn": "2023-12-27T21:47:24.057",
+      "name": "Latios ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86673,
+      "url": "https://www.tcgplayer.com/product/86673/pokemon-dragon-latios-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Low Pressure System",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "86/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Stadium"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.\r\n\u003cbr\u003e\r\n\u003cbr\u003eEach Grass and Lightning Pokemon in play (both yours and your opponent's) gets +10 HP."
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86846_200w.jpg",
+      "modifiedOn": "2023-12-27T21:54:19.477",
+      "name": "Low Pressure System",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86846,
+      "url": "https://www.tcgplayer.com/product/86846/pokemon-dragon-low-pressure-system"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magcargo ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "95/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[R] Melting Mountain (20) \r\n\u003cbr\u003eDiscard the top card from your deck.  If that card is a basic Energy card, attach it to Magcargo ex."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1RR] Lava Flow (40+) \r\n\u003cbr\u003eYou may discard any number of basic Energy cards attached to Magcargo ex when you use this attack.  If you do, this attack does 40 damage plus 20 damage for each basic Energy card you discarded."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87019_200w.jpg",
+      "modifiedOn": "2023-12-27T21:54:30.377",
+      "name": "Magcargo ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87019,
+      "url": "https://www.tcgplayer.com/product/87019/pokemon-dragon-magcargo-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magikarp",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "60/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Call for Family\r\n\u003cbr\u003eSearch your deck for Magikarp and put as many as you like onto your Bench.  Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1W] Tackle (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87025_200w.jpg",
+      "modifiedOn": "2023-12-27T21:55:24.65",
+      "name": "Magikarp",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87025,
+      "url": "https://www.tcgplayer.com/product/87025/pokemon-dragon-magikarp"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magnemite 61 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "61/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Rollout (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Hook (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87072_200w.jpg",
+      "modifiedOn": "2023-12-27T21:55:52.003",
+      "name": "Magnemite - 61/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87072,
+      "url": "https://www.tcgplayer.com/product/87072/pokemon-dragon-magnemite-61-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magnemite 62 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "62/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[L] Random Spark \r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87073_200w.jpg",
+      "modifiedOn": "2023-12-28T18:50:40.57",
+      "name": "Magnemite - 62/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87073,
+      "url": "https://www.tcgplayer.com/product/87073/pokemon-dragon-magnemite-62-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magnemite 63 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "63/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[L] Thundershock (10) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87074_200w.jpg",
+      "modifiedOn": "2023-12-28T19:46:43.397",
+      "name": "Magnemite - 63/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87074,
+      "url": "https://www.tcgplayer.com/product/87074/pokemon-dragon-magnemite-63-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magneton 17 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "17/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-POWER\u003c/b\u003e Magnetic Field\r\n\u003cbr\u003eOnce during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, if you have basic Energy cards in your discard pile, you may discard any 1 card from your hand.  Then search for up to 2 basic Energy cards from your discard pile, show them to your opponent, and put them into your hand.  You can't return the card you first discarded to your hand in this way.  This power can't be used if Magneton is affected by a Special Condition."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1L] Magnetic Force (10x) \r\n\u003cbr\u003eDoes 10 damage times the amount of Energy attached to all of your Pokemon \u003ci\u003e(including Magneton).\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87100_200w.jpg",
+      "modifiedOn": "2023-12-28T19:48:47.057",
+      "name": "Magneton - 17/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87100,
+      "url": "https://www.tcgplayer.com/product/87100/pokemon-dragon-magneton-17-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magneton 35 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "35/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Ram (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2L] Triple Smash (20+) \r\n\u003cbr\u003eFlip 3 coins.  This attack does 20 damage plus 20 more damage for each heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87101_200w.jpg",
+      "modifiedOn": "2023-12-28T19:49:01.35",
+      "name": "Magneton - 35/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87101,
+      "url": "https://www.tcgplayer.com/product/87101/pokemon-dragon-magneton-35-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Mareep",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "64/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Jolt \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87197_200w.jpg",
+      "modifiedOn": "2023-12-28T19:49:13.34",
+      "name": "Mareep",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87197,
+      "url": "https://www.tcgplayer.com/product/87197/pokemon-dragon-mareep"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Marshtomp",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "36/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1W] Mud Splash (20) \r\n\u003cbr\u003eDoes 10 damage to 1 of your opponent's Benched Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87234_200w.jpg",
+      "modifiedOn": "2023-12-28T19:51:18.813",
+      "name": "Marshtomp",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87234,
+      "url": "https://www.tcgplayer.com/product/87234/pokemon-dragon-marshtomp"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Meditite",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "37/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Punch (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1F] Meditate (10+) \r\n\u003cbr\u003eDoes 10 damage plus 10 more damage for each damage counter on the Defending Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87278_200w.jpg",
+      "modifiedOn": "2023-12-28T19:51:26.793",
+      "name": "Meditite",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87278,
+      "url": "https://www.tcgplayer.com/product/87278/pokemon-dragon-meditite"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Minun",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "7/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Chain of Events \r\n\u003cbr\u003eAs long as Minun is your Active Pokemon, whenever your other Active Pokemon, if any, attacks, you may use Cheer On after the first attack \u003cem\u003e(you still need the necessary Energy to use Cheer On)\u003c/em\u003e.  You can't use Cheer On more than once in this way even if your other Active Pokemon has the Chain of Events Poke-Body."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Cheer On\r\n\u003cbr\u003eRemove 1 damage counter from each of your Pokemon (including Minun)."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1L] Special Circuit \r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  If you choose Pokemon that has a Poke-Power or Poke-Body, this attack does 40 damage instead.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87481_200w.jpg",
+      "modifiedOn": "2023-12-28T19:51:36.973",
+      "name": "Minun",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87481,
+      "url": "https://www.tcgplayer.com/product/87481/pokemon-dragon-minun"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Mr Brineys Compassion",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "87/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Supporter"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.\r\n\u003cbr\u003e\r\n\u003cbr\u003eChoose 1 of your Pokemon in play (excluding Pokemon-ex).  Return that Pokemon and all cards attached to it to your hand."
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87585_200w.jpg",
+      "modifiedOn": "2023-12-28T19:51:48.99",
+      "name": "Mr. Briney's Compassion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87585,
+      "url": "https://www.tcgplayer.com/product/87585/pokemon-dragon-mr-brineys-compassion"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Mudkip",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "65/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Water Gun (10+) \r\n\u003cbr\u003eDoes 10 damage for each Water Energy attached to Mudkip but not used to pay for this attack's Energy cost.  You can't add more than 20 damage in this way."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87607_200w.jpg",
+      "modifiedOn": "2025-12-02T00:36:42.02",
+      "name": "Mudkip",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87607,
+      "url": "https://www.tcgplayer.com/product/87607/pokemon-dragon-mudkip"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Muk ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "96/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Toxic Gas \r\n\u003cbr\u003eAs long as Muk ex is your Active Pokemon, ignore all Poke-Powers and Poke-Bodies other than Toxic Gas."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Poison Breath (10) \r\n\u003cbr\u003eThe Defending Pokemon is now Poisoned."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1GG] Slimy Water (40+) \r\n\u003cbr\u003eDoes 40 damage plus 10 more damage for each 1 Energy in the Defending Pokemon's Retreat Cost \u003ci\u003e(after applying effects to the Retreat Cost).\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87628_200w.jpg",
+      "modifiedOn": "2023-12-28T19:52:08.413",
+      "name": "Muk ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87628,
+      "url": "https://www.tcgplayer.com/product/87628/pokemon-dragon-muk-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Nincada 66 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "66/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Poison Breath (10) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87756_200w.jpg",
+      "modifiedOn": "2023-12-28T20:01:42.843",
+      "name": "Nincada - 66/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87756,
+      "url": "https://www.tcgplayer.com/product/87756/pokemon-dragon-nincada-66-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Nincada 67 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "67/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Bite (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1G] Double Scratch (20x) \r\n\u003cbr\u003eFlip 2 coins.  This attack does 20 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87757_200w.jpg",
+      "modifiedOn": "2023-12-28T20:17:44.957",
+      "name": "Nincada - 67/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87757,
+      "url": "https://www.tcgplayer.com/product/87757/pokemon-dragon-nincada-67-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Nincada 68 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "68/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Leech Life (10) \r\n\u003cbr\u003eAfter your attack, remove from Nincada the number of damage counters equal to the damage you did to the Defending Pokemon.  If Nincada has fewer damage counters than that, remove all of them."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87758_200w.jpg",
+      "modifiedOn": "2025-12-02T00:37:18.283",
+      "name": "Nincada - 68/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87758,
+      "url": "https://www.tcgplayer.com/product/87758/pokemon-dragon-nincada-68-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ninjask 18 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "18/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-POWER\u003c/b\u003e Loose Shell \r\n\u003cbr\u003eOnce during your turn, when you play Ninjask from your hand to evolve 1 of your Pokemon, you may search your deck for Shedinja and put it onto your Bench.  Treat the new Benched Pokemon as a Basic Pokemon.  Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Quick Touch (30) \r\n\u003cbr\u003eYou may switch Ninjask with 1 of your Benched Pokemon.  If you do, you may move any number of Grass Energy cards attached to Ninjask to the new Active Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "0"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87783_200w.jpg",
+      "modifiedOn": "2023-12-28T21:05:13.323",
+      "name": "Ninjask - 18/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87783,
+      "url": "https://www.tcgplayer.com/product/87783/pokemon-dragon-ninjask-18-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ninjask 38 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "38/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Supersonic (10) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1G] Sonic Wing (30) \r\n\u003cbr\u003eThis attack's damage is not affected by Resistance."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "0"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87784_200w.jpg",
+      "modifiedOn": "2024-09-13T10:30:56.983",
+      "name": "Ninjask - 38/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87784,
+      "url": "https://www.tcgplayer.com/product/87784/pokemon-dragon-ninjask-38-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Numel 69 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "69/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[R] Firebreathing (10+) \r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 10 damage plus 10 more damage."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Tackle (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87806_200w.jpg",
+      "modifiedOn": "2023-12-28T21:50:18.703",
+      "name": "Numel - 69/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87806,
+      "url": "https://www.tcgplayer.com/product/87806/pokemon-dragon-numel-69-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Numel",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "70/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Rollout (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[R] Kindle (10) \r\n\u003cbr\u003eDiscard a Fire Energy card attached to Numel and then discard an Energy card attached to the Defending Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87807_200w.jpg",
+      "modifiedOn": "2025-12-02T00:38:28.213",
+      "name": "Numel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87807,
+      "url": "https://www.tcgplayer.com/product/87807/pokemon-dragon-numel"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pineco",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "71/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Exoskeleton\r\n\u003cbr\u003eAny damage done to Pineco by attacks is reduced by 10 \u003cem\u003e(after applying Weakness and Resistance). \u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1G] Tackle (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88126_200w.jpg",
+      "modifiedOn": "2023-12-28T21:54:55.15",
+      "name": "Pineco",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88126,
+      "url": "https://www.tcgplayer.com/product/88126/pokemon-dragon-pineco"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Plusle",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "8/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Chain of Events \r\n\u003cbr\u003eAs long as Plusle is your Active Pokemon, whenever your other Active Pokemon, if any, attacks, you may use Cheer On after the first attack \u003cem\u003e(you still need the necessary Energy to use Cheer On).\u003c/em\u003e  You can't use Cheer On more than once in this way even if your other Active Pokemon has the Chain of Events Poke-Body."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Cheer On \r\n\u003cbr\u003eRemove 1 damage counter from each of your Pokemon (including Plusle)."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1L] Extra Circuit \r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  If you choose Pokemon-ex, this attack does 40 damage instead.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88161_200w.jpg",
+      "modifiedOn": "2023-12-28T21:55:05.947",
+      "name": "Plusle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88161,
+      "url": "https://www.tcgplayer.com/product/88161/pokemon-dragon-plusle"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Rayquaza ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "97/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Spiral Growth \r\n\u003cbr\u003eFlip a coin until you get tails.  For each heads, search your discard pile for a basic Energy card and attach it to Rayquaza ex."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[LR] Dragon Burst (40x)\r\n\u003cbr\u003eDiscard either all Fire Energy or all Lightning Energy attached to Rayquaza ex.  This attack does 40 damage times the amount of Fire or Lightning Energy discarded."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "C"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "FW"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88642_200w.jpg",
+      "modifiedOn": "2023-12-28T21:55:16.023",
+      "name": "Rayquaza ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88642,
+      "url": "https://www.tcgplayer.com/product/88642/pokemon-dragon-rayquaza-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Roselia",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "9/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Thick Skin \r\n\u003cbr\u003eRoselia can't be affected by any Special Conditions."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Speed Growth \r\n\u003cbr\u003eAttach up to 2 Grass Energy cards from your hand to your Pokemon in any way you like."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[G] Sleep Powder (10) \r\n\u003cbr\u003eThe Defending Pokemon is now Asleep."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88817_200w.jpg",
+      "modifiedOn": "2023-12-28T21:55:37.877",
+      "name": "Roselia",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88817,
+      "url": "https://www.tcgplayer.com/product/88817/pokemon-dragon-roselia"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Salamence 10 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "10/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "120"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-POWER\u003c/b\u003e Dragon Wind \r\n\u003cbr\u003eOnce during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, if Salamence is your Active Pokemon, you may switch 1 of your opponent's Benched Pokemon with 1 of the Defending Pokemon.  Your opponent chooses the Defending Pokemon to switch.  This power can't be used if Salamence is affected by a Special Condition."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Agility (20) \r\n\u003cbr\u003eFlip a coin.  If heads, prevent all effects of an attack, including damage, done to Salamence during your opponent's next turn."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2RW] Dragon Claw (60)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "C"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "FR"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88895_200w.jpg",
+      "modifiedOn": "2023-12-28T21:55:51.087",
+      "name": "Salamence - 10/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88895,
+      "url": "https://www.tcgplayer.com/product/88895/pokemon-dragon-salamence-10-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Salamence 19 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "19/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Intimidating Fang  \r\n\u003cbr\u003eAs long as Salamence is your Active Pokemon, any damage done to your Pokemon by an opponent's attack is reduced by 10 \u003cem\u003e(before applying Weakness and Resistance). \u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1RW] Dragon Flame (40+) \r\n\u003cbr\u003eYou may discard an Energy card attached to Salamence.  If you do, this attack does 40 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "None"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88896_200w.jpg",
+      "modifiedOn": "2025-12-02T00:39:17.78",
+      "name": "Salamence - 19/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88896,
+      "url": "https://www.tcgplayer.com/product/88896/pokemon-dragon-salamence-19-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Seadra 39 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "39/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Energy Cannon (20+) \r\n\u003cbr\u003eDoes 20 damage plus 10 more damage for each Energy attached to Seadra but not used to pay for this attack's Energy cost.  You can't add more than 20 damage in this way."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2W] Water Arrow \r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 30 damage to that Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89012_200w.jpg",
+      "modifiedOn": "2023-12-28T22:01:16.717",
+      "name": "Seadra - 39/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89012,
+      "url": "https://www.tcgplayer.com/product/89012/pokemon-dragon-seadra-39-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Seadra 40 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "40/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Agility (20) \r\n\u003cbr\u003eFlip a coin.  If heads, prevent all effects of an attack, including damage, done to Seadra during your opponent's next turn."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2W] Waterfall (40)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89013_200w.jpg",
+      "modifiedOn": "2025-12-02T00:39:53.717",
+      "name": "Seadra - 40/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89013,
+      "url": "https://www.tcgplayer.com/product/89013/pokemon-dragon-seadra-40-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Shedinja",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "11/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Wonder Guard \r\n\u003cbr\u003ePrevent all effects of attacks, including damage, done to Shedinja by your opponent's Evolved Pokemon and Pokemon-ex."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Damage Curse \r\n\u003cbr\u003ePut 1 damage counter, plus 1 more damage counter for each damage counter on Shedinja, on the Defending Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "None"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89117_200w.jpg",
+      "modifiedOn": "2023-12-28T22:01:52.827",
+      "name": "Shedinja",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89117,
+      "url": "https://www.tcgplayer.com/product/89117/pokemon-dragon-shedinja"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Shelgon 20 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "20/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Scrunch \r\n\u003cbr\u003eFlip a coin.  If heads, prevent all damage done to Shelgon during your opponent's next turn.  \u003ci\u003e(Any other effects of attacks still happen.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1RW] Rolling Attack (50)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "C"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "FR"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89122_200w.jpg",
+      "modifiedOn": "2023-12-28T22:02:05.117",
+      "name": "Shelgon - 20/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89122,
+      "url": "https://www.tcgplayer.com/product/89122/pokemon-dragon-shelgon-20-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Shelgon 41 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "41/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Energy Guard\r\n\u003cbr\u003eAs long as Shelgon has any basic Energy cards attached to it, damage done to Shelgon by an opponent's attack is reduced by 10 \u003cem\u003e(after applying Weakness and Resistance).\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Rollout (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "None"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89123_200w.jpg",
+      "modifiedOn": "2023-12-28T22:02:17.393",
+      "name": "Shelgon - 41/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89123,
+      "url": "https://www.tcgplayer.com/product/89123/pokemon-dragon-shelgon-41-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Shelgon 42 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "42/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1W] Granite Head (20) \r\n\u003cbr\u003eDamage done to Shelgon by an opponent's attack is reduced by 10 \u003ci\u003e(after applying Weakness and Resistance) \u003c/i\u003eduring your opponent's next turn."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2R] Flare (40)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "None"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89124_200w.jpg",
+      "modifiedOn": "2023-12-28T22:02:37.633",
+      "name": "Shelgon - 42/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89124,
+      "url": "https://www.tcgplayer.com/product/89124/pokemon-dragon-shelgon-42-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Shuppet",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "43/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Hypnosis \r\n\u003cbr\u003eThe Defending Pokemon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[P] Night Attack \r\n\u003cbr\u003ePut 1 damage counter on 1 of your opponent's Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "D"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89195_200w.jpg",
+      "modifiedOn": "2023-12-28T22:02:47.797",
+      "name": "Shuppet",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89195,
+      "url": "https://www.tcgplayer.com/product/89195/pokemon-dragon-shuppet"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Skarmory",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "21/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Metal"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[M] Pick On  \r\n\u003cbr\u003eIf the number of cards in your opponent's hand is at least 6, look at his or her hand.  Choose a number of cards there until your opponent has 5 cards left in his or her hand and have your opponent shuffle the cards you chose into his or her deck."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1M] Power Count (20+) \r\n\u003cbr\u003eCount the amount of Energy attached to all of your Pokemon and all of your opponent's Pokemon.  If your Pokemon have less Energy than your opponent's, this attack does 20 damage plus 30 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89237_200w.jpg",
+      "modifiedOn": "2023-12-28T22:02:56.037",
+      "name": "Skarmory",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89237,
+      "url": "https://www.tcgplayer.com/product/89237/pokemon-dragon-skarmory"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Slugma",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "72/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Ram (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1R] Luring Flame \r\n\u003cbr\u003eSwitch 1 of your opponent's Benched Pokemon with 1 of the Defending Pokemon.  Your opponent chooses the Defending Pokemon to switch.  The new Defending Pokemon is now Burned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89340_200w.jpg",
+      "modifiedOn": "2023-12-28T22:09:10.81",
+      "name": "Slugma",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89340,
+      "url": "https://www.tcgplayer.com/product/89340/pokemon-dragon-slugma"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Snorunt",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "44/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Powder Snow (10) \r\n\u003cbr\u003eThe Defending Pokemon is now Asleep."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "M"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89398_200w.jpg",
+      "modifiedOn": "2023-12-28T22:09:18.903",
+      "name": "Snorunt",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89398,
+      "url": "https://www.tcgplayer.com/product/89398/pokemon-dragon-snorunt"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Spoink 73 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "73/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Bounce (10) \r\n\u003cbr\u003eAfter your attack, you may switch Spoink with 1 of your Benched Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89470_200w.jpg",
+      "modifiedOn": "2023-12-28T22:09:32.483",
+      "name": "Spoink - 73/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89470,
+      "url": "https://www.tcgplayer.com/product/89470/pokemon-dragon-spoink-73-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Spoink 74 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "74/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Hop (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1P] Psybeam (10) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89471_200w.jpg",
+      "modifiedOn": "2023-12-28T22:18:41.507",
+      "name": "Spoink - 74/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89471,
+      "url": "https://www.tcgplayer.com/product/89471/pokemon-dragon-spoink-74-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Swablu",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "75/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Lullaby (10) \r\n\u003cbr\u003eThe Defending Pokemon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[L] Stifling Fluff (10)\r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89653_200w.jpg",
+      "modifiedOn": "2023-12-28T22:18:50.293",
+      "name": "Swablu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89653,
+      "url": "https://www.tcgplayer.com/product/89653/pokemon-dragon-swablu"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Swellow",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "45/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Clutch (10) \r\n\u003cbr\u003eThe Defending Pokemon can't retreat until the end of your opponent's next turn."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Quick Dive\r\n\u003cbr\u003eFlip a coin.  If heads, choose 1 of your opponent's Pokemon.  This attack does 50 damage to that Pokemon.  This attack's damage isn't affected by Weakness or Resistance."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "0"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89689_200w.jpg",
+      "modifiedOn": "2023-12-28T22:18:59.28",
+      "name": "Swellow",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89689,
+      "url": "https://www.tcgplayer.com/product/89689/pokemon-dragon-swellow"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Taillow",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "76/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Whirlwind\r\n\u003cbr\u003eYour opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89731_200w.jpg",
+      "modifiedOn": "2025-12-02T00:40:24.97",
+      "name": "Taillow",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89731,
+      "url": "https://www.tcgplayer.com/product/89731/pokemon-dragon-taillow"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Torchic",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "77/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1R] Firebreathing (20+) \r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 20 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89951_200w.jpg",
+      "modifiedOn": "2023-12-28T22:19:19.487",
+      "name": "Torchic",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89951,
+      "url": "https://www.tcgplayer.com/product/89951/pokemon-dragon-torchic"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Torkoal",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "12/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Power Generation\r\n\u003cbr\u003eSearch your discard pile for up to 2 basic Energy cards, show them to your opponent, and put them into your hand."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[R] Scorching Smoke \r\n\u003cbr\u003eThe Defending Pokemon is now Burned.  Flip a coin.  If tails, discard a Fire Energy card attached to Torkoal."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89966_200w.jpg",
+      "modifiedOn": "2023-12-28T22:19:27.723",
+      "name": "Torkoal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89966,
+      "url": "https://www.tcgplayer.com/product/89966/pokemon-dragon-torkoal"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Trapinch 78 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "78/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Dig (10)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90019_200w.jpg",
+      "modifiedOn": "2025-10-30T00:35:52.19",
+      "name": "Trapinch - 78/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90019,
+      "url": "https://www.tcgplayer.com/product/90019/pokemon-dragon-trapinch-78-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Trapinch 79 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "79/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Bind\r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Rock Smash (10+) \r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 10 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90020_200w.jpg",
+      "modifiedOn": "2023-12-28T22:19:57.053",
+      "name": "Trapinch - 79/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90020,
+      "url": "https://www.tcgplayer.com/product/90020/pokemon-dragon-trapinch-79-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Treecko",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "80/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Quick Attack (10+) \r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 10 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90034_200w.jpg",
+      "modifiedOn": "2023-12-28T22:20:07.303",
+      "name": "Treecko",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90034,
+      "url": "https://www.tcgplayer.com/product/90034/pokemon-dragon-treecko"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "TV Reporter",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "88/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Supporter"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.\r\n\u003cbr\u003e\r\n\u003cbr\u003eDraw 3 cards.  Then discard any 1 card from your hand."
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90083_200w.jpg",
+      "modifiedOn": "2025-12-02T00:41:24.413",
+      "name": "TV Reporter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90083,
+      "url": "https://www.tcgplayer.com/product/90083/pokemon-dragon-tv-reporter"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Vibrava 22 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "22/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Quick Charge\r\n\u003cbr\u003eSearch your deck for up to 3 different types of basic Energy cards, show them to your opponent, and put them into your hand.  Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[GL] Dragon Spark \r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 20 damage to each of your opponent's Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "C"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "FL"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90332_200w.jpg",
+      "modifiedOn": "2023-12-28T22:20:29.507",
+      "name": "Vibrava - 22/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90332,
+      "url": "https://www.tcgplayer.com/product/90332/pokemon-dragon-vibrava-22-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Vibrava 46 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "46/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Levitate \r\n\u003cbr\u003eIf Vibrava has any basic Energy cards attached to it, Vibrava's Retreat Cost is 0."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Razor Wing (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "None"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90333_200w.jpg",
+      "modifiedOn": "2023-12-28T22:20:40.807",
+      "name": "Vibrava - 46/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90333,
+      "url": "https://www.tcgplayer.com/product/90333/pokemon-dragon-vibrava-46-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Vibrava 47 97",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "47/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1G] Dive (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2L] Quick Turn (40x) \r\n\u003cbr\u003eFlip 2 coins.  This attack does 40 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "None"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90334_200w.jpg",
+      "modifiedOn": "2025-12-02T00:42:06.747",
+      "name": "Vibrava - 47/97",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90334,
+      "url": "https://www.tcgplayer.com/product/90334/pokemon-dragon-vibrava-47-97"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Whiscash",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "48/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Submerge \r\n\u003cbr\u003eAs long as Whiscash is on your Bench, prevent all damage done to Whiscash by opponent's attacks."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1W] Surf (30)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3F] Magnitude (60) \r\n\u003cbr\u003eDoes 10 damage to each Benched Pokemon (both yours and your opponent's).  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90574_200w.jpg",
+      "modifiedOn": "2023-12-28T15:41:29.707",
+      "name": "Whiscash",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90574,
+      "url": "https://www.tcgplayer.com/product/90574/pokemon-dragon-whiscash"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Wurmple",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "81/97"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Call for Friends \r\n\u003cbr\u003eSearch your deck for Grass Basic Pokemon and put as many of them as you like onto your Bench.  Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1] String Shot (10) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90648_200w.jpg",
+      "modifiedOn": "2023-12-28T15:41:21.65",
+      "name": "Wurmple",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90648,
+      "url": "https://www.tcgplayer.com/product/90648/pokemon-dragon-wurmple"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "EX Dragon Booster Box",
+      "extendedData": [],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/98518_200w.jpg",
+      "modifiedOn": "2015-05-06T12:54:56.747",
+      "name": "EX Dragon Booster Box",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 98518,
+      "url": "https://www.tcgplayer.com/product/98518/pokemon-dragon-ex-dragon-booster-box"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "EX Dragon Booster Pack",
+      "extendedData": [],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/98519_200w.jpg",
+      "modifiedOn": "2017-07-22T16:56:55.143",
+      "name": "EX Dragon Booster Pack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 98519,
+      "url": "https://www.tcgplayer.com/product/98519/pokemon-dragon-ex-dragon-booster-pack"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Dragon Theme Deck FireFang Salamence",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Who says fire and water don't mix? With attacks like Dragon Flame and Wave Splash they do! Turn the Dragons in this deck loose, and sink your fangs into your opponent!\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eContents:\u003c/strong\u003e\r\n\u003cbr\u003e• 1 60-card preconstructed deck\r\n\u003cbr\u003e• Damage counters\r\n\u003cbr\u003e• 1 coin"
+        }
+      ],
+      "groupId": 1376,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/488300_200w.jpg",
+      "modifiedOn": "2023-03-15T13:07:25.543",
+      "name": "Dragon Theme Deck - \"FireFang\" [Salamence]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 488300,
+      "url": "https://www.tcgplayer.com/product/488300/pokemon-dragon-dragon-theme-deck-firefang-salamence"
+    }
+  ],
+  "success": true,
+  "totalItems": 103
+}

@@ -1,0 +1,82 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Elder of the Six Samurai",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SAAS-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If your opponent controls a monster and you control no monsters, you can Special Summon this card from your hand."
+        }
+      ],
+      "groupId": 276,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57791_200w.jpg",
+      "modifiedOn": "2025-03-26T18:04:37.173",
+      "name": "Elder of the Six Samurai",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57791,
+      "url": "https://www.tcgplayer.com/product/57791/yugioh-samurai-assault-elder-of-the-six-samurai"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Samurai Assault Special Edition Box",
+      "extendedData": [],
+      "groupId": 276,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/125889_200w.jpg",
+      "modifiedOn": "2016-12-08T20:35:15.59",
+      "name": "Samurai Assault: Special Edition Box",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 125889,
+      "url": "https://www.tcgplayer.com/product/125889/yugioh-samurai-assault-samurai-assault-special-edition-box"
+    }
+  ],
+  "success": true,
+  "totalItems": 2
+}

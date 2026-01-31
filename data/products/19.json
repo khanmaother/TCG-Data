@@ -1,0 +1,30 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Multiverse Gift Box",
+      "extendedData": [
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Contains a French Homelands booster, an Italian Alliances booster, a German Renaissance booster, a Japanese Chronicles booster, 2 English Visions boosters."
+        }
+      ],
+      "groupId": 19,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/81796_200w.jpg",
+      "modifiedOn": "2021-03-09T14:56:44.507",
+      "name": "Multiverse Gift Box",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 81796,
+      "url": "https://www.tcgplayer.com/product/81796/magic-box-sets-multiverse-gift-box"
+    }
+  ],
+  "success": true,
+  "totalItems": 1
+}

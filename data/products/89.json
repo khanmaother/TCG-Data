@@ -1,0 +1,1526 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Ball Lightning",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample, haste\r\n\u003cbr\u003e\r\nAt the beginning of the end step, sacrifice Ball Lightning."
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38662_200w.jpg",
+      "modifiedOn": "2024-06-14T18:05:53.517",
+      "name": "Ball Lightning",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38662,
+      "url": "https://www.tcgplayer.com/product/38662/magic-premium-deck-series-fire-and-lightning-ball-lightning"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Barbarian Ring",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "28"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add R to your mana pool. Barbarian Ring deals 1 damage to you.\r\n\u003cbr\u003e\r\n\u003cem\u003eThreshold\u003c/em\u003e — R, T, Sacrifice Barbarian Ring: Barbarian Ring deals 2 damage to target creature or player. Activate this ability only if seven or more cards are in your graveyard."
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38663_200w.jpg",
+      "modifiedOn": "2024-06-14T18:06:28.843",
+      "name": "Barbarian Ring",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38663,
+      "url": "https://www.tcgplayer.com/product/38663/magic-premium-deck-series-fire-and-lightning-barbarian-ring"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Boggart Ram Gang",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Goblin Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003e\r\nWither \u003cem\u003e(This deals damage to creatures in the form of -1/-1 counters.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"We're going to need a bigger gate.\"\r\n\u003cbr\u003e\r\n—Bowen, Barrenton guardcaptain\u003c/em\u003e"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38664_200w.jpg",
+      "modifiedOn": "2024-06-14T18:07:27.513",
+      "name": "Boggart Ram-Gang",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38664,
+      "url": "https://www.tcgplayer.com/product/38664/magic-premium-deck-series-fire-and-lightning-boggart-ram-gang"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Browbeat",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "21"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Any player may have Browbeat deal 5 damage to him or her. If no one does, target player draws three cards."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Even the threat of power has power.\"\r\n\u003cbr\u003e\r\n—Jeska, warrior adept\u003c/em\u003e"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38665_200w.jpg",
+      "modifiedOn": "2024-06-14T18:11:18.337",
+      "name": "Browbeat",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38665,
+      "url": "https://www.tcgplayer.com/product/38665/magic-premium-deck-series-fire-and-lightning-browbeat"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Chain Lightning",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Chain Lightning deals 3 damage to target creature or player. Then that player or that creature's controller may pay RR. If the player does, he or she may copy this spell and may choose a new target for that copy."
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38666_200w.jpg",
+      "modifiedOn": "2024-06-14T18:11:43.343",
+      "name": "Chain Lightning",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38666,
+      "url": "https://www.tcgplayer.com/product/38666/magic-premium-deck-series-fire-and-lightning-chain-lightning"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cinder Pyromancer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental Shaman"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Cinder Pyromancer deals 1 damage to target player.\r\n\u003cbr\u003e\r\nWhenever you cast a red spell, you may untap Cinder Pyromancer."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"If the whole world burns, I'll never grow cold.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38667_200w.jpg",
+      "modifiedOn": "2024-06-14T18:12:48.317",
+      "name": "Cinder Pyromancer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38667,
+      "url": "https://www.tcgplayer.com/product/38667/magic-premium-deck-series-fire-and-lightning-cinder-pyromancer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Figure of Destiny",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Kithkin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "(R/W): Figure of Destiny becomes a 2/2 Kithkin Spirit.\r\n\u003cbr\u003e\r\n(R/W)(R/W)(R/W): If Figure of Destiny is a Spirit, it becomes a 4/4 Kithkin Spirit Warrior. \r\n\u003cbr\u003e(R/W)(R/W)(R/W)(R/W)(R/W)(R/W): If Figure of Destiny is a Warrior, it becomes an 8/8 Kithkin Spirit Warrior Avatar with flying and first strike."
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38668_200w.jpg",
+      "modifiedOn": "2025-05-15T19:45:16.16",
+      "name": "Figure of Destiny",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38668,
+      "url": "https://www.tcgplayer.com/product/38668/magic-premium-deck-series-fire-and-lightning-figure-of-destiny"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fire Servant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If a red instant or sorcery spell you control would deal damage, it deals double that damage instead."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Elemental fire shimmers with rose hues and, unlike terrestrial blazes, smolders long after it's extinguished.\"\r\n\u003cbr\u003e\r\n—Jestus Dreya,\u003c/em\u003e Of Elements and Eternity"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38669_200w.jpg",
+      "modifiedOn": "2024-06-14T18:14:47.127",
+      "name": "Fire Servant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38669,
+      "url": "https://www.tcgplayer.com/product/38669/magic-premium-deck-series-fire-and-lightning-fire-servant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fireball",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "27"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.\r\n\u003cbr\u003e\r\nFireball costs 1 more to cast for each target beyond the first."
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38670_200w.jpg",
+      "modifiedOn": "2024-06-14T18:19:27.053",
+      "name": "Fireball",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38670,
+      "url": "https://www.tcgplayer.com/product/38670/magic-premium-deck-series-fire-and-lightning-fireball"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fireblast",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "26"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may sacrifice two Mountains rather than pay Fireblast's mana cost.\r\n\u003cbr\u003e\r\nFireblast deals 4 damage to target creature or player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eEmbermages aren't well known for their diplomatic skills.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38671_200w.jpg",
+      "modifiedOn": "2025-12-06T01:23:25.463",
+      "name": "Fireblast",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38671,
+      "url": "https://www.tcgplayer.com/product/38671/magic-premium-deck-series-fire-and-lightning-fireblast"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Flames of the Blood Hand",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "22"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flames of the Blood Hand deals 4 damage to target player. The damage can't be prevented. If that player would gain life this turn, that player gains no life instead."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eMany ogres extracted blood oaths from the oni they summoned. Others simply extracted blood.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38672_200w.jpg",
+      "modifiedOn": "2024-06-14T18:21:25.78",
+      "name": "Flames of the Blood Hand",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38672,
+      "url": "https://www.tcgplayer.com/product/38672/magic-premium-deck-series-fire-and-lightning-flames-of-the-blood-hand"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ghitu Encampment",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "29"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Ghitu Encampment enters the battlefield tapped.\r\n\u003cbr\u003e\r\nT: Add R to your mana pool.\r\n\u003cbr\u003e\r\n1R: Ghitu Encampment becomes a 2/1 red Warrior creature with first strike until end of turn. It's still a land."
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38673_200w.jpg",
+      "modifiedOn": "2024-06-14T18:22:09.157",
+      "name": "Ghitu Encampment",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38673,
+      "url": "https://www.tcgplayer.com/product/38673/magic-premium-deck-series-fire-and-lightning-ghitu-encampment"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Grim Lavamancer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "R, T, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to target creature or player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Fools dig for water, corpses, or gold. The earth's real treasure is far deeper.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38674_200w.jpg",
+      "modifiedOn": "2024-06-14T18:24:35.393",
+      "name": "Grim Lavamancer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38674,
+      "url": "https://www.tcgplayer.com/product/38674/magic-premium-deck-series-fire-and-lightning-grim-lavamancer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hammer of Bogardan",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "23"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Hammer of Bogardan deals 3 damage to target creature or player.\r\n\u003cbr\u003e\r\n2RRR: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep."
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38675_200w.jpg",
+      "modifiedOn": "2024-06-14T19:29:31.577",
+      "name": "Hammer of Bogardan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38675,
+      "url": "https://www.tcgplayer.com/product/38675/magic-premium-deck-series-fire-and-lightning-hammer-of-bogardan"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hellspark Elemental",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample, haste\r\n\u003cbr\u003e\r\nAt the beginning of the end step, sacrifice Hellspark Elemental.\r\n\u003cbr\u003e\r\nUnearth 1R \u003cem\u003e(1R: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38676_200w.jpg",
+      "modifiedOn": "2024-06-14T19:30:04.343",
+      "name": "Hellspark Elemental",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38676,
+      "url": "https://www.tcgplayer.com/product/38676/magic-premium-deck-series-fire-and-lightning-hellspark-elemental"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Jackal Pup",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Hound"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Jackal Pup is dealt damage, it deals that much damage to you."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe first morning after acquiring her familiar, the wizard awoke with fleabites and mange.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38677_200w.jpg",
+      "modifiedOn": "2025-12-05T07:12:02.713",
+      "name": "Jackal Pup",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38677,
+      "url": "https://www.tcgplayer.com/product/38677/magic-premium-deck-series-fire-and-lightning-jackal-pup"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Jaya Ballard Task Mage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Spellshaper"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "R, T, Discard a card: Destroy target blue permanent.\r\n\u003cbr\u003e\r\n1R, T, Discard a card: Jaya Ballard, Task Mage deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.\r\n\u003cbr\u003e\r\n5RR, T, Discard a card: Jaya Ballard deals 6 damage to each creature and each player."
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38678_200w.jpg",
+      "modifiedOn": "2024-06-14T19:32:59.903",
+      "name": "Jaya Ballard, Task Mage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38678,
+      "url": "https://www.tcgplayer.com/product/38678/magic-premium-deck-series-fire-and-lightning-jaya-ballard-task-mage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Keldon Champion",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Barbarian"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003e\r\nEcho 2RR \u003cem\u003e(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nWhen Keldon Champion enters the battlefield, it deals 3 damage to target player."
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38679_200w.jpg",
+      "modifiedOn": "2024-06-14T19:33:28.513",
+      "name": "Keldon Champion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38679,
+      "url": "https://www.tcgplayer.com/product/38679/magic-premium-deck-series-fire-and-lightning-keldon-champion"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Keldon Marauders",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vanishing 2 \u003cem\u003e(This permanent enters the battlefield with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nWhen Keldon Marauders enters the battlefield or leaves the battlefield, it deals 1 damage to target player."
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38680_200w.jpg",
+      "modifiedOn": "2025-10-23T22:39:09.707",
+      "name": "Keldon Marauders",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38680,
+      "url": "https://www.tcgplayer.com/product/38680/magic-premium-deck-series-fire-and-lightning-keldon-marauders"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lightning Bolt",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "17"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lightning Bolt deals 3 damage to target creature or player."
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38681_200w.jpg",
+      "modifiedOn": "2024-06-14T19:34:27.613",
+      "name": "Lightning Bolt",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38681,
+      "url": "https://www.tcgplayer.com/product/38681/magic-premium-deck-series-fire-and-lightning-lightning-bolt"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mogg Fanatic",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Goblin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I got it! I got it! I—\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38682_200w.jpg",
+      "modifiedOn": "2024-06-14T19:34:54.86",
+      "name": "Mogg Fanatic",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38682,
+      "url": "https://www.tcgplayer.com/product/38682/magic-premium-deck-series-fire-and-lightning-mogg-fanatic"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mogg Flunkies",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Goblin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Mogg Flunkies can't attack or block alone."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThey'll attack whatever's in front of them—as long as you tell them where that is.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38683_200w.jpg",
+      "modifiedOn": "2025-12-05T07:15:15.637",
+      "name": "Mogg Flunkies",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38683,
+      "url": "https://www.tcgplayer.com/product/38683/magic-premium-deck-series-fire-and-lightning-mogg-flunkies"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 32",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "32"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Mountain"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38684_200w.jpg",
+      "modifiedOn": "2024-06-14T19:36:50.32",
+      "name": "Mountain (32)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38684,
+      "url": "https://www.tcgplayer.com/product/38684/magic-premium-deck-series-fire-and-lightning-mountain-32"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pillage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "24"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target artifact or land. It can't be regenerated."
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38685_200w.jpg",
+      "modifiedOn": "2024-06-14T19:37:33.857",
+      "name": "Pillage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38685,
+      "url": "https://www.tcgplayer.com/product/38685/magic-premium-deck-series-fire-and-lightning-pillage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Price of Progress",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "18"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Price of Progress deals damage to each player equal to twice the number of nonbasic lands that player controls."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eMan versus nature is not a fair fight.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38686_200w.jpg",
+      "modifiedOn": "2025-12-05T07:19:52.23",
+      "name": "Price of Progress",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38686,
+      "url": "https://www.tcgplayer.com/product/38686/magic-premium-deck-series-fire-and-lightning-price-of-progress"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Reverberate",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "20"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Copy target instant or sorcery spell. You may choose new targets for the copy."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I'm not indecisive. I just don't like to limit my options.\"\r\n\u003cbr\u003e\r\n—Maxti, pyromancer\u003c/em\u003e"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38687_200w.jpg",
+      "modifiedOn": "2024-06-14T19:39:43.913",
+      "name": "Reverberate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38687,
+      "url": "https://www.tcgplayer.com/product/38687/magic-premium-deck-series-fire-and-lightning-reverberate"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Spark Elemental",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample, haste\r\n\u003cbr\u003e\r\nAt the beginning of the end step, sacrifice Spark Elemental."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eVulshok shamans could never keep them alive for more than a few seconds, yet those few seconds seemed to be enough.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38688_200w.jpg",
+      "modifiedOn": "2024-06-24T13:17:19.047",
+      "name": "Spark Elemental",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38688,
+      "url": "https://www.tcgplayer.com/product/38688/magic-premium-deck-series-fire-and-lightning-spark-elemental"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sudden Impact",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "25"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Sudden Impact deals damage equal to the number of cards in target player's hand to that player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Some say it's better to think before you act. While those people are considering all the options, that's usually when I kill them.\"\r\n\u003cbr\u003e\r\n—Dravus, lava mage\u003c/em\u003e"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38689_200w.jpg",
+      "modifiedOn": "2024-06-14T19:41:34.14",
+      "name": "Sudden Impact",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38689,
+      "url": "https://www.tcgplayer.com/product/38689/magic-premium-deck-series-fire-and-lightning-sudden-impact"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Teetering Peaks",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "30"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Teetering Peaks enters the battlefield tapped.\r\n\u003cbr\u003e\r\nWhen Teetering Peaks enters the battlefield, target creature gets +2/+0 until end of turn.\r\n\u003cbr\u003e\r\nT: Add R to your mana pool."
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38690_200w.jpg",
+      "modifiedOn": "2024-06-14T19:49:21.7",
+      "name": "Teetering Peaks",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38690,
+      "url": "https://www.tcgplayer.com/product/38690/magic-premium-deck-series-fire-and-lightning-teetering-peaks"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thunderbolt",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "19"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose one — Thunderbolt deals 3 damage to target player; or Thunderbolt deals 4 damage to target creature with flying."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Most wizards consider a thunderbolt to be a proper retort.\"\r\n\u003cbr\u003e\r\n—Ertai, wizard adept\u003c/em\u003e"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38691_200w.jpg",
+      "modifiedOn": "2024-06-14T19:50:05.243",
+      "name": "Thunderbolt",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38691,
+      "url": "https://www.tcgplayer.com/product/38691/magic-premium-deck-series-fire-and-lightning-thunderbolt"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Vulshok Sorcerer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Shaman"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003e\r\nT: Vulshok Sorcerer deals 1 damage to target creature or player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eVulshok sorcerers train by leaping into electrified storm clouds. Dead or alive, they come back down with smiles on their faces.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/38692_200w.jpg",
+      "modifiedOn": "2024-06-14T19:50:36.367",
+      "name": "Vulshok Sorcerer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 38692,
+      "url": "https://www.tcgplayer.com/product/38692/magic-premium-deck-series-fire-and-lightning-vulshok-sorcerer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 31",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "31"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Mountain"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/77352_200w.jpg",
+      "modifiedOn": "2024-06-14T19:35:39.54",
+      "name": "Mountain (31)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 77352,
+      "url": "https://www.tcgplayer.com/product/77352/magic-premium-deck-series-fire-and-lightning-mountain-31"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 33",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "33"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Mountain"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/77353_200w.jpg",
+      "modifiedOn": "2024-06-14T19:37:04.647",
+      "name": "Mountain (33)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 77353,
+      "url": "https://www.tcgplayer.com/product/77353/magic-premium-deck-series-fire-and-lightning-mountain-33"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 34",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "34"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Mountain"
+        }
+      ],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/77354_200w.jpg",
+      "modifiedOn": "2026-01-14T18:19:18.427",
+      "name": "Mountain (34)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 77354,
+      "url": "https://www.tcgplayer.com/product/77354/magic-premium-deck-series-fire-and-lightning-mountain-34"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Premium Deck Series Fire and Lightning Deck",
+      "extendedData": [],
+      "groupId": 89,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/78736_200w.jpg",
+      "modifiedOn": "2022-12-23T16:18:15.667",
+      "name": "Premium Deck Series: Fire and Lightning Deck",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 78736,
+      "url": "https://www.tcgplayer.com/product/78736/magic-premium-deck-series-fire-and-lightning-premium-deck-series-fire-and-lightning-deck"
+    }
+  ],
+  "success": true,
+  "totalItems": 35
+}

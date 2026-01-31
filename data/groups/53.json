@@ -1,0 +1,52 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "abbreviation": "MUNGD",
+      "categoryId": 53,
+      "groupId": 2345,
+      "isSupplemental": false,
+      "modifiedOn": "2019-12-02T19:57:28.44",
+      "name": "Grave Danger",
+      "publishedOn": "2018-11-30T00:00:00"
+    },
+    {
+      "abbreviation": "MUNPP",
+      "categoryId": 53,
+      "groupId": 2321,
+      "isSupplemental": false,
+      "modifiedOn": "2018-08-31T14:26:13.817",
+      "name": "Phat Pack",
+      "publishedOn": "2018-09-19T00:00:00"
+    },
+    {
+      "abbreviation": "MUNFF",
+      "categoryId": 53,
+      "groupId": 2318,
+      "isSupplemental": false,
+      "modifiedOn": "2018-08-31T14:52:14.513",
+      "name": "Fashion Furious",
+      "publishedOn": "2018-09-05T00:00:00"
+    },
+    {
+      "abbreviation": "DOB",
+      "categoryId": 53,
+      "groupId": 2234,
+      "isSupplemental": false,
+      "modifiedOn": "2018-07-30T20:24:25.23",
+      "name": "The Desolation of Blarg",
+      "publishedOn": "2018-05-30T00:00:00"
+    },
+    {
+      "abbreviation": "MUNS1",
+      "categoryId": 53,
+      "groupId": 2169,
+      "isSupplemental": false,
+      "modifiedOn": "2018-09-19T19:10:45.783",
+      "name": "Season 1",
+      "publishedOn": "2018-02-28T00:00:00"
+    }
+  ],
+  "success": true,
+  "totalItems": 5
+}

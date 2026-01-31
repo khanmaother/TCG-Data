@@ -1,0 +1,808 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "abbreviation": "PEN",
+      "categoryId": 62,
+      "groupId": 24532,
+      "isSupplemental": false,
+      "modifiedOn": "2026-01-27T15:43:16.553",
+      "name": "Compendium of Rathe",
+      "publishedOn": "2026-02-13T00:00:00"
+    },
+    {
+      "abbreviation": "ANQ",
+      "categoryId": 62,
+      "groupId": 24533,
+      "isSupplemental": false,
+      "modifiedOn": "2026-01-27T15:33:04.353",
+      "name": "Compendium of Rathe - Antiquity Pack",
+      "publishedOn": "2026-02-13T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 24524,
+      "isSupplemental": false,
+      "modifiedOn": "2025-11-26T17:00:31.943",
+      "name": "Silver Age Chapter 1",
+      "publishedOn": "2026-02-13T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 24525,
+      "isSupplemental": false,
+      "modifiedOn": "2025-11-06T16:43:19.88",
+      "name": "Silver Age Chapter 2",
+      "publishedOn": "2026-02-13T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 24526,
+      "isSupplemental": false,
+      "modifiedOn": "2025-12-09T19:03:11.267",
+      "name": "Armory Deck: Arakni",
+      "publishedOn": "2025-12-12T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 24474,
+      "isSupplemental": false,
+      "modifiedOn": "2025-11-21T20:41:34.96",
+      "name": "Armory Deck: Rhinar",
+      "publishedOn": "2025-11-14T00:00:00"
+    },
+    {
+      "abbreviation": "GEM",
+      "categoryId": 62,
+      "groupId": 24446,
+      "isSupplemental": false,
+      "modifiedOn": "2025-12-30T14:20:55.713",
+      "name": "GEM Pack 3",
+      "publishedOn": "2025-09-30T00:00:00"
+    },
+    {
+      "abbreviation": "SUP",
+      "categoryId": 62,
+      "groupId": 24371,
+      "isSupplemental": false,
+      "modifiedOn": "2025-11-17T21:39:32.177",
+      "name": "Super Slam",
+      "publishedOn": "2025-09-26T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 24375,
+      "isSupplemental": false,
+      "modifiedOn": "2025-10-09T15:22:12.523",
+      "name": "Armory Deck: Pleiades",
+      "publishedOn": "2025-09-19T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 24415,
+      "isSupplemental": false,
+      "modifiedOn": "2025-08-07T16:17:38.5",
+      "name": "Smash Palace",
+      "publishedOn": "2025-08-08T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 24330,
+      "isSupplemental": false,
+      "modifiedOn": "2025-08-28T16:12:39.383",
+      "name": "Mastery Pack Guardian",
+      "publishedOn": "2025-08-06T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 24417,
+      "isSupplemental": false,
+      "modifiedOn": "2025-09-19T16:36:59.913",
+      "name": "Armory Deck: Legends Prism",
+      "publishedOn": "2025-08-01T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 24416,
+      "isSupplemental": false,
+      "modifiedOn": "2025-08-20T19:42:16.39",
+      "name": "Armory Deck: Legends Viserai",
+      "publishedOn": "2025-08-01T00:00:00"
+    },
+    {
+      "abbreviation": "BDD",
+      "categoryId": 62,
+      "groupId": 24391,
+      "isSupplemental": false,
+      "modifiedOn": "2025-08-06T15:37:57.66",
+      "name": "Welcome Deck Bravo",
+      "publishedOn": "2025-08-01T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 24315,
+      "isSupplemental": false,
+      "modifiedOn": "2025-07-15T12:44:48.153",
+      "name": "Armory Deck: Ira",
+      "publishedOn": "2025-07-11T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 24266,
+      "isSupplemental": false,
+      "modifiedOn": "2025-11-06T16:33:07.193",
+      "name": "High Seas",
+      "publishedOn": "2025-06-06T00:00:00"
+    },
+    {
+      "abbreviation": "GEM",
+      "categoryId": 62,
+      "groupId": 24334,
+      "isSupplemental": false,
+      "modifiedOn": "2025-09-16T17:22:33.367",
+      "name": "GEM Pack 2",
+      "publishedOn": "2025-06-02T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 24268,
+      "isSupplemental": false,
+      "modifiedOn": "2025-06-10T12:57:11.14",
+      "name": "Armory Deck: Gravy Bones",
+      "publishedOn": "2025-05-30T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 24253,
+      "isSupplemental": false,
+      "modifiedOn": "2025-04-30T13:11:06.31",
+      "name": "Armory Deck: Maxx Nitro",
+      "publishedOn": "2025-04-17T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 24162,
+      "isSupplemental": false,
+      "modifiedOn": "2025-12-18T17:02:51.563",
+      "name": "Armory Deck: Aurora",
+      "publishedOn": "2025-03-14T00:00:00"
+    },
+    {
+      "abbreviation": "GEM",
+      "categoryId": 62,
+      "groupId": 24176,
+      "isSupplemental": false,
+      "modifiedOn": "2025-06-04T15:12:30.123",
+      "name": "GEM Pack 1",
+      "publishedOn": "2025-02-01T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 24212,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-03T20:42:57.157",
+      "name": "Blitz Deck: The Hunted - Arakni",
+      "publishedOn": "2025-01-31T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 24214,
+      "isSupplemental": false,
+      "modifiedOn": "2025-11-25T20:49:07.553",
+      "name": "Blitz Deck: The Hunted - Arakni, Web of Deceit",
+      "publishedOn": "2025-01-31T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 24215,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-17T15:28:13.087",
+      "name": "Blitz Deck: The Hunted - Cindra",
+      "publishedOn": "2025-01-31T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 24213,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-17T15:30:05.683",
+      "name": "Blitz Deck: The Hunted - Fang",
+      "publishedOn": "2025-01-31T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23815,
+      "isSupplemental": false,
+      "modifiedOn": "2025-11-06T20:53:54.09",
+      "name": "The Hunted",
+      "publishedOn": "2025-01-31T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23771,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-17T21:40:26.12",
+      "name": "Armory Deck: Jarl Vetreidi",
+      "publishedOn": "2024-11-29T00:00:00"
+    },
+    {
+      "abbreviation": "ADD",
+      "categoryId": 62,
+      "groupId": 23738,
+      "isSupplemental": false,
+      "modifiedOn": "2025-04-25T19:01:06.117",
+      "name": "Armory Deck: Dash",
+      "publishedOn": "2024-10-18T00:00:00"
+    },
+    {
+      "abbreviation": "ARA",
+      "categoryId": 62,
+      "groupId": 23742,
+      "isSupplemental": false,
+      "modifiedOn": "2024-12-27T21:27:49.407",
+      "name": "Blitz Deck: Rosetta - Aurora",
+      "publishedOn": "2024-09-20T00:00:00"
+    },
+    {
+      "abbreviation": "FLR",
+      "categoryId": 62,
+      "groupId": 23741,
+      "isSupplemental": false,
+      "modifiedOn": "2025-04-03T16:43:19.39",
+      "name": "Blitz Deck: Rosetta - Florian",
+      "publishedOn": "2024-09-20T00:00:00"
+    },
+    {
+      "abbreviation": "OSC",
+      "categoryId": 62,
+      "groupId": 23744,
+      "isSupplemental": false,
+      "modifiedOn": "2024-12-27T21:27:33.42",
+      "name": "Blitz Deck: Rosetta - Oscilio",
+      "publishedOn": "2024-09-20T00:00:00"
+    },
+    {
+      "abbreviation": "VER",
+      "categoryId": 62,
+      "groupId": 23745,
+      "isSupplemental": false,
+      "modifiedOn": "2024-12-27T21:27:05.53",
+      "name": "Blitz Deck: Rosetta - Verdance",
+      "publishedOn": "2024-09-20T00:00:00"
+    },
+    {
+      "abbreviation": "ROS",
+      "categoryId": 62,
+      "groupId": 23540,
+      "isSupplemental": false,
+      "modifiedOn": "2025-09-16T20:52:03.707",
+      "name": "Rosetta",
+      "publishedOn": "2024-09-20T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23548,
+      "isSupplemental": false,
+      "modifiedOn": "2025-05-16T15:11:45.83",
+      "name": "1st Strike",
+      "publishedOn": "2024-08-23T00:00:00"
+    },
+    {
+      "abbreviation": "ADA",
+      "categoryId": 62,
+      "groupId": 23558,
+      "isSupplemental": false,
+      "modifiedOn": "2025-05-19T18:12:28.11",
+      "name": "Armory Deck: Azalea",
+      "publishedOn": "2024-08-02T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23534,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-17T20:39:54.06",
+      "name": "Armory Deck: Boltyn",
+      "publishedOn": "2024-07-12T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23477,
+      "isSupplemental": false,
+      "modifiedOn": "2025-12-22T22:11:44.083",
+      "name": "Blitz Deck: Part the Mistveil - Enigma",
+      "publishedOn": "2024-05-17T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23478,
+      "isSupplemental": false,
+      "modifiedOn": "2026-01-26T12:10:19.537",
+      "name": "Blitz Deck: Part the Mistveil - Nuu",
+      "publishedOn": "2024-05-17T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23479,
+      "isSupplemental": false,
+      "modifiedOn": "2025-10-31T19:12:19.113",
+      "name": "Blitz Deck: Part the Mistveil - Zen",
+      "publishedOn": "2024-05-17T00:00:00"
+    },
+    {
+      "abbreviation": "MST",
+      "categoryId": 62,
+      "groupId": 23476,
+      "isSupplemental": false,
+      "modifiedOn": "2025-11-25T15:13:43.587",
+      "name": "Part the Mistveil",
+      "publishedOn": "2024-05-17T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23506,
+      "isSupplemental": false,
+      "modifiedOn": "2025-10-20T20:29:42.477",
+      "name": "Armory Deck: Kayo",
+      "publishedOn": "2024-05-03T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23390,
+      "isSupplemental": false,
+      "modifiedOn": "2024-02-13T15:51:25.293",
+      "name": "Blitz Deck: Heavy Hitters - Betsy",
+      "publishedOn": "2024-02-02T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23384,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-03T20:13:27.703",
+      "name": "Blitz Deck: Heavy Hitters - Kassai",
+      "publishedOn": "2024-02-02T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23388,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-18T11:56:27.127",
+      "name": "Blitz Deck: Heavy Hitters - Kayo",
+      "publishedOn": "2024-02-02T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23391,
+      "isSupplemental": false,
+      "modifiedOn": "2024-02-01T14:51:41.617",
+      "name": "Blitz Deck: Heavy Hitters - Olympia",
+      "publishedOn": "2024-02-02T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23389,
+      "isSupplemental": false,
+      "modifiedOn": "2024-12-11T20:28:52.37",
+      "name": "Blitz Deck: Heavy Hitters - Rhinar",
+      "publishedOn": "2024-02-02T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23392,
+      "isSupplemental": false,
+      "modifiedOn": "2024-02-01T14:53:45.793",
+      "name": "Blitz Deck: Heavy Hitters - Victor",
+      "publishedOn": "2024-02-02T00:00:00"
+    },
+    {
+      "abbreviation": "HVY",
+      "categoryId": 62,
+      "groupId": 23354,
+      "isSupplemental": false,
+      "modifiedOn": "2025-10-13T11:22:37.453",
+      "name": "Heavy Hitters",
+      "publishedOn": "2024-02-02T00:00:00"
+    },
+    {
+      "abbreviation": "EVO",
+      "categoryId": 62,
+      "groupId": 23277,
+      "isSupplemental": false,
+      "modifiedOn": "2025-11-10T21:41:32.19",
+      "name": "Bright Lights",
+      "publishedOn": "2023-10-06T00:00:00"
+    },
+    {
+      "abbreviation": "TCC",
+      "categoryId": 62,
+      "groupId": 23295,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-17T21:47:43.813",
+      "name": "Round the Table: TCCxLSS",
+      "publishedOn": "2023-09-29T00:00:00"
+    },
+    {
+      "abbreviation": "DTD",
+      "categoryId": 62,
+      "groupId": 23173,
+      "isSupplemental": false,
+      "modifiedOn": "2025-09-16T20:40:55.45",
+      "name": "Dusk till Dawn",
+      "publishedOn": "2023-07-14T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23760,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-18T12:28:37.09",
+      "name": "Historic Pack 1 Blitz Deck: Bravo",
+      "publishedOn": "2023-04-07T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23761,
+      "isSupplemental": false,
+      "modifiedOn": "2024-10-09T19:46:28.467",
+      "name": "Historic Pack 1 Blitz Deck: Dash",
+      "publishedOn": "2023-04-07T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23762,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-03T19:31:09.16",
+      "name": "Historic Pack 1 Blitz Deck: Dorinthea",
+      "publishedOn": "2023-04-07T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23763,
+      "isSupplemental": false,
+      "modifiedOn": "2024-10-10T16:19:38.78",
+      "name": "Historic Pack 1 Blitz Deck: Kano",
+      "publishedOn": "2023-04-07T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23764,
+      "isSupplemental": false,
+      "modifiedOn": "2024-10-10T20:55:13.893",
+      "name": "Historic Pack 1 Blitz Deck: Rhinar",
+      "publishedOn": "2023-04-07T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 23765,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-03T22:52:50.06",
+      "name": "Historic Pack 1 Blitz Deck: Viserai",
+      "publishedOn": "2023-04-07T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 22898,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-03T20:53:21.423",
+      "name": "Blitz Deck: Outsiders - Arakni",
+      "publishedOn": "2023-03-24T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 22899,
+      "isSupplemental": false,
+      "modifiedOn": "2024-12-11T20:38:36.007",
+      "name": "Blitz Deck: Outsiders - Azalea",
+      "publishedOn": "2023-03-24T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 22900,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-17T17:27:16.017",
+      "name": "Blitz Deck: Outsiders - Benji",
+      "publishedOn": "2023-03-24T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 22901,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-17T17:27:40.297",
+      "name": "Blitz Deck: Outsiders - Katsu",
+      "publishedOn": "2023-03-24T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 22902,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-17T16:51:44.527",
+      "name": "Blitz Deck: Outsiders - Riptide",
+      "publishedOn": "2023-03-24T00:00:00"
+    },
+    {
+      "abbreviation": "",
+      "categoryId": 62,
+      "groupId": 22903,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-17T17:28:39.263",
+      "name": "Blitz Deck: Outsiders - Uzuri",
+      "publishedOn": "2023-03-24T00:00:00"
+    },
+    {
+      "abbreviation": "OUT",
+      "categoryId": 62,
+      "groupId": 22893,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-17T18:22:17.62",
+      "name": "Outsiders",
+      "publishedOn": "2023-03-24T00:00:00"
+    },
+    {
+      "abbreviation": "DYN",
+      "categoryId": 62,
+      "groupId": 17678,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-12T21:11:52.103",
+      "name": "Dynasty",
+      "publishedOn": "2022-11-11T00:00:00"
+    },
+    {
+      "abbreviation": "DRO",
+      "categoryId": 62,
+      "groupId": 3060,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-03T20:11:50.56",
+      "name": "Blitz Deck: Uprising - Dromai",
+      "publishedOn": "2022-07-01T00:00:00"
+    },
+    {
+      "abbreviation": "FAI",
+      "categoryId": 62,
+      "groupId": 3059,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-17T16:59:29.297",
+      "name": "Blitz Deck: Uprising - Fai",
+      "publishedOn": "2022-07-01T00:00:00"
+    },
+    {
+      "abbreviation": "UPR",
+      "categoryId": 62,
+      "groupId": 3056,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-17T16:53:34.89",
+      "name": "Uprising",
+      "publishedOn": "2022-07-01T00:00:00"
+    },
+    {
+      "abbreviation": "RVD/DVR",
+      "categoryId": 62,
+      "groupId": 3057,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-03T19:30:32.607",
+      "name": "Classic Battles: Rhinar vs Dorinthea",
+      "publishedOn": "2022-05-27T00:00:00"
+    },
+    {
+      "abbreviation": "1HP",
+      "categoryId": 62,
+      "groupId": 3053,
+      "isSupplemental": true,
+      "modifiedOn": "2025-11-26T14:19:33.753",
+      "name": "History Pack Vol.1",
+      "publishedOn": "2022-05-06T00:00:00"
+    },
+    {
+      "abbreviation": "EVR",
+      "categoryId": 62,
+      "groupId": 2947,
+      "isSupplemental": false,
+      "modifiedOn": "2025-05-02T20:04:51.573",
+      "name": "Everfest",
+      "publishedOn": "2022-02-04T00:00:00"
+    },
+    {
+      "abbreviation": "BRI",
+      "categoryId": 62,
+      "groupId": 3018,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-14T19:11:21.11",
+      "name": "Blitz Deck: Tales of Aria - Briar",
+      "publishedOn": "2021-09-24T00:00:00"
+    },
+    {
+      "abbreviation": "LXI",
+      "categoryId": 62,
+      "groupId": 3016,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-12T21:59:19.213",
+      "name": "Blitz Deck: Tales of Aria - Lexi",
+      "publishedOn": "2021-09-24T00:00:00"
+    },
+    {
+      "abbreviation": "OLD",
+      "categoryId": 62,
+      "groupId": 3017,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-12T21:46:21.647",
+      "name": "Blitz Deck: Tales of Aria - Oldhim",
+      "publishedOn": "2021-09-24T00:00:00"
+    },
+    {
+      "abbreviation": "ELE",
+      "categoryId": 62,
+      "groupId": 2885,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-12T15:28:55.41",
+      "name": "Tales of Aria",
+      "publishedOn": "2021-09-24T00:00:00"
+    },
+    {
+      "abbreviation": "BOL",
+      "categoryId": 62,
+      "groupId": 2819,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-10T18:04:03.083",
+      "name": "Blitz Deck: Monarch - Boltyn",
+      "publishedOn": "2021-05-14T00:00:00"
+    },
+    {
+      "abbreviation": "CHN",
+      "categoryId": 62,
+      "groupId": 2820,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-10T18:05:48.467",
+      "name": "Blitz Deck: Monarch - Chane",
+      "publishedOn": "2021-05-14T00:00:00"
+    },
+    {
+      "abbreviation": "LEV",
+      "categoryId": 62,
+      "groupId": 2821,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-11T11:44:46.22",
+      "name": "Blitz Deck: Monarch - Levia",
+      "publishedOn": "2021-05-14T00:00:00"
+    },
+    {
+      "abbreviation": "PSM",
+      "categoryId": 62,
+      "groupId": 2818,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-11T11:59:19.17",
+      "name": "Blitz Deck: Monarch - Prism",
+      "publishedOn": "2021-05-14T00:00:00"
+    },
+    {
+      "abbreviation": "MON",
+      "categoryId": 62,
+      "groupId": 2775,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-12T15:42:30.543",
+      "name": "Monarch",
+      "publishedOn": "2021-04-30T00:00:00"
+    },
+    {
+      "abbreviation": "CRU",
+      "categoryId": 62,
+      "groupId": 2724,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-07T19:45:27.467",
+      "name": "Crucible of War",
+      "publishedOn": "2020-08-28T00:00:00"
+    },
+    {
+      "abbreviation": "ARC",
+      "categoryId": 62,
+      "groupId": 2725,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-06T21:35:02.587",
+      "name": "Arcane Rising",
+      "publishedOn": "2020-03-27T00:00:00"
+    },
+    {
+      "abbreviation": "PR",
+      "categoryId": 62,
+      "groupId": 2732,
+      "isSupplemental": false,
+      "modifiedOn": "2026-01-12T20:39:32.933",
+      "name": "Flesh and Blood: Promo Cards",
+      "publishedOn": "2019-10-11T00:00:00"
+    },
+    {
+      "abbreviation": "BVO",
+      "categoryId": 62,
+      "groupId": 2728,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-06T16:09:10.4",
+      "name": "Hero Deck: Bravo",
+      "publishedOn": "2019-10-11T00:00:00"
+    },
+    {
+      "abbreviation": "TEA",
+      "categoryId": 62,
+      "groupId": 2731,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-05T19:49:57.583",
+      "name": "Hero Deck: Dorinthea",
+      "publishedOn": "2019-10-11T00:00:00"
+    },
+    {
+      "abbreviation": "KSU",
+      "categoryId": 62,
+      "groupId": 2730,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-20T18:14:42.703",
+      "name": "Hero Deck: Katsu",
+      "publishedOn": "2019-10-11T00:00:00"
+    },
+    {
+      "abbreviation": "RNR",
+      "categoryId": 62,
+      "groupId": 2729,
+      "isSupplemental": false,
+      "modifiedOn": "2025-06-23T13:38:31.493",
+      "name": "Hero Deck: Rhinar",
+      "publishedOn": "2019-10-11T00:00:00"
+    },
+    {
+      "abbreviation": "WTR",
+      "categoryId": 62,
+      "groupId": 2726,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-05T19:34:02.213",
+      "name": "Welcome to Rathe",
+      "publishedOn": "2019-10-11T00:00:00"
+    },
+    {
+      "abbreviation": "IRA",
+      "categoryId": 62,
+      "groupId": 2727,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-03T22:40:39.52",
+      "name": "Welcome Deck: Ira",
+      "publishedOn": "2019-08-31T00:00:00"
+    }
+  ],
+  "success": true,
+  "totalItems": 89
+}

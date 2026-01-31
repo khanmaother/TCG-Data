@@ -1,0 +1,3286 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Allied Strategies",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "63"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eDomain\u003c/em\u003e — Target player draws a card for each basic land type among lands he or she controls."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eEach commander looked at the others and wondered who would be first to break the alliance.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36845_200w.jpg",
+      "modifiedOn": "2023-09-07T15:35:15.813",
+      "name": "Allied Strategies",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36845,
+      "url": "https://www.tcgplayer.com/product/36845/magic-duel-decks-phyrexia-vs-the-coalition-allied-strategies"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Armadillo Cloak",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "58"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant creature\r\n\u003cbr\u003e\r\nEnchanted creature gets +2/+2 and has trample.\r\n\u003cbr\u003e\r\nWhenever enchanted creature deals damage, you gain that much life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Don't laugh. It works.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36846_200w.jpg",
+      "modifiedOn": "2023-09-07T15:38:45.787",
+      "name": "Armadillo Cloak",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36846,
+      "url": "https://www.tcgplayer.com/product/36846/magic-duel-decks-phyrexia-vs-the-coalition-armadillo-cloak"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bone Shredder",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Minion"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nEcho 2B \u003cem\u003e(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nWhen Bone Shredder enters the battlefield, destroy target nonartifact, nonblack creature."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36847_200w.jpg",
+      "modifiedOn": "2023-09-07T16:03:24.787",
+      "name": "Bone Shredder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36847,
+      "url": "https://www.tcgplayer.com/product/36847/magic-duel-decks-phyrexia-vs-the-coalition-bone-shredder"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Carrion Feeder",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Carrion Feeder can't block.\r\n\u003cbr\u003e\r\nSacrifice a creature: Put a +1/+1 counter on Carrion Feeder."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eStinking of rot, it leaps between gravestones in search of its next meal.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36848_200w.jpg",
+      "modifiedOn": "2023-09-07T16:05:52.913",
+      "name": "Carrion Feeder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36848,
+      "url": "https://www.tcgplayer.com/product/36848/magic-duel-decks-phyrexia-vs-the-coalition-carrion-feeder"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Charging Troll",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "45"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Troll"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance\r\n\u003cbr\u003e\r\nG: Regenerate Charging Troll."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThey stop for nothing, not even the end of a battle.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36849_200w.jpg",
+      "modifiedOn": "2023-09-07T16:06:25.957",
+      "name": "Charging Troll",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36849,
+      "url": "https://www.tcgplayer.com/product/36849/magic-duel-decks-phyrexia-vs-the-coalition-charging-troll"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Coalition Relic",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "54"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add one mana of any color to your mana pool.\r\n\u003cbr\u003e\r\nT: Put a charge counter on Coalition Relic.\r\n\u003cbr\u003e\r\nAt the beginning of your precombat main phase, remove all charge counters from Coalition Relic. Add one mana of any color to your mana pool for each counter removed this way."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36850_200w.jpg",
+      "modifiedOn": "2025-12-04T22:21:34.187",
+      "name": "Coalition Relic",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36850,
+      "url": "https://www.tcgplayer.com/product/36850/magic-duel-decks-phyrexia-vs-the-coalition-coalition-relic"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Darigaaz the Igniter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "47"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nWhenever Darigaaz, the Igniter deals combat damage to a player, you may pay 2R. If you do, choose a color, then that player reveals his or her hand and Darigaaz deals damage to the player equal to the number of cards of that color revealed this way."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36851_200w.jpg",
+      "modifiedOn": "2023-09-07T16:11:40.297",
+      "name": "Darigaaz, the Igniter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36851,
+      "url": "https://www.tcgplayer.com/product/36851/magic-duel-decks-phyrexia-vs-the-coalition-darigaaz-the-igniter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Darigaazs Charm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "59"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose one — Return target creature card from your graveyard to your hand; or Darigaaz's Charm deals 3 damage to target creature or player; or target creature gets +3/+3 until end of turn."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36852_200w.jpg",
+      "modifiedOn": "2023-09-07T16:17:50.417",
+      "name": "Darigaaz's Charm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36852,
+      "url": "https://www.tcgplayer.com/product/36852/magic-duel-decks-phyrexia-vs-the-coalition-darigaazs-charm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dark Ritual",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "18"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Add BBB to your mana pool."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"From void evolved Phyrexia. Great Yawgmoth, Father of Machines, saw its perfection. Thus the Grand Evolution began.\"\u003cbr\u003e—Phyrexian Scriptures"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36853_200w.jpg",
+      "modifiedOn": "2023-09-07T16:24:26.277",
+      "name": "Dark Ritual",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36853,
+      "url": "https://www.tcgplayer.com/product/36853/magic-duel-decks-phyrexia-vs-the-coalition-dark-ritual"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Elfhame Palace",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "64"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Elfhame Palace enters the battlefield tapped.\r\n\u003cbr\u003e\r\nT: Add G or W to your mana pool."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eLlanowar has seven elfhames, or kingdoms, each with its own ruler. Their palaces are objects of awe, wonder, and envy.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36854_200w.jpg",
+      "modifiedOn": "2023-09-07T16:25:26.687",
+      "name": "Elfhame Palace",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36854,
+      "url": "https://www.tcgplayer.com/product/36854/magic-duel-decks-phyrexia-vs-the-coalition-elfhame-palace"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Evasive Action",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "50"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eDomain\u003c/em\u003e — Counter target spell unless its controller pays 1 for each basic land type among lands you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eEffective use of terrain is a lesson good commanders learn quickly.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36855_200w.jpg",
+      "modifiedOn": "2023-09-07T16:32:28.687",
+      "name": "Evasive Action",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36855,
+      "url": "https://www.tcgplayer.com/product/36855/magic-duel-decks-phyrexia-vs-the-coalition-evasive-action"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Exotic Curse",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "56"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant creature\r\n\u003cbr\u003e\r\n\u003cem\u003eDomain\u003c/em\u003e — Enchanted creature gets -1/-1 for each basic land type among lands you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eFouler than a necromancer's kiss.\u003cbr\u003e—Jamuraan expression\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36856_200w.jpg",
+      "modifiedOn": "2023-09-07T16:33:40.297",
+      "name": "Exotic Curse",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36856,
+      "url": "https://www.tcgplayer.com/product/36856/magic-duel-decks-phyrexia-vs-the-coalition-exotic-curse"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fertile Ground",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "52"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant land\r\n\u003cbr\u003e\r\nWhenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool \u003cem\u003e(in addition to the mana the land produces)\u003c/em\u003e."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eAs Phyrexians descended, Multani paused to reflect on the beauty that might never be seen again.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36857_200w.jpg",
+      "modifiedOn": "2023-09-07T16:35:05.58",
+      "name": "Fertile Ground",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36857,
+      "url": "https://www.tcgplayer.com/product/36857/magic-duel-decks-phyrexia-vs-the-coalition-fertile-ground"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gerrard Capashen",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "46"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your upkeep, you gain 1 life for each card in target opponent's hand.\r\n\u003cbr\u003e\r\n3W: Tap target creature. Activate this ability only if Gerrard Capashen is attacking."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36859_200w.jpg",
+      "modifiedOn": "2023-09-07T16:36:24.85",
+      "name": "Gerrard Capashen",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36859,
+      "url": "https://www.tcgplayer.com/product/36859/magic-duel-decks-phyrexia-vs-the-coalition-gerrard-capashen"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gerrards Command",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "53"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Untap target creature. It gets +3/+3 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Unless you like the idea of becoming some goblin's lunch, get up and move!\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36860_200w.jpg",
+      "modifiedOn": "2023-09-07T16:37:05.813",
+      "name": "Gerrard's Command",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36860,
+      "url": "https://www.tcgplayer.com/product/36860/magic-duel-decks-phyrexia-vs-the-coalition-gerrards-command"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Harrow",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "57"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As an additional cost to cast Harrow, sacrifice a land.\r\n\u003cbr\u003e\r\nSearch your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eNo spot in nature is truly barren.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36861_200w.jpg",
+      "modifiedOn": "2025-11-11T02:41:18.493",
+      "name": "Harrow",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36861,
+      "url": "https://www.tcgplayer.com/product/36861/magic-duel-decks-phyrexia-vs-the-coalition-harrow"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hideous End",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "26"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target nonblack creature. Its controller loses 2 life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eDeath is a generous author, always willing to grant a stirring final chapter.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36862_200w.jpg",
+      "modifiedOn": "2025-12-04T22:24:18.097",
+      "name": "Hideous End",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36862,
+      "url": "https://www.tcgplayer.com/product/36862/magic-duel-decks-phyrexia-vs-the-coalition-hideous-end"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hornet Cannon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "28"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "3, T: Put a 1/1 colorless Insect artifact creature token with flying and haste named Hornet onto the battlefield. Destroy it at the beginning of the next end step."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36864_200w.jpg",
+      "modifiedOn": "2024-07-26T17:48:41.04",
+      "name": "Hornet Cannon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36864,
+      "url": "https://www.tcgplayer.com/product/36864/magic-duel-decks-phyrexia-vs-the-coalition-hornet-cannon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 68",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "68"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Island"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36865_200w.jpg",
+      "modifiedOn": "2023-09-07T16:47:08.513",
+      "name": "Island (68)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36865,
+      "url": "https://www.tcgplayer.com/product/36865/magic-duel-decks-phyrexia-vs-the-coalition-island-68"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lightning Greaves",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "19"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature has shroud and haste.\r\n\u003cbr\u003e\r\nEquip 0"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eAfter lightning struck the cliffs, the ore became iron, the iron became steel, and the steel became greaves. The lightning never left.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36866_200w.jpg",
+      "modifiedOn": "2023-09-07T16:48:29.43",
+      "name": "Lightning Greaves",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36866,
+      "url": "https://www.tcgplayer.com/product/36866/magic-duel-decks-phyrexia-vs-the-coalition-lightning-greaves"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Living Death",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "31"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each player exiles all creature cards from his or her graveyard, then sacrifices all creatures he or she controls, then puts all cards he or she exiled this way onto the battlefield."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36867_200w.jpg",
+      "modifiedOn": "2023-09-07T16:48:51.183",
+      "name": "Living Death",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36867,
+      "url": "https://www.tcgplayer.com/product/36867/magic-duel-decks-phyrexia-vs-the-coalition-living-death"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 69",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "69"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Mountain"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36869_200w.jpg",
+      "modifiedOn": "2023-09-07T16:50:07.177",
+      "name": "Mountain (69)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36869,
+      "url": "https://www.tcgplayer.com/product/36869/magic-duel-decks-phyrexia-vs-the-coalition-mountain-69"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Narrow Escape",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "55"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Return target permanent you control to its owner's hand. You gain 4 life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eHe could find no strength left to budge, no power left to fight, no will left to live. Luckily, they could find him.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36870_200w.jpg",
+      "modifiedOn": "2023-09-07T16:51:23.39",
+      "name": "Narrow Escape",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36870,
+      "url": "https://www.tcgplayer.com/product/36870/magic-duel-decks-phyrexia-vs-the-coalition-narrow-escape"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nomadic Elf",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "38"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elf Nomad"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1G: Add one mana of any color to your mana pool."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I've journeyed across Dominaria. Phyrexians are everywhere. Plague is everywhere. There's no place left to hide.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36871_200w.jpg",
+      "modifiedOn": "2025-11-11T02:42:06.377",
+      "name": "Nomadic Elf",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36871,
+      "url": "https://www.tcgplayer.com/product/36871/magic-duel-decks-phyrexia-vs-the-coalition-nomadic-elf"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Order of Yawgmoth",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Fear \u003cem\u003e(This creature can't be blocked except by artifact creatures and/or black creatures.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nWhenever Order of Yawgmoth deals damage to a player, that player discards a card."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36872_200w.jpg",
+      "modifiedOn": "2023-09-07T16:54:20.493",
+      "name": "Order of Yawgmoth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36872,
+      "url": "https://www.tcgplayer.com/product/36872/magic-duel-decks-phyrexia-vs-the-coalition-order-of-yawgmoth"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phyrexian Arena",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "27"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your upkeep, you draw a card and you lose 1 life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eAn audience of one with the malice of thousands.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36873_200w.jpg",
+      "modifiedOn": "2025-11-11T02:43:01.053",
+      "name": "Phyrexian Arena",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36873,
+      "url": "https://www.tcgplayer.com/product/36873/magic-duel-decks-phyrexia-vs-the-coalition-phyrexian-arena"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phyrexian Battleflies",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Insect"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nB: Phyrexian Battleflies gets +1/+0 until end of turn. Activate this ability no more than twice each turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eAfter encountering them, Squee finally lost his appetite for bugs.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36874_200w.jpg",
+      "modifiedOn": "2023-09-07T16:56:55.773",
+      "name": "Phyrexian Battleflies",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36874,
+      "url": "https://www.tcgplayer.com/product/36874/magic-duel-decks-phyrexia-vs-the-coalition-phyrexian-battleflies"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phyrexian Broodlings",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Minion"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1, Sacrifice a creature: Put a +1/+1 counter on Phyrexian Broodlings."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eWith limited resources and near unlimited time, Kerrick used parts from one beast to build anotther.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36875_200w.jpg",
+      "modifiedOn": "2023-09-07T16:57:34.573",
+      "name": "Phyrexian Broodlings",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36875,
+      "url": "https://www.tcgplayer.com/product/36875/magic-duel-decks-phyrexia-vs-the-coalition-phyrexian-broodlings"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phyrexian Colossus",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Golem"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "8"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "8"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Phyrexian Colossus doesn't untap during your untap step.\r\n\u003cbr\u003e\r\nPay 8 life: Untap Phyrexian Colossus.\r\n\u003cbr\u003e\r\nPhyrexian Colossus can't be blocked except by three or more creatures."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36876_200w.jpg",
+      "modifiedOn": "2024-07-26T17:48:41.15",
+      "name": "Phyrexian Colossus",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36876,
+      "url": "https://www.tcgplayer.com/product/36876/magic-duel-decks-phyrexia-vs-the-coalition-phyrexian-colossus"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phyrexian Debaser",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Carrier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nT, Sacrifice Phyrexian Debaser: Target creature gets -2/-2 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The second stage of the illness: high fever and severe infectiousness.\"\u003cbr\u003e—Phyrexian progress notes\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36877_200w.jpg",
+      "modifiedOn": "2023-09-07T17:00:20.517",
+      "name": "Phyrexian Debaser",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36877,
+      "url": "https://www.tcgplayer.com/product/36877/magic-duel-decks-phyrexia-vs-the-coalition-phyrexian-debaser"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phyrexian Defiler",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Carrier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T, Sacrifice Phyrexian Defiler: Target creature gets -3/-3 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The third stage of the illness: muscle aches and persistent cough.\"\u003cbr\u003e—Phyrexian progress notes\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36878_200w.jpg",
+      "modifiedOn": "2023-09-07T17:01:06.007",
+      "name": "Phyrexian Defiler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36878,
+      "url": "https://www.tcgplayer.com/product/36878/magic-duel-decks-phyrexia-vs-the-coalition-phyrexian-defiler"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phyrexian Denouncer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Carrier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T, Sacrifice Phyrexian Denouncer: Target creature gets -1/-1 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The first stage of the illness: rash and nausea.\"\u003cbr\u003e—Phyrexian progress notes\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36879_200w.jpg",
+      "modifiedOn": "2025-12-04T22:31:55.343",
+      "name": "Phyrexian Denouncer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36879,
+      "url": "https://www.tcgplayer.com/product/36879/magic-duel-decks-phyrexia-vs-the-coalition-phyrexian-denouncer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phyrexian Gargantua",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Horror"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Phyrexian Gargantua enters the battlefield, you draw two cards and you lose 2 life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eOther Phyrexians have nightmares about the gargantua.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36880_200w.jpg",
+      "modifiedOn": "2023-09-07T17:03:25.26",
+      "name": "Phyrexian Gargantua",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36880,
+      "url": "https://www.tcgplayer.com/product/36880/magic-duel-decks-phyrexia-vs-the-coalition-phyrexian-gargantua"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phyrexian Ghoul",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Sacrifice a creature: Phyrexian Ghoul gets +2/+2 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003ePhyrexia wastes nothing. Its food chain is a spiraling cycle.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36881_200w.jpg",
+      "modifiedOn": "2023-09-07T17:03:58.313",
+      "name": "Phyrexian Ghoul",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36881,
+      "url": "https://www.tcgplayer.com/product/36881/magic-duel-decks-phyrexia-vs-the-coalition-phyrexian-ghoul"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phyrexian Hulk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Golem"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIt doesn't think. It doesn't feel.\u003cbr\u003eIt doesn't laugh or cry.\u003cbr\u003eAll it does from dusk till dawn\u003cbr\u003eIs make the soldiers die.\u003cbr\u003e—Onean children's rhyme\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36882_200w.jpg",
+      "modifiedOn": "2023-09-07T17:04:53.437",
+      "name": "Phyrexian Hulk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36882,
+      "url": "https://www.tcgplayer.com/product/36882/magic-duel-decks-phyrexia-vs-the-coalition-phyrexian-hulk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phyrexian Negator",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Horror"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\r\n\u003cbr\u003e\r\nWhenever Phyrexian Negator is dealt damage, sacrifice that many permanents."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThey exist to cease.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36883_200w.jpg",
+      "modifiedOn": "2023-09-07T17:05:20.967",
+      "name": "Phyrexian Negator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36883,
+      "url": "https://www.tcgplayer.com/product/36883/magic-duel-decks-phyrexia-vs-the-coalition-phyrexian-negator"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phyrexian Plaguelord",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Carrier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T, Sacrifice Phyrexian Plaguelord: Target creature gets -4/-4 until end of turn.\r\n\u003cbr\u003e\r\nSacrifice a creature: Target creature gets -1/-1 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The final stages of the illness: delirium, convulsions, and death.\"\u003cbr\u003e—Phyrexian progress notes\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36884_200w.jpg",
+      "modifiedOn": "2023-09-07T17:07:33.233",
+      "name": "Phyrexian Plaguelord",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36884,
+      "url": "https://www.tcgplayer.com/product/36884/magic-duel-decks-phyrexia-vs-the-coalition-phyrexian-plaguelord"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phyrexian Processor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "29"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As Phyrexian Processor enters the battlefield, pay any amount of life.\r\n\u003cbr\u003e\r\n4, T: Put an X/X black Minion creature token onto the battlefield, where X is the life paid as Phyrexian Processor entered the battlefield."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36885_200w.jpg",
+      "modifiedOn": "2023-09-07T17:08:00.963",
+      "name": "Phyrexian Processor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36885,
+      "url": "https://www.tcgplayer.com/product/36885/magic-duel-decks-phyrexia-vs-the-coalition-phyrexian-processor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phyrexian Totem",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "20"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add B to your mana pool.\r\n\u003cbr\u003e\r\n2B: Phyrexian Totem becomes a 5/5 black Horror artifact creature with trample until end of turn.\r\n\u003cbr\u003e\r\nWhenever Phyrexian Totem is dealt damage, if it's a creature, sacrifice that many permanents."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36886_200w.jpg",
+      "modifiedOn": "2023-09-07T17:09:07.733",
+      "name": "Phyrexian Totem",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36886,
+      "url": "https://www.tcgplayer.com/product/36886/magic-duel-decks-phyrexia-vs-the-coalition-phyrexian-totem"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phyrexian Vault",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "21"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2, T, Sacrifice a creature: Draw a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The secrets of Phyrexia are expensive. You will pay in brass and bone, steel and sinew.\"\u003cbr\u003e—Kaervek\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36887_200w.jpg",
+      "modifiedOn": "2023-09-07T17:09:46.063",
+      "name": "Phyrexian Vault",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36887,
+      "url": "https://www.tcgplayer.com/product/36887/magic-duel-decks-phyrexia-vs-the-coalition-phyrexian-vault"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plains 67",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "67"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Plains"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36888_200w.jpg",
+      "modifiedOn": "2023-09-07T17:17:12.557",
+      "name": "Plains (67)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36888,
+      "url": "https://www.tcgplayer.com/product/36888/magic-duel-decks-phyrexia-vs-the-coalition-plains-67"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Power Armor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "62"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eDomain\u003c/em\u003e — 3, T: Target creature gets +1/+1 until end of turn for each basic land type among lands you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Great peril demands formidable weaponry.\"\u003cbr\u003e—Urza\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36889_200w.jpg",
+      "modifiedOn": "2023-09-07T17:17:59.067",
+      "name": "Power Armor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36889,
+      "url": "https://www.tcgplayer.com/product/36889/magic-duel-decks-phyrexia-vs-the-coalition-power-armor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Priest of Gix",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Cleric Minion"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Priest of Gix enters the battlefield, add BBB to your mana pool."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Gix doesn't want a people to rule but puppets to entertain his madness.\"\u003cbr\u003e—Xantcha, Phyrexian outcast\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36890_200w.jpg",
+      "modifiedOn": "2023-09-17T05:00:26.313",
+      "name": "Priest of Gix",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36890,
+      "url": "https://www.tcgplayer.com/product/36890/magic-duel-decks-phyrexia-vs-the-coalition-priest-of-gix"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Puppet Strings",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "22"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2, T: You may tap or untap target creature."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Have no illusions,\" Volrath warned Greven, \"about free will.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36891_200w.jpg",
+      "modifiedOn": "2023-09-07T17:20:40.67",
+      "name": "Puppet Strings",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36891,
+      "url": "https://www.tcgplayer.com/product/36891/magic-duel-decks-phyrexia-vs-the-coalition-puppet-strings"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Quirion Elves",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "39"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elf Druid"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As Quirion Elves enters the battlefield, choose a color.\r\n\u003cbr\u003e\r\nT: Add G to your mana pool.\r\n\u003cbr\u003e\r\nT: Add one mana of the chosen color to your mana pool."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36892_200w.jpg",
+      "modifiedOn": "2023-09-07T17:21:35.577",
+      "name": "Quirion Elves",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36892,
+      "url": "https://www.tcgplayer.com/product/36892/magic-duel-decks-phyrexia-vs-the-coalition-quirion-elves"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rith the Awakener",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "48"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nWhenever Rith, the Awakener deals combat damage to a player, you may pay 2G. If you do, choose a color, then put a 1/1 green Saproling creature token onto the battlefield for each permanent of that color."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36893_200w.jpg",
+      "modifiedOn": "2023-09-07T17:22:19.607",
+      "name": "Rith, the Awakener",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36893,
+      "url": "https://www.tcgplayer.com/product/36893/magic-duel-decks-phyrexia-vs-the-coalition-rith-the-awakener"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Riths Charm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "60"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose one — Destroy target nonbasic land; or put three 1/1 green Saproling creature tokens onto the battlefield; or prevent all damage a source of your choice would deal this turn."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36894_200w.jpg",
+      "modifiedOn": "2023-09-07T17:22:51.357",
+      "name": "Rith's Charm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36894,
+      "url": "https://www.tcgplayer.com/product/36894/magic-duel-decks-phyrexia-vs-the-coalition-riths-charm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sanguine Guard",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike\r\n\u003cbr\u003e\r\n1B: Regenerate Sanguine Guard."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Father of Machines! Your filigree gaze carves us, and the scars dance upon our grateful flesh.\"\u003c/em\u003e\u003cbr\u003e—Phyrexian Scriptures"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36895_200w.jpg",
+      "modifiedOn": "2023-09-07T17:23:39.137",
+      "name": "Sanguine Guard",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36895,
+      "url": "https://www.tcgplayer.com/product/36895/magic-duel-decks-phyrexia-vs-the-coalition-sanguine-guard"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shivan Oasis",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "65"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Shivan Oasis enters the battlefield tapped.\r\n\u003cbr\u003e\r\nT: Add R or G to your mana pool."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eOnly the hardiest explorers survive to eat the fruit.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36897_200w.jpg",
+      "modifiedOn": "2023-09-07T17:26:12.403",
+      "name": "Shivan Oasis",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36897,
+      "url": "https://www.tcgplayer.com/product/36897/magic-duel-decks-phyrexia-vs-the-coalition-shivan-oasis"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Slay",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "25"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target green creature. It can't be regenerated.\r\n\u003cbr\u003e\r\nDraw a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe elves had the edge in guile, skill, and valor. But in the end, only sheer numbers mattered.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36898_200w.jpg",
+      "modifiedOn": "2023-09-07T17:27:37.457",
+      "name": "Slay",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36898,
+      "url": "https://www.tcgplayer.com/product/36898/magic-duel-decks-phyrexia-vs-the-coalition-slay"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sunscape Battlemage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "40"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Kicker 1G and/or 2U \u003cem\u003e(You may pay an additional 1G and/or 2U as you cast this spell.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nWhen Sunscape Battlemage enters the battlefield, if it was kicked with its 1G kicker, destroy target creature with flying.\r\n\u003cbr\u003e\r\nWhen Sunscape Battlemage enters the battlefield, if it was kicked with its 2U kicker, draw two cards."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36899_200w.jpg",
+      "modifiedOn": "2023-09-07T17:28:32.853",
+      "name": "Sunscape Battlemage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36899,
+      "url": "https://www.tcgplayer.com/product/36899/magic-duel-decks-phyrexia-vs-the-coalition-sunscape-battlemage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tendrils of Corruption",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "30"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eDarkness doesn't always send its minions to do its dirty work.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36901_200w.jpg",
+      "modifiedOn": "2024-10-20T14:25:51.617",
+      "name": "Tendrils of Corruption",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36901,
+      "url": "https://www.tcgplayer.com/product/36901/magic-duel-decks-phyrexia-vs-the-coalition-tendrils-of-corruption"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Terramorphic Expanse",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "66"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36902_200w.jpg",
+      "modifiedOn": "2023-09-07T18:04:45.52",
+      "name": "Terramorphic Expanse",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36902,
+      "url": "https://www.tcgplayer.com/product/36902/magic-duel-decks-phyrexia-vs-the-coalition-terramorphic-expanse"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thornscape Apprentice",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "37"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "W, T: Tap target creature.\r\n\u003cbr\u003e\r\nR, T: Target creature gains first strike until end of turn."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36903_200w.jpg",
+      "modifiedOn": "2024-04-29T12:33:08.17",
+      "name": "Thornscape Apprentice",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36903,
+      "url": "https://www.tcgplayer.com/product/36903/magic-duel-decks-phyrexia-vs-the-coalition-thornscape-apprentice"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thornscape Battlemage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "42"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elf Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Kicker R and/or W \u003cem\u003e(You may pay an additional R and/or W as you cast this spell.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nWhen Thornscape Battlemage enters the battlefield, if it was kicked with its R kicker, it deals 2 damage to target creature or player.\r\n\u003cbr\u003e\r\nWhen Thornscape Battlemage enters the battlefield, if it was kicked with its W kicker, destroy target artifact."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36904_200w.jpg",
+      "modifiedOn": "2023-09-07T18:40:33.133",
+      "name": "Thornscape Battlemage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36904,
+      "url": "https://www.tcgplayer.com/product/36904/magic-duel-decks-phyrexia-vs-the-coalition-thornscape-battlemage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thunderscape Battlemage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "41"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Kicker 1B and/or G \u003cem\u003e(You may pay an additional 1B and/or G as you cast this spell.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nWhen Thunderscape Battlemage enters the battlefield, if it was kicked with its 1B kicker, target player discards two cards.\r\n\u003cbr\u003e\r\nWhen Thunderscape Battlemage enters the battlefield, if it was kicked with its G kicker, destroy target enchantment."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36905_200w.jpg",
+      "modifiedOn": "2023-09-07T18:43:36.76",
+      "name": "Thunderscape Battlemage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36905,
+      "url": "https://www.tcgplayer.com/product/36905/magic-duel-decks-phyrexia-vs-the-coalition-thunderscape-battlemage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Treva the Renewer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "49"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nWhenever Treva, the Renewer deals combat damage to a player, you may pay 2W. If you do, choose a color, then you gain 1 life for each permanent of that color."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36906_200w.jpg",
+      "modifiedOn": "2023-09-07T18:44:46.453",
+      "name": "Treva, the Renewer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36906,
+      "url": "https://www.tcgplayer.com/product/36906/magic-duel-decks-phyrexia-vs-the-coalition-treva-the-renewer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Trevas Charm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "61"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose one — Destroy target enchantment; or exile target attacking creature; or draw a card, then discard a card."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36907_200w.jpg",
+      "modifiedOn": "2023-09-07T18:45:04.54",
+      "name": "Treva's Charm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36907,
+      "url": "https://www.tcgplayer.com/product/36907/magic-duel-decks-phyrexia-vs-the-coalition-trevas-charm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tribal Flames",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "51"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eDomain\u003c/em\u003e — Tribal Flames deals X damage to target creature or player, where X is the number of basic land types among lands you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Fire is the universal language.\"\u003cbr\u003e—Jhoira, master artificer\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36908_200w.jpg",
+      "modifiedOn": "2023-09-07T18:45:52.487",
+      "name": "Tribal Flames",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36908,
+      "url": "https://www.tcgplayer.com/product/36908/magic-duel-decks-phyrexia-vs-the-coalition-tribal-flames"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Urzas Rage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "36"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Kicker 8R \u003cem\u003e(You may pay an additional 8R as you cast this spell.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nUrza's Rage can't be countered by spells or abilities.\r\n\u003cbr\u003e\r\nUrza's Rage deals 3 damage to target creature or player. If Urza's Rage was kicked, instead it deals 10 damage to that creature or player and the damage can't be prevented."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36909_200w.jpg",
+      "modifiedOn": "2026-01-14T17:16:19.983",
+      "name": "Urza's Rage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36909,
+      "url": "https://www.tcgplayer.com/product/36909/magic-duel-decks-phyrexia-vs-the-coalition-urzas-rage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Verduran Emissary",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "43"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Kicker 1R \u003cem\u003e(You may pay an additional 1R as you cast this spell.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nWhen Verduran Emissary enters the battlefield, if it was kicked, destroy target artifact. It can't be regenerated."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36910_200w.jpg",
+      "modifiedOn": "2025-11-11T02:45:09.947",
+      "name": "Verduran Emissary",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36910,
+      "url": "https://www.tcgplayer.com/product/36910/magic-duel-decks-phyrexia-vs-the-coalition-verduran-emissary"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Voltaic Key",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "17"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1, T: Untap target artifact."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe key did not work on a single lock, yet it opened many doors.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36911_200w.jpg",
+      "modifiedOn": "2023-09-07T18:49:09.03",
+      "name": "Voltaic Key",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36911,
+      "url": "https://www.tcgplayer.com/product/36911/magic-duel-decks-phyrexia-vs-the-coalition-voltaic-key"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Whispersilk Cloak",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "23"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature is unblockable and has shroud.\r\n\u003cbr\u003e\r\nEquip 2"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eSuch cloaks are in high demand both by assassins and by those who fear them.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36912_200w.jpg",
+      "modifiedOn": "2025-11-11T19:12:03.757",
+      "name": "Whispersilk Cloak",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36912,
+      "url": "https://www.tcgplayer.com/product/36912/magic-duel-decks-phyrexia-vs-the-coalition-whispersilk-cloak"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Worn Powerstone",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "24"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Worn Powerstone enters the battlefield tapped.\r\n\u003cbr\u003e\r\nT: Add 2 to your mana pool."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eEven a fragment of a powerstone contains within it not just energy, but space—vast dimensions trapped in fragile crystal.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36913_200w.jpg",
+      "modifiedOn": "2023-09-07T18:55:35.007",
+      "name": "Worn Powerstone",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36913,
+      "url": "https://www.tcgplayer.com/product/36913/magic-duel-decks-phyrexia-vs-the-coalition-worn-powerstone"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Yavimaya Elder",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "44"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Druid"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Yavimaya Elder is put into a graveyard from the battlefield, you may search your library for up to two basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.\r\n\u003cbr\u003e\r\n2, Sacrifice Yavimaya Elder: Draw a card."
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36914_200w.jpg",
+      "modifiedOn": "2025-11-12T08:01:11.183",
+      "name": "Yavimaya Elder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36914,
+      "url": "https://www.tcgplayer.com/product/36914/magic-duel-decks-phyrexia-vs-the-coalition-yavimaya-elder"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Duel Decks Phyrexia vs the Coalition Box Set",
+      "extendedData": [],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/78335_200w.jpg",
+      "modifiedOn": "2019-11-20T13:59:26.943",
+      "name": "Duel Decks: Phyrexia vs. the Coalition - Box Set",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 78335,
+      "url": "https://www.tcgplayer.com/product/78335/magic-duel-decks-phyrexia-vs-the-coalition-duel-decks-phyrexia-vs-the-coalition-box-set"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hornet Token",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "T"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "T1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Insect"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, haste"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/78564_200w.jpg",
+      "modifiedOn": "2023-09-07T16:43:34.657",
+      "name": "Hornet Token",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 78564,
+      "url": "https://www.tcgplayer.com/product/78564/magic-duel-decks-phyrexia-vs-the-coalition-hornet-token"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Minion Token",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "T"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "T2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Minion"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "*"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "*"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/78565_200w.jpg",
+      "modifiedOn": "2023-09-07T16:49:36.91",
+      "name": "Minion Token",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 78565,
+      "url": "https://www.tcgplayer.com/product/78565/magic-duel-decks-phyrexia-vs-the-coalition-minion-token"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Saproling Token",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "T"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "T3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Saproling"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/78566_200w.jpg",
+      "modifiedOn": "2023-09-07T17:25:34.74",
+      "name": "Saproling Token",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 78566,
+      "url": "https://www.tcgplayer.com/product/78566/magic-duel-decks-phyrexia-vs-the-coalition-saproling-token"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 32",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "32"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Swamp"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/80243_200w.jpg",
+      "modifiedOn": "2025-12-04T22:35:26.743",
+      "name": "Swamp (32)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 80243,
+      "url": "https://www.tcgplayer.com/product/80243/magic-duel-decks-phyrexia-vs-the-coalition-swamp-32"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 33",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "33"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Swamp"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/80244_200w.jpg",
+      "modifiedOn": "2023-09-07T18:02:22.387",
+      "name": "Swamp (33)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 80244,
+      "url": "https://www.tcgplayer.com/product/80244/magic-duel-decks-phyrexia-vs-the-coalition-swamp-33"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 34",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "34"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Swamp"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/80245_200w.jpg",
+      "modifiedOn": "2023-09-07T18:02:37.427",
+      "name": "Swamp (34)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 80245,
+      "url": "https://www.tcgplayer.com/product/80245/magic-duel-decks-phyrexia-vs-the-coalition-swamp-34"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 35",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "35"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Swamp"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/80246_200w.jpg",
+      "modifiedOn": "2023-09-07T18:02:53.597",
+      "name": "Swamp (35)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 80246,
+      "url": "https://www.tcgplayer.com/product/80246/magic-duel-decks-phyrexia-vs-the-coalition-swamp-35"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 70",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "70"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Forest"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/80250_200w.jpg",
+      "modifiedOn": "2023-09-07T16:35:27.88",
+      "name": "Forest (70)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 80250,
+      "url": "https://www.tcgplayer.com/product/80250/magic-duel-decks-phyrexia-vs-the-coalition-forest-70"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 71",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "71"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Forest"
+        }
+      ],
+      "groupId": 37,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/80251_200w.jpg",
+      "modifiedOn": "2023-09-07T16:35:45.117",
+      "name": "Forest (71)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 80251,
+      "url": "https://www.tcgplayer.com/product/80251/magic-duel-decks-phyrexia-vs-the-coalition-forest-71"
+    }
+  ],
+  "success": true,
+  "totalItems": 75
+}

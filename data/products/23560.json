@@ -1,0 +1,3422 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Hop to It",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "381"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Create three 1/1 white Rabbit creature tokens."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/558561_200w.jpg",
+      "modifiedOn": "2024-12-31T19:07:57.633",
+      "name": "Hop to It",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 558561,
+      "url": "https://www.tcgplayer.com/product/558561/magic-promo-pack-bloomburrow-hop-to-it"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shoreline Looter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "382"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Rat Rogue"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Shoreline Looter can't be blocked.\r\n\u003cbr\u003e\u003cem\u003eThreshold\u003c/em\u003e — Whenever Shoreline Looter deals combat damage to a player, draw a card. The discard a card unless seven or more cards are in your graveyard."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/558562_200w.jpg",
+      "modifiedOn": "2024-12-31T19:09:35.16",
+      "name": "Shoreline Looter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 558562,
+      "url": "https://www.tcgplayer.com/product/558562/magic-promo-pack-bloomburrow-shoreline-looter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fell",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "383"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target creature."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/558565_200w.jpg",
+      "modifiedOn": "2024-12-31T19:05:39.543",
+      "name": "Fell",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 558565,
+      "url": "https://www.tcgplayer.com/product/558565/magic-promo-pack-bloomburrow-fell"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wear Down",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "384"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Gift a card\r\n\u003cbr\u003eDestroy target artifact or enchantment. If the gift was promised, instead destroy two target artifacts and/or enchantments."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/558567_200w.jpg",
+      "modifiedOn": "2024-12-31T19:08:49.913",
+      "name": "Wear Down",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 558567,
+      "url": "https://www.tcgplayer.com/product/558567/magic-promo-pack-bloomburrow-wear-down"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Stormcatch Mentor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "385"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Otter Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste, Prowess\r\n\u003cbr\u003eInstant and sorcery spells you cast cost 1 less to cast."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/558571_200w.jpg",
+      "modifiedOn": "2024-08-07T13:48:14.11",
+      "name": "Stormcatch Mentor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 558571,
+      "url": "https://www.tcgplayer.com/product/558571/magic-promo-pack-bloomburrow-stormcatch-mentor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Beza the Bounding Spring",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elemental Elk"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Beza, the Bounding Spring enters, create a Treasure token if an opponent controls more lands than you. You gain 4 life if an opponent has more life than you. Create two 1/1 blue Fish creature tokens if an opponent controls more creatures than you. Draw a card if an opponent has more cards in hand than you."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560930_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:36.143",
+      "name": "Beza, the Bounding Spring",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560930,
+      "url": "https://www.tcgplayer.com/product/560930/magic-promo-pack-bloomburrow-beza-the-bounding-spring"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Caretakers Talent",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Class"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003e(Gain the next level as a sorcery to add its ability)\u003c/em\u003e\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nWhenever one or more tokens you control enter, draw a card. This ability triggers only once each turn.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nW: Level 2\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nWhen this Class becomes level 2, create a token that's a copy of target token you control.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\n3W: Level 3 \u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nCreature tokens you control get +2/+2."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560931_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:36.207",
+      "name": "Caretaker's Talent",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560931,
+      "url": "https://www.tcgplayer.com/product/560931/magic-promo-pack-bloomburrow-caretakers-talent"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dawns Truce",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Gift a card \u003cem\u003e(You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\u003c/em\u003e\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eYou and permanents you control gain hexproof until end of turn. If the gift was promised, permanents you control also gain indestructible until end of turn."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560932_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:36.253",
+      "name": "Dawn's Truce",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560932,
+      "url": "https://www.tcgplayer.com/product/560932/magic-promo-pack-bloomburrow-dawns-truce"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Essence Channeler",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Bat Cleric"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As long as you've lost life this turn, Essence Channeler has flying and vigilance.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nWhenever you gain life, put +1/+1 counter on Essence Channeler.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nWhen Essence Channeler dies, put its counters on target creature you control."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560933_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:36.317",
+      "name": "Essence Channeler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560933,
+      "url": "https://www.tcgplayer.com/product/560933/magic-promo-pack-bloomburrow-essence-channeler"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Jackdaw Savior",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "18"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Bird Cleric"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying \u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nWhenever Jackdaw Savior or another creature you control with flying dies, return another target creature card with lesser mana value from your graveyard to the battlefield."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560934_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:36.36",
+      "name": "Jackdaw Savior",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560934,
+      "url": "https://www.tcgplayer.com/product/560934/magic-promo-pack-bloomburrow-jackdaw-savior"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Salvation Swan",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "28"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Bird Cleric"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eFlying \r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eWhenever Salvation Swan or another Bird you control enters, exile up to one target creature you control without flying. Return it to the battlefield under its owner's control with a flying counter on it at the beginning of the next end step."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560935_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:36.407",
+      "name": "Salvation Swan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560935,
+      "url": "https://www.tcgplayer.com/product/560935/magic-promo-pack-bloomburrow-salvation-swan"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Season of the Burrow",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "29"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose up to five [Paw] worth of modes. You may choose the same mode more than once.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e[Paw] — Create a 1/1 white Rabbit creature token.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e[Paw 2] — Exile target nonland permanent. Its controller draws a card.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e[Paw 3] — Return target permanent card with mana value 3 or less from your graveyard to the battlefield with an indestructible counter on it."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560936_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:36.467",
+      "name": "Season of the Burrow",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560936,
+      "url": "https://www.tcgplayer.com/product/560936/magic-promo-pack-bloomburrow-season-of-the-burrow"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Starfall Invocation",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "34"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Gift a card \u003cem\u003e(You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\u003c/em\u003e\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eDestroy all creatures. If the gift was promised, return a creature card put into your graveyard this way to the battlefield under your control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eNothing lurks in the purity of the moon's light.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560937_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:36.513",
+      "name": "Starfall Invocation",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560937,
+      "url": "https://www.tcgplayer.com/product/560937/magic-promo-pack-bloomburrow-starfall-invocation"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Valley Questcaller",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "36"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Rabbit Warrior"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenver one or more other Rabbits, Bats, Birds, and/or Mice you control enter, scry 1. \r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eOther Rabbits, Bats, Birds, and Mice you control get +1/+1."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eNo battle is fought, or won, alone.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560938_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:36.573",
+      "name": "Valley Questcaller",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560938,
+      "url": "https://www.tcgplayer.com/product/560938/magic-promo-pack-bloomburrow-valley-questcaller"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Warren Warleader",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "38"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Rabbit Knight"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Offspring 2 \u003cem\u003e(You may pay an additional 2 as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)\u003c/em\u003e\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eWhenever you attack, choose one —\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e• Create a 1/1 white Rabbit creature token that's tapped and attacking.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e• Attacking creatures you control get +1/+1 until the end of your turn."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560939_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:36.637",
+      "name": "Warren Warleader",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560939,
+      "url": "https://www.tcgplayer.com/product/560939/magic-promo-pack-bloomburrow-warren-warleader"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Whiskervale Forerunner",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "40"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Mouse Bard"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eValiant\u003c/em\u003e — Whenever Whiskervale Forerunner becomes the target of a spell or ability you control for the first time each turn, look at the top five cards of your library. You may reveal a creature card with mana value 3 or less from among them. You may put it onto the battlefield if it's your turn. If you don't put it onto the battlefield, put it into your hand. Put the rest on the bottom of your library in a random order."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560940_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:36.683",
+      "name": "Whiskervale Forerunner",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560940,
+      "url": "https://www.tcgplayer.com/product/560940/magic-promo-pack-bloomburrow-whiskervale-forerunner"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Azure Beastbinder",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "41"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Rat Rogue"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003eAzure Beastbinder can't be blocked by creatures with power 2 or greater. \u003cbr\u003eWhenever Azure Beastbinder attacks, up to one target artifact, creature, or planeswalker an opponent controls loses all abilities until your next turn. If it's a creature, it also has base power and toughness 2/2 until your next turn."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560941_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:36.747",
+      "name": "Azure Beastbinder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560941,
+      "url": "https://www.tcgplayer.com/product/560941/magic-promo-pack-bloomburrow-azure-beastbinder"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dour Port Mage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "47"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Frog Wizard"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever one or more other creatures you control leave the battlefield without dying, draw a card. \u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\n1U, T: Return another target creature you control to its owner's hand."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Find your mooring and stop clogging the shipping lanes!”\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560942_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:36.807",
+      "name": "Dour Port-Mage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560942,
+      "url": "https://www.tcgplayer.com/product/560942/magic-promo-pack-bloomburrow-dour-port-mage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Eluge the Shoreless Sea",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "49"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elemental Fish"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Eluge's Power and toughness are each equal to the number of Islands you control.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nWhenever Eluge enters or attacks, put a flood counter on target land. It's an Island in addition to its other types for as long as it has a flood counter on it.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nThe first instant or sorcery spell you cast each turn costs U \u003cem\u003e(or 1)\u003c/em\u003e less to cast for each land you control with a flood counter on it."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560943_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:36.87",
+      "name": "Eluge, the Shoreless Sea",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560943,
+      "url": "https://www.tcgplayer.com/product/560943/magic-promo-pack-bloomburrow-eluge-the-shoreless-sea"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kitnap",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "53"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Gift a card \u003cem\u003e(You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)\u003c/em\u003e\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eEnchant creature\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eWhen Kitnap enters, tap enchanted creature. If the gift wasn't promised, put three stun counters on it.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eYou control enchanted creature."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560944_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:36.933",
+      "name": "Kitnap",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560944,
+      "url": "https://www.tcgplayer.com/product/560944/magic-promo-pack-bloomburrow-kitnap"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kitsa Otterball Elite",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "54"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Otter Wizard"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nProwess \u003cem\u003e(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\u003c/em\u003e\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nT: Draw a card, then discard a card.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\n2, T: Copy target instant or sorcery spell you control. You may choose new targets for the copy. Activate only if Kitsa's power is 3 or greater."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560945_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:37.027",
+      "name": "Kitsa, Otterball Elite",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560945,
+      "url": "https://www.tcgplayer.com/product/560945/magic-promo-pack-bloomburrow-kitsa-otterball-elite"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mockingbird",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "61"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Bird Bard"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying \u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nYou may have Mockingbird enter as a copy of any creature on the battlefield with mana value less than or equal to the amount of mana spent to cast Mockingbird, except it's a Bird in addition to its other types and it has flying."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Laughing at you? No, no, I'm laughing as you!\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560946_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:37.16",
+      "name": "Mockingbird",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560946,
+      "url": "https://www.tcgplayer.com/product/560946/magic-promo-pack-bloomburrow-mockingbird"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Portent of Calamity",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "66"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Reveal the top X cards of your library. For each card type, you may exile a card of that type from among them. Put the rest into your graveyard. You may cast a spell from among the exiled cards without paying its mana cost if you exiled four or more cards this way. Then put the rest of the exiled cards into your hand."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560947_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:37.253",
+      "name": "Portent of Calamity",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560947,
+      "url": "https://www.tcgplayer.com/product/560947/magic-promo-pack-bloomburrow-portent-of-calamity"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Season of Weaving",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "68"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose up to Five [Paw] worth of modes. You may choose the same mode more than once.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e1[Paw] — Draw a card.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e2[Paw] — Choose an artifact or creature you control. Create a token that's a copy of it.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e3[Paw] — Return each nonland, nontoken, permanent to its owner's hand."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560948_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:37.33",
+      "name": "Season of Weaving",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560948,
+      "url": "https://www.tcgplayer.com/product/560948/magic-promo-pack-bloomburrow-season-of-weaving"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Stormchasers Talent",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "75"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Class"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003e(Gain the next level as a sorcery to add its ability.)\u003c/em\u003e\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003eWhen Stormchaser's Talent enters, create a 1/1 blue and red Otter creature token with prowess.\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003e3U: Level 2\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003eWhen this Class becomes level 2, return target instant or sorcery card from your graveyard to your hand.\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003e5U: Level 3\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003eWhenever you cast an instant or sorcery spell, create a 1/1 blue and red Otter creature token with prowess."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560949_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:37.393",
+      "name": "Stormchaser's Talent",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560949,
+      "url": "https://www.tcgplayer.com/product/560949/magic-promo-pack-bloomburrow-stormchasers-talent"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thundertrap Trainer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "78"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Otter Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Offspring 4 \u003cem\u003e(You may pay an additional 4 as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)\u003c/em\u003e\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003eWhen this creature enters, look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560950_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:37.47",
+      "name": "Thundertrap Trainer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560950,
+      "url": "https://www.tcgplayer.com/product/560950/magic-promo-pack-bloomburrow-thundertrap-trainer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Valley Floodcaller",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "79"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Otter Wizard"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nYou may cast noncreature spells as though they had flash.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nWhenever you cast a noncreature spell, Birds, Frogs, Otters, and Rats you control get +1/+1 until end of turn. Untap them."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560951_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:37.533",
+      "name": "Valley Floodcaller",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560951,
+      "url": "https://www.tcgplayer.com/product/560951/magic-promo-pack-bloomburrow-valley-floodcaller"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wishing Well",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "81"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Put a coin counter on Wishing Well. When you do, you may cast target instant or sorcery card with mana value equal to the number of coin counters on Wishing Well from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead. Activate only as a sorcery."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560952_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:37.607",
+      "name": "Wishing Well",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560952,
+      "url": "https://www.tcgplayer.com/product/560952/magic-promo-pack-bloomburrow-wishing-well"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Coiling Rebirth",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "86"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Gift a card \u003cem\u003e(You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\u003c/em\u003e\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eReturn target creature card from your graveyard to the battlefield. Then if the gift was promised and that creature isn't legendary, create a token that's a copy of that creature, except it's 1/1."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560953_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:37.67",
+      "name": "Coiling Rebirth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560953,
+      "url": "https://www.tcgplayer.com/product/560953/magic-promo-pack-bloomburrow-coiling-rebirth"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cruelclaws Heist",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "88"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Gift a card \u003cem\u003e(You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\u003c/em\u003e\u003cbr\u003e\r\n\u003cbr\u003e\u003cbr\u003e\r\nTarget opponent reveals their hand. You choose a nonland card from it. Exile that card. If the gift was promised, you may cast that card for as long as it remains exiled, and mana of any type can be spent to cast it."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560954_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:37.747",
+      "name": "Cruelclaw's Heist",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560954,
+      "url": "https://www.tcgplayer.com/product/560954/magic-promo-pack-bloomburrow-cruelclaws-heist"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Darkstar Augur",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "90"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Bat Warlock"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Offspring B \u003cem\u003e(You may pay an additional B as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)\u003c/em\u003e\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eFlying\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eAt the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560955_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:37.81",
+      "name": "Darkstar Augur",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560955,
+      "url": "https://www.tcgplayer.com/product/560955/magic-promo-pack-bloomburrow-darkstar-augur"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Iridescent Vinelasher",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "99"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Lizard Assassin"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Offspring 2 \u003cem\u003e(You may pay an additional 2 as you cast this spell. if you do, when this creature enters, create a 1/1 token copy of it.)\u003c/em\u003e\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e\u003cem\u003eLandfall\u003c/em\u003e — Whenever a land you control enters, this creature deals 1 damage to target opponent."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560956_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:37.89",
+      "name": "Iridescent Vinelasher",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560956,
+      "url": "https://www.tcgplayer.com/product/560956/magic-promo-pack-bloomburrow-iridescent-vinelasher"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Maha Its Feathers Night",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "100"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elemental Bird"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003eWard—Discard a card.\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003eCreatures your opponents control have base toughness 1."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Its wingspan reaches from dusk to dawn.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560957_200w.jpg",
+      "modifiedOn": "2025-12-04T17:06:39.963",
+      "name": "Maha, Its Feathers Night",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560957,
+      "url": "https://www.tcgplayer.com/product/560957/magic-promo-pack-bloomburrow-maha-its-feathers-night"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Osteomancer Adept",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "103"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Squirrel Warlock"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Deathtouch\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eT: Until end of turn, you may cast creature spells from your graveyard by foraging in addition to paying their other costs. If you cast a spell this way, that creature enters with a finality counter on it. \u003cem\u003e(To forage, exile three cards from your graveyard or sacrifice a Food. If a creature with a finality counter on it would die, exile it instead.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560958_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:38.043",
+      "name": "Osteomancer Adept",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560958,
+      "url": "https://www.tcgplayer.com/product/560958/magic-promo-pack-bloomburrow-osteomancer-adept"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rottenmouth Viper",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "107"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental Snake"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As an additional cost to cast this spell, you may sacrifice any number of nonland permanents. This spell costs 1 less to cast for each permanent sacrificed this way.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nWhenever Rottenmouth Viper enters or attacks, put a blight counter on it. Then for each blight counter on it, each opponent loses 4 life unless that player sacrifices a nonland permanent or discards a card."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560959_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:38.117",
+      "name": "Rottenmouth Viper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560959,
+      "url": "https://www.tcgplayer.com/product/560959/magic-promo-pack-bloomburrow-rottenmouth-viper"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Scavengers Talent",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "111"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Class"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003e(Gain the next level as a sorcery to add its ability)\u003c/em\u003e\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nWhenever one or more creatures you control die, create a Food token. This ability triggers only once each turn.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\n1B: Level 2\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nWhenever you sacrifice a permanent, target player mils two cards.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\n2B: Level 3 \u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nAt the beginning of your end step, you may sacrifice three other nonland permanents. If you do, return a creature card from your graveyard to the battlefield with a finality counter on it."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560960_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:38.21",
+      "name": "Scavenger's Talent",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560960,
+      "url": "https://www.tcgplayer.com/product/560960/magic-promo-pack-bloomburrow-scavengers-talent"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Season of Loss",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "112"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose up to five worth of modes. You may choose the same mode more than once.\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003e[Paw] — Each player sacrifices a creature.\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003e[Paw 2] — Draw a card for each creature you controlled that died this turn.\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003e[Paw 3] — Each opponent loses X life, where X is the number of creature cards in your graveyard."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560961_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:38.29",
+      "name": "Season of Loss",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560961,
+      "url": "https://www.tcgplayer.com/product/560961/magic-promo-pack-bloomburrow-season-of-loss"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Valley Rotcaller",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "119"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Squirrel Warlock"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eWhenever Valley Rotcaller attacks, each opponent loses X life and you gain X life, where X is the number of other Squirrels, Bats, Lizards, and Rats you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eWe all share one life and one death. —Rotcaller saying\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560962_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:38.377",
+      "name": "Valley Rotcaller",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560962,
+      "url": "https://www.tcgplayer.com/product/560962/magic-promo-pack-bloomburrow-valley-rotcaller"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wick the Whorled Mind",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "120"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Rat Warlock"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Wick or another Rat you control enters, create a 1/1 black Snail creature token if you don't control a Snail. Otherwise, put a +1/+1 counter on a Snail you control. \u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nUBR, Sacrifice a Snail: Wick deals damage equal to the sacrificed creature's power to each opponent. Then draw cards equal to the sacrificed creature's power."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560963_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:38.457",
+      "name": "Wick, the Whorled Mind",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560963,
+      "url": "https://www.tcgplayer.com/product/560963/magic-promo-pack-bloomburrow-wick-the-whorled-mind"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Artists Talent",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "124"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Class"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003e(Gain the next level as a sorcery to add its ability.)\u003c/em\u003e\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eWhenever you cast a noncreature spell, you may discard a card. If you do, draw a card.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e2R: Level 2\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eNoncreature spells you cast cost 1 less to cast.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e2R: Level 3\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eIf a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560964_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:38.537",
+      "name": "Artist's Talent",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560964,
+      "url": "https://www.tcgplayer.com/product/560964/magic-promo-pack-bloomburrow-artists-talent"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Byway Barterer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "129"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Raccoon Rogue"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eWhenever you expend 4, you may discard your hand. If you do, draw two cards. \u003cem\u003e(You expend 4 as you spend your fourth total mana to cast spells during a turn.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"This trinket has saved my hide more times than I can count. I couldn't possibly let it go for less than say... four acorns.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560965_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:38.613",
+      "name": "Byway Barterer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560965,
+      "url": "https://www.tcgplayer.com/product/560965/magic-promo-pack-bloomburrow-byway-barterer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dragonhawk Fates Tempest",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "132"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Bird Dragon"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying \r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eWhenever Dragonhawk enters or attacks, exile the top X cards of your library, where X is the number of creatures you control with power 4 or greater. You may play those cards until your next end step. At the beginning of your next end step, Dragonhawk deals 2 damage to each opponent for each of those cards that are still exiled."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560966_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:38.703",
+      "name": "Dragonhawk, Fate's Tempest",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560966,
+      "url": "https://www.tcgplayer.com/product/560966/magic-promo-pack-bloomburrow-dragonhawk-fates-tempest"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Emberheart Challenger",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "133"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Mouse Warrior"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eProwess \u003cem\u003e(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\u003c/em\u003e \r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e\u003cem\u003eValiant\u003c/em\u003e — Whenever Emberheart Challenger becomes the target of a spell or ability you control for the first time each turn, exile the top card of your library. Until end of turn, you may play that card."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560967_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:38.793",
+      "name": "Emberheart Challenger",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560967,
+      "url": "https://www.tcgplayer.com/product/560967/magic-promo-pack-bloomburrow-emberheart-challenger"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Festival of Embers",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "134"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "During your turn, you may cast instant and sorcery spells from your graveyard by paying 1 life in addition to their other costs.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nIf a card or token would be put into your graveyard from anywhere, exile it instead.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\n1R: Sacrifice Festival of Embers."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560968_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:38.877",
+      "name": "Festival of Embers",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560968,
+      "url": "https://www.tcgplayer.com/product/560968/magic-promo-pack-bloomburrow-festival-of-embers"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hearthborn Battler",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "139"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Lizard Warlock"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nWhenever a player casts their second spell each turn, Hearthborn Battler deals 2 damage to target opponent."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560969_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:38.963",
+      "name": "Hearthborn Battler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560969,
+      "url": "https://www.tcgplayer.com/product/560969/magic-promo-pack-bloomburrow-hearthborn-battler"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hired Claw",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "140"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Lizard Mercenary"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you attack with one or more Lizards, Hired Claw deals 1 damage to target opponent.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e1R: Put a +1/+1 counter on Hired Claw. Activate only if an opponent lost life this turn and only once each turn."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560970_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:39.06",
+      "name": "Hired Claw",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560970,
+      "url": "https://www.tcgplayer.com/product/560970/magic-promo-pack-bloomburrow-hired-claw"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Manifold Mouse",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "143"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Mouse Soldier"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Offspring 2 \u003cem\u003e(You may pay an additional 2 as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)\u003c/em\u003e\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eAt the beginning of combat on your turn, target Mouse you control gains your choice of double strike or trample until end of turn."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560971_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:39.147",
+      "name": "Manifold Mouse",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560971,
+      "url": "https://www.tcgplayer.com/product/560971/magic-promo-pack-bloomburrow-manifold-mouse"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Season of the Bold",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "152"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose up to five worth of modes. You may choose the same mode more than once.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e[Paw] — Create a tapped Treasure token.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e[Paw 2] — Exile the top two cards of your library. Until the end of your next turn, you may play them.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e[Paw 3] — Until the end of your next turn, whenever you cast a spell, Season of the Bold deals 2 damage to up to one target creature."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560973_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:39.33",
+      "name": "Season of the Bold",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560973,
+      "url": "https://www.tcgplayer.com/product/560973/magic-promo-pack-bloomburrow-season-of-the-bold"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Stormsplitter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "154"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Otter Wizard"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nWhenever you cast an instant or sorcery spell, create a token that's a copy of Stormsplitter. Exile that token at the beginning of the next end step."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"We'll cover more ground if I split up.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560974_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:39.437",
+      "name": "Stormsplitter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560974,
+      "url": "https://www.tcgplayer.com/product/560974/magic-promo-pack-bloomburrow-stormsplitter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sunspine Lynx",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "155"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental Cat"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Players can't gain life.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eDamage can't be prevented.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eWhen Sunspine Lynx enters, it deals damage to each player equal to the number of nonbasic lands that player controls."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560975_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:39.55",
+      "name": "Sunspine Lynx",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560975,
+      "url": "https://www.tcgplayer.com/product/560975/magic-promo-pack-bloomburrow-sunspine-lynx"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Valley Flamecaller",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "158"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Lizard Warlock"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If a Lizard, Mouse, Otter, or Raccoon you control would deal damage to a permanent or player, it deals that much damage plus 1 instead."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Well, that's another night of research spoiled.\"\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e—Claire, batfolk astrologer\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560977_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:39.903",
+      "name": "Valley Flamecaller",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560977,
+      "url": "https://www.tcgplayer.com/product/560977/magic-promo-pack-bloomburrow-valley-flamecaller"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fecund Greenshell",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "171"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental Turtle"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Reach\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nAs long as you control ten or more lands, creatures you control get +2/+2.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nWhenever Fecund Greenshell or another creature you control with toughness greater than its power enters, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped. Otherwise, put it into your hand."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560978_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:39.997",
+      "name": "Fecund Greenshell",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560978,
+      "url": "https://www.tcgplayer.com/product/560978/magic-promo-pack-bloomburrow-fecund-greenshell"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "For the Common Good",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "172"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Create X tokens that are copies of target token you control. Then tokens you control gain indestructible until your next turn. You gain 1 life for each token you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eDespite their differences, every creature and culture of Valley stood in unison against the threat.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560979_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:40.113",
+      "name": "For the Common Good",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560979,
+      "url": "https://www.tcgplayer.com/product/560979/magic-promo-pack-bloomburrow-for-the-common-good"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Innkeepers Talent",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "180"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Class"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003e(Gain the next level as a sorcery to add its ability.)\u003c/em\u003e\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eAt the beginning of combat on your turn, put a +1/+1 counter on target creature you control.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eG: Level 2\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003ePermanents you control with counters on them have ward 1.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e3G: Level 3\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eIf you would put one or more counters on a permanent or player, put twice that many of each of those kinds of counters on that permanent or player instead."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560980_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:40.207",
+      "name": "Innkeeper's Talent",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560980,
+      "url": "https://www.tcgplayer.com/product/560980/magic-promo-pack-bloomburrow-innkeepers-talent"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Keen Eyed Curator",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "181"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Raccoon Scout"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As long as there are four or more card types among cards exiled with Keen-Eyed Curator, it gets +4/+4 and has trample.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\n1: Exile target card from a graveyard."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Now this one's a real collector's item. They say Lily Emberseed herself drank from this mug when she was still Lily of Valley.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560981_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:40.3",
+      "name": "Keen-Eyed Curator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560981,
+      "url": "https://www.tcgplayer.com/product/560981/magic-promo-pack-bloomburrow-keen-eyed-curator"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lumra Bellow of the Woods",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "183"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elemental Bear"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance, reach\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nLumra, Bellow of the Woods's power and toughness are each equal to the number of lands you control.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nWhen Lumra enters, mill four cards. Then return all land cards from your graveyard to the battlefield tapped."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560982_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:40.393",
+      "name": "Lumra, Bellow of the Woods",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560982,
+      "url": "https://www.tcgplayer.com/product/560982/magic-promo-pack-bloomburrow-lumra-bellow-of-the-woods"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mistbreath Elder",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "184"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Frog Warrior"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your upkeep, return another creature you control to its owner's hand. If you do, put a +1/+1 counter on Mistbreath Elder. Otherwise, you may return Mistbreath Elder to its owner's hand."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560983_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:40.593",
+      "name": "Mistbreath Elder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560983,
+      "url": "https://www.tcgplayer.com/product/560983/magic-promo-pack-bloomburrow-mistbreath-elder"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pawpatch Recruit",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "187"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Rabbit Warrior"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Offspring 2 \u003cem\u003e(You may pay an additional 2 as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)\u003c/em\u003e\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nTrample\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nWhenever a creature you control becomes the target of a spell or ability an opponent controls, put a +1/+1 counter on target creature you control other than that creature."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560984_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:40.73",
+      "name": "Pawpatch Recruit",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560984,
+      "url": "https://www.tcgplayer.com/product/560984/magic-promo-pack-bloomburrow-pawpatch-recruit"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Scrapshooter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "191"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Raccoon Archer"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Gift a card \u003cem\u003e(You may promise an opponent a gift as you cast this spell. If you do, when it enters, they draw a card.)\u003c/em\u003e\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003eReach\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003eWhen Scrapshooter enters, if the gift was promised, destroy target artifact or enchantment an opponent controls."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560985_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:40.84",
+      "name": "Scrapshooter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560985,
+      "url": "https://www.tcgplayer.com/product/560985/magic-promo-pack-bloomburrow-scrapshooter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Season of Gathering",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "192"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose up to five [Paw]'s worth of modes. You may choose the same mode more than once.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\n[Paw] — Put a +1/+1 counter on a creature you control. It gains vigilance and trample until end of turn.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\n[Paw 2] — Choose artifact or enchantment. Destroy all permanents of the chosen type.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\n[Paw 3] — Draw cards equal to the greatest power among creatures you control."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560986_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:40.933",
+      "name": "Season of Gathering",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560986,
+      "url": "https://www.tcgplayer.com/product/560986/magic-promo-pack-bloomburrow-season-of-gathering"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tender Wildguide",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "196"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Possum Druid"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Offspring 2 \u003cem\u003e(You may pay an additional 2 as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)\u003c/em\u003e\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003eT: Add one mana of any color.\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003eT: Put a +1/+1 counter on this creature."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560987_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:41.043",
+      "name": "Tender Wildguide",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560987,
+      "url": "https://www.tcgplayer.com/product/560987/magic-promo-pack-bloomburrow-tender-wildguide"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thornvault Forager",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "197"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Squirrel Ranger"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add G.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eT, Forage: Add two mana in any combination of colors. \u003cem\u003e(To forage, exile three cards from your graveyard or sacrifice a Food.)\u003c/em\u003e\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e3G, T: Search your library for a Squirrel card, reveal it, put it into your hand, then shuffle."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560988_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:41.147",
+      "name": "Thornvault Forager",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560988,
+      "url": "https://www.tcgplayer.com/product/560988/magic-promo-pack-bloomburrow-thornvault-forager"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Valley Mightcaller",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "202"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Frog Warrior"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nWhenever another Frog, Rabbit, Raccoon, or Squirrel you control enters, put a +1/+1 counter on Valley Mightcaller."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"There is no path to the Root Maze's center. Bard, sing a song while I create one.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560989_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:41.257",
+      "name": "Valley Mightcaller",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560989,
+      "url": "https://www.tcgplayer.com/product/560989/magic-promo-pack-bloomburrow-valley-mightcaller"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Alania Divergent Storm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "204"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Otter Wizard"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you cast a spell, if it's the first instant spell, the first sorcery spell, or the first Otter spell other than Alania you've cast this turn, you may have target opponent draw a card. If you do, copy that spell. You may choose new targets for the copy."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Why would I chase the storm? Does a cloud chase the rain? Does the sun chase the light?\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560990_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:41.377",
+      "name": "Alania, Divergent Storm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560990,
+      "url": "https://www.tcgplayer.com/product/560990/magic-promo-pack-bloomburrow-alania-divergent-storm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Baylen the Haymaker",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "205"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Rabbit Warrior"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap two untapped tokens you control: Add one mana of any color.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nTap three untapped tokens you control: Draw a card.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nTap four untapped tokens you control: Put three +1/+1 counters on Baylen, the Haymaker. It gains trample until end of turn."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560991_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:41.487",
+      "name": "Baylen, the Haymaker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560991,
+      "url": "https://www.tcgplayer.com/product/560991/magic-promo-pack-bloomburrow-baylen-the-haymaker"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Camellia the Seedmiser",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "207"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Squirrel Warlock"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003eOther Squirrels you control have menace.\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003eWhenever you sacrifice one or more Foods, create a 1/1 green Squirrel creature token.\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003e2, Forge: Put a +1/+1 counter on each other Squirrel you control. \u003cem\u003e(To Forage , exile three cards from your graveyard or sacrifice a Food.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560992_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:41.66",
+      "name": "Camellia, the Seedmiser",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560992,
+      "url": "https://www.tcgplayer.com/product/560992/magic-promo-pack-bloomburrow-camellia-the-seedmiser"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Clement the Worrywort",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "209"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Frog Druid"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eWhenever Clement, the Worrywort or another creature you control enters, return up to one target creature you control with lesser mana value to its owner's hand.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eFrogs you control have \"T: Add G or U. Spend this mana only to cast a creature spell.\""
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560993_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:41.763",
+      "name": "Clement, the Worrywort",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560993,
+      "url": "https://www.tcgplayer.com/product/560993/magic-promo-pack-bloomburrow-clement-the-worrywort"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dreamdew Entrancer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "211"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Frog Wizard"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Reach\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eWhen Dreamdew Entrancer enters, tap up to one target creature and put three stun counters on it. If you control that creature, draw two cards."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Your dreams are too precious to leave to chance.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560994_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:41.873",
+      "name": "Dreamdew Entrancer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560994,
+      "url": "https://www.tcgplayer.com/product/560994/magic-promo-pack-bloomburrow-dreamdew-entrancer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Finneas Ace Archer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "212"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Rabbit Archer"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance, reach\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eWhenever Finneas, Ace Archer attacks, put a +1/+1 counter on each other creature you control that's a token or a Rabbit. Then if creatures you control have total power 10 or greater, draw a card."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560995_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:41.983",
+      "name": "Finneas, Ace Archer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560995,
+      "url": "https://www.tcgplayer.com/product/560995/magic-promo-pack-bloomburrow-finneas-ace-archer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gev Scaled Scorch",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "214"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Lizard Mercenary"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Ward—Pay 2 life.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nOther creatures you control enter with an additional +1/+1 counter on them for each opponent who lost life this turn.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nWhenever you cast a Lizard spell, Gev, Scaled Scorch deals 1 damage to target opponent."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560996_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:42.087",
+      "name": "Gev, Scaled Scorch",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560996,
+      "url": "https://www.tcgplayer.com/product/560996/magic-promo-pack-bloomburrow-gev-scaled-scorch"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Glarb Calamitys Augur",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "215"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Frog Wizard Noble"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Deathtouch\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eYou may look at the top card of your library any time. \r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eYou rmay play lands and cast spells with mana value 4 or greater from the top of your library.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eT: Surveil 2."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560997_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:42.197",
+      "name": "Glarb, Calamity's Augur",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560997,
+      "url": "https://www.tcgplayer.com/product/560997/magic-promo-pack-bloomburrow-glarb-calamitys-augur"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Helga Skittish Seer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "217"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Frog Druid"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you cast a creature spell with mana value 4 or greater, you draw a card, gain 1 life, and put a +1/+1 counter on Helga, Skittish Seer.\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003eT: Add X mana of any one color, where X is Helga, Skittish Seer's power. Spend this mana only to cast creature spells with mana value 4 or greater or creature spells with x in their mana costs."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560998_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:42.323",
+      "name": "Helga, Skittish Seer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560998,
+      "url": "https://www.tcgplayer.com/product/560998/magic-promo-pack-bloomburrow-helga-skittish-seer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hugs Grisly Guardian",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "218"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Badger Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003eWhen Hugs, Grisly Guardian enters, exile the top X cards of your library. Until the end of your next turn, you may play those cards.\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003eYou may play an additional land on each of your turns."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/560999_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:42.427",
+      "name": "Hugs, Grisly Guardian",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 560999,
+      "url": "https://www.tcgplayer.com/product/560999/magic-promo-pack-bloomburrow-hugs-grisly-guardian"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Infamous Cruelclaw",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "219"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Weasel Mercenary"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cbr\u003eWhenever The Infamous Cruelclaw deals combat damage to a player, exile cards from the top of your library until you exile a nonland card. You may cast that card by discarding a card rather than paying its mana cost."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/561000_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:42.553",
+      "name": "The Infamous Cruelclaw",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 561000,
+      "url": "https://www.tcgplayer.com/product/561000/magic-promo-pack-bloomburrow-the-infamous-cruelclaw"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kastral the Windcrested",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "221"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Bird Scout"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eWhenever one or more Birds you control deal combat damage to a player, choose one —\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e• You may put a Bird creature card from your hand or graveyard onto the battlefield with a finality counter on it.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e• Put a +1/+1 counter on each Bird you control.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e• Draw a card."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/561001_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:42.66",
+      "name": "Kastral, the Windcrested",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 561001,
+      "url": "https://www.tcgplayer.com/product/561001/magic-promo-pack-bloomburrow-kastral-the-windcrested"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lunar Convocation",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "223"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your end step, if you gained life this turn, each opponent loses 1 life.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nAt the beginning of your end step, if you gained and lost life this turn, create a 1/1 black Bat creature token with flying.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\n1B, Pay 2 life: Draw a card."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/561002_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:42.783",
+      "name": "Lunar Convocation",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 561002,
+      "url": "https://www.tcgplayer.com/product/561002/magic-promo-pack-bloomburrow-lunar-convocation"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mabel Heir to Cragflame",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "224"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Mouse Soldier"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Other Mice you control get +1/+1.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\nWhen Mabel, Heir to Cragflame enters, create Cragflame, a legendary colorless Equipment artifact token with \"Equipped creature gets +1/+1 and has vigilance, trample, and haste\" and equip 2."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/561003_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:42.91",
+      "name": "Mabel, Heir to Cragflame",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 561003,
+      "url": "https://www.tcgplayer.com/product/561003/magic-promo-pack-bloomburrow-mabel-heir-to-cragflame"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Muerra Trash Tactician",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "227"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Raccoon Warrior"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your first main phase, add R or G for each Raccoon you control.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eWhenever you expend 4, you gain 3 life. \u003cem\u003e(You expend 4 as you spend your fourth total mana to cast spells during a turn.)\u003c/em\u003e\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eWhenever you expend 8, exile the top two cards of your library. Until the end of your next turn, you may play those cards."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/561004_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:43.013",
+      "name": "Muerra, Trash Tactician",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 561004,
+      "url": "https://www.tcgplayer.com/product/561004/magic-promo-pack-bloomburrow-muerra-trash-tactician"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ral Crackling Wit",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "230"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Ral"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you cast a noncreature spell, put a loyalty counter on Ral, crackling Wit.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e[+1]: Create a 1/1 blue and red Otter creature token with prowess.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e[-3]: Draw three cards, then discard two cards.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e[-10]: Draw three cards. You get an emblem with \"Instant and sorcery spells you cast have storm.\" \u003cem\u003e(Whenever you cast an instant or sorcery spell, copy it for each spell cast before it this turn.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/561005_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:43.247",
+      "name": "Ral, Crackling Wit",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 561005,
+      "url": "https://www.tcgplayer.com/product/561005/magic-promo-pack-bloomburrow-ral-crackling-wit"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Vren the Relentless",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "239"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Rat Rogue"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Ward 2\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eIf a creature an opponent controls would die, exile it instead.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eAt the beginning of each end step, create X 1/1 black Rat creature tokens with \"This creature gets +1/+1 for each other Rat you control,\" where X is the number of creatures your opponents controlled that were exiled this turn."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/561006_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:43.413",
+      "name": "Vren, the Relentless",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 561006,
+      "url": "https://www.tcgplayer.com/product/561006/magic-promo-pack-bloomburrow-vren-the-relentless"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ygra Eater of All",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "241"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elemental Cat"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Ward—Sacrifice a Food.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eOther creatures are Food artifacts in addition to their other types and have \"2, T, Sacrifice this permanent: You gain 3 life.\"\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eWhenever a Food is put into a graveyard from the battlefield, put two +1/+1 counters on Ygra, Eater of All."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/561007_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:43.54",
+      "name": "Ygra, Eater of All",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 561007,
+      "url": "https://www.tcgplayer.com/product/561007/magic-promo-pack-bloomburrow-ygra-eater-of-all"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Zoraline Cosmos Caller",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "242"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Bat Cleric"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, vigilance\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eWhenever a Bat you control attacks, you gain 1 life.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eWhenever Zoraline enters or attacks, you may pay and 2 life. When you do, return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/561008_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:43.66",
+      "name": "Zoraline, Cosmos Caller",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 561008,
+      "url": "https://www.tcgplayer.com/product/561008/magic-promo-pack-bloomburrow-zoraline-cosmos-caller"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fabled Passage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "252"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eBeyond Valley lies danger—and promise.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/561009_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:43.8",
+      "name": "Fabled Passage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 561009,
+      "url": "https://www.tcgplayer.com/product/561009/magic-promo-pack-bloomburrow-fabled-passage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fountainport",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "253"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add C.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\n2, T, Sacrifice a token: Draw a card.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\n3, T, Pay 1 life: Create a 1/1 blue Fish creature token.\u003cbr\u003e\r\u003cbr\u003e\u003cbr\u003e\n4, T: Create a Treasure token."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/561010_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:43.92",
+      "name": "Fountainport",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 561010,
+      "url": "https://www.tcgplayer.com/product/561010/magic-promo-pack-bloomburrow-fountainport"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Three Tree City",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "260"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As Three Tree City enters, choose a creature type.\r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003eT: Add C. \r\u003cbr\u003e\u003cbr\u003e\n\u003cbr\u003e2, T: Choose a color. Add an amount of mana of that color equal to the number of creature you control of the chosen type."
+        }
+      ],
+      "groupId": 23560,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/561011_200w.jpg",
+      "modifiedOn": "2025-05-15T19:47:44.047",
+      "name": "Three Tree City",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 561011,
+      "url": "https://www.tcgplayer.com/product/561011/magic-promo-pack-bloomburrow-three-tree-city"
+    }
+  ],
+  "success": true,
+  "totalItems": 85
+}

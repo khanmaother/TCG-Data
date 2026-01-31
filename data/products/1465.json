@@ -1,0 +1,1447 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 3,
+      "cleanName": "Audino",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC17/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[3] Relaxed Roll (30x) Flip a coin until you get tails.  This attack does 30 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Fx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83665_200w.jpg",
+      "modifiedOn": "2025-11-20T21:36:10.077",
+      "name": "Audino",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83665,
+      "url": "https://www.tcgplayer.com/product/83665/pokemon-legendary-treasures-radiant-collection-audino"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Cinccino",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC19/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Smooth Coat - If any damage is done to this Pokemon by attacks, flip a coin.  If heads, prevent that damage.  (Ability)"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[3] Echoed Voice (50) During your next turn, this Pokemon's attack does 50 more damage (before applying Weakness and Resistance)."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Fx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84321_200w.jpg",
+      "modifiedOn": "2025-02-02T04:19:27.877",
+      "name": "Cinccino",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84321,
+      "url": "https://www.tcgplayer.com/product/84321/pokemon-legendary-treasures-radiant-collection-cinccino"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Eevee",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC14/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Surprise Attack (20) Flip a coin.  If tails, this attack does nothing."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Fx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85094_200w.jpg",
+      "modifiedOn": "2024-07-10T05:29:14.95",
+      "name": "Eevee",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85094,
+      "url": "https://www.tcgplayer.com/product/85094/pokemon-legendary-treasures-radiant-collection-eevee"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Elesa",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC20/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "0"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Supporter"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "You may play only 1 Supporter card per turn (before your attack)."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "Search your deck for 3 Pokemon Tool cards, reveal them, and put them into your hand.  Shuffle your deck afterward."
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85174_200w.jpg",
+      "modifiedOn": "2024-08-12T19:56:07.22",
+      "name": "Elesa",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85174,
+      "url": "https://www.tcgplayer.com/product/85174/pokemon-legendary-treasures-radiant-collection-elesa"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Emolga Full Art",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC23/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Call for Family - Search your deck for 2 Basic Pokemon and put them onto your Bench.  Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[L] Static Shock (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Lx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-20"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "0"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85194_200w.jpg",
+      "modifiedOn": "2023-01-06T21:21:03.273",
+      "name": "Emolga (Full Art)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85194,
+      "url": "https://www.tcgplayer.com/product/85194/pokemon-legendary-treasures-radiant-collection-emolga-full-art"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Gardevoir",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC10/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "120"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1P] Psybeam (40) The Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[PP] Eternal Radiance - Move all damage counters from this Pokemon to the Defending Pokemon.  This Pokemon can't use Eternal Radiance during your next turn."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Px2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85639_200w.jpg",
+      "modifiedOn": "2025-11-11T14:31:34.56",
+      "name": "Gardevoir",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85639,
+      "url": "https://www.tcgplayer.com/product/85639/pokemon-legendary-treasures-radiant-collection-gardevoir"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Growlithe",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC4/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Rest - Heal all damage from this Pokemon.  This Pokemon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2R] Lunge (40) Flip a coin.  If tails, this attack does nothing."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Wx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85963_200w.jpg",
+      "modifiedOn": "2023-11-22T03:37:08.74",
+      "name": "Growlithe",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85963,
+      "url": "https://www.tcgplayer.com/product/85963/pokemon-legendary-treasures-radiant-collection-growlithe"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Kirlia",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC9/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Tiptoe Step - Draw a card for each P Energy attached to this Pokemon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1P] Double Slap (20x) Flip 2 coins.  This attack does 20 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Px2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86472_200w.jpg",
+      "modifiedOn": "2023-01-06T21:22:25.567",
+      "name": "Kirlia",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86472,
+      "url": "https://www.tcgplayer.com/product/86472/pokemon-legendary-treasures-radiant-collection-kirlia"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Meloetta EX",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC11/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "110"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Brilliant Voice (20) Flip a coin.  If heads, the Defending Pokemon is now Asleep.  If tails, the Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[PPP] Round (30x) Does 30 damage times the number of your Pokemon that have the Round attack."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Px2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87304_200w.jpg",
+      "modifiedOn": "2025-11-11T14:35:30.63",
+      "name": "Meloetta EX",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87304,
+      "url": "https://www.tcgplayer.com/product/87304/pokemon-legendary-treasures-radiant-collection-meloetta-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Meloetta EX Full Art",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC25/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "110"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Brilliant Voice (20) Flip a coin.  If heads, the Defending Pokemon is now Asleep.  If tails, the Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[PPP] Round (30x) Does 30 damage times the number of your Pokemon that have the Round attack."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Px2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87305_200w.jpg",
+      "modifiedOn": "2025-12-11T21:51:58.257",
+      "name": "Meloetta EX (Full Art)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87305,
+      "url": "https://www.tcgplayer.com/product/87305/pokemon-legendary-treasures-radiant-collection-meloetta-ex-full-art"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Mew EX Full Art",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC24/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "120"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Versatile - This Pokemon can use the attacks of any Pokemon in play (both yours and your opponent's).  (You still need the necessary Energy to use each attack.)  (Ability)"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Replace - Move as many Energy attached to your Pokemon to your other Pokemon in any way you like."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Px2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87413_200w.jpg",
+      "modifiedOn": "2026-01-15T13:19:44.65",
+      "name": "Mew EX (Full Art)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87413,
+      "url": "https://www.tcgplayer.com/product/87413/pokemon-legendary-treasures-radiant-collection-mew-ex-full-art"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Minccino",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC18/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Tail Slap (10x) Flip 2 coins.  This attack does 10 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Fx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87479_200w.jpg",
+      "modifiedOn": "2023-08-26T16:03:12.76",
+      "name": "Minccino",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87479,
+      "url": "https://www.tcgplayer.com/product/87479/pokemon-legendary-treasures-radiant-collection-minccino"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pikachu",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC7/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[L] Thundershock (10) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Tail Whap (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Fx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88105_200w.jpg",
+      "modifiedOn": "2023-04-11T08:43:39.53",
+      "name": "Pikachu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88105,
+      "url": "https://www.tcgplayer.com/product/88105/pokemon-legendary-treasures-radiant-collection-pikachu"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Piplup",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC6/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Charm - During your opponent's next turn, any damage done by attacks from the Defending Pokemon is reduced by 20 (before applying Weakness and Resistance)."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1W] Peck (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Lx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88154_200w.jpg",
+      "modifiedOn": "2025-10-22T20:37:09.023",
+      "name": "Piplup",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88154,
+      "url": "https://www.tcgplayer.com/product/88154/pokemon-legendary-treasures-radiant-collection-piplup"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Purrloin",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC13/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[D] Captivate - Flip a coin.  If heads, switch 1 of your opponent's Benched Pokemon with the Defending Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Fx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-20"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88462_200w.jpg",
+      "modifiedOn": "2024-08-12T19:56:07.407",
+      "name": "Purrloin",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88462,
+      "url": "https://www.tcgplayer.com/product/88462/pokemon-legendary-treasures-radiant-collection-purrloin"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ralts",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC8/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Hypnotic Gaze - The Defending Pokemon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1P] Pound (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Px2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88567_200w.jpg",
+      "modifiedOn": "2025-05-10T03:35:44.277",
+      "name": "Ralts",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88567,
+      "url": "https://www.tcgplayer.com/product/88567/pokemon-legendary-treasures-radiant-collection-ralts"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Reshiram Full Art",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC22/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "130"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Outrage (20+) Does 10 more damage for each damage counter on this Pokemon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1RR] Blue Flare (120) Discard 2 R Energy attached to this Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Wx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88712_200w.jpg",
+      "modifiedOn": "2025-11-11T14:40:49.693",
+      "name": "Reshiram (Full Art)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88712,
+      "url": "https://www.tcgplayer.com/product/88712/pokemon-legendary-treasures-radiant-collection-reshiram-full-art"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Serperior",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC3/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "140"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Royal Garden - If this Pokemon has any G Energy attached to it, this Pokemon has no Retreat Cost.  (Ability)"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2G] Solar Beam (80)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Rx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89075_200w.jpg",
+      "modifiedOn": "2024-08-12T19:56:07.54",
+      "name": "Serperior",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89075,
+      "url": "https://www.tcgplayer.com/product/89075/pokemon-legendary-treasures-radiant-collection-serperior"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Servine",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC2/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Leaf Blade (10+) Flip a coin.  If heads, this attack does 30 more damage."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2G] Vine Whip (40)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Rx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89080_200w.jpg",
+      "modifiedOn": "2026-01-05T14:38:45.353",
+      "name": "Servine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89080,
+      "url": "https://www.tcgplayer.com/product/89080/pokemon-legendary-treasures-radiant-collection-servine"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Shaymin EX Full Art",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC21/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "110"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Synthesis - Search your deck for a G Energy card and attach it to 1 of your Pokemon.  Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1G] Revenge Blast (30+) Does 30 more damage for each Prize card your opponent has taken."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Rx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-20"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89113_200w.jpg",
+      "modifiedOn": "2025-11-11T14:43:29.54",
+      "name": "Shaymin EX (Full Art)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89113,
+      "url": "https://www.tcgplayer.com/product/89113/pokemon-legendary-treasures-radiant-collection-shaymin-ex-full-art"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Snivy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC1/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Growth - Attach a G Energy card from your hand to this Pokemon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2G] Razor Leaf (30)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Rx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89382_200w.jpg",
+      "modifiedOn": "2024-08-12T19:56:07.697",
+      "name": "Snivy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89382,
+      "url": "https://www.tcgplayer.com/product/89382/pokemon-legendary-treasures-radiant-collection-snivy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Stunfisk",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC12/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Attract - If the Defending Pokemon tries to attack during your opponent's next turn, your opponent flips a coin.  If tails, that attack does nothing."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1FF] Mud-Slap (70)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Wx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "L-20"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89583_200w.jpg",
+      "modifiedOn": "2024-08-12T19:56:07.773",
+      "name": "Stunfisk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89583,
+      "url": "https://www.tcgplayer.com/product/89583/pokemon-legendary-treasures-radiant-collection-stunfisk"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Teddiursa",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC15/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Honey Snack - Heal 20 damage from this Pokemon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Scratch (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Fx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89862_200w.jpg",
+      "modifiedOn": "2024-08-12T19:56:07.843",
+      "name": "Teddiursa",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89862,
+      "url": "https://www.tcgplayer.com/product/89862/pokemon-legendary-treasures-radiant-collection-teddiursa"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Torchic",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC5/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[R] Peck (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1R] Live Coal (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Wx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89964_200w.jpg",
+      "modifiedOn": "2023-08-01T10:05:59.917",
+      "name": "Torchic",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89964,
+      "url": "https://www.tcgplayer.com/product/89964/pokemon-legendary-treasures-radiant-collection-torchic"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ursaring",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "RC16/RC25"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "130"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Picnic Weather - Put a Teddiursa from your discard pile onto your Bench.  Then, attach an Energy card from your discard pile to that Pokemon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[4] Fury Swipes (50x) Flip 3 coins.  This attack does 50 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Fx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1465,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90257_200w.jpg",
+      "modifiedOn": "2023-10-21T19:59:12.053",
+      "name": "Ursaring",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90257,
+      "url": "https://www.tcgplayer.com/product/90257/pokemon-legendary-treasures-radiant-collection-ursaring"
+    }
+  ],
+  "success": true,
+  "totalItems": 25
+}

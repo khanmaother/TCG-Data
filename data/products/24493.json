@@ -1,0 +1,70 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 3,
+      "cleanName": "Pikachu",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "016/093"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Promo"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Lightning Tail\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1L] Tackle (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 24493,
+      "imageCount": 0,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/662103_200w.jpg",
+      "modifiedOn": "2025-11-04T16:39:55.377",
+      "name": "Pikachu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 662103,
+      "url": "https://www.tcgplayer.com/product/662103/pokemon-e-reader-sample-cards-pikachu"
+    }
+  ],
+  "success": true,
+  "totalItems": 1
+}

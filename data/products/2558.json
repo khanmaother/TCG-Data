@@ -1,0 +1,567 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Polymerization",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DEM4-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material."
+        }
+      ],
+      "groupId": 2558,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/201054_200w.jpg",
+      "modifiedOn": "2020-07-09T13:46:20.397",
+      "name": "Polymerization",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 201054,
+      "url": "https://www.tcgplayer.com/product/201054/yugioh-advanced-demo-deck-extra-pack-polymerization"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Galaxy Serpent",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DEM4-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Tuner/Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cem\u003eYour hopes and dreams will be refreshed if you catch a glimpse of this rare creature in the evening twilight, soaring in the Sea of Stars.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2558,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/201055_200w.jpg",
+      "modifiedOn": "2020-07-09T13:46:01.823",
+      "name": "Galaxy Serpent",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 201055,
+      "url": "https://www.tcgplayer.com/product/201055/yugioh-advanced-demo-deck-extra-pack-galaxy-serpent"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Flash Knight",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DEM4-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum/Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cem\u003eThe power of the pendulum flashes forth from this shining knight.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2558,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/201059_200w.jpg",
+      "modifiedOn": "2020-07-09T13:45:49.73",
+      "name": "Flash Knight",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 201059,
+      "url": "https://www.tcgplayer.com/product/201059/yugioh-advanced-demo-deck-extra-pack-flash-knight"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Lancephorhynchus",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DEM4-EN004"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dinosaur"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum/Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cstrong\u003ePendulum Effect\u003c/strong\u003e\r\n\u003cbr\u003eIf a Normal Monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.\r\n\u003cbr\u003e\u003cstrong\u003eMonster Effect\u003c/strong\u003e\r\n\u003cbr\u003e\u003cem\u003eThis primordial species survived extinction by evolving an offensive lance than can pierce anything, although its diet still consists mainly of fish.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2558,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/201060_200w.jpg",
+      "modifiedOn": "2020-07-09T13:46:11.29",
+      "name": "Lancephorhynchus",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 201060,
+      "url": "https://www.tcgplayer.com/product/201060/yugioh-advanced-demo-deck-extra-pack-lancephorhynchus"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Mandragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DEM4-EN005"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Plant"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cstrong\u003eMonster Effect\u003c/strong\u003e\r\n\u003cbr\u003e\u003cem\u003eThis mandragora harbors the soul of a sorrowful dragon. The cursed tones of its wailing cause both fear and despair.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2558,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/201061_200w.jpg",
+      "modifiedOn": "2020-07-09T13:46:17.563",
+      "name": "Mandragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 201061,
+      "url": "https://www.tcgplayer.com/product/201061/yugioh-advanced-demo-deck-extra-pack-mandragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Foucaults Cannon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DEM4-EN006"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cstrong\u003ePendulum Effect\u003c/strong\u003e\r\n\u003cbr\u003eOnce per turn, during the End Phase, if this card was activated this turn: You can target 1 face-up Spell/Trap Card on the field; destroy it.\r\n\u003cbr\u003e\u003cstrong\u003eMonster Effect\u003c/strong\u003e\r\n\u003cbr\u003e\u003cem\u003eA mechanized life form, roving through space-time. But the mysterious thing is that its memory i... m...stly gone. W...at is t...e reason? D..... refuse t... b.... interfered w...h?\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2558,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/201062_200w.jpg",
+      "modifiedOn": "2020-07-09T13:45:52.99",
+      "name": "Foucault's Cannon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 201062,
+      "url": "https://www.tcgplayer.com/product/201062/yugioh-advanced-demo-deck-extra-pack-foucaults-cannon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "First of the Dragons",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DEM4-EN007"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "2 Normal Monsters\r\n\u003cbr\u003eMust be Fusion Summoned and cannot be Special Summoned by other ways. You can only control 1 \"First of the Dragons\". This card cannot be destroyed by battle, except by battle with a Normal Monster, and is unaffected by other monsters' effects."
+        }
+      ],
+      "groupId": 2558,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/201063_200w.jpg",
+      "modifiedOn": "2020-07-09T13:45:42.867",
+      "name": "First of the Dragons",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 201063,
+      "url": "https://www.tcgplayer.com/product/201063/yugioh-advanced-demo-deck-extra-pack-first-of-the-dragons"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gaia Knight the Force of Earth",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DEM4-EN008"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Synchro Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "1 Tuner + 1 or more non-Tuner monsters"
+        }
+      ],
+      "groupId": 2558,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/201064_200w.jpg",
+      "modifiedOn": "2020-07-09T13:45:58.007",
+      "name": "Gaia Knight, the Force of Earth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 201064,
+      "url": "https://www.tcgplayer.com/product/201064/yugioh-advanced-demo-deck-extra-pack-gaia-knight-the-force-of-earth"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gem Knight Pearl",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DEM4-EN009"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Rock"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Xyz Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1900"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "2 Level 4 monsters"
+        }
+      ],
+      "groupId": 2558,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/201065_200w.jpg",
+      "modifiedOn": "2020-07-09T13:46:08.17",
+      "name": "Gem-Knight Pearl",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 201065,
+      "url": "https://www.tcgplayer.com/product/201065/yugioh-advanced-demo-deck-extra-pack-gem-knight-pearl"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Link Spider",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DEM4-EN010"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Cyberse"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Link/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "1 Normal Monster\r\n\u003cbr\u003eOnce per turn: You can Special Summon 1 Level 4 or lower Normal Monster from your hand to your zone this card points to."
+        }
+      ],
+      "groupId": 2558,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/201066_200w.jpg",
+      "modifiedOn": "2020-07-09T13:46:14.853",
+      "name": "Link Spider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 201066,
+      "url": "https://www.tcgplayer.com/product/201066/yugioh-advanced-demo-deck-extra-pack-link-spider"
+    }
+  ],
+  "success": true,
+  "totalItems": 10
+}

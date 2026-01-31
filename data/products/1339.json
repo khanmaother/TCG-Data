@@ -1,0 +1,84 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Fire Formation Tenki",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "FFSE-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is activated: You can add 1 Level 4 or lower Beast-Warrior-Type monster from your Deck to your hand. All Beast-Warrior-Type monsters you control gain 100 ATK. You can only activate 1 \"Fire Formation - Tenki\" per turn."
+        }
+      ],
+      "groupId": 1339,
+      "imageCount": 0,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/81854_200w.jpg",
+      "modifiedOn": "2014-07-25T18:32:46.973",
+      "name": "Fire Formation - Tenki",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 81854,
+      "url": "https://www.tcgplayer.com/product/81854/yugioh-fire-fists-special-editon-fire-formation-tenki"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Fire Fists Special Edition",
+      "extendedData": [],
+      "groupId": 1339,
+      "imageCount": 0,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/81855_200w.jpg",
+      "modifiedOn": "2020-09-21T21:43:32.653",
+      "name": "Fire Fists Special Edition",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 81855,
+      "url": "https://www.tcgplayer.com/product/81855/yugioh-fire-fists-special-editon-fire-fists-special-edition"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Fire Fists Special Edition Display",
+      "extendedData": [],
+      "groupId": 1339,
+      "imageCount": 0,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/81856_200w.jpg",
+      "modifiedOn": "2020-09-21T21:43:38.997",
+      "name": "Fire Fists Special Edition Display",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 81856,
+      "url": "https://www.tcgplayer.com/product/81856/yugioh-fire-fists-special-editon-fire-fists-special-edition-display"
+    }
+  ],
+  "success": true,
+  "totalItems": 3
+}

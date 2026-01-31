@@ -1,0 +1,61 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "abbreviation": "BSB",
+      "categoryId": 52,
+      "groupId": 23083,
+      "isSupplemental": false,
+      "modifiedOn": "2025-03-03T14:28:43.15",
+      "name": "Bandai Supply Bundles",
+      "publishedOn": "2023-08-25T00:00:00"
+    },
+    {
+      "abbreviation": "BGB",
+      "categoryId": 52,
+      "groupId": 23301,
+      "isSupplemental": false,
+      "modifiedOn": "2023-10-02T17:00:08.31",
+      "name": "Beadle and Grimm's Bundles",
+      "publishedOn": "2023-02-18T00:00:00"
+    },
+    {
+      "abbreviation": "UGSB",
+      "categoryId": 52,
+      "groupId": 2959,
+      "isSupplemental": false,
+      "modifiedOn": "2024-02-05T19:49:49.823",
+      "name": "Ultimate Guard Supply Bundles",
+      "publishedOn": "2021-12-31T00:00:00"
+    },
+    {
+      "abbreviation": "KNMAC",
+      "categoryId": 52,
+      "groupId": 2805,
+      "isSupplemental": false,
+      "modifiedOn": "2023-02-13T14:37:56.567",
+      "name": "Konami Accessory Collections",
+      "publishedOn": "2021-04-01T00:00:00"
+    },
+    {
+      "abbreviation": "UPROSB",
+      "categoryId": 52,
+      "groupId": 2641,
+      "isSupplemental": false,
+      "modifiedOn": "2023-05-09T19:24:51.843",
+      "name": "Ultra Pro Supply Bundles",
+      "publishedOn": "2020-03-27T00:00:00"
+    },
+    {
+      "abbreviation": "SCGSB",
+      "categoryId": 52,
+      "groupId": 2163,
+      "isSupplemental": false,
+      "modifiedOn": "2018-01-25T15:31:57.253",
+      "name": "Star City Games Supply Bundles",
+      "publishedOn": "2017-12-01T00:00:00"
+    }
+  ],
+  "success": true,
+  "totalItems": 6
+}

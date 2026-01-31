@@ -1,0 +1,4124 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 3,
+      "cleanName": "Aerodactyl",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "15/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Prehistoric Memory\u003c/strong\u003e Whenever an Evolved Pokémon attacks \u003cem\u003e(even if it's your opponent's)\u003c/em\u003e, it can use any attack from its Basic Pokémon card or any Evolution card attached to it. It still has to pay for that attack's Energy cost. This power stops working while Aerodactyl is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[3] Fly (30)\r\n\u003cbr\u003eFlip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Aerodactyl. If tails, this attack does nothing \u003cem\u003e(not even damage)\u003c/em\u003e."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83466_200w.jpg",
+      "modifiedOn": "2022-11-27T18:16:47.817",
+      "name": "Aerodactyl",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83466,
+      "url": "https://www.tcgplayer.com/product/83466/pokemon-neo-revelation-aerodactyl"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Aipom",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "41/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Grab\r\n\u003cbr\u003eChoose a Trainer card attached to 1 of your opponent's Pokémon. Your opponent shuffles that card into his or her deck."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Tail Punch (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83486_200w.jpg",
+      "modifiedOn": "2025-02-05T21:03:42.733",
+      "name": "Aipom",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83486,
+      "url": "https://www.tcgplayer.com/product/83486/pokemon-neo-revelation-aipom"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ampharos",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "01/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[L] Attract Current (20)\r\n\u003cbr\u003eFlip 3 coins. For each heads, you may search your deck for a Lightning Energy card and attach it to 1 of your Lightning Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1LLL] Gigavolt (40+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 40 damage plus 20 more damage. If tails, this attack does 40 damage and the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83535_200w.jpg",
+      "modifiedOn": "2023-08-22T18:44:04.643",
+      "name": "Ampharos",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83535,
+      "url": "https://www.tcgplayer.com/product/83535/pokemon-neo-revelation-ampharos"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Balloon Berry",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "60/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Tool"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Attach Balloon Berry to 1 of your Pokémon that doesn't have a Pokémon Tool attached to it.\r\n\u003cbr\u003e\r\nWhen the Pokémon Balloon Berry is attached to retreats, discard Balloon Berry instead of discarding Energy cards."
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83707_200w.jpg",
+      "modifiedOn": "2025-11-22T03:28:26.9",
+      "name": "Balloon Berry",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83707,
+      "url": "https://www.tcgplayer.com/product/83707/pokemon-neo-revelation-balloon-berry"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Blissey",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "02/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "120"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Softboiled\u003c/strong\u003e When you play Blissey from your hand, you may flip a coin. If heads, remove 8 damage counters from Blissey. If tails, remove 4 damage counters from Blissey. Either way, if Blissey has fewer damage counters than that, remove all of them."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[4] Body Slam (30)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83918_200w.jpg",
+      "modifiedOn": "2022-11-27T18:21:26.78",
+      "name": "Blissey",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83918,
+      "url": "https://www.tcgplayer.com/product/83918/pokemon-neo-revelation-blissey"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Celebi 3",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "03/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Time Travel\u003c/strong\u003e If an opponent's attack would Knock Out Celebi, flip a coin. If heads, Celebi isn't Knocked Out and you shuffle it and all cards attached to it into your deck. This power doesn't work if Celebi is already Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Psychic Damage\r\n\u003cbr\u003eFlip 3 coins. For each heads, put 1 damage counter on the Defending Pokémon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84141_200w.jpg",
+      "modifiedOn": "2022-11-27T18:24:35.05",
+      "name": "Celebi (3)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84141,
+      "url": "https://www.tcgplayer.com/product/84141/pokemon-neo-revelation-celebi-3"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Celebi 16",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "16/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[GG] Psychic Leaf (10+)\r\n\u003cbr\u003eFlip a coin for each Energy attached to the Defending Pokémon. This attack does 10 damage plus 10 more damage for each heads. Remove a number of damage counters from Celebi equal to the damage done to the Defending Pokémon \u003cem\u003e(after applying Weakness and Resistance)\u003c/em\u003e. If Celebi has fewer damage counters than that, remove all of them."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84142_200w.jpg",
+      "modifiedOn": "2022-11-27T18:23:06.65",
+      "name": "Celebi (16)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84142,
+      "url": "https://www.tcgplayer.com/product/84142/pokemon-neo-revelation-celebi-16"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Chinchou",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "42/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[L] Positive Ion (10+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 10 damage plus 10 more damage. If tails, this attack does 10 damage."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[W] Negative Ion (10)\r\n\u003cbr\u003eIf the Defending Pokémon attacks Chinchou during your opponent's next turn, any damage done to Chinchou is reduced by 10 \u003cem\u003e(before applying Weakness and Resistance)\u003c/em\u003e. \u003cem\u003e(Benching or evolving either Pokémon ends this effect.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84299_200w.jpg",
+      "modifiedOn": "2025-02-05T21:03:42.79",
+      "name": "Chinchou",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84299,
+      "url": "https://www.tcgplayer.com/product/84299/pokemon-neo-revelation-chinchou"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Crobat",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "04/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Triggered Poison (20)\r\n\u003cbr\u003eIf your opponent attaches an Energy card to the Defending Pokémon during his or her next turn, that Pokémon becomes Poisoned."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1GG] Cross Attack (20x)\r\n\u003cbr\u003eFlip 4 coins. This attack does 20 damage times the number of heads. If you get 2 or more heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84482_200w.jpg",
+      "modifiedOn": "2022-11-27T18:27:08.563",
+      "name": "Crobat",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84482,
+      "url": "https://www.tcgplayer.com/product/84482/pokemon-neo-revelation-crobat"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Delibird",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "05/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Present\r\n\u003cbr\u003eFlip 3 coins. If exactly 1 is heads, this attack does 40 damage. If exactly 2 are heads, remove 3 damage counters from the Defending Pokémon. If the Defending Pokémon has fewer damage counters than that, remove all of them. If all 3 are heads, this attack does 60 damage. If all 3 are tails, remove all damage counters from the Defending Pokémon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84745_200w.jpg",
+      "modifiedOn": "2022-11-27T18:28:11.217",
+      "name": "Delibird",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84745,
+      "url": "https://www.tcgplayer.com/product/84745/pokemon-neo-revelation-delibird"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Entei 6",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "06/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Howl\u003c/strong\u003e When you play Entei from your hand, you may discard the top 5 cards of your deck. \u003cem\u003e(If you have fewer cards in your deck than that, discard all of them.)\u003c/em\u003e If any of those are Fire Energy cards, attach them to any of your Fire Pokémon of your choice. Using this power ends your turn."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[RRR] Searing Flames (60)\r\n\u003cbr\u003eDiscard 2 Fire Energy cards attached to Entei or this attack does nothing."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85266_200w.jpg",
+      "modifiedOn": "2025-11-11T05:33:34.007",
+      "name": "Entei (6)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85266,
+      "url": "https://www.tcgplayer.com/product/85266/pokemon-neo-revelation-entei-6"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Entei 17",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "17/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Legendary Body\u003c/strong\u003e As long as Entei is your Active Pokémon, Entei and Energy cards attached to it aren't affected by effects from Trainer cards other than Stadium cards. As long as this Power is active, discard any Trainer cards attached to Entei. \u003cem\u003e(This power works even if Entei is Asleep, Confused, or Paralyzed.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[RRR] Mega Flame (50)\r\n\u003cbr\u003eFlip 2 coins. For each tails, discard 1 Fire Energy card from Entei, if it has any."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85269_200w.jpg",
+      "modifiedOn": "2025-11-22T03:29:51.383",
+      "name": "Entei (17)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85269,
+      "url": "https://www.tcgplayer.com/product/85269/pokemon-neo-revelation-entei-17"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Farfetchd",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "43/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Gust (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Leek Jab (40)\r\n\u003cbr\u003eThis attack can't be used during your next turn. \u003cem\u003e(Benching Farfetch'd ends this effect.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85382_200w.jpg",
+      "modifiedOn": "2025-11-22T03:30:40.517",
+      "name": "Farfetch'd",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85382,
+      "url": "https://www.tcgplayer.com/product/85382/pokemon-neo-revelation-farfetchd"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Flaaffy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "28/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[L] Electric Punch (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2L] Tail Shock (30)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. \u003cem\u003e(Don't apply Weakness and Resistance for Benched Pokémon.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85473_200w.jpg",
+      "modifiedOn": "2025-02-05T21:03:42.837",
+      "name": "Flaaffy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85473,
+      "url": "https://www.tcgplayer.com/product/85473/pokemon-neo-revelation-flaaffy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Geodude",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "44/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Knuckle Punch (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85683_200w.jpg",
+      "modifiedOn": "2025-02-05T21:03:42.883",
+      "name": "Geodude",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85683,
+      "url": "https://www.tcgplayer.com/product/85683/pokemon-neo-revelation-geodude"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Golbat",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "29/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Screech\r\n\u003cbr\u003eUntil the end of your next turn, if an attack damages the Defending Pokémon \u003cem\u003e(after applying Weakness and Resistance)\u003cem\u003e, that attack does 20 more damage to the Defending Pokémon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1G] Poison Bite (10)\r\n\u003cbr\u003eIf this attack damages the Defending Pokémon, the Defending Pokémon is now Poisoned and you remove a number of damage counters from Golbat equal to half that damage (rounded up to the nearest 10). If Golbat has fewer damage counters than that, remove all of them. Either way, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85790_200w.jpg",
+      "modifiedOn": "2023-08-16T14:55:28.667",
+      "name": "Golbat",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85790,
+      "url": "https://www.tcgplayer.com/product/85790/pokemon-neo-revelation-golbat"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Goldeen",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "45/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Fin Smack (10x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85801_200w.jpg",
+      "modifiedOn": "2022-11-27T18:38:50.043",
+      "name": "Goldeen",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85801,
+      "url": "https://www.tcgplayer.com/product/85801/pokemon-neo-revelation-goldeen"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Graveler",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "30/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1F] Earthquake (40)\r\n\u003cbr\u003eDoes 10 damage to each of your own Benched Pokémon. \u003cem\u003e(Don't apply Weakness and Resistance for Benched Pokémon.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[FFF] Rock Tumble (50)\r\n\u003cbr\u003eDon't apply Resistance."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85885_200w.jpg",
+      "modifiedOn": "2025-11-22T03:31:42.97",
+      "name": "Graveler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85885,
+      "url": "https://www.tcgplayer.com/product/85885/pokemon-neo-revelation-graveler"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Healing Field",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "61/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Stadium"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.\r\n\u003cbr\u003e\r\nOnce during each player's turn, he or she may flip a coin. If heads, that player removes 2 damage counters from his or her Active Pokémon (1 if it only has 1)."
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86041_200w.jpg",
+      "modifiedOn": "2023-08-23T09:19:11.157",
+      "name": "Healing Field",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86041,
+      "url": "https://www.tcgplayer.com/product/86041/pokemon-neo-revelation-healing-field"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ho oh 7",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "07/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[R] Stoke\r\n\u003cbr\u003eYou may search your deck for a Fire Energy card and attach it to Ho-oh. Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[RRR] Sacred Fire\r\n\u003cbr\u003eFlip a coin. If heads, choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. Don't apply Weakness and Resistance."
+        },
+        {
+          "displayName": "Attack 3",
+          "name": "Attack 3",
+          "value": "[RRRRR] Dive Bomb (90)\r\n\u003cbr\u003eFlip a coin. If tails, this attack does nothing."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86118_200w.jpg",
+      "modifiedOn": "2022-11-27T18:42:24.13",
+      "name": "Ho-oh (7)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86118,
+      "url": "https://www.tcgplayer.com/product/86118/pokemon-neo-revelation-ho-oh-7"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ho oh 18",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "18/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[4] Rainbow Burn (30+)\r\n\u003cbr\u003eThis attack does 30 damage plus 10 more for each type of Basic Energy card, if any, attached to Ho-oh."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86119_200w.jpg",
+      "modifiedOn": "2023-11-29T08:44:05.34",
+      "name": "Ho-oh (18)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86119,
+      "url": "https://www.tcgplayer.com/product/86119/pokemon-neo-revelation-ho-oh-18"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Houndoom",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "08/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[R] Dark Flame (20)\r\n\u003cbr\u003eDiscard 1 Fire Energy card attached to Houndoom or this attack does nothing. If there are any Darkness Energy cards in your discard pile, attach 1 of them to Houndoom."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2D] Black Fang (30+)\r\n\u003cbr\u003eFlip a number of coins equal to the number of Darkness Energy attached to Houndoom. This attack does 30 damage plus 10 more damage for each heads."
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86198_200w.jpg",
+      "modifiedOn": "2022-11-27T18:43:39.023",
+      "name": "Houndoom",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86198,
+      "url": "https://www.tcgplayer.com/product/86198/pokemon-neo-revelation-houndoom"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Jumpluff",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "09/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Evolutionary Spore\r\n\u003cbr\u003eChoose any number of your Hoppips and Skiplooms. Then, for each Pokémon you chose in this way, you may search your deck for a card that evolves from that Pokémon and attach it to that Pokémon. \u003cem\u003e(This counts as evolving those Pokémon.)\u003c/em\u003e Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[G] Solarbeam (30)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86362_200w.jpg",
+      "modifiedOn": "2025-11-11T05:45:48.727",
+      "name": "Jumpluff",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86362,
+      "url": "https://www.tcgplayer.com/product/86362/pokemon-neo-revelation-jumpluff"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Jynx",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "31/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Freezing Kiss Goodnight\r\n\u003cbr\u003eThe Defending Pokémon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1PP] Strange Dance (20+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 20 damage plus 20 more damage and the Defending Pokémon is now Confused. If tails, this attack does 20 damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86373_200w.jpg",
+      "modifiedOn": "2023-07-08T14:19:40.457",
+      "name": "Jynx",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86373,
+      "url": "https://www.tcgplayer.com/product/86373/pokemon-neo-revelation-jynx"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Kingdra",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "19/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Genetic Memory\r\n\u003cbr\u003eUse any attack from Kingdra's Basic Pokémon card or Evolution card. (Kingdra doesn't have to pay for that attack's Energy cost.)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2WW] Twister (50)\r\n\u003cbr\u003eFlip 2 coins. For each heads, choose an Energy card attached to the Defending Pokémon, if any, and discard it. If both are tails, this attack does nothing \u003cem\u003e(not even damage)\u003c/em\u003e."
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86442_200w.jpg",
+      "modifiedOn": "2026-01-30T16:14:59.517",
+      "name": "Kingdra",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86442,
+      "url": "https://www.tcgplayer.com/product/86442/pokemon-neo-revelation-kingdra"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Lanturn",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "32/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Submerge\u003c/strong\u003e Once during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may change Lanturn's type to Water until the end of your turn. This power can't be used if Lanturn is Asleep, Confused, or Paralyzed. If Lanturn becomes Asleep, Confused, or Paralyzed after you have used this power, its type changes back to Lightning."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2L] Blinding Light (30)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86602_200w.jpg",
+      "modifiedOn": "2024-09-22T04:00:52.1",
+      "name": "Lanturn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86602,
+      "url": "https://www.tcgplayer.com/product/86602/pokemon-neo-revelation-lanturn"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Lugia",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "20/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[4] Aerowing (40)\r\n\u003cbr\u003eYou may flip a coin. If heads, this attack does 80 damage. If tails, this attack does nothing."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86904_200w.jpg",
+      "modifiedOn": "2023-12-13T18:23:43.147",
+      "name": "Lugia",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86904,
+      "url": "https://www.tcgplayer.com/product/86904/pokemon-neo-revelation-lugia"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magcargo",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "33/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Magma Pool\u003c/strong\u003e If Magcargo is your Active Pokémon and moves to the Bench, remove 1 Fire Energy card attached to Magcargo, if any, and attach it to the new Active Pokémon. \u003cem\u003e(You can't choose an Energy card that you used to pay the Retreat Cost.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[RRR] Lava Flow (40+)\r\n\u003cbr\u003eYou may discard any number of Fire Energy cards attached to Magcargo when you use this attack. If you do, this attack does 40 damage plus 20 more damage for each Fire Energy card you discarded in this way."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87012_200w.jpg",
+      "modifiedOn": "2023-10-20T13:42:31.093",
+      "name": "Magcargo",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87012,
+      "url": "https://www.tcgplayer.com/product/87012/pokemon-neo-revelation-magcargo"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magneton",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "10/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Metal"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Electromagnetic Power\u003c/strong\u003e\r\n\u003cbr\u003e\r\nAs often as you like during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may take 1 Energy card attached to 1 of your Magnemites, Magnetons, or Dark Magnetons and attach it to a different 1 of your Magnemites, Magnetons, or Dark Magnetons. This power can't be used if Magneton is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1LL] Plasma (30)\r\n\u003cbr\u003eIf there are any Lightning Energy cards in your discard pile, attach 1 of them to Magneton."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "G-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87092_200w.jpg",
+      "modifiedOn": "2022-11-27T18:53:08.05",
+      "name": "Magneton",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87092,
+      "url": "https://www.tcgplayer.com/product/87092/pokemon-neo-revelation-magneton"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Misdreavus",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "11/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Night Eyes\r\n\u003cbr\u003eThe Defending Pokémon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[PPP] Perish Song\r\n\u003cbr\u003eIf the Defending Pokémon is Asleep, and was attacked with Night Eyes during your last turn, it is Knocked Out."
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87501_200w.jpg",
+      "modifiedOn": "2022-11-27T18:54:14.72",
+      "name": "Misdreavus",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87501,
+      "url": "https://www.tcgplayer.com/product/87501/pokemon-neo-revelation-misdreavus"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Murkrow",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "46/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Call for Family\r\n\u003cbr\u003eSearch your deck for a card named Murkrow and put it onto your Bench. Shuffle your deck afterward. \u003cem\u003e(You can't use this attack if your Bench is full.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Flock Attack (10+)\r\n\u003cbr\u003eFlip a number of coins equal to the number of Murkrows on your Bench. This attack does 10 damage plus 10 more damage for each heads."
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87647_200w.jpg",
+      "modifiedOn": "2025-02-05T21:03:42.943",
+      "name": "Murkrow",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87647,
+      "url": "https://www.tcgplayer.com/product/87647/pokemon-neo-revelation-murkrow"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Octillery",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "34/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Constrict (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[WWW] Octazooka (40)\r\n\u003cbr\u003eFlip a coin. If heads, whenever the Defending Pokémon attacks, your opponent flips a coin. If tails that attack does nothing. \u003cem\u003e(Benching or evolving that Pokémon ends this effect.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87830_200w.jpg",
+      "modifiedOn": "2025-11-22T03:33:08.173",
+      "name": "Octillery",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87830,
+      "url": "https://www.tcgplayer.com/product/87830/pokemon-neo-revelation-octillery"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Old Rod",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "64/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Item"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Flip 2 coins. If both are heads, put a Baby Pokémon, Basic Pokémon, or Evolution card from your discard pile into your hand. If both are tails, put a Trainer card from your discard pile into your hand."
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87851_200w.jpg",
+      "modifiedOn": "2022-11-27T19:32:09.38",
+      "name": "Old Rod",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87851,
+      "url": "https://www.tcgplayer.com/product/87851/pokemon-neo-revelation-old-rod"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Paras",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "47/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Sleep Spore (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Scratch (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87947_200w.jpg",
+      "modifiedOn": "2025-11-22T03:34:55.933",
+      "name": "Paras",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87947,
+      "url": "https://www.tcgplayer.com/product/87947/pokemon-neo-revelation-paras"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Parasect",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "35/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Allergic Pollen\u003c/strong\u003e As long as Parasect is in play, cards in any player's discard piles are not affected by attacks or Pokémon Power. This power stops working if Parasect becomes Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[GG] Sleep Pinchers (30)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Asleep."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87955_200w.jpg",
+      "modifiedOn": "2025-11-22T03:35:36.177",
+      "name": "Parasect",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87955,
+      "url": "https://www.tcgplayer.com/product/87955/pokemon-neo-revelation-parasect"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Piloswine",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "36/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Nap\r\n\u003cbr\u003eRemove 3 damage counters from Piloswine. If it has fewer damage counters than that, remove all of them."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2FF] High-Speed Charge (80)\r\n\u003cbr\u003ePiloswine does 30 damage to itself. Piloswine can't use this attack during your next turn."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "L-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88114_200w.jpg",
+      "modifiedOn": "2022-11-27T19:32:41.643",
+      "name": "Piloswine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88114,
+      "url": "https://www.tcgplayer.com/product/88114/pokemon-neo-revelation-piloswine"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pokemon Breeder Fields",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "62/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Flip a coin for 1 or 2 of your non-Baby Pokémon that can evolve. For each heads, search your deck for a later-Stage card that matches that Pokémon. Then put that card into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88208_200w.jpg",
+      "modifiedOn": "2025-02-05T21:03:43.04",
+      "name": "Pokemon Breeder Fields",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88208,
+      "url": "https://www.tcgplayer.com/product/88208/pokemon-neo-revelation-pokemon-breeder-fields"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Porygon2",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "12/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Energy Converter\u003c/strong\u003e Once during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may choose 1 basic Energy card attached to 1 of your Pokémon and choose an Energy type. Treat that Energy card as that type until the end of your turn. This power can't be used if Porygon2 is Asleep, Confused, or Paralyzed. If Porygon2 becomes Asleep, Confused, or Paralyzed, the Energy card goes back to its original type."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[3] Delta Beam (20)\r\n\u003cbr\u003eFlip a coin. If heads, choose whether the Defending Pokémon becomes Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88322_200w.jpg",
+      "modifiedOn": "2025-11-11T05:47:55.927",
+      "name": "Porygon2",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88322,
+      "url": "https://www.tcgplayer.com/product/88322/pokemon-neo-revelation-porygon2"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Quagsire",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "48/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[FF] Mud Slap (30)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2WW] Whirlpool (40)\r\n\u003cbr\u003eIf the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "L-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88469_200w.jpg",
+      "modifiedOn": "2025-01-02T21:40:39.663",
+      "name": "Quagsire",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88469,
+      "url": "https://www.tcgplayer.com/product/88469/pokemon-neo-revelation-quagsire"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Qwilfish",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "49/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Poison Sting (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Needle Storm (20x)\r\n\u003cbr\u003eFlip a coin until you get tails. This attack does 20 damage times the number of heads you get."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88492_200w.jpg",
+      "modifiedOn": "2023-07-13T15:51:43.713",
+      "name": "Qwilfish",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88492,
+      "url": "https://www.tcgplayer.com/product/88492/pokemon-neo-revelation-qwilfish"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Raichu",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "21/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1L] Thundershock (20)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[LLL] Lightning Strike (40)\r\n\u003cbr\u003eYou may discard all Lightning Energy cards attached to Raichu. If you do, this attack does 80 damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88500_200w.jpg",
+      "modifiedOn": "2025-11-22T03:36:25.027",
+      "name": "Raichu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88500,
+      "url": "https://www.tcgplayer.com/product/88500/pokemon-neo-revelation-raichu"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Raikou 13",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "13/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Lightning Burst\u003c/strong\u003e Whenever you attach a Lightning Energy card from your hand to Raikou, if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. This power stops working while Raikou is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[LLL] Lightning Tackle (50)\r\n\u003cbr\u003eFlip a coin. If tails, Raikou does 20 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88529_200w.jpg",
+      "modifiedOn": "2023-08-08T14:31:23.103",
+      "name": "Raikou (13)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88529,
+      "url": "https://www.tcgplayer.com/product/88529/pokemon-neo-revelation-raikou-13"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Raikou 22",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "22/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Legendary Body\u003c/strong\u003e As long as Raikou is your Active Pokémon, Raikou and Energy cards attached to it aren't affected by effects from Trainer cards other than Stadium cards. As long as this Power is active, discard any Trainer cards attached to Raikou. \u003cem\u003e(This power works even if Raikou is Asleep, Confused, or Paralyzed.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[LLL] Lightning Spark (30)\r\n\u003cbr\u003eIf your opponent has any Benched Pokémon, flip a coin. If heads, choose 1 of them and this attack does 20 damage to it. \u003cem\u003e(Don't apply Weakness and Resistance for Benched Pokémon.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88530_200w.jpg",
+      "modifiedOn": "2022-11-27T19:29:07.507",
+      "name": "Raikou (22)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88530,
+      "url": "https://www.tcgplayer.com/product/88530/pokemon-neo-revelation-raikou-22"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Remoraid",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "50/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Sharpshooting\r\n\u003cbr\u003eFlip a coin. If heads, choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokemon. Don't apply Weakness and Resistance."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88692_200w.jpg",
+      "modifiedOn": "2025-02-05T21:03:43.087",
+      "name": "Remoraid",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88692,
+      "url": "https://www.tcgplayer.com/product/88692/pokemon-neo-revelation-remoraid"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Rockets Hideout",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "63/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Stadium"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.\r\n\u003cbr\u003e\r\nEach Pokémon in play with Dark in its name \u003cem\u003e(even your opponent's)\u003c/em\u003e gets +20 HP."
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88770_200w.jpg",
+      "modifiedOn": "2025-11-22T03:37:20.937",
+      "name": "Rocket's Hideout",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88770,
+      "url": "https://www.tcgplayer.com/product/88770/pokemon-neo-revelation-rockets-hideout"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Seaking",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "37/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Rising Lunge (10+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 10 damage plus 10 more damage. If tails, this attack does 10 damage."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[WW] Horn Swipe (20+)\r\n\u003cbr\u003eFlip 2 coins. If both are heads, this attack does 20 damage plus 40 more damage. If 1 or both are tails, this attack does 20 damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89022_200w.jpg",
+      "modifiedOn": "2025-11-22T03:38:30.58",
+      "name": "Seaking",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89022,
+      "url": "https://www.tcgplayer.com/product/89022/pokemon-neo-revelation-seaking"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Shining Gyarados",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "65/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[FFW] Outrage (30+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 30 damage plus 10 more damage for each damage counter on Shining Gyarados. If tails, this attack does nothing."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[WWRR] Devastate (50)\r\n\u003cbr\u003eDiscard 2 Fire Energy cards attached to Shining Gyarados or this attack does nothing. This attack does 10 damage to each of your opponent's Benched Pokémon. \u003cem\u003e(Don't apply Weakness and Resistance for Benched Pokémon.)\u003c/em\u003e Then, flip a coin. If heads, choose 1 Energy card attached to each of your opponent's Pokémon that has any Energy cards attached to it and discard those Energy cards."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89164_200w.jpg",
+      "modifiedOn": "2022-11-27T19:30:37.277",
+      "name": "Shining Gyarados",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89164,
+      "url": "https://www.tcgplayer.com/product/89164/pokemon-neo-revelation-shining-gyarados"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Shining Magikarp",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "66/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Gold Scale\r\n\u003cbr\u003eYour opponent may draw 2 cards. Either way, you may draw 2 cards."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[P] Dragon Bond\r\n\u003cbr\u003eSearch your deck for a card named Gyarados, Dark Gyarados, or Shining Gyarados. Show it to your opponent and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89166_200w.jpg",
+      "modifiedOn": "2023-03-02T14:24:00.213",
+      "name": "Shining Magikarp",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89166,
+      "url": "https://www.tcgplayer.com/product/89166/pokemon-neo-revelation-shining-magikarp"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Shuckle",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "51/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Hard Shell\u003c/strong\u003e Whenever an attack \u003cem\u003e(including your own) does 40 or less damage to Shuckle \u003cem\u003e(after applying Weakness and Resistance)\u003c/em\u003e, reduce that damage to 10. \u003cem\u003e(Any other effects of attacks still happen.)\u003c/em\u003e This power stops working while Shuckle is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[GG] Toxic Saliva\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokemon is now Poisoned. It now takes 20 Poison damage after each player's turn \u003cem\u003e(even if it was already Poisoned)\u003c/em\u003e."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89187_200w.jpg",
+      "modifiedOn": "2025-02-05T21:03:43.133",
+      "name": "Shuckle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89187,
+      "url": "https://www.tcgplayer.com/product/89187/pokemon-neo-revelation-shuckle"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Skarmory",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "23/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Metal"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Fury Attack (10x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2M] Agility (20)\r\n\u003cbr\u003eFlip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Skarmory."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "G-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89233_200w.jpg",
+      "modifiedOn": "2022-11-27T19:31:07.68",
+      "name": "Skarmory",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89233,
+      "url": "https://www.tcgplayer.com/product/89233/pokemon-neo-revelation-skarmory"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Skiploom",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "52/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Hop (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[G] Mysterious Powder (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89253_200w.jpg",
+      "modifiedOn": "2023-07-13T16:07:15.93",
+      "name": "Skiploom",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89253,
+      "url": "https://www.tcgplayer.com/product/89253/pokemon-neo-revelation-skiploom"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Slugma",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "53/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[R] Flare (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[RR] Magma Ring (20)\r\n\u003cbr\u003eThe Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89336_200w.jpg",
+      "modifiedOn": "2025-11-22T03:39:57.24",
+      "name": "Slugma",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89336,
+      "url": "https://www.tcgplayer.com/product/89336/pokemon-neo-revelation-slugma"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Smoochum",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "54/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cem\u003eIf this Baby Pokémon is your Active Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends.\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Psykiss\r\n\u003cbr\u003eFlip a coin. If heads, choose a Special Energy card attached to 1 of your opponent's Pokémon. Your opponent shuffles that card into his or her deck."
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89359_200w.jpg",
+      "modifiedOn": "2025-01-31T19:12:46.53",
+      "name": "Smoochum",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89359,
+      "url": "https://www.tcgplayer.com/product/89359/pokemon-neo-revelation-smoochum"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Sneasel",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "24/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[D] Swipe\r\n\u003cbr\u003e\r\nFlip a coin. If heads, discard all Trainer cards attached to your opponent's Pokémon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Quick Attack (10+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 10 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89366_200w.jpg",
+      "modifiedOn": "2025-11-22T03:40:43.797",
+      "name": "Sneasel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89366,
+      "url": "https://www.tcgplayer.com/product/89366/pokemon-neo-revelation-sneasel"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Snubbull",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "55/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Bite (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Raging Headbutt (10+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 10 damage plus 10 damage times the number of damage counters on Snubbull. If tails, this attack does 10 damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89411_200w.jpg",
+      "modifiedOn": "2025-11-22T03:41:27.74",
+      "name": "Snubbull",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89411,
+      "url": "https://www.tcgplayer.com/product/89411/pokemon-neo-revelation-snubbull"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Stantler",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "38/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Terrorize\r\n\u003cbr\u003eIf the Defending Pokémon is a Basic, choose 1 of its attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Overhead Toss (30)\r\n\u003cbr\u003eIf you have any Benched Pokémon, flip a coin. If tails, this attack does 10 damage to 1 of them. \u003cem\u003e(Don't apply Weakness and Resistance for Benched Pokémon.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89500_200w.jpg",
+      "modifiedOn": "2025-11-22T03:42:02.743",
+      "name": "Stantler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89500,
+      "url": "https://www.tcgplayer.com/product/89500/pokemon-neo-revelation-stantler"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Starmie",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "25/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Confuse Ray (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1PP] Core Stream\r\n\u003cbr\u003eChoose an Energy type other than Colorless. This attack does 20 damage to each of your opponent's Pokémon with any Energy cards of that type attached to it. Don't apply Weakness and Resistance."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89527_200w.jpg",
+      "modifiedOn": "2022-11-27T19:39:45.84",
+      "name": "Starmie",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89527,
+      "url": "https://www.tcgplayer.com/product/89527/pokemon-neo-revelation-starmie"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Staryu",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "56/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Tackle (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[W] Bubblebeam (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89542_200w.jpg",
+      "modifiedOn": "2025-02-05T21:03:43.437",
+      "name": "Staryu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89542,
+      "url": "https://www.tcgplayer.com/product/89542/pokemon-neo-revelation-staryu"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Sudowoodo",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "26/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Mimic\u003c/strong\u003e As long as Sudowoodo is your Active Pokémon, it copies all of the Defending Pokémon's attacks, including their costs. This power can't be used if Sudowoodo is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Slam (20x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 20 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89590_200w.jpg",
+      "modifiedOn": "2023-07-27T17:12:26.06",
+      "name": "Sudowoodo",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89590,
+      "url": "https://www.tcgplayer.com/product/89590/pokemon-neo-revelation-sudowoodo"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Suicune 14",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "14/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Crystal Body\u003c/strong\u003e Prevent all effects of your opponent's attacks, other than damage, done to Suicune. This power stops working while Suicune is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[WWW] Aurora Wave (30)\r\n\u003cbr\u003eFlip 2 coins. If both are heads, the Defending Pokémon is now Paralyzed. If only 1 is heads, the Defending Pokémon is now Asleep."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89597_200w.jpg",
+      "modifiedOn": "2025-11-11T06:00:19.133",
+      "name": "Suicune (14)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89597,
+      "url": "https://www.tcgplayer.com/product/89597/pokemon-neo-revelation-suicune-14"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Suicune 27",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "27/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Legendary Body\u003c/strong\u003e As long as Suicune is your Active Pokémon, Suicune and Energy cards attached to it aren't affected by effects from Trainer cards other than Stadium cards. As long as this power is active, discard any Trainer cards attached to Suicune. \u003cem\u003e(This power works even if Suicune is Asleep, Confused, or Paralyzed.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[WWW] Crystal Wave (30+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 30 damage plus 10 more damage. If tails, this attack does 30 damage and, if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89599_200w.jpg",
+      "modifiedOn": "2022-11-27T19:45:17.78",
+      "name": "Suicune (27)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89599,
+      "url": "https://www.tcgplayer.com/product/89599/pokemon-neo-revelation-suicune-27"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Swinub",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "57/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Tackle (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1F] Take Down (30)\r\n\u003cbr\u003eSwinub does 10 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "L-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89697_200w.jpg",
+      "modifiedOn": "2025-11-22T03:46:58.53",
+      "name": "Swinub",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89697,
+      "url": "https://www.tcgplayer.com/product/89697/pokemon-neo-revelation-swinub"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Unown B",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "39/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: [Bear]\u003c/strong\u003e Once during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may move 1 damage counter from 1 of your Pokémon with Unown in its name to Unown [B]. This power can't be used if Unown [B] has 10 HP left. This power can be used even if Unown [B] is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Hidden Power (10)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90199_200w.jpg",
+      "modifiedOn": "2025-11-22T03:44:03.177",
+      "name": "Unown [B]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90199,
+      "url": "https://www.tcgplayer.com/product/90199/pokemon-neo-revelation-unown-b"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Unown K",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "58/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: [Keep]\u003c/strong\u003e Your opponent's attacks, Pokémon Powers, and Trainer cards can't discard Energy cards from your Pokémon with Unown in their names. \u003cem\u003e(Any other effects still happen.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Hidden Power (10)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90217_200w.jpg",
+      "modifiedOn": "2025-11-22T03:45:13.71",
+      "name": "Unown [K]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90217,
+      "url": "https://www.tcgplayer.com/product/90217/pokemon-neo-revelation-unown-k"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Unown Y",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "40/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: [Yield]\u003c/strong\u003e Once during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may flip a coin. If heads, search your deck for a Psychic Energy card and attach it to 1 of your Pokémon with Unown in its name. Shuffle your deck afterward. This power can be used even if Unown [Y] is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Hidden Power (10)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90244_200w.jpg",
+      "modifiedOn": "2025-11-22T03:45:45.287",
+      "name": "Unown [Y]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90244,
+      "url": "https://www.tcgplayer.com/product/90244/pokemon-neo-revelation-unown-y"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Zubat",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "59/64"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Bite (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[G] Poison Spray\r\n\u003cbr\u003eThe Defending Pokémon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90766_200w.jpg",
+      "modifiedOn": "2025-02-05T21:03:43.547",
+      "name": "Zubat",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90766,
+      "url": "https://www.tcgplayer.com/product/90766/pokemon-neo-revelation-zubat"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Neo Revelation Booster Pack 1st Edition",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "This booster pack contains 11 cards for Wizards of the Coast printed Neo Revelation set."
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/138145_200w.jpg",
+      "modifiedOn": "2017-07-22T16:19:25.193",
+      "name": "Neo Revelation Booster Pack [1st Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 138145,
+      "url": "https://www.tcgplayer.com/product/138145/pokemon-neo-revelation-neo-revelation-booster-pack-1st-edition"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Neo Revelation Booster Pack Unlimited Edition",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "This booster pack contains 11 cards for Wizards of the Coast printed Neo Revelation set."
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/138146_200w.jpg",
+      "modifiedOn": "2017-07-22T16:19:30",
+      "name": "Neo Revelation Booster Pack [Unlimited Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 138146,
+      "url": "https://www.tcgplayer.com/product/138146/pokemon-neo-revelation-neo-revelation-booster-pack-unlimited-edition"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Neo Revelation Booster Box 1st Edition",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "THE LEGEND AWAKENS\r\nFrom beneath a fire-ravaged tower, three ancient and powerful Pokémon emerge. The journey of worldwide adventure continues with the revelation of these legendary Pokémon.\r\nThis display box contains\r\n 36 booster packs, each with 11 game cards"
+        },
+        {
+          "displayName": "UPC",
+          "name": "UPC",
+          "value": "076930885635"
+        }
+      ],
+      "groupId": 1389,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/634445_200w.jpg",
+      "modifiedOn": "2025-05-29T18:04:23.283",
+      "name": "Neo Revelation Booster Box [1st Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 634445,
+      "url": "https://www.tcgplayer.com/product/634445/pokemon-neo-revelation-neo-revelation-booster-box-1st-edition"
+    }
+  ],
+  "success": true,
+  "totalItems": 69
+}

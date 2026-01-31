@@ -1,0 +1,4438 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Cut Down",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "432"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target creature with total power and toughness 5 or less."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"There can be no mercy, no half measures. When facing Phyrexians, it's kill swiftly or die.\"\u003cbr\u003e—Jodah\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/282853_200w.jpg",
+      "modifiedOn": "2023-10-06T15:45:02.46",
+      "name": "Cut Down",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 282853,
+      "url": "https://www.tcgplayer.com/product/282853/magic-promo-pack-dominaria-united-cut-down"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nishoba Brawler",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "434"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Cat Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "*"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\r\n\u003cbr\u003e\r\n\u003cem\u003eDomain\u003c/em\u003e — Nishoba Brawler's power is equal to the number of basic land types among lands you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThough native to cold climates, the nishoba have adapted to more temperate environments since the Ice Age ended.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/282870_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Nishoba Brawler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 282870,
+      "url": "https://www.tcgplayer.com/product/282870/magic-promo-pack-dominaria-united-nishoba-brawler"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Micromancer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "431"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Micromancer enters the battlefield, you may search your library for an instant or sorcery card with mana value 1, reveal it, put it into your hand, then shuffle."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIdeas don't have to be big to be great.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/282873_200w.jpg",
+      "modifiedOn": "2025-05-15T19:52:27.003",
+      "name": "Micromancer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 282873,
+      "url": "https://www.tcgplayer.com/product/282873/magic-promo-pack-dominaria-united-micromancer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lightning Strike",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "433"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lightning Strike deals 3 damage to any target."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eDanitha watched in shock as electricity lanced from Jaya's fingertips, obliterating the charging Phyrexians. \"What?\" said the pyromancer serenely. \"I told you I'd learned some new tricks.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/282882_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Lightning Strike",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 282882,
+      "url": "https://www.tcgplayer.com/product/282882/magic-promo-pack-dominaria-united-lightning-strike"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Resolute Reinforcements",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "430"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\r\n\u003cbr\u003e\r\nWhen Resolute Reinforcements enters the battlefield, create a 1/1 white Soldier creature token."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eMorale rarely survives the sudden appearance of a squad of Sursi skirmishers at an army’s flank.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/283441_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Resolute Reinforcements",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 283441,
+      "url": "https://www.tcgplayer.com/product/283441/magic-promo-pack-dominaria-united-resolute-reinforcements"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Karn Living Legacy",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Karn"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "[+1]: Create a tapped Powerstone token. \u003cem\u003e(It's an artifact with \"T: Add C, This mana can't be spent to cast a nonartifact spell.\")\u003c/em\u003e\r\n\u003cbr\u003e[-1]: Pay an amount of mana. Look at that many cards from the top of your library, then put one of those cards into your hand and the rest on the bottom of your library in a random order.\r\n\u003cbr\u003e[-7]: You get an emblem with \"Tap an untapped artifact you control: This emblem deals 1 damage to any target.\""
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284500_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Karn, Living Legacy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 284500,
+      "url": "https://www.tcgplayer.com/product/284500/magic-promo-pack-dominaria-united-karn-living-legacy"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Serra Paragon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "32"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Angel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eOnce during each of your turns, you may play a land card from your graveyard or cast a permanent spell with mana value 3 or less from your graveyard. If you do, it gains “When this permanent is put into a graveyard from the battlefield, exile it and you gain 2 life.”"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284501_200w.jpg",
+      "modifiedOn": "2024-01-03T20:28:58.84",
+      "name": "Serra Paragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284501,
+      "url": "https://www.tcgplayer.com/product/284501/magic-promo-pack-dominaria-united-serra-paragon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sphinx of Clear Skies",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "67"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Sphinx"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, ward 2\r\n\u003cbr\u003e\r\n\u003cem\u003eDomain\u003c/em\u003e — Whenever Sphinx of Clear Skies deals combat damage to a player, reveal the top X cards of your library, where X is the number of basic land types among lands you control. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284502_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Sphinx of Clear Skies",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 284502,
+      "url": "https://www.tcgplayer.com/product/284502/magic-promo-pack-dominaria-united-sphinx-of-clear-skies"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Vesuvan Duplimancy",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "73"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you cast a spell that targets only single artifact or creature you control, create a token that's a copy of that artifact or creature, except it's not legendary."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“There hasn’t been an original thought on Vesuva in centuries.” \u003cbr\u003e—Emmest, Tolarian chronicler"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284503_200w.jpg",
+      "modifiedOn": "2024-01-20T17:55:59.1",
+      "name": "Vesuvan Duplimancy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284503,
+      "url": "https://www.tcgplayer.com/product/284503/magic-promo-pack-dominaria-united-vesuvan-duplimancy"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Liliana of the Veil",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "97"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Liliana"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "[+1]: Each player discards a card.\r\n\u003cbr\u003e[-2]: Target player sacrifices a creature.\r\n\u003cbr\u003e[-6]: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284520_200w.jpg",
+      "modifiedOn": "2024-12-11T18:19:18",
+      "name": "Liliana of the Veil",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284520,
+      "url": "https://www.tcgplayer.com/product/284520/magic-promo-pack-dominaria-united-liliana-of-the-veil"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Jaya Fiery Negotiator",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "133"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Jaya"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "[+1]: Create a 1/1 red Monk creature token with prowess.\r\n\u003cbr\u003e[-1]: Exile the top two cards of your library. Choose one of them. You may play that card this turn.\r\n\u003cbr\u003e[-2]: Choose target creature an opponent controls. Whenever you attack this turn, Jaya, Fiery Negotiator deals damage equal to the number of attacking creatures to that creature.\r\n\u003cbr\u003e[-8]: You get an emblem with \"Whenever you cast a red instant or sorcery spell, copy it twice. You may choose new targets for the copies.\""
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284521_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Jaya, Fiery Negotiator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 284521,
+      "url": "https://www.tcgplayer.com/product/284521/magic-promo-pack-dominaria-united-jaya-fiery-negotiator"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shivan Devastator",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "143"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Dragon Hydra"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "0"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, haste\r\n\u003cbr\u003eShivan Devastator enters the battlefield with X +1/+1 counters on it."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThere were many reasons why Shiv was not high on Sheoldred's list of places to conquer: big, fiery reasons.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284522_200w.jpg",
+      "modifiedOn": "2024-06-08T12:02:10.647",
+      "name": "Shivan Devastator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284522,
+      "url": "https://www.tcgplayer.com/product/284522/magic-promo-pack-dominaria-united-shivan-devastator"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Silverback Elder",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "177"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Ape Shaman"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "7"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you cast a creature spell, choose one —\r\n\u003cbr\u003e\r\n• Destroy target artifact or enchantment.\r\n\u003cbr\u003e\r\n• Look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.\r\n\u003cbr\u003e\r\n• You gain 4 life."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284523_200w.jpg",
+      "modifiedOn": "2023-07-12T21:59:34.363",
+      "name": "Silverback Elder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284523,
+      "url": "https://www.tcgplayer.com/product/284523/magic-promo-pack-dominaria-united-silverback-elder"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The World Spell",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "189"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Saga"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Read ahead \u003cem\u003e(Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)\u003c/em\u003e\r\n\u003cbr\u003e I | Look at the top seven cards of your library. You may reveal a non-Saga permanent card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\r\n\u003cbr\u003e III |Put up to two non-Saga permanent cards from your hand onto the battlefield."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284524_200w.jpg",
+      "modifiedOn": "2024-11-16T04:28:04.933",
+      "name": "The World Spell",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284524,
+      "url": "https://www.tcgplayer.com/product/284524/magic-promo-pack-dominaria-united-the-world-spell"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ajani Sleeper Agent",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "192"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Ajani"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Compleated \u003cem\u003e((G/W) can be paid with G, W, or 2 life. If life was paid, this planeswalker enters with too fewer loyalty counters.)\u003c/em\u003e\r\n\u003cbr\u003e[+1]: Reveal the top card of your library. If it's a creature or planeswalker card, put it into your hand. Otherwise, you may put it on the bottom of your library.\r\n\u003cbr\u003e[-3]: Distribute three +1/+1 counters among up to three target creatures. They gain vigilance until end of turn.\r\n\u003cbr\u003e[-6]: You get an emblem with \"Whenever you cast a creature or planeswalker spell, target opponent gets two poison counters.\""
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284525_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Ajani, Sleeper Agent",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 284525,
+      "url": "https://www.tcgplayer.com/product/284525/magic-promo-pack-dominaria-united-ajani-sleeper-agent"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Karns Sylex",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "234"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Karn's Sylex enters the battlefield tapped.\r\n\u003cbr\u003ePlayers can't pay life to cast spells or to activate abilities that aren't mana abilities.\r\n\u003cbr\u003eX, T, Exile Karn's Sylex: Destroy each nonland permanent with mana value X or less. Activate only as a sorcery."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284526_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Karn's Sylex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 284526,
+      "url": "https://www.tcgplayer.com/product/284526/magic-promo-pack-dominaria-united-karns-sylex"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Timeless Lotus",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "239"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Timeless Lotus enters the battlefield tapped.\r\n\u003cbr\u003eT: Add WUBRG"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eUrza exploited nature to power his war machines; in time, nature exploited his war machines to renew itself.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284527_200w.jpg",
+      "modifiedOn": "2025-11-26T19:23:13.823",
+      "name": "Timeless Lotus",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284527,
+      "url": "https://www.tcgplayer.com/product/284527/magic-promo-pack-dominaria-united-timeless-lotus"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Weatherlight Compleated",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "242"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact — Vehicle"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\nAs long as Weatherlight Compleated has four or more phyresis counters on it, it's a Phyrexian creature in addition to its other types.\r\n\u003cbr\u003eWhenever a creature you control dies, put a phyresis counter on Weatherlight Compleated. Then draw a card if it has seven or more phyresis counters on it. If it doesn't, scry 1."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284528_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Weatherlight Compleated",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 284528,
+      "url": "https://www.tcgplayer.com/product/284528/magic-promo-pack-dominaria-united-weatherlight-compleated"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sheoldred the Apocalypse",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "107"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Phyrexian Praetor"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Deathtouch\r\n\u003cbr\u003e\r\nWhenever you draw a card, you gain 2 life.\r\n\u003cbr\u003e\r\nWhenever an opponent draws a card, they lose 2 life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Gix failed. I shall not.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284529_200w.jpg",
+      "modifiedOn": "2025-12-04T14:28:34.98",
+      "name": "Sheoldred, the Apocalypse",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284529,
+      "url": "https://www.tcgplayer.com/product/284529/magic-promo-pack-dominaria-united-sheoldred-the-apocalypse"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Jodah the Unifier",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "203"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Legendary creatures you control get +X/+X, where X is the number of legendary creatures you control.\r\n\u003cbr\u003eWhenever you cast a legendary spell from your hand, exile cards from the top of your library until you exile a legendary nonland card with lesser mana value. You may cast that card without paying its mana cost. Put the rest on the bottom of your library in a random order."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284530_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Jodah, the Unifier",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 284530,
+      "url": "https://www.tcgplayer.com/product/284530/magic-promo-pack-dominaria-united-jodah-the-unifier"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rith Liberated Primeval",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "214"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, ward 2\r\n\u003cbr\u003e\r\nOther Dragons you control have ward 2.\r\n\u003cbr\u003e\r\nAt the beginning of your end step, if a creature or planeswalker an opponent controlled was dealt excess damage this turn, create a 4/4 red Dragon creature token with flying."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284531_200w.jpg",
+      "modifiedOn": "2022-09-26T14:48:34.15",
+      "name": "Rith, Liberated Primeval",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284531,
+      "url": "https://www.tcgplayer.com/product/284531/magic-promo-pack-dominaria-united-rith-liberated-primeval"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shanna Purifying Blade",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "218"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lifelink\r\n\u003cbr\u003e\r\nAt the beginning of your end step, you may pay X. If you do, draw X cards. X can't be greater than the amount of life you gained this turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eShanna had heard Sisay's legend all her life. Now it was time to forge her own.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284532_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Shanna, Purifying Blade",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 284532,
+      "url": "https://www.tcgplayer.com/product/284532/magic-promo-pack-dominaria-united-shanna-purifying-blade"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "SolKanar the Tainted",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "219"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elemental Demon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your end step, choose one that hasn’t been chosen —\r\n\u003cbr\u003e• Draw card.\r\n\r\n\u003cbr\u003e• Each opponent loses 2 life and you gain 2 life.\r\n\r\n\u003cbr\u003e• Sol'Kanar the Tainted deals 3 damage to up to one other target creature or planeswalker.\r\n\r\n\u003cbr\u003e• Exile Sol'Kanar, then return it to the battlefield under and opponent’s control."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284533_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Sol'Kanar the Tainted",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 284533,
+      "url": "https://www.tcgplayer.com/product/284533/magic-promo-pack-dominaria-united-solkanar-the-tainted"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Soul of Windgrace",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "220"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Cat Avatar"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Soul of Windgrace enters the battlefield or attacks, you may put a land card from a graveyard onto the battlefield tapped under your control.\r\n\u003cbr\u003eG, Discard a land card: You gain 3 life.\r\n\u003cbr\u003e1R, Discard a land card: Draw a card.\r\n\u003cbr\u003e2B, Discard a land card: Soul of Windgrace gains indestructible until end of turn. Tap it."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284534_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Soul of Windgrace",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 284534,
+      "url": "https://www.tcgplayer.com/product/284534/magic-promo-pack-dominaria-united-soul-of-windgrace"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Zur Eternal Schemer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "228"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eenchantment creatures you control have deathtouch, lifelink, and hexproof.\r\n\u003cbr\u003e1W: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness equal to its mana value."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284535_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Zur, Eternal Schemer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 284535,
+      "url": "https://www.tcgplayer.com/product/284535/magic-promo-pack-dominaria-united-zur-eternal-schemer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Toxrill the Corrosive",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "132"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Slug Horror"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "7"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "7"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of each end step, put a slime counter on each creature you don't control.\r\n\u003cbr\u003eCreatures you don't control get -1/-1 for each slime counter on them.\r\n\u003cbr\u003eWhenever a creature you don't control with a slime counter on it dies, creature a 1/1 black Slug creature token.\r\n\u003cbr\u003eUB, Sacrifice a Slug: Draw a card."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284536_200w.jpg",
+      "modifiedOn": "2023-07-20T12:16:45.14",
+      "name": "Toxrill, the Corrosive",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284536,
+      "url": "https://www.tcgplayer.com/product/284536/magic-promo-pack-dominaria-united-toxrill-the-corrosive"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Chandra Dressed to Kill",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "149"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Chandra"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "[+1]: Add R. Chandra, Dressed to Kill deals 1 damage to up to one target player or planeswalker.\r\n\u003cbr\u003e[+1]: Exile the top card of your library. If it's red, you may cast it this turn.\r\n\u003cbr\u003e[-7]: Exile the top five cards of your library. You may cast red spells from among them this turn. You get an emblem with \"Whenever you cast a red spell, this emblem deals X damage to any target, where X is the amount of mana spent to cast that spell.\""
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284537_200w.jpg",
+      "modifiedOn": "2023-01-06T00:08:10.15",
+      "name": "Chandra, Dressed to Kill",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284537,
+      "url": "https://www.tcgplayer.com/product/284537/magic-promo-pack-dominaria-united-chandra-dressed-to-kill"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cultivator Colossus",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "195"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Plant Beast"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "*"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "*"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\r\n\u003cbr\u003eCultivator Colossus's power and toughness are each equal to the number of lands you control.\r\n\u003cbr\u003eWhen Cultivator Colossus enters the battlefield, you may put a land card from your hand onto the battlefield tapped. If you do, draw a card and repeat this process."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284538_200w.jpg",
+      "modifiedOn": "2025-11-11T03:46:46.397",
+      "name": "Cultivator Colossus",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284538,
+      "url": "https://www.tcgplayer.com/product/284538/magic-promo-pack-dominaria-united-cultivator-colossus"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thalia Guardian of Thraben",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "38"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First Strike\r\n\u003cbr\u003eNoncreature spells cost 1 more to cast."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Thraben belongs to the living. I will not rest until it is cleansed.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284539_200w.jpg",
+      "modifiedOn": "2025-05-08T18:21:05.537",
+      "name": "Thalia, Guardian of Thraben",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284539,
+      "url": "https://www.tcgplayer.com/product/284539/magic-promo-pack-dominaria-united-thalia-guardian-of-thraben"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Overcharged Amalgam",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "71"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie Horror"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\r\n\u003cbr\u003eFlying\r\n\u003cbr\u003eExploit \u003cem\u003e(When this creature enters the battlefield, you may sacrifice a creature.)\u003c/em\u003e\r\n\u003cbr\u003eWhen Overcharged Amalgum exploits a creature, counter target spell, activated ability, or triggered ability."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284540_200w.jpg",
+      "modifiedOn": "2022-09-12T17:26:11.587",
+      "name": "Overcharged Amalgam",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284540,
+      "url": "https://www.tcgplayer.com/product/284540/magic-promo-pack-dominaria-united-overcharged-amalgam"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dig Up",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "197"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Cleave 1BBG \u003cem\u003e(You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)\u003c/em\u003e\r\n\u003cbr\u003eSearch your library for a [basic land] card, [reveal it,] put it into your hand, then shuffle."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThings buried on Innistrad rarely seems to stay that way.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284541_200w.jpg",
+      "modifiedOn": "2022-09-12T17:28:27.81",
+      "name": "Dig Up",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284541,
+      "url": "https://www.tcgplayer.com/product/284541/magic-promo-pack-dominaria-united-dig-up"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Glorious Sunrise",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "200"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of combat on your turn, choose one—\r\n\u003cbr\u003e• Creatures you control get +1/+1 and gain trample until end of turn.\r\n\u003cbr\u003e• Target land gains \"T: Add GGG\" until end of turn.\r\n\u003cbr\u003e• Draw a card if you control a creature with power 3 or greater.\r\n\u003cbr\u003e• You gain 3 life."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284542_200w.jpg",
+      "modifiedOn": "2023-04-14T18:16:00.98",
+      "name": "Glorious Sunrise",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284542,
+      "url": "https://www.tcgplayer.com/product/284542/magic-promo-pack-dominaria-united-glorious-sunrise"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Deathcap Glade",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "261"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Deathcap Glade enters the battlefield tapped unless you control two or more other lands.\r\n\u003cbr\u003eT: Add B or G."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eDeadly mushrooms litter these woods, each waiting for an errant footstep to release its noxious spores.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284543_200w.jpg",
+      "modifiedOn": "2025-10-28T12:55:37.167",
+      "name": "Deathcap Glade",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284543,
+      "url": "https://www.tcgplayer.com/product/284543/magic-promo-pack-dominaria-united-deathcap-glade"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dreamroot Cascade",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "262"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Dreamroot Cascade enters the battlefield tapped unless you control two or more other lands.\r\n\u003cbr\u003eT: Add G or U."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eSoothing whispers invite travelers to step closer, closer, closer . . . until they vanish soundlessly beneath the surface.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284545_200w.jpg",
+      "modifiedOn": "2022-09-12T18:07:08.243",
+      "name": "Dreamroot Cascade",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284545,
+      "url": "https://www.tcgplayer.com/product/284545/magic-promo-pack-dominaria-united-dreamroot-cascade"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shattered Sanctum",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "264"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Shattered Sanctum enters the battlefield tapped unless you control two or more other lands.\r\n\u003cbr\u003eT: Add W or B."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe Quietus Cult holds their grim ceremonies in the dark places where unburied dead litter the ground.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284547_200w.jpg",
+      "modifiedOn": "2022-09-12T18:08:29.987",
+      "name": "Shattered Sanctum",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284547,
+      "url": "https://www.tcgplayer.com/product/284547/magic-promo-pack-dominaria-united-shattered-sanctum"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Stormcarved Coast",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "265"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Stormcarved Coast enters the battlefield tapped unless you control two or more other lands.\r\n\u003cbr\u003eT: Add U or R."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eFrequent, violent storms shape the Nephalia coastline, sculpting cliffs and caves where monsters often lurk.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284548_200w.jpg",
+      "modifiedOn": "2022-09-12T18:09:19.643",
+      "name": "Stormcarved Coast",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284548,
+      "url": "https://www.tcgplayer.com/product/284548/magic-promo-pack-dominaria-united-stormcarved-coast"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sundown Pass",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "266"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Sundown Pass enters the battlefield tapped unless you control two or more other lands.\r\n\u003cbr\u003eT: Add R or W."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eRiders chase the fading light recklessly through the mountains, desperate for one last glimpse of day.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/284549_200w.jpg",
+      "modifiedOn": "2022-09-12T18:10:16.587",
+      "name": "Sundown Pass",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 284549,
+      "url": "https://www.tcgplayer.com/product/284549/magic-promo-pack-dominaria-united-sundown-pass"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Anointed Peacekeeper",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance \r\n\u003cbr\u003eAs Anointed Peacekeeper enters the battlefield, look at an opponent's hand, then choose any card name.\r\n\u003cbr\u003eSpells your opponent cast with the chosen name cost 2 more to cast.\r\n\u003cbr\u003eActivated abilities of sources with the chosen name cost 2 more to activate unless they're mana abilities."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285526_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Anointed Peacekeeper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285526,
+      "url": "https://www.tcgplayer.com/product/285526/magic-promo-pack-dominaria-united-anointed-peacekeeper"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Archangel of Wrath",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Angel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Kicker B and/or R \u003cem\u003e(You may pay an additional B and/or R as you cast this spell.)\u003c/em\u003e\r\n\u003cbr\u003eFlying, lifelink\r\n\u003cbr\u003eWhen Archangel of Wrath enters the battlefield, if it was kicked, it deals 2 damage to any target.\r\n\u003cbr\u003eWhen Archangel of Wrath enters the battlefield, if it was kicked twice, it deals 2 damage to any target."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285527_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Archangel of Wrath",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285527,
+      "url": "https://www.tcgplayer.com/product/285527/magic-promo-pack-dominaria-united-archangel-of-wrath"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Danitha Benalias Hope",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike, vigilance, lifelink\r\n\u003cbr\u003e\r\nWhen Danitha, Benalia's Hope enters the battlefield, you may put an Aura or Equipment card from your hand or graveyard onto the battlefield attached to Danitha."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285547_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Danitha, Benalia's Hope",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285547,
+      "url": "https://www.tcgplayer.com/product/285547/magic-promo-pack-dominaria-united-danitha-benalias-hope"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Defiler of Faith",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Phyrexian Human"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance\r\n\u003cbr\u003eAs an additional cost to cast white permanent spells, you may pay 2 life. Those spells cost W less to cast if you paid life this way. This effect reduces only the amount of white mana you pay.\r\n\u003cbr\u003eWhenever you cast a white permanent spell, create a 1/1 white Soldier creature token."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285554_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Defiler of Faith",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285554,
+      "url": "https://www.tcgplayer.com/product/285554/magic-promo-pack-dominaria-united-defiler-of-faith"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Guardian of New Benalia",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "19"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enlist \u003cem\u003e(As this creature attacks, you may tap a nonattacking creature you control without summoning sickness. When you do, add its power to this creature's until end of turn.)\u003c/em\u003e\r\n\u003cbr\u003eWhenever Guardian of New Benalia enlists a creature, scry 2.\r\n\u003cbr\u003eDiscard a card: Guardian of New Benalia gains indestructible until end of turn. Tap it."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285555_200w.jpg",
+      "modifiedOn": "2025-04-03T14:35:09.693",
+      "name": "Guardian of New Benalia",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285555,
+      "url": "https://www.tcgplayer.com/product/285555/magic-promo-pack-dominaria-united-guardian-of-new-benalia"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Leyline Binding",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "24"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\r\n\u003cbr\u003e\u003cem\u003eDomain\u003c/em\u003e — This spell costs 1 less to cast for each basic land type among lands you control.\r\n\u003cbr\u003eWhen Leyline Binding enters the battlefield, exile target nonland permanent an opponent controls until Leyline Binding leaves the battlefield."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285556_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Leyline Binding",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285556,
+      "url": "https://www.tcgplayer.com/product/285556/magic-promo-pack-dominaria-united-leyline-binding"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Temporary Lockdown",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "36"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Temporary Lockdown enters the battlefield, exile each nonland permanent with mana value 2 or less until Temporary Lockdown leaves the battlefield."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Any one of us could be compromised,” said Karn. “No one leaves until we know how can be trusted.”\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285559_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Temporary Lockdown",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285559,
+      "url": "https://www.tcgplayer.com/product/285559/magic-promo-pack-dominaria-united-temporary-lockdown"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Urza Assembles the Titans",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "37"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Saga"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Read ahead \u003cem\u003e(Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nI — Scry 4, then you may reveal the top card of your library. If a planeswalker card is revealed this way, put it into your hand.\r\n\u003cbr\u003e\r\nII — You may put a planeswalker card with mana value 6 or less from your hand onto the battlefield.\r\n\u003cbr\u003e\r\nIII — You may activate the loyalty abilities of planeswalkers you control twice this turn rather than only once."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285563_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Urza Assembles the Titans",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285563,
+      "url": "https://www.tcgplayer.com/product/285563/magic-promo-pack-dominaria-united-urza-assembles-the-titans"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Valiant Veteran",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "38"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Kor Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Other Soldiers you control get +1/+1.\r\n\u003cbr\u003e\r\n3WW, Exile Valiant Veteran from your graveyard: Put a +1/+1 counter on each Soldier you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Let them come. We will show them that Argivian steel is stronger than any Phyrexian metal.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285564_200w.jpg",
+      "modifiedOn": "2023-06-28T14:33:20.02",
+      "name": "Valiant Veteran",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285564,
+      "url": "https://www.tcgplayer.com/product/285564/magic-promo-pack-dominaria-united-valiant-veteran"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Academy Loremaster",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "40"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of each player's draw step, that player may draw an additional card. If they do, spells they cast this turn cost 2 more to cast."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eAs a young student, she dusted the shelves of Tolaria's great library. Now, she writes the books that line them.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285565_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Academy Loremaster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285565,
+      "url": "https://www.tcgplayer.com/product/285565/magic-promo-pack-dominaria-united-academy-loremaster"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Aether Channeler",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "42"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Aether Channeler enters the battlefield, choose one—\r\n\u003cbr\u003e• Create a 1/1 white Bird creature token with flying.\r\n\u003cbr\u003e• Return another target nonland permanent to its owner's hand.\r\n\u003cbr\u003e• Draw a card."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285566_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Aether Channeler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285566,
+      "url": "https://www.tcgplayer.com/product/285566/magic-promo-pack-dominaria-united-aether-channeler"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Defiler of Dreams",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "46"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Phyrexian Sphinx"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eAs an additional cost to cast blue permanent spells, you may pay 2 life. Those spells cost U less to cast if you paid life this way. This effect reduces only the amount of blue mana you pay.\r\n\u003cbr\u003eWhenever you cast a blue permanent spell, draw a card."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285567_200w.jpg",
+      "modifiedOn": "2024-07-12T03:50:28.057",
+      "name": "Defiler of Dreams",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285567,
+      "url": "https://www.tcgplayer.com/product/285567/magic-promo-pack-dominaria-united-defiler-of-dreams"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Haughty Djinn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "52"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Djinn"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "*"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eHaughty Djinn's power is equal to the number of instant and sorcery cards in your graveyard.\r\n\u003cbr\u003eInstant and sorcery spells you cast cost 1 less to cast."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I adore your outfit. It's so...rustic.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285568_200w.jpg",
+      "modifiedOn": "2023-06-14T11:18:45.997",
+      "name": "Haughty Djinn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285568,
+      "url": "https://www.tcgplayer.com/product/285568/magic-promo-pack-dominaria-united-haughty-djinn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Phasing of Zhalfir",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "59"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Saga"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Read ahead \u003cem\u003e(Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)\u003c/em\u003e\r\n\u003cbr\u003e I, II | Another target nonland permanent phases out. It can't phase in for as long as you control The Phasing of Zhalfir.\r\n\u003cbr\u003eIII | Destroy all creatures. For each creature destroyed this way, its controller creates a 2/2 black Phyrexian creature token."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285569_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "The Phasing of Zhalfir",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285569,
+      "url": "https://www.tcgplayer.com/product/285569/magic-promo-pack-dominaria-united-the-phasing-of-zhalfir"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Vodalian Hexcatcher",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "75"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Merfolk Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\r\n\u003cbr\u003e\r\nOther Merfolk you control get +1/+1.\r\n\u003cbr\u003e\r\nSacrifice a Merfolk: Counter target noncreature spell unless its controller pays 1."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"You're just one more pollutant to be removed from the sea.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285577_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Vodalian Hexcatcher",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285577,
+      "url": "https://www.tcgplayer.com/product/285577/magic-promo-pack-dominaria-united-vodalian-hexcatcher"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Vodalian Mindsinger",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "76"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Merfolk Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Kicker 1R and/or 1G\r\n\u003cbr\u003eVodalian Mindsinger enters the battlefield with two +1/+1 counters on it for each time it was kicked.\r\n\u003cbr\u003eWhen Vodalian Mindsinger enters the battlefield, gain control of target creature with power less than Vodalian Mindsinger's power for as long as you control Vodalian Mindsinger."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285588_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Vodalian Mindsinger",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285588,
+      "url": "https://www.tcgplayer.com/product/285588/magic-promo-pack-dominaria-united-vodalian-mindsinger"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Braids Arisen Nightmare",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "84"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Nightmare"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your end step, you may sacrifice an artifact, creature, enchantment, land, or planeswalker. If you do, each opponent may sacrifice a permanent that shares a card type with it. For each opponent who doesn't, that player loses 2 life and you draw a card."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285591_200w.jpg",
+      "modifiedOn": "2023-12-09T07:00:50.203",
+      "name": "Braids, Arisen Nightmare",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285591,
+      "url": "https://www.tcgplayer.com/product/285591/magic-promo-pack-dominaria-united-braids-arisen-nightmare"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Silver Scrutiny",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "65"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may cast Silver Scrutiny as though it had flash if X is 3 or less.\r\n\u003cbr\u003e\r\nDraw X cards."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eKarn's creation allowed him to monitor events across Dominaria—and everything he saw worried him.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285595_200w.jpg",
+      "modifiedOn": "2026-01-28T21:48:04.5",
+      "name": "Silver Scrutiny",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285595,
+      "url": "https://www.tcgplayer.com/product/285595/magic-promo-pack-dominaria-united-silver-scrutiny"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Cruelty of Gix",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "87"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Saga"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Read ahead \u003cem\u003e(Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nI — Target opponent reveals their hand. You choose a creature or planeswalker card from it. That player discards that card.\r\n\u003cbr\u003e\r\nII — Search your library for a card, put that card into your hand, then shuffle. You lose 3 life.\r\n\u003cbr\u003e\r\nIII — Put target creature card from a graveyard onto the battlefield under your control."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285596_200w.jpg",
+      "modifiedOn": "2025-10-10T01:24:32.973",
+      "name": "The Cruelty of Gix",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285596,
+      "url": "https://www.tcgplayer.com/product/285596/magic-promo-pack-dominaria-united-the-cruelty-of-gix"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Defiler of Flesh",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "90"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Phyrexian Horror"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace\r\n\u003cbr\u003e\r\nAs an additional cost to cast black permanent spells, you may pay 2 life. Those spells cost B less to cast if you paid life this way. This effect reduces only the amount of black mana you pay.\r\n\u003cbr\u003e\r\nWhenever you cast a black permanent spell, target creature you control gets +1/+1 and gains menace until end of turn."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285597_200w.jpg",
+      "modifiedOn": "2024-02-27T15:39:52.17",
+      "name": "Defiler of Flesh",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285597,
+      "url": "https://www.tcgplayer.com/product/285597/magic-promo-pack-dominaria-united-defiler-of-flesh"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Drag to the Bottom",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "91"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eDomain\u003c/em\u003e — Each creature gets -X/-X until end of turn, where X is 1 plus the number of basic land types among lands you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eWingrace's gladehunters hibernate in the quagmire of Urborg until the scent of Phyrexian technology awakens their hunger.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285598_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Drag to the Bottom",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285598,
+      "url": "https://www.tcgplayer.com/product/285598/magic-promo-pack-dominaria-united-drag-to-the-bottom"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Evolved Sleeper",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "93"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "B: Evolved Sleeper becomes a Human Cleric with a base power and toughness 2/2.\r\n\u003cbr\u003e1B: If Evolved Sleeper is a Cleric, put a deathtouch counter on it and it becomes a Phyrexian Human Cleric with base power and toughness 3/3.\r\n\u003cbr\u003e1BB: If Evolved Sleeper is a Phyrexian, put a +1/+1 counter on it, then you draw a card and you lose 1 life."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285599_200w.jpg",
+      "modifiedOn": "2025-05-15T19:52:27.067",
+      "name": "Evolved Sleeper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285599,
+      "url": "https://www.tcgplayer.com/product/285599/magic-promo-pack-dominaria-united-evolved-sleeper"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Raven Man",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "103"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of each end step, if a player discarded a card this turn, create a 1/1 black Bird creature token with flying and \"This creature can't block.\"\r\n\u003cbr\u003e3B, T: Each opponent discards a card. Activate only as a sorcery."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285600_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "The Raven Man",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285600,
+      "url": "https://www.tcgplayer.com/product/285600/magic-promo-pack-dominaria-united-the-raven-man"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shadow Rite Priest",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "106"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Other Clerics you control get +1/+1\r\n\u003cbr\u003e\r\n3BB, T, Sacrifice another Cleric: Search your library for a black creature card, put it onto the battlefield, then shuffle."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eBackstabbing is common within demonic cults. So are front- and side-stabbing.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285601_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Shadow-Rite Priest",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285601,
+      "url": "https://www.tcgplayer.com/product/285601/magic-promo-pack-dominaria-united-shadow-rite-priest"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Stronghold Arena",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "110"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Kicker G and/or W \u003cem\u003e(You may pay an additional G and/or W as you cast this spell.)\u003c/em\u003e\r\n\u003cbr\u003eWhen Stronghold Arena enters the battlefield, you gain 3 life for each time it was kicked.\r\n\u003cbr\u003eWhenever one or more creatures you control deal combat damage to a player, you may reveal the top card of your library and put it into your hand. If you do, you lose life equal to its mana value."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285602_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Stronghold Arena",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285602,
+      "url": "https://www.tcgplayer.com/product/285602/magic-promo-pack-dominaria-united-stronghold-arena"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Chaotic Transformation",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "117"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exile up to one target artifact, up to one target creature, up to one target enchantment, up to one target planeswalker, and/or up to one target land. For each permanent exiled this way, its controller reveals cards from the top of their library until they reveal a card that shares a card type with it, puts that card onto the battlefield, then shuffles."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285603_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Chaotic Transformation",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285603,
+      "url": "https://www.tcgplayer.com/product/285603/magic-promo-pack-dominaria-united-chaotic-transformation"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Defiler of Instinct",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "119"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Phyrexian Kavu"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike\r\n\u003cbr\u003e\r\nAs an additional cost to cast red permanent spells, you may pay 2 life. Those spells cost R less to cast if you paid life this way. This effect reduces only the amount of red mana you may pay.\r\n\u003cbr\u003e\r\nWhenever you cast a red permanent spell, Defiler of Instinct deals 1 damage to any target."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285604_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Defiler of Instinct",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285604,
+      "url": "https://www.tcgplayer.com/product/285604/magic-promo-pack-dominaria-united-defiler-of-instinct"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Elder Dragon War",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "121"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Saga"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Read ahead \u003cem\u003e(Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)\u003cem\u003e\r\n\u003cbr\u003eI — The Elder Dragon War deals 2 damage to each creature and each opponent.\r\n\u003cbr\u003eII — Discard any number of cards, then draw that many cards.\r\n\u003cbr\u003eIII — Create a 4/4 red Dragon creature token with flying."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285605_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "The Elder Dragon War",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285605,
+      "url": "https://www.tcgplayer.com/product/285605/magic-promo-pack-dominaria-united-the-elder-dragon-war"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Keldon Flamesage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "135"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Shaman"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enlist\r\n\u003cbr\u003e\r\nWhenever Keldon Flamesage attacks, look at the top X cards of your library, where X is Keldon Flamesage's power. You may exile an instant or sorcery card with mana value X or less from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card without paying its mana cost."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285606_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Keldon Flamesage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285606,
+      "url": "https://www.tcgplayer.com/product/285606/magic-promo-pack-dominaria-united-keldon-flamesage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Radhas Firebrand",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "141"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Radha’s Firebrand attacks, target creature defending player controls with power less than Radha’s Firebrand’s power can’t block this turn.\r\n\u003cnr\u003e\r\n\u003cem\u003eDomain\u003c/em\u003e — 5R: Radha’s Firebrand gets +2/+2 until end of turn. This ability costs 1 less to activate for each basic land type among lands you control. Activate only once each turn."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285607_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Radha's Firebrand",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285607,
+      "url": "https://www.tcgplayer.com/product/285607/magic-promo-pack-dominaria-united-radhas-firebrand"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rundvelt Hordemaster",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "142"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Goblin Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Other Goblins you control get +1/+1.\r\n\u003cbr\u003eWhenever Rundvelt Hordemaster or another Goblin you control dies, exile the top card of your library. If it's a Goblin creaute card, you may cast that card until the end of your next turn."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285608_200w.jpg",
+      "modifiedOn": "2024-08-17T17:29:50.477",
+      "name": "Rundvelt Hordemaster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285608,
+      "url": "https://www.tcgplayer.com/product/285608/magic-promo-pack-dominaria-united-rundvelt-hordemaster"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Squee Dubious Monarch",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "146"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Goblin Noble"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003eWhenever Squee, Dubious Monarch attacks, create a 1/1 red Goblin creature token that's tapped and attacking.\r\n\u003cbr\u003eYou may cast Squee, Dubious Monarch from your graveyard by paying 3R and exiling four other cards from your graveyard rather than paying its mana cost."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285609_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Squee, Dubious Monarch",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285609,
+      "url": "https://www.tcgplayer.com/product/285609/magic-promo-pack-dominaria-united-squee-dubious-monarch"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Temporal Firestorm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "147"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Kicker 1W and/or 1U \u003cem\u003e(You may pay an additional 1W and/or 1U as you cast this spell.)\u003c/em\u003e\r\n\u003cbr\u003eChoose up to X creatures and/or planeswalkers you control, where X is the number of times this spell was kicked. Those permanents phase out.\r\n\u003cbr\u003eTemporal Firestorm deals 5 damage to each creature and each planeswalker."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285610_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Temporal Firestorm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285610,
+      "url": "https://www.tcgplayer.com/product/285610/magic-promo-pack-dominaria-united-temporal-firestorm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Defiler of Vigor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "160"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Phyrexian Wurm"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\r\n\u003cbr\u003e\r\nAs an additional cost to cast green permanent spells, you may pay 2 life. Those spells cost G less to cast if you paid life this way. This effect reduces only the amount of green mana you pay.\r\n\u003cbr\u003e\r\nWhenever you cast a green permanent spell, put a +1/+1 counter on each creature you control."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285611_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Defiler of Vigor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285611,
+      "url": "https://www.tcgplayer.com/product/285611/magic-promo-pack-dominaria-united-defiler-of-vigor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Herd Migration",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "165"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eDomain\u003c/em\u003e — Create a 3/3 green Beast creature token for each basic land type among lands you control.\r\n\u003cbr\u003e\r\n1G, Discard Herd Migration: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 3 life."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285612_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Herd Migration",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285612,
+      "url": "https://www.tcgplayer.com/product/285612/magic-promo-pack-dominaria-united-herd-migration"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Leaf Crowned Visionary",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "167"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elf Druid"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Other Elves you control get +1/+1.\r\n\u003cbr\u003e\r\nWhenever you cast an Elf spell, you may pay G. If you do, draw a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The seedling you save today may be the sheltering boughs of generations to come.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285614_200w.jpg",
+      "modifiedOn": "2025-04-16T17:52:53.29",
+      "name": "Leaf-Crowned Visionary",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285614,
+      "url": "https://www.tcgplayer.com/product/285614/magic-promo-pack-dominaria-united-leaf-crowned-visionary"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Llanowar Greenwidow",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "169"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spider"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eDomain\u003c/em\u003e — 7G: Return Llanowar Greenwidow from your graveyard to the battlefield tapped. It gains \"If this permanent would leave the battlefield, exile. it instead of putting it anywhere else.\" This ability costs 1 less to activate for each basic land type among lands you control."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285615_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Llanowar Greenwidow",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285615,
+      "url": "https://www.tcgplayer.com/product/285615/magic-promo-pack-dominaria-united-llanowar-greenwidow"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Llanowar Loamspeaker",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "170"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elf Druid"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add one mana of any color.\r\n\u003cbr\u003eT: Target land you control becomes a 3/3 Elemental creature with haste until end of turn. It's still a land. Activate only as a sorcery."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285616_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Llanowar Loamspeaker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285616,
+      "url": "https://www.tcgplayer.com/product/285616/magic-promo-pack-dominaria-united-llanowar-loamspeaker"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Quirion Beastcaller",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "175"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Dryad Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you cast a creature spell, put a +1/+1 counter on Quirion Beastcaller.\r\n\u003cbr\u003eWhen Quirion Beastcaller dies, distribute X +1/+1 counters among any number of target creatures you control, where X is the number of +1/+1 counters on Quirion Beastcaller."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285618_200w.jpg",
+      "modifiedOn": "2023-06-28T14:33:58.03",
+      "name": "Quirion Beastcaller",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285618,
+      "url": "https://www.tcgplayer.com/product/285618/magic-promo-pack-dominaria-united-quirion-beastcaller"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Threats Undetected",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "185"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Search your library for up to four creature cards with different powers and reveal them. An opponent chooses two of those cards. Shuffle the chosen cards into your library and put the rest into your hand."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285620_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Threats Undetected",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285620,
+      "url": "https://www.tcgplayer.com/product/285620/magic-promo-pack-dominaria-united-threats-undetected"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Urborg Lhurgoyf",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "186"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Lhurgoyf"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "*"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1+*"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Kicker U and/or B\r\n\u003cbr\u003eAs Urborg Lhurgoyf enters the battlefield, mill three cards for each time it was kicked.\r\n\u003cbr\u003eUrborg Lhurgoyf's power is equal to the number of creature cards in your graveyard and its toughness is equal to that number plus 1."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285622_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Urborg Lhurgoyf",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285622,
+      "url": "https://www.tcgplayer.com/product/285622/magic-promo-pack-dominaria-united-urborg-lhurgoyf"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Astor Bearer of Blades",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "194"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Astor, Bearer of Blades enters the battlefield, look at the top seven cards of your library. You may reveal an Equipment or Vehicle card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\r\n\u003cbr\u003e\r\nEquipment you control have equip 1.\r\n\u003cbr\u003e\r\nVehicles you control have crew 1."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285626_200w.jpg",
+      "modifiedOn": "2022-09-26T15:46:45.933",
+      "name": "Astor, Bearer of Blades",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285626,
+      "url": "https://www.tcgplayer.com/product/285626/magic-promo-pack-dominaria-united-astor-bearer-of-blades"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ertai Resurrected",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "199"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Phyrexian Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\r\n\u003cbr\u003e\r\nWhen Ertai Resurrected enters the battlefield, choose up to one — \r\n\u003cbr\u003e\r\n• Counter target spell, activated ability, or triggered ability. Its controller draws a card.\r\n\u003cbr\u003e\r\n• Destroy another target creature or planeswalker. Its controller draws a card."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285629_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Ertai Resurrected",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285629,
+      "url": "https://www.tcgplayer.com/product/285629/magic-promo-pack-dominaria-united-ertai-resurrected"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ivy Gleeful Spellthief",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "201"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Faerie Rogue"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nWhenever a player casts a spell that targets only a single creature other than Ivy, Gleeful Spellthief, you may copy that spell. The copy targets Ivy. \u003cem\u003e(A copy of an Aura spell becomes a token.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285631_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Ivy, Gleeful Spellthief",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285631,
+      "url": "https://www.tcgplayer.com/product/285631/magic-promo-pack-dominaria-united-ivy-gleeful-spellthief"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Jhoira Ageless Innovator",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "202"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Artificer"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Put two ingenuity counters on Jhoira, Ageless Innovator, then you may put an artifact card with mana value X or less from your hand onto the battlefield, where X is the number of ingenuity counters on Jhoira."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285634_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Jhoira, Ageless Innovator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285634,
+      "url": "https://www.tcgplayer.com/product/285634/magic-promo-pack-dominaria-united-jhoira-ageless-innovator"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "King Darien XLVIII",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "204"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Other creatures you control get +1/+1.\r\n\u003cbr\u003e\r\n3GW: Put a +1/+1 counter on King Darien and create a 1/1 white Soldier creature token.\r\n\u003cbr\u003e\r\nSacrifice King Darien: Creature tokens you control gain hexproof and indestructible until end of turn."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285639_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "King Darien XLVIII",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285639,
+      "url": "https://www.tcgplayer.com/product/285639/magic-promo-pack-dominaria-united-king-darien-xlviii"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Meria Scholar of Antiquity",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "206"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elf Artificer"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap an untapped nontoken artifact you control: Add G.\r\n\u003cbr\u003eTap two untapped nontoken artifacts you control: Exile the top card of your library. You may play it this turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Why fear artifice? Is it not also of this world?”\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285641_200w.jpg",
+      "modifiedOn": "2025-05-15T19:52:27.113",
+      "name": "Meria, Scholar of Antiquity",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285641,
+      "url": "https://www.tcgplayer.com/product/285641/magic-promo-pack-dominaria-united-meria-scholar-of-antiquity"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nemata Primeval Warden",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "209"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Treefolk"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Reach\r\n\u003cbr\u003e\r\nIf a creature an opponent controls would die, exile it instead. When you do, create a 1/1 green Saproling creature token.\r\n\u003cbr\u003e\r\nG, Sacrifice a Saproling: Nemata, Primeval Warden gets +2/+2 until end of turn.\r\n\u003cbr\u003e\r\n1B, Sacrifice two Saprolings: Draw a card."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285643_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Nemata, Primeval Warden",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285643,
+      "url": "https://www.tcgplayer.com/product/285643/magic-promo-pack-dominaria-united-nemata-primeval-warden"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ratadrabik of Urborg",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "213"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Zombie Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance, ward 2\r\n\u003cbr\u003eOther Zombies you control have vigilance.\r\n\u003cbr\u003eWhenever another legendary creature you control dies, create a token that's a copy of that creature, except it's not legendary and it's a 2/2 black Zombie in addition to its other colors and types."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285644_200w.jpg",
+      "modifiedOn": "2023-09-09T14:28:37.243",
+      "name": "Ratadrabik of Urborg",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285644,
+      "url": "https://www.tcgplayer.com/product/285644/magic-promo-pack-dominaria-united-ratadrabik-of-urborg"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rivaz of the Claw",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "215"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Viashino Warlock"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace\r\n\u003cbr\u003eT: Add two mana in any combination of colors. Spend this mana only to cast Dragon creature spells.\r\n\u003cbr\u003eOnce during each of your turns, you may cast a Dragon creature spell from your graveyard.\r\n\u003cbr\u003eWhenever you cast a Dragon creature spell from your graveyard, it gains \"When this creature dies, exile it.\""
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285645_200w.jpg",
+      "modifiedOn": "2023-07-07T15:07:37.177",
+      "name": "Rivaz of the Claw",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285645,
+      "url": "https://www.tcgplayer.com/product/285645/magic-promo-pack-dominaria-united-rivaz-of-the-claw"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Stenn Paranoid Partisan",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "221"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As Stenn, Paranoid Partisan enters the battlefield, choose a card type other than creature or land.\r\n\u003cbr\u003eSpells you cast of the chosen type cost 1 less to cast.\r\n\u003cbr\u003e1WU: Exile Stenn. Return it to the battlefield under its owner's control at the beginning of the next end step."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285646_200w.jpg",
+      "modifiedOn": "2023-10-17T20:17:43.673",
+      "name": "Stenn, Paranoid Partisan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285646,
+      "url": "https://www.tcgplayer.com/product/285646/magic-promo-pack-dominaria-united-stenn-paranoid-partisan"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Golden Argosy",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "230"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact — Vehicle"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Golden Argosy attacks, exile each creature that crewed it this turn. Return them to the battlefield tapped under their owner's control at the beginning of the next end step.\r\n\u003cbr\u003e\r\nCrew 1 \u003cem\u003e(Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285647_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Golden Argosy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285647,
+      "url": "https://www.tcgplayer.com/product/285647/magic-promo-pack-dominaria-united-golden-argosy"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Adarkar Wastes",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "243"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add 1.\r\n\u003cbr\u003eT: Add W or U. Adarkar Wastes deals 1 damage to you."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eLeft barren by the Brothers' War, it stands as a stark reminder of Dominaria's likely fate should the Coalition fail.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285648_200w.jpg",
+      "modifiedOn": "2022-12-08T15:21:39.987",
+      "name": "Adarkar Wastes",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285648,
+      "url": "https://www.tcgplayer.com/product/285648/magic-promo-pack-dominaria-united-adarkar-wastes"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Caves of Koilos",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "244"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add 1.\r\n\u003cbr\u003eT: Add W or B. Caves of Koilos deals 1 damage to you."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eAfter years of silence, the caves once again echo with the grisly sounds of Phyrexians preparing for war.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285649_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Caves of Koilos",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285649,
+      "url": "https://www.tcgplayer.com/product/285649/magic-promo-pack-dominaria-united-caves-of-koilos"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Karplusan Forest",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "250"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add 1.\r\n\u003cbr\u003eT: Add R or G. Karplusan Forest deals 1 damage to you."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eBetween jagged, snowcapped peaks, the dense bands of hardy evergreens provide the perfect cover for roving bands of orc and goblin raiders.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285650_200w.jpg",
+      "modifiedOn": "2022-09-09T04:03:30.233",
+      "name": "Karplusan Forest",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-09-09T00:00:00"
+      },
+      "productId": 285650,
+      "url": "https://www.tcgplayer.com/product/285650/magic-promo-pack-dominaria-united-karplusan-forest"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plaza of Heroes",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "252"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add C.\r\n\u003cbr\u003eT: Add one mana of any color. Spend this mana only to cast a legendary spell.\r\n\u003cbr\u003eT: Add one mana of any color among legendary permanents you control.\r\n\u003cbr\u003e3, T, Exile Plaza of Heroes: Target legendary creature gains hexproof and indestructible until end of turn."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285651_200w.jpg",
+      "modifiedOn": "2023-07-08T02:36:05.973",
+      "name": "Plaza of Heroes",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285651,
+      "url": "https://www.tcgplayer.com/product/285651/magic-promo-pack-dominaria-united-plaza-of-heroes"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shivan Reef",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "255"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add 1.\r\n\u003cbr\u003eT: Add U or R. Shivan Reef deals 1 damage to you."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe boiling seas around Shiv provided a welcome layer of protection for the reclaimed Mana Rig.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285652_200w.jpg",
+      "modifiedOn": "2025-12-04T14:35:04.35",
+      "name": "Shivan Reef",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285652,
+      "url": "https://www.tcgplayer.com/product/285652/magic-promo-pack-dominaria-united-shivan-reef"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sulfurous Springs",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "256"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add 1.\r\n\u003cbr\u003eT: Add B or R. Sulfurous Springs deals 1 damage to you."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eEverything is flammable in the Burning Isles, even the mana itself.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285653_200w.jpg",
+      "modifiedOn": "2022-12-06T20:20:36.853",
+      "name": "Sulfurous Springs",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285653,
+      "url": "https://www.tcgplayer.com/product/285653/magic-promo-pack-dominaria-united-sulfurous-springs"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thran Portal",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "259"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land — Gate"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Thran Portal enters the battlefield tapped unless you control two or fewer other lands.\r\n\u003cbr\u003e\r\nAs Thran Portal enters the battlefield, choose a basic land type.\r\n\u003cbr\u003e\r\nThran Portal is the chosen type in addition to its other types.\r\n\u003cbr\u003e\r\nMana abilities of Thran Portal cost an additional 1 life to activate."
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285654_200w.jpg",
+      "modifiedOn": "2025-11-26T21:26:13.577",
+      "name": "Thran Portal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285654,
+      "url": "https://www.tcgplayer.com/product/285654/magic-promo-pack-dominaria-united-thran-portal"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Yavimaya Coast",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "261"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add 1.\r\n\u003cbr\u003eT: Add G or U. Yavimaya Coast deals 1 damage to you."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eAs magninoth trees expanded across the sea into Almaaz and New Argive, it became clear Yavimaya's borders were never confined by its coastline.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3169,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/285655_200w.jpg",
+      "modifiedOn": "2023-12-13T18:37:38.517",
+      "name": "Yavimaya Coast",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 285655,
+      "url": "https://www.tcgplayer.com/product/285655/magic-promo-pack-dominaria-united-yavimaya-coast"
+    }
+  ],
+  "success": true,
+  "totalItems": 97
+}

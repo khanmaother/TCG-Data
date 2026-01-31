@@ -1,0 +1,5620 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Akroma Angel of Wrath",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Angel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, first strike, vigilance, trample, haste, protection from black, protection from red"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eNo rest. No mercy. No matter what.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14557_200w.jpg",
+      "modifiedOn": "2023-08-15T17:22:16.8",
+      "name": "Akroma, Angel of Wrath",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14557,
+      "url": "https://www.tcgplayer.com/product/14557/magic-timeshifted-akroma-angel-of-wrath"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Arena",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "117"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "3, T Tap target creature you control and target creature of an opponent's choice he or she controls. Each of those creatures deals damage equal to its power to the other."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14558_200w.jpg",
+      "modifiedOn": "2022-06-28T15:02:58.093",
+      "name": "Arena",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14558,
+      "url": "https://www.tcgplayer.com/product/14558/magic-timeshifted-arena"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Assault Battery",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "106"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Assault deals 2 damage to target creature or player. \r\n\u003cbr\u003e//\u003cbr\u003e\r\nPut a 3/3 green Elephant creature token into play."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14559_200w.jpg",
+      "modifiedOn": "2022-06-28T15:03:03.907",
+      "name": "Assault // Battery",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14559,
+      "url": "https://www.tcgplayer.com/product/14559/magic-timeshifted-assault-battery"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Auratog",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Atog"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Sacrifice an enchantment: Auratog gets +2/+2 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe auratog enjoys eating its wards.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14560_200w.jpg",
+      "modifiedOn": "2023-02-03T15:57:01.867",
+      "name": "Auratog",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14560,
+      "url": "https://www.tcgplayer.com/product/14560/magic-timeshifted-auratog"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Avalanche Riders",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "55"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Nomad"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003eEcho 3R \u003cem\u003e(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\u003c/em\u003e\r\n\u003cbr\u003eWhen Avalanche Riders comes into play, destroy target land."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14561_200w.jpg",
+      "modifiedOn": "2025-05-15T20:42:51.823",
+      "name": "Avalanche Riders",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14561,
+      "url": "https://www.tcgplayer.com/product/14561/magic-timeshifted-avalanche-riders"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Avatar of Woe",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "37"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Avatar"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If there are ten or more creature cards total in all graveyards, Avatar of Woe costs 6 less to play. \r\n\u003cbr\u003eFear\u003cbr\u003e\r\nT: Destroy target creature. It can't be regenerated."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14562_200w.jpg",
+      "modifiedOn": "2025-11-10T22:47:41.737",
+      "name": "Avatar of Woe",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14562,
+      "url": "https://www.tcgplayer.com/product/14562/magic-timeshifted-avatar-of-woe"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Avoid Fate",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "73"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Counter target instant or Aura spell that targets a permanent you control."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14563_200w.jpg",
+      "modifiedOn": "2023-04-08T20:14:17.787",
+      "name": "Avoid Fate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14563,
+      "url": "https://www.tcgplayer.com/product/14563/magic-timeshifted-avoid-fate"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bad Moon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "38"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Black creatures get +1/+1."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14564_200w.jpg",
+      "modifiedOn": "2022-08-23T19:26:07.95",
+      "name": "Bad Moon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14564,
+      "url": "https://www.tcgplayer.com/product/14564/magic-timeshifted-bad-moon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Browbeat",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "56"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Any player may have Browbeat deal 5 damage to him or her. If no one does, target player draws three cards."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Even the threat of power has power.\"\u003cbr\u003e—Jeska, warrior adept\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14565_200w.jpg",
+      "modifiedOn": "2022-06-28T15:03:41.003",
+      "name": "Browbeat",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14565,
+      "url": "https://www.tcgplayer.com/product/14565/magic-timeshifted-browbeat"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Call of the Herd",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "74"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Put a 3/3 green Elephant creature token into play. \r\n\u003cbr\u003eFlashback 3G \u003cem\u003e(You may play this card from your graveyard for its flashback cost. Then remove it from the game.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14566_200w.jpg",
+      "modifiedOn": "2023-01-23T19:51:19.627",
+      "name": "Call of the Herd",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14566,
+      "url": "https://www.tcgplayer.com/product/14566/magic-timeshifted-call-of-the-herd"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Celestial Dawn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lands you control are Plains. \r\n\u003cbr\u003eNonland cards you own that aren't in play, spells you control, and nonland permanents you control are white. \r\n\u003cbr\u003eYou may spend white mana as though it were mana of any color. You may spend other mana only as though it were colorless mana."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14567_200w.jpg",
+      "modifiedOn": "2023-03-17T10:00:53.243",
+      "name": "Celestial Dawn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14567,
+      "url": "https://www.tcgplayer.com/product/14567/magic-timeshifted-celestial-dawn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Claws of Gix",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "107"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1, Sacrifice a permanent: You gain 1 life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eWhen the Brotherhood of Gix dug out the cave of Koilos they found their master's severed hand. They enshrined it, hoping that one day it would point the way to Phyrexia.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14568_200w.jpg",
+      "modifiedOn": "2022-12-27T06:01:54.36",
+      "name": "Claws of Gix",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14568,
+      "url": "https://www.tcgplayer.com/product/14568/magic-timeshifted-claws-of-gix"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Coalition Victory",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "91"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You win the game if you control a land of each basic land type and a creature of each color."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"You can build a perfect machine out of imperfect parts.\""
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14569_200w.jpg",
+      "modifiedOn": "2025-12-03T17:18:27.427",
+      "name": "Coalition Victory",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14569,
+      "url": "https://www.tcgplayer.com/product/14569/magic-timeshifted-coalition-victory"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cockatrice",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "75"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Cockatrice"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying \r\n\u003cbr\u003eWhenever Cockatrice blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14570_200w.jpg",
+      "modifiedOn": "2022-06-28T15:04:25.117",
+      "name": "Cockatrice",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14570,
+      "url": "https://www.tcgplayer.com/product/14570/magic-timeshifted-cockatrice"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Consecrate Land",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant land \r\n\u003cbr\u003eEnchanted land is indestructible and can't be enchanted by other Auras."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14571_200w.jpg",
+      "modifiedOn": "2022-06-28T15:04:31.847",
+      "name": "Consecrate Land",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14571,
+      "url": "https://www.tcgplayer.com/product/14571/magic-timeshifted-consecrate-land"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Conspiracy",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "39"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As Conspiracy comes into play, choose a creature type. \r\n\u003cbr\u003eCreature cards you own that aren't in play, creature spells you control, and creatures you control are the chosen type."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14572_200w.jpg",
+      "modifiedOn": "2025-11-10T22:46:47.5",
+      "name": "Conspiracy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14572,
+      "url": "https://www.tcgplayer.com/product/14572/magic-timeshifted-conspiracy"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Craw Giant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "76"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Giant"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample \r\n\u003cbr\u003eRampage 2 \u003cem\u003e(Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eHarthag gave a jolly laugh as he surveyed the army before him. “Ho ho ho! Midgets! You think you can stand in my way?”\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14573_200w.jpg",
+      "modifiedOn": "2025-05-15T20:42:51.87",
+      "name": "Craw Giant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14573,
+      "url": "https://www.tcgplayer.com/product/14573/magic-timeshifted-craw-giant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dandan",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "19"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature —‚Fish"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Dandan can't attack unless defending player controls an Island. \r\n\u003cbr\u003eWhen you control no Islands, sacrifice Dandan."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Catch good today. Start replacing crew tomorrow.\"\u003cbr\u003e—Faysal al-Mousa, fisher captain, log"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14574_200w.jpg",
+      "modifiedOn": "2023-06-07T15:02:06.02",
+      "name": "Dandan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14574,
+      "url": "https://www.tcgplayer.com/product/14574/magic-timeshifted-dandan"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Darkness",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "40"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Prevent all combat damage that would be dealt this turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"If I must die, I will encounter darkness as a bride, / And hug it in mine arms.\"\u003cbr\u003e—William Shakespeare,\u003c/em\u003e\u003cbr\u003eMeasure for Measure"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14575_200w.jpg",
+      "modifiedOn": "2022-06-28T15:05:04.38",
+      "name": "Darkness",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14575,
+      "url": "https://www.tcgplayer.com/product/14575/magic-timeshifted-darkness"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dauthi Slayer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "41"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Dauthi Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Shadow \u003cem\u003e(This creature can block or be blocked by only creatures with shadow.) \r\n\u003cbr\u003eDauthi Slayer attacks each turn if able."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"They have knifes for every soul.\"\u003cbr\u003e—Lyna, Soltari emissary"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14576_200w.jpg",
+      "modifiedOn": "2022-06-28T15:05:15.563",
+      "name": "Dauthi Slayer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14576,
+      "url": "https://www.tcgplayer.com/product/14576/magic-timeshifted-dauthi-slayer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Defiant Vanguard",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Rebel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Defiant Vanguard blocks, at end of combat, destroy it and all creatures it blocked this turn. \u003cbr\u003e5, T: Search your library for a Rebel card with converted mana cost 4 or less and put it into play. Then shuffle your library."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14577_200w.jpg",
+      "modifiedOn": "2025-11-10T22:42:41.17",
+      "name": "Defiant Vanguard",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14577,
+      "url": "https://www.tcgplayer.com/product/14577/magic-timeshifted-defiant-vanguard"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Desert",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "118"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land — Desert"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add 1 to your mana pool. \r\n\u003cbr\u003eT: Desert deals 1 damage to target attacking creature. Play this ability only during the end of combat step."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14578_200w.jpg",
+      "modifiedOn": "2022-07-15T19:29:23.28",
+      "name": "Desert",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14578,
+      "url": "https://www.tcgplayer.com/product/14578/magic-timeshifted-desert"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Desolation Giant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "57"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Giant"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Kicker WW \u003cem\u003e(You may pay an additional WW as you play this spell.) \r\n\u003cbr\u003eWhen Desolation Giant comes into play, destroy all other creatures you control. If the kicker cost was paid, destroy all other creatures instead."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14579_200w.jpg",
+      "modifiedOn": "2025-01-31T18:26:01.03",
+      "name": "Desolation Giant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14579,
+      "url": "https://www.tcgplayer.com/product/14579/magic-timeshifted-desolation-giant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Disenchant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target artifact or enchantment."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14580_200w.jpg",
+      "modifiedOn": "2022-06-28T14:26:50.597",
+      "name": "Disenchant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14580,
+      "url": "https://www.tcgplayer.com/product/14580/magic-timeshifted-disenchant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Disintegrate",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "58"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Disintegrate deals X damage to target creature or player. That creature can't be regenerated this turn. If the creature would be put into a graveyard this turn, remove it from the game instead."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14581_200w.jpg",
+      "modifiedOn": "2022-11-09T11:24:06.107",
+      "name": "Disintegrate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14581,
+      "url": "https://www.tcgplayer.com/product/14581/magic-timeshifted-disintegrate"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dodecapod",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "108"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Golem"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If a spell or ability an opponent controls causes you to discard Dodecapod, put it into play with two +1/+1 counters on it instead of putting it into your graveyard."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14582_200w.jpg",
+      "modifiedOn": "2025-05-30T12:45:44.667",
+      "name": "Dodecapod",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14582,
+      "url": "https://www.tcgplayer.com/product/14582/magic-timeshifted-dodecapod"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dragon Whelp",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "59"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying \r\n\u003cbr\u003eR: Dragon Whelp gets +1/+0 until end of turn. At end of turn, if this ability has been played four or more times this turn, sacrifice Dragon Whelp."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14583_200w.jpg",
+      "modifiedOn": "2022-06-28T14:32:15.527",
+      "name": "Dragon Whelp",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14583,
+      "url": "https://www.tcgplayer.com/product/14583/magic-timeshifted-dragon-whelp"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dragonstorm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "60"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Search your library for a Dragon card and put it into play. Then shuffle your library. \r\n\u003cbr\u003eStorm \u003cem\u003e(When you play this spell, copy it for each spell played before it this turn.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14584_200w.jpg",
+      "modifiedOn": "2026-01-12T18:33:59.493",
+      "name": "Dragonstorm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14584,
+      "url": "https://www.tcgplayer.com/product/14584/magic-timeshifted-dragonstorm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Enduring Renewal",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Play with your hand revealed. \r\n\u003cbr\u003eIf you would draw a card, reveal the top card of your library instead. If it's a creature card, put it into your graveyard. Otherwise, draw a card. \r\n\u003cbr\u003eWhenever a creature is put into your graveyard from play, return it to your hand."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14585_200w.jpg",
+      "modifiedOn": "2023-01-16T20:15:44.257",
+      "name": "Enduring Renewal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14585,
+      "url": "https://www.tcgplayer.com/product/14585/magic-timeshifted-enduring-renewal"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Eron the Relentless",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "61"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Rogue"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste \r\n\u003cbr\u003eRRR: Regenerate Eron the Relentless."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Eron would be much less of a hassle if only he were mortal.\"\u003cbr\u003e—Reyhan, Samite alchemist\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14586_200w.jpg",
+      "modifiedOn": "2025-11-10T22:46:01.857",
+      "name": "Eron the Relentless",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14586,
+      "url": "https://www.tcgplayer.com/product/14586/magic-timeshifted-eron-the-relentless"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Essence Sliver",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Sliver"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever a Sliver deals damage, its controller gains that much life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe slivers would survive, even at the expense of every other creature on Otaria.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14587_200w.jpg",
+      "modifiedOn": "2023-04-09T05:01:23.08",
+      "name": "Essence Sliver",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14587,
+      "url": "https://www.tcgplayer.com/product/14587/magic-timeshifted-essence-sliver"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Evil Eye of Orms by Gore",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "42"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Eye"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Non-Eye creatures you control can't attack. \r\n\u003cbr\u003eEvil Eye of Orms-by-Gore can't be blocked except by Walls."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe highway of fear is thee shortest route to defeat.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14588_200w.jpg",
+      "modifiedOn": "2024-06-07T15:08:34.187",
+      "name": "Evil Eye of Orms-by-Gore",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14588,
+      "url": "https://www.tcgplayer.com/product/14588/magic-timeshifted-evil-eye-of-orms-by-gore"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Faceless Butcher",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "43"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Nightmare Horror"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Faceless Butcher comes into play, remove target creature other than Faceless Butcher from the game. \r\n\u003cbr\u003eWhen Faceless Butcher leaves play, return the removed card to play under its owner's control."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14589_200w.jpg",
+      "modifiedOn": "2022-06-28T14:39:47.873",
+      "name": "Faceless Butcher",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14589,
+      "url": "https://www.tcgplayer.com/product/14589/magic-timeshifted-faceless-butcher"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Feldons Cane",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "109"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T, Remove Feldon's Cane from the game: Shuffle your graveyard into your library."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14590_200w.jpg",
+      "modifiedOn": "2022-06-28T14:40:24.29",
+      "name": "Feldon's Cane",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14590,
+      "url": "https://www.tcgplayer.com/product/14590/magic-timeshifted-feldons-cane"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fiery Justice",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "92"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Fiery Justice deals 5 damage divided as you choose among any number of target creatures and/or players. Target opponent gains 5 life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe fire of justice burns like nothing else.\"\u003cbr\u003e—Lovisa Coldeyes, Balduvian chieftain"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14591_200w.jpg",
+      "modifiedOn": "2025-05-15T20:42:51.93",
+      "name": "Fiery Justice",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14591,
+      "url": "https://www.tcgplayer.com/product/14591/magic-timeshifted-fiery-justice"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fiery Temper",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "62"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Fiery Temper deals 3 damage to target creature or player. \r\n\u003cbr\u003eMadness R \u003cem\u003e(If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14592_200w.jpg",
+      "modifiedOn": "2022-07-16T04:31:03.407",
+      "name": "Fiery Temper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14592,
+      "url": "https://www.tcgplayer.com/product/14592/magic-timeshifted-fiery-temper"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fire Whip",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "63"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant creature you control \r\n\u003cbr\u003eEnchanted creature has \"T: This creature deals 1 damage to target creature or player.\"\r\n\u003cbr\u003eSacrifice Fire Whip: Fire Whip deals 1 damage to target creature or player."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14593_200w.jpg",
+      "modifiedOn": "2022-06-28T14:43:37.007",
+      "name": "Fire Whip",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14593,
+      "url": "https://www.tcgplayer.com/product/14593/magic-timeshifted-fire-whip"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Flying Men",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "20"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eSaffiyah clapped her hands and twenty flying men appeared at her side, each well trained in the art of combat.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14594_200w.jpg",
+      "modifiedOn": "2022-06-28T14:44:51.823",
+      "name": "Flying Men",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14594,
+      "url": "https://www.tcgplayer.com/product/14594/magic-timeshifted-flying-men"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Funeral Charm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "44"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose one — Target player discards a card; or target creature gets +2/-1 until end of turn; or target creature gains swampwalk until end of turn."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14595_200w.jpg",
+      "modifiedOn": "2022-06-28T14:45:38.343",
+      "name": "Funeral Charm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14595,
+      "url": "https://www.tcgplayer.com/product/14595/magic-timeshifted-funeral-charm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gaeas Blessing",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "77"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target player shuffles up to three target cards from his or her graveyard into his or her library. \r\n\u003cbr\u003eDraw a card.\r\n\u003cbr\u003eWhen Gaea's Blessing is put into your graveyard from your library, shuffle your graveyard into your library."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14596_200w.jpg",
+      "modifiedOn": "2022-06-28T15:01:47.637",
+      "name": "Gaea's Blessing",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14596,
+      "url": "https://www.tcgplayer.com/product/14596/magic-timeshifted-gaeas-blessing"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gaeas Liege",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "78"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Avatar"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "*"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "*"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Gaea's Liege's power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls instead.\r\n\u003cbr\u003eT: Target land becomes a Forest until Gaea's Liege leaves play."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14597_200w.jpg",
+      "modifiedOn": "2022-06-28T14:48:37.11",
+      "name": "Gaea's Liege",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14597,
+      "url": "https://www.tcgplayer.com/product/14597/magic-timeshifted-gaeas-liege"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gemstone Mine",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "119"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Gemstone Mine comes into play with three mining counters on it. \r\n\u003cbr\u003eT, Remove a mining counter from Gemstone Mine: Add one mana of any color to your mana pool. If there are no mining counters on Gemstone Mine, sacrifice it."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14598_200w.jpg",
+      "modifiedOn": "2023-05-03T01:52:07.047",
+      "name": "Gemstone Mine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14598,
+      "url": "https://www.tcgplayer.com/product/14598/magic-timeshifted-gemstone-mine"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ghost Ship",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "21"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spirit"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying \r\n\u003cbr\u003eUUU: Regenerate Ghost Ship."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"That phantom prow split the storm as lightning cast its long shadow on the battlefield below.\"\u003cbr\u003e—Mireille Gaetane,\u003c/em\u003e The Valeriad"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14599_200w.jpg",
+      "modifiedOn": "2022-06-28T14:51:03.773",
+      "name": "Ghost Ship",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14599,
+      "url": "https://www.tcgplayer.com/product/14599/magic-timeshifted-ghost-ship"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Giant Oyster",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "22"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Oyster"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may choose not to untap Giant Oyster during your untap step. \r\n\u003cbr\u003eT: As long as Giant Oyster remains tapped, target tapped creature doesn't untap during its controller's untap step, and at the beginning of each of your draw steps, put a -1/-1 counter on that creature. When Giant Oyster leaves play or becomes untapped, remove all -1/-1 counters from the creature."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14600_200w.jpg",
+      "modifiedOn": "2025-05-15T20:42:51.977",
+      "name": "Giant Oyster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14600,
+      "url": "https://www.tcgplayer.com/product/14600/magic-timeshifted-giant-oyster"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Snowman",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "64"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Goblin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Goblin Snowman blocks, prevent all combat damage that would be dealt to and dealt by it this turn. \r\n\u003cbr\u003eT: Goblin Snowman deals 1 damage to target creature it's blocking."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Strength in numbers? Right.\"\u003cbr\u003e—Ib Halfheart, goblin tactician"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14601_200w.jpg",
+      "modifiedOn": "2022-06-28T14:54:18.503",
+      "name": "Goblin Snowman",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14601,
+      "url": "https://www.tcgplayer.com/product/14601/magic-timeshifted-goblin-snowman"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Grinning Totem",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "110"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2, T, Sacrifice Grinning Totem: Search target opponent's library for a card and remove it from the game. Then that player shuffles his or her library. Until the beginning of your next upkeep, you may play that card. At the beginning of your next upkeep, if you haven't played it, put it into its owner's graveyard."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14602_200w.jpg",
+      "modifiedOn": "2022-06-28T14:55:06.16",
+      "name": "Grinning Totem",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14602,
+      "url": "https://www.tcgplayer.com/product/14602/magic-timeshifted-grinning-totem"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hail Storm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "79"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Hail Storm deals 2 damage to each attacking creature and 1 damage to you and each creature you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"If they can't take the hail, they'd better stay home.\"\u003cbr\u003e—Arna Kennerüd, skycaptain\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14603_200w.jpg",
+      "modifiedOn": "2022-06-28T14:56:07.903",
+      "name": "Hail Storm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14603,
+      "url": "https://www.tcgplayer.com/product/14603/magic-timeshifted-hail-storm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Honorable Passage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage. If damage from a red source is prevented this way, Honorable Passage deals damage equal to the damage prevented this way to the source's controller."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14604_200w.jpg",
+      "modifiedOn": "2022-06-28T14:56:44.443",
+      "name": "Honorable Passage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14604,
+      "url": "https://www.tcgplayer.com/product/14604/magic-timeshifted-honorable-passage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hunting Moa",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "80"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Bird"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Echo 2G \u003cem\u003e(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\u003c/em\u003e\r\n\u003cbr\u003eWhen Hunting Moa comes into play or is put into a graveyard from play, put a +1/+1 counter on target creature."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14605_200w.jpg",
+      "modifiedOn": "2022-06-28T14:59:56.18",
+      "name": "Hunting Moa",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14605,
+      "url": "https://www.tcgplayer.com/product/14605/magic-timeshifted-hunting-moa"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Icatian Javelineers",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Icatian Javelineers comes into play with a javelin counter on it. \r\n\u003cbr\u003eT, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14606_200w.jpg",
+      "modifiedOn": "2022-12-29T16:02:38.4",
+      "name": "Icatian Javelineers",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14606,
+      "url": "https://www.tcgplayer.com/product/14606/magic-timeshifted-icatian-javelineers"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Jasmine Boreal",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "93"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Peace must prevail, even if the wicked must die.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14607_200w.jpg",
+      "modifiedOn": "2022-06-28T15:13:22.03",
+      "name": "Jasmine Boreal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14607,
+      "url": "https://www.tcgplayer.com/product/14607/magic-timeshifted-jasmine-boreal"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Jolrael Empress of Beasts",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "81"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Spellshaper"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2G, T, Discard two cards: Until end of turn, all lands target player controls are 3/3 creatures that are still lands."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I need no army. I have Jamuraa.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14608_200w.jpg",
+      "modifiedOn": "2022-06-28T15:14:06.503",
+      "name": "Jolrael, Empress of Beasts",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14608,
+      "url": "https://www.tcgplayer.com/product/14608/magic-timeshifted-jolrael-empress-of-beasts"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kobold Taskmaster",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "65"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Kobold"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Other Kobolds you control get +1/+0."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe taskmaster knows that there is no cure for the common kobold.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14609_200w.jpg",
+      "modifiedOn": "2022-09-15T18:49:43.403",
+      "name": "Kobold Taskmaster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14609,
+      "url": "https://www.tcgplayer.com/product/14609/magic-timeshifted-kobold-taskmaster"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Krosan Cloudscraper",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "82"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Beast Mutant"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "13"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "13"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your upkeep, sacrifice Krosan Cloudscraper unless you pay GG. \r\n\u003cbr\u003eMorph 7GG \u003cem\u003e(You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14610_200w.jpg",
+      "modifiedOn": "2022-06-28T15:16:58.27",
+      "name": "Krosan Cloudscraper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14610,
+      "url": "https://www.tcgplayer.com/product/14610/magic-timeshifted-krosan-cloudscraper"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Leviathan",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "23"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Leviathan"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "10"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "10"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample \r\n\u003cbr\u003eLeviathan comes into play tapped and doesn't untap during your untap step. \r\n\u003cbr\u003eAt the beginning of your upkeep, you may sacrifice two Islands. If you do, untap Leviathan. \u003cbr\u003eLeviathan can't attack unless you sacrifice two Islands."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14611_200w.jpg",
+      "modifiedOn": "2022-06-28T15:18:08.383",
+      "name": "Leviathan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14611,
+      "url": "https://www.tcgplayer.com/product/14611/magic-timeshifted-leviathan"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lightning Angel",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "94"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Angel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, vigilance, haste"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14612_200w.jpg",
+      "modifiedOn": "2023-02-10T12:35:16.813",
+      "name": "Lightning Angel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14612,
+      "url": "https://www.tcgplayer.com/product/14612/magic-timeshifted-lightning-angel"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lord of Atlantis",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "24"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Merfolk Lord"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Other Merfolk get +1/+1 and have islandwalk."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eA master of tactics, the Lord of Atlantis makes his people bold in battle merely by arriving to lead them.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14613_200w.jpg",
+      "modifiedOn": "2026-01-28T15:43:05.29",
+      "name": "Lord of Atlantis",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14613,
+      "url": "https://www.tcgplayer.com/product/14613/magic-timeshifted-lord-of-atlantis"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Merfolk Assassin",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "25"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Merfolk Assassin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Destroy target creature with islandwalk."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14614_200w.jpg",
+      "modifiedOn": "2022-06-28T15:21:15.563",
+      "name": "Merfolk Assassin",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14614,
+      "url": "https://www.tcgplayer.com/product/14614/magic-timeshifted-merfolk-assassin"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Merieke Ri Berit",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "95"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Merieke Ri Berit doesn't untap during your untap step. \r\n\u003cbr\u003eT: Gain control of target creature as long as you control Merieke Ri Berit. When Merieke Ri Berit leaves play or becomes untapped, destroy that creature. It can't be regenerated."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14615_200w.jpg",
+      "modifiedOn": "2022-06-28T15:22:11.24",
+      "name": "Merieke Ri Berit",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14615,
+      "url": "https://www.tcgplayer.com/product/14615/magic-timeshifted-merieke-ri-berit"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mindless Automaton",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "111"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Construct"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "0"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Mindless Automaton comes into play with two +1/+1 counters on it. \r\n\u003cbr\u003e1, Discard a card: Put a +1/+1 counter on Mindless Automaton. \r\n\u003cbr\u003eRemove two +1/+1 counters from Mindless Automaton: Draw a card."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14616_200w.jpg",
+      "modifiedOn": "2023-01-30T16:01:20.93",
+      "name": "Mindless Automaton",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14616,
+      "url": "https://www.tcgplayer.com/product/14616/magic-timeshifted-mindless-automaton"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mirari",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "112"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you play an instant or sorcery spell, you may pay 3. If you do, copy that spell. You may choose new targets for the copy."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"It offers you what you want, not what you need.\"\u003cbr\u003e—Braids, dementia summoner"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14617_200w.jpg",
+      "modifiedOn": "2023-05-13T10:09:45.16",
+      "name": "Mirari",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14617,
+      "url": "https://www.tcgplayer.com/product/14617/magic-timeshifted-mirari"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mistform Ultimus",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "26"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Illusion"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Mistform Ultimus is every creature type \u003cem\u003e(even if this card isn't in play)\u003c/em\u003e."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIt may wear your face, but its mind is its own.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14618_200w.jpg",
+      "modifiedOn": "2022-06-28T15:26:02.807",
+      "name": "Mistform Ultimus",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14618,
+      "url": "https://www.tcgplayer.com/product/14618/magic-timeshifted-mistform-ultimus"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Moorish Cavalry",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eMembers of the elite Moorish Cavalry are very particular about their mounts, choosing only those whose bloodlines have been pure for generations.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14619_200w.jpg",
+      "modifiedOn": "2022-06-28T15:27:18.967",
+      "name": "Moorish Cavalry",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14619,
+      "url": "https://www.tcgplayer.com/product/14619/magic-timeshifted-moorish-cavalry"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mystic Enforcer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "96"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Nomad Mystic"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Protection from black \r\n\u003cbr\u003e\u003c/em\u003eThreshold\u003c/em\u003e — Mystic Enforcer gets +3/+3 and has flying as long as seven or more cards are in your graveyard."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14620_200w.jpg",
+      "modifiedOn": "2022-06-28T15:28:40.613",
+      "name": "Mystic Enforcer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14620,
+      "url": "https://www.tcgplayer.com/product/14620/magic-timeshifted-mystic-enforcer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mystic Snake",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "97"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Snake"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash \u003cem\u003e(You may play this spell any time you could play an instant.)\u003c/em\u003e\r\n\u003cbr\u003eWhen Mystic Snake comes into play, counter target spell."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIts fangs are in your flesh before its hiss leaves your ears.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14621_200w.jpg",
+      "modifiedOn": "2023-07-08T11:07:25.407",
+      "name": "Mystic Snake",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14621,
+      "url": "https://www.tcgplayer.com/product/14621/magic-timeshifted-mystic-snake"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nicol Bolas",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "98"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elder Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "7"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "7"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying \r\n\u003cbr\u003eAt the beginning of your upkeep, sacrifice Nicol Bolas unless you pay UBR. \r\n\u003cbr\u003eWhenever Nicol Bolas deals damage to an opponent, that player discards his or her hand."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14622_200w.jpg",
+      "modifiedOn": "2022-06-28T15:31:13.077",
+      "name": "Nicol Bolas",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14622,
+      "url": "https://www.tcgplayer.com/product/14622/magic-timeshifted-nicol-bolas"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Orcish Librarian",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "66"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Orc"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "R, T: Look at the top eight cards of your library. Remove four of them at random from the game, then put the rest on top of your library in any order."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Us hungry, need food....Lots of books....Hmm....\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14623_200w.jpg",
+      "modifiedOn": "2023-10-23T05:33:29.33",
+      "name": "Orcish Librarian",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14623,
+      "url": "https://www.tcgplayer.com/product/14623/magic-timeshifted-orcish-librarian"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Orgg",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "67"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Orgg"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample \r\n\u003cbr\u003eOrgg can't attack if defending player controls an untapped creature with power 3 or greater. \r\n\u003cbr\u003eOrgg can't block creatures with power 3 or greater."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIt's bigger than it thinks.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14624_200w.jpg",
+      "modifiedOn": "2022-06-28T15:34:02.653",
+      "name": "Orgg",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14624,
+      "url": "https://www.tcgplayer.com/product/14624/magic-timeshifted-orgg"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ovinomancer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "27"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Ovinomancer comes into play, sacrifice it unless you return three basic lands you control to their owner's hand. \r\n\u003cbr\u003eT, Return Ovinomancer to its owner's hand: Destroy target creature. It can't be regenerated. That creature's controller puts a 0/1 green Sheep creature token into play."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14625_200w.jpg",
+      "modifiedOn": "2022-06-28T15:35:08.873",
+      "name": "Ovinomancer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14625,
+      "url": "https://www.tcgplayer.com/product/14625/magic-timeshifted-ovinomancer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pandemonium",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "68"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever a creature comes into play, that creature's controller may have it deal damage equal to its power to target creature or player of his or her choice."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"If we cannot live proudly, we die so!\"\u003cbr\u003e—Eladamri, Lord of Leaves\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14626_200w.jpg",
+      "modifiedOn": "2024-06-05T18:15:46.777",
+      "name": "Pandemonium",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14626,
+      "url": "https://www.tcgplayer.com/product/14626/magic-timeshifted-pandemonium"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pendelhaven",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "120"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add G to your mana pool. \r\n\u003cbr\u003eT: Target 1/1 creature gets +1/+2 until end of turn."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14627_200w.jpg",
+      "modifiedOn": "2023-05-24T18:54:51.023",
+      "name": "Pendelhaven",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14627,
+      "url": "https://www.tcgplayer.com/product/14627/magic-timeshifted-pendelhaven"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pirate Ship",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "28"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Pirate"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Pirate Ship can't attack unless defending player controls an Island. \r\n\u003cbr\u003eT: Pirate Ship deals 1 damage to target creature or player. \r\n\u003cbr\u003eWhen you control no Islands, sacrifice Pirate Ship."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14628_200w.jpg",
+      "modifiedOn": "2022-06-28T15:39:43.71",
+      "name": "Pirate Ship",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14628,
+      "url": "https://www.tcgplayer.com/product/14628/magic-timeshifted-pirate-ship"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Prodigal Sorcerer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "29"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Prodigal Sorcerer deals 1 damage to target creature or player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eOccasionally, members of the Institute of Arcane Study acquire a taste for worldly pleasures. Seldom do they have trouble finding emplyoment.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14629_200w.jpg",
+      "modifiedOn": "2022-06-28T15:41:32.787",
+      "name": "Prodigal Sorcerer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14629,
+      "url": "https://www.tcgplayer.com/product/14629/magic-timeshifted-prodigal-sorcerer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Psionic Blast",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "30"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Psionic Blast deals 4 damage to target creature or player and 2 damage to you."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14630_200w.jpg",
+      "modifiedOn": "2023-05-16T07:17:34.97",
+      "name": "Psionic Blast",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14630,
+      "url": "https://www.tcgplayer.com/product/14630/magic-timeshifted-psionic-blast"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Resurrection",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Return target creature card from your graveyard to play."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14631_200w.jpg",
+      "modifiedOn": "2022-11-30T09:04:03.523",
+      "name": "Resurrection",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14631,
+      "url": "https://www.tcgplayer.com/product/14631/magic-timeshifted-resurrection"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sacred Mesa",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your upkeep, sacrifice Sacred Mesa unless you sacrifice a Pegasus. \r\n\u003cbr\u003e1W: Put a 1/1 white Pegasus creature token with flying into play."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Do not go there, do not go / unless you rise on wings, unless you walk on hooves.\"\u003cbr\u003e—\"Song to the Sun,\" Femeref song"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14632_200w.jpg",
+      "modifiedOn": "2022-06-28T15:44:14.103",
+      "name": "Sacred Mesa",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14632,
+      "url": "https://www.tcgplayer.com/product/14632/magic-timeshifted-sacred-mesa"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Safe Haven",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "121"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2, T: Remove target creature you control from the game. \r\n\u003cbr\u003eAt the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return each card removed from the game with Safe Haven to play under its owner's control."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14633_200w.jpg",
+      "modifiedOn": "2022-06-28T15:45:17.493",
+      "name": "Safe Haven",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14633,
+      "url": "https://www.tcgplayer.com/product/14633/magic-timeshifted-safe-haven"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Scragnoth",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "83"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Beast"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Scragnoth can't be countered. \r\n\u003cbr\u003eProtection from blue"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIt possesses no intelligence, only counter-intelligence.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14634_200w.jpg",
+      "modifiedOn": "2022-06-28T15:46:20.007",
+      "name": "Scragnoth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14634,
+      "url": "https://www.tcgplayer.com/product/14634/magic-timeshifted-scragnoth"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sengir Autocrat",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "45"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Sengir Autocrat comes into play, put three 0/1 black Serf creature tokens into play. \r\n\u003cbr\u003eWhen Sengir Autocrat leaves play, remove all Serf tokens from the game."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"A thankless job, and a death sentence besides.\"\u003cbr\u003e—Eron the Relentless\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14635_200w.jpg",
+      "modifiedOn": "2022-06-28T15:47:47.443",
+      "name": "Sengir Autocrat",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14635,
+      "url": "https://www.tcgplayer.com/product/14635/magic-timeshifted-sengir-autocrat"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Serrated Arrows",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "114"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Serrated Arrows comes into play with three arrowhead counters on it. \r\n\u003cbr\u003eAt the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it. \r\n\u003cbr\u003eT, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14636_200w.jpg",
+      "modifiedOn": "2025-05-15T20:42:52.04",
+      "name": "Serrated Arrows",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14636,
+      "url": "https://www.tcgplayer.com/product/14636/magic-timeshifted-serrated-arrows"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shadow Guildmage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "46"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "U, T: Put target creature you control on top of its owner's library. \r\n\u003cbr\u003eR, T: Shadow Guildmage deals 1 damage to target creature or player and 1 damage to you."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eTo keep the dead so others may live.\u003cbr\u003e—Shadow Guild maxim"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14637_200w.jpg",
+      "modifiedOn": "2023-10-16T09:40:24.173",
+      "name": "Shadow Guildmage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14637,
+      "url": "https://www.tcgplayer.com/product/14637/magic-timeshifted-shadow-guildmage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shadowmage Infiltrator",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "99"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Fear \r\n\u003cbr\u003eWhenever Shadowmage Infiltrator deals combat damage to a player, you may draw a card."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14638_200w.jpg",
+      "modifiedOn": "2022-06-28T15:51:33.077",
+      "name": "Shadowmage Infiltrator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14638,
+      "url": "https://www.tcgplayer.com/product/14638/magic-timeshifted-shadowmage-infiltrator"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sindbad",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "31"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Draw a card and reveal it. If it isn't a land card, discard it."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14639_200w.jpg",
+      "modifiedOn": "2025-05-15T20:42:52.18",
+      "name": "Sindbad",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14639,
+      "url": "https://www.tcgplayer.com/product/14639/magic-timeshifted-sindbad"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Solkanar the Swamp King",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "100"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Demon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Swampwalk \r\n\u003cbr\u003eWhenever a player plays a black spell, you gain 1 life."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14640_200w.jpg",
+      "modifiedOn": "2023-08-16T20:55:50.1",
+      "name": "Sol'kanar the Swamp King",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14640,
+      "url": "https://www.tcgplayer.com/product/14640/magic-timeshifted-solkanar-the-swamp-king"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Soltari Priest",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Soltari Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Protection from red \r\n\u003cbr\u003eShadow \u003cem\u003e(This creature can block or be blocked by only creatures with shadow.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"In Rath,\" the prist said, \"there is even greater need for prayer.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14641_200w.jpg",
+      "modifiedOn": "2022-06-28T15:54:17.943",
+      "name": "Soltari Priest",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14641,
+      "url": "https://www.tcgplayer.com/product/14641/magic-timeshifted-soltari-priest"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Soul Collector",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "47"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Vampire"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying \r\n\u003cbr\u003eWhenever a creature dealt damage by Soul Collector this turn is put into a graveyard, return that card to play under your control. \r\n\u003cbr\u003eMorph BBB \u003cem\u003e(You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14642_200w.jpg",
+      "modifiedOn": "2022-06-28T15:55:54.823",
+      "name": "Soul Collector",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14642,
+      "url": "https://www.tcgplayer.com/product/14642/magic-timeshifted-soul-collector"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Spike Feeder",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "84"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spike"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "0"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Spike Feeder comes into play with two +1/+1 counters on it. \r\n\u003cbr\u003e2, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature. \r\n\u003cbr\u003eRemove a +1/+1 counter from Spike Feeder: You gain 2 life."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14643_200w.jpg",
+      "modifiedOn": "2022-06-28T15:57:21.42",
+      "name": "Spike Feeder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14643,
+      "url": "https://www.tcgplayer.com/product/14643/magic-timeshifted-spike-feeder"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Spined Sliver",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "101"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Sliver"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Slivers are evil and slivery are sly; And if you get eaten, then no one will cry.\"\u003cbr\u003e—Mogg children's rhyme"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14644_200w.jpg",
+      "modifiedOn": "2022-06-28T15:58:38.167",
+      "name": "Spined Sliver",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14644,
+      "url": "https://www.tcgplayer.com/product/14644/magic-timeshifted-spined-sliver"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Spitting Slug",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "85"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Slug"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Spitting Slug blocks or becomes blocked, you may pay 1G. If you do, Spitting Slug gains first strike until end of turn. Otherwise, each creature blocking or blocked by Spitting Slug gains first strike until end of turn."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14645_200w.jpg",
+      "modifiedOn": "2022-06-28T15:59:26.067",
+      "name": "Spitting Slug",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14645,
+      "url": "https://www.tcgplayer.com/product/14645/magic-timeshifted-spitting-slug"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Squire",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Of twenty yeer of age he was, I gesse. Of his stature he was of evene lengthe. And wonderly delyvere, and of greete strengthe.\"\u003cbr\u003e—Geoffrey Chaucer,\u003c/em\u003e\u003cbr\u003eThe Canterbury Tales"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14646_200w.jpg",
+      "modifiedOn": "2022-06-28T16:02:08.677",
+      "name": "Squire",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14646,
+      "url": "https://www.tcgplayer.com/product/14646/magic-timeshifted-squire"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Stormbind",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "102"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2, Discard a card at random: Stormbind deals 2 damage to target creature or player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Once, our people could call down the storm itself to do our bidding.\"\u003cbr\u003e—Lovisa Coldeyes, Balduvian chieftain"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14647_200w.jpg",
+      "modifiedOn": "2025-11-10T22:43:43.343",
+      "name": "Stormbind",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14647,
+      "url": "https://www.tcgplayer.com/product/14647/magic-timeshifted-stormbind"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Stormscape Familiar",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "32"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Bird"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying \u003cbr\u003eWhite spells and black spells you play cost 1 less to play."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eEach Stormscape apprentice must hand-raise and train an owl before attaining the rank of master.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14648_200w.jpg",
+      "modifiedOn": "2023-09-24T03:20:12.01",
+      "name": "Stormscape Familiar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14648,
+      "url": "https://www.tcgplayer.com/product/14648/magic-timeshifted-stormscape-familiar"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Stupor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "48"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target opponent discards a card at random, then discards a card."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14649_200w.jpg",
+      "modifiedOn": "2022-06-28T16:05:50.263",
+      "name": "Stupor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14649,
+      "url": "https://www.tcgplayer.com/product/14649/magic-timeshifted-stupor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "SuqAta Lancer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "69"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste \r\n\u003cbr\u003eFlanking \u003cem\u003e(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Never stop 'til you see your lance come out the other side.\"\u003cbr\u003e—Telim'Tor\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14650_200w.jpg",
+      "modifiedOn": "2022-06-28T16:07:43.597",
+      "name": "Suq'Ata Lancer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14650,
+      "url": "https://www.tcgplayer.com/product/14650/magic-timeshifted-suqata-lancer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp Mosquito",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "49"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Insect"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying \r\n\u003cbr\u003eWhenever Swamp Mosquito attacks and isn't blocked, defending player gets a poison counter. \u003cem\u003e(A player with ten or more poison counters loses the game.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14651_200w.jpg",
+      "modifiedOn": "2022-06-28T16:09:10.6",
+      "name": "Swamp Mosquito",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14651,
+      "url": "https://www.tcgplayer.com/product/14651/magic-timeshifted-swamp-mosquito"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Teferis Moat",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "103"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As Teferi's Moat comes into play, choose a color. \r\n\u003cbr\u003eCreatures of the chosen color without flying can't attack you."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14652_200w.jpg",
+      "modifiedOn": "2022-06-28T16:10:00.56",
+      "name": "Teferi's Moat",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14652,
+      "url": "https://www.tcgplayer.com/product/14652/magic-timeshifted-teferis-moat"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thallid",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "86"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Fungus"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your upkeep, put a spore counter on Thallid. \r\n\u003cbr\u003eRemove three spore counters from Thallid: Put a 1/1 green Saproling creature token into play."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14653_200w.jpg",
+      "modifiedOn": "2023-01-04T12:00:01.827",
+      "name": "Thallid",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14653,
+      "url": "https://www.tcgplayer.com/product/14653/magic-timeshifted-thallid"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Rack",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "113"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As The Rack comes into play, choose an opponent. \r\n\u003cbr\u003eAt the beginning of the chosen player's upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in his or her hand."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eInvented in Mishra's earlier days, the rack was once his most feared creation.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14654_200w.jpg",
+      "modifiedOn": "2023-04-28T09:33:40.323",
+      "name": "The Rack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14654,
+      "url": "https://www.tcgplayer.com/product/14654/magic-timeshifted-the-rack"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thornscape Battlemage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "87"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elf Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Kicker R and/or W \r\n\u003cbr\u003eWhen Thornscape Battlemage comes into play, if the R kicker cost was paid, it deals 2 damage to target creature or player. \r\n\u003cbr\u003eWhen Thornscape Battlemage comes into play, if the W kicker cost was paid, destroy target artifact."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14655_200w.jpg",
+      "modifiedOn": "2022-06-28T16:13:45.763",
+      "name": "Thornscape Battlemage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14655,
+      "url": "https://www.tcgplayer.com/product/14655/magic-timeshifted-thornscape-battlemage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tormods Crypt",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "115"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T, Sacrifice Tormod's Crypt: Remove target player's graveyard from the game."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe dark opening seemed to breathe the cold, damp air of the dead earth in a steady rhythm.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14656_200w.jpg",
+      "modifiedOn": "2022-11-30T12:07:53.117",
+      "name": "Tormod's Crypt",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14656,
+      "url": "https://www.tcgplayer.com/product/14656/magic-timeshifted-tormods-crypt"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tribal Flames",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "70"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tribal Flames deals X damage to target creature or player, where X is the number of basic land types among lands you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Fire is the universal language.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14657_200w.jpg",
+      "modifiedOn": "2022-06-28T16:15:39.903",
+      "name": "Tribal Flames",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14657,
+      "url": "https://www.tcgplayer.com/product/14657/magic-timeshifted-tribal-flames"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Twisted Abomination",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "50"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie Mutant"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "B: Regenerate Twisted Abomination. \r\n\u003cbr\u003eSwampcycling 2 \u003cem\u003e(2, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14658_200w.jpg",
+      "modifiedOn": "2022-06-28T16:17:05.057",
+      "name": "Twisted Abomination",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14658,
+      "url": "https://www.tcgplayer.com/product/14658/magic-timeshifted-twisted-abomination"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Uncle Istvan",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "51"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Prevent all damage that would be dealt to Uncle Istvan by creatures."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eSolitude drove the old hermit insane. Now he only keeps company with those he can catch.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14659_200w.jpg",
+      "modifiedOn": "2022-12-05T12:59:38.537",
+      "name": "Uncle Istvan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14659,
+      "url": "https://www.tcgplayer.com/product/14659/magic-timeshifted-uncle-istvan"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Undead Warchief",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "52"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Zombie spells you play cost 1 less to play. \r\n\u003cbr\u003eZombies you control get +2/+1."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIt has the strength of seven men. In fact, it used to be seven men.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14660_200w.jpg",
+      "modifiedOn": "2025-12-29T19:17:52.76",
+      "name": "Undead Warchief",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14660,
+      "url": "https://www.tcgplayer.com/product/14660/magic-timeshifted-undead-warchief"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Undertaker",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "53"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Spellshaper"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "B, T, Discard a card: Return target creature card from your graveyard to your hand."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe weight of death is heavy but not immovable.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14661_200w.jpg",
+      "modifiedOn": "2022-06-28T16:20:46.343",
+      "name": "Undertaker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14661,
+      "url": "https://www.tcgplayer.com/product/14661/magic-timeshifted-undertaker"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Unstable Mutation",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "33"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant creature \r\n\u003cbr\u003eEnchanted creature gets +3/+3. \r\n\u003cbr\u003eAt the beginning of the upkeep of enchanted creature's controller, put a -1/-1 counter on that creature."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14662_200w.jpg",
+      "modifiedOn": "2023-04-05T07:53:35.127",
+      "name": "Unstable Mutation",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14662,
+      "url": "https://www.tcgplayer.com/product/14662/magic-timeshifted-unstable-mutation"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Uthden Troll",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "71"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Troll"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "R: Regenerate Uthden Troll."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Oi oi oi, me gotta hurt in 'ere,\u003cbr\u003eOi oi oi, me smell a ting is near,\u003cbr\u003eGonna bosh 'n gonna nosh 'n da hurt'll disappear.\"\u003cbr\u003e—Troll chant\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14663_200w.jpg",
+      "modifiedOn": "2022-06-28T16:23:38.887",
+      "name": "Uthden Troll",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14663,
+      "url": "https://www.tcgplayer.com/product/14663/magic-timeshifted-uthden-troll"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Valor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Incarnation"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike \r\n\u003cbr\u003eAs long as Valor is in your graveyard and you control a Plains, creatures you control have first strike."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The cracks widened, the shell crumbled, and Valor spread throughout the land.\"\u003c/em\u003e\u003cbr\u003e—Scroll of Beginnings"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14664_200w.jpg",
+      "modifiedOn": "2024-04-29T11:28:02.063",
+      "name": "Valor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14664,
+      "url": "https://www.tcgplayer.com/product/14664/magic-timeshifted-valor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Verdeloth the Ancient",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "88"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Treefolk"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "7"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Kicker X \u003cem\u003e(You may pay an additional X as you play this spell.)\u003c/em\u003e\r\n\u003cbr\u003eAll other Treefolk and all Saprolings get +1/+1. \r\n\u003cbr\u003eWhen Verdeloth the Ancient comes into play, if the kicker cost was paid, put X 1/1 green Saproling creature tokens into play."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14665_200w.jpg",
+      "modifiedOn": "2023-07-14T18:41:29.977",
+      "name": "Verdeloth the Ancient",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14665,
+      "url": "https://www.tcgplayer.com/product/14665/magic-timeshifted-verdeloth-the-ancient"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Vhati il Dal",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "104"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Target creature's power or toughness becomes 1 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Sir, I just thought...,\" explained Vhati.\u003cbr\u003e\"Don't think,\" interrupted Greven. \"It doesn't suit you.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14666_200w.jpg",
+      "modifiedOn": "2022-06-28T16:28:06.303",
+      "name": "Vhati il-Dal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14666,
+      "url": "https://www.tcgplayer.com/product/14666/magic-timeshifted-vhati-il-dal"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Void",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "105"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose a number. Destroy all artifacts and creatures with converted mana cost equal to that number. Then target player reveals his or her hand and discards all nonland cards with converted mana cost equal to the number."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14667_200w.jpg",
+      "modifiedOn": "2023-05-30T08:32:18.313",
+      "name": "Void",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14667,
+      "url": "https://www.tcgplayer.com/product/14667/magic-timeshifted-void"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Voidmage Prodigy",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "34"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "UU, Sacrifice a Wizard: Counter target spell. \r\n\u003cbr\u003eMorph U \u003cem\u003e(You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14668_200w.jpg",
+      "modifiedOn": "2022-06-28T16:29:42.863",
+      "name": "Voidmage Prodigy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14668,
+      "url": "https://www.tcgplayer.com/product/14668/magic-timeshifted-voidmage-prodigy"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wall of Roots",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "89"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Plant Wall"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Defender \r\n\u003cbr\u003ePut a -0/-1 counter on Wall of Roots: Add G to your mana pool. Play this ability only once each turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eSometimes the wise ones wove their magic into living plants; as the plant grew, so grew the magic.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14669_200w.jpg",
+      "modifiedOn": "2022-07-17T10:22:02.633",
+      "name": "Wall of Roots",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14669,
+      "url": "https://www.tcgplayer.com/product/14669/magic-timeshifted-wall-of-roots"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "War Barge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "116"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "3: Target creature gains islandwalk until end of turn. When War Barge leaves play this turn, destroy that creature. A creature destroyed this way can't be regenerated."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14670_200w.jpg",
+      "modifiedOn": "2022-06-28T16:31:33.917",
+      "name": "War Barge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14670,
+      "url": "https://www.tcgplayer.com/product/14670/magic-timeshifted-war-barge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Whirling Dervish",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "90"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Monk"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Protection from black \r\n\u003cbr\u003eAt end of turn, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14671_200w.jpg",
+      "modifiedOn": "2025-05-15T20:42:52.24",
+      "name": "Whirling Dervish",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14671,
+      "url": "https://www.tcgplayer.com/product/14671/magic-timeshifted-whirling-dervish"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Whispers of the Muse",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "35"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Buyback 5 \u003cem\u003e(You may pay an additional 5 as you play this spell. If you do, put this card into your hand as it resolves.)\u003c/em\u003e\r\n\u003cbr\u003eDraw a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I followed her song only to find it was a dirge.\"\u003cbr\u003e—Crovax"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14672_200w.jpg",
+      "modifiedOn": "2022-06-28T16:33:44.083",
+      "name": "Whispers of the Muse",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14672,
+      "url": "https://www.tcgplayer.com/product/14672/magic-timeshifted-whispers-of-the-muse"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wildfire Emissary",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "72"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Efreet"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Protection from white \r\n\u003cbr\u003e1R: Wildfire Emissary gets +1/+0 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The efreet is a striding storm with a voice that crackles like fire.\"\u003cbr\u003e—Qhattib, vizier of Amiqat\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14673_200w.jpg",
+      "modifiedOn": "2022-06-28T16:34:53.867",
+      "name": "Wildfire Emissary",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14673,
+      "url": "https://www.tcgplayer.com/product/14673/magic-timeshifted-wildfire-emissary"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Willbender",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "36"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Morph 1U \u003cem\u003e(You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)\u003c/em\u003e\r\n\u003cbr\u003eWhen Willbender is turned face up, change the target of target spell or ability with a single target."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14674_200w.jpg",
+      "modifiedOn": "2022-06-28T16:35:45.973",
+      "name": "Willbender",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14674,
+      "url": "https://www.tcgplayer.com/product/14674/magic-timeshifted-willbender"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Witch Hunter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "17"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Witch Hunter deals 1 damage to target player. \r\n\u003cbr\u003e1WW, T: Return target creature an opponent controls to its owner's hand."
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14675_200w.jpg",
+      "modifiedOn": "2025-05-15T20:42:52.32",
+      "name": "Witch Hunter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14675,
+      "url": "https://www.tcgplayer.com/product/14675/magic-timeshifted-witch-hunter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Withered Wretch",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "54"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1: Remove target card in a graveyard from the game."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eOnce it consecrated the dead. Now it desecrates them.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14676_200w.jpg",
+      "modifiedOn": "2022-06-28T16:37:42.263",
+      "name": "Withered Wretch",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14676,
+      "url": "https://www.tcgplayer.com/product/14676/magic-timeshifted-withered-wretch"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Zhalfirin Commander",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "18"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flanking \u003cem\u003e(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\u003c/em\u003e \r\n\u003cbr\u003e1WW: Target Knight gets +1/+1 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Command is the act of balancing on a vine and convince others that it is firm ground.\"\u003cbr\u003e—Sidar Jabari"
+        }
+      ],
+      "groupId": 111,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/14677_200w.jpg",
+      "modifiedOn": "2023-04-26T09:20:26.55",
+      "name": "Zhalfirin Commander",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 14677,
+      "url": "https://www.tcgplayer.com/product/14677/magic-timeshifted-zhalfirin-commander"
+    }
+  ],
+  "success": true,
+  "totalItems": 121
+}

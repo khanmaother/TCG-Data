@@ -1,0 +1,5704 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 3,
+      "cleanName": "Alakazam",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "001/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Damage Swap\u003c/strong\u003e As often as you like during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may move 1 damage counter from 1 of your Pokémon to another as long as you don't Knock Out that Pokémon. This power can't be used if Alakazam is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[PPP] Confuse Ray (30)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42346_200w.jpg",
+      "modifiedOn": "2025-11-28T22:41:07.22",
+      "name": "Alakazam",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42346,
+      "url": "https://www.tcgplayer.com/product/42346/pokemon-base-set-alakazam"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Mewtwo",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "010/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1P] Psychic (10+)\r\n\u003cbr\u003eDoes 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[PP] Barrier\r\n\u003cbr\u003eDiscard 1 Psychic Energy card attached to Mewtwo in order to use this attack. During your opponent's next turn, prevent all effects of attacks, including damage, done to Mewtwo."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42347_200w.jpg",
+      "modifiedOn": "2026-01-12T15:50:24.067",
+      "name": "Mewtwo",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42347,
+      "url": "https://www.tcgplayer.com/product/42347/pokemon-base-set-mewtwo"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Lightning Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "100/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Basic Energy"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42348_200w.jpg",
+      "modifiedOn": "2025-11-29T03:26:56.117",
+      "name": "Lightning Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42348,
+      "url": "https://www.tcgplayer.com/product/42348/pokemon-base-set-lightning-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Psychic Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "101/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Basic Energy"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42349_200w.jpg",
+      "modifiedOn": "2025-12-30T04:53:49.61",
+      "name": "Psychic Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42349,
+      "url": "https://www.tcgplayer.com/product/42349/pokemon-base-set-psychic-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Water Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "102/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Basic Energy"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42350_200w.jpg",
+      "modifiedOn": "2026-01-29T16:08:30.57",
+      "name": "Water Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42350,
+      "url": "https://www.tcgplayer.com/product/42350/pokemon-base-set-water-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Nidoking",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "011/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2G] Thrash (30+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Nidoking does 10 damage to itself."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[GGG] Toxic (20)\r\n\u003cbr\u003eThe Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn \u003cem\u003e(even if it was already Poisoned)\u003c/em\u003e."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42351_200w.jpg",
+      "modifiedOn": "2023-06-27T14:35:51.31",
+      "name": "Nidoking",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42351,
+      "url": "https://www.tcgplayer.com/product/42351/pokemon-base-set-nidoking"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ninetales",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "012/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Lure\r\n\u003cbr\u003eIf your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[RRRR] Fire Blast (80)\r\n\u003cbr\u003eDiscard 1 Fire Energy card attached to Ninetales in order to use this attack."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42352_200w.jpg",
+      "modifiedOn": "2026-01-14T19:07:01.18",
+      "name": "Ninetales",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42352,
+      "url": "https://www.tcgplayer.com/product/42352/pokemon-base-set-ninetales"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Poliwrath",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "013/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1WW] Water Gun (30+)\r\n\u003cbr\u003eDoes 30 damage plus 10 more damage for each Water Energy attached to Poliwrath but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2WW] Whirlpool (40)\r\n\u003cbr\u003eIf the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42353_200w.jpg",
+      "modifiedOn": "2022-11-29T13:25:56.57",
+      "name": "Poliwrath",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42353,
+      "url": "https://www.tcgplayer.com/product/42353/pokemon-base-set-poliwrath"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Raichu",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "014/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2L] Agility (20)\r\n\u003cbr\u003eFlip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Raichu."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1LLL] Thunder (60)\r\n\u003cbr\u003eFlip a coin. If tails, Raichu does 30 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42354_200w.jpg",
+      "modifiedOn": "2023-10-26T15:09:49.523",
+      "name": "Raichu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42354,
+      "url": "https://www.tcgplayer.com/product/42354/pokemon-base-set-raichu"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Venusaur",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "015/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Energy Trans\u003c/strong\u003e As often as you like during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may take 1 Grass Energy card attached to 1 of your Pokémon and attach it to a different one. This power can't be used if Venusaur is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[GGGG] Solarbeam (60)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42355_200w.jpg",
+      "modifiedOn": "2025-10-23T19:20:40.967",
+      "name": "Venusaur",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42355,
+      "url": "https://www.tcgplayer.com/product/42355/pokemon-base-set-venusaur"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Zapdos",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "016/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1LLL] Thunder (60)\r\n\u003cbr\u003eFlip a coin. If tails, Zapdos does 30 damage to itself."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[LLLL] Thunderbolt (100)\r\n\u003cbr\u003eDiscard all Energy cards attached to Zapdos in order to use this attack."
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42356_200w.jpg",
+      "modifiedOn": "2023-08-16T19:05:30.577",
+      "name": "Zapdos",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42356,
+      "url": "https://www.tcgplayer.com/product/42356/pokemon-base-set-zapdos"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Beedrill",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "017/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[3] Twineedle (30x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[GGG] Poison Sting (40)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42357_200w.jpg",
+      "modifiedOn": "2023-06-16T18:04:57.767",
+      "name": "Beedrill",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42357,
+      "url": "https://www.tcgplayer.com/product/42357/pokemon-base-set-beedrill"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Dragonair",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "018/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[3] Slam (30x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[4] Hyper Beam (20)\r\n\u003cbr\u003eIf the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42358_200w.jpg",
+      "modifiedOn": "2023-09-02T05:35:20.73",
+      "name": "Dragonair",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42358,
+      "url": "https://www.tcgplayer.com/product/42358/pokemon-base-set-dragonair"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Dugtrio",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "019/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1FF] Slash (40)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[FFFF] Earthquake (70)\r\n\u003cbr\u003eDoes 10 damage to each of your own Benched Pokémon. \u003cem\u003e(Don't apply Weakness and Resistance for Benched Pokémon.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "L-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42359_200w.jpg",
+      "modifiedOn": "2022-11-15T17:13:17.433",
+      "name": "Dugtrio",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42359,
+      "url": "https://www.tcgplayer.com/product/42359/pokemon-base-set-dugtrio"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Blastoise",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "002/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Rain Dance\u003c/strong\u003e As often as you like during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may attach 1 Water Energy card to 1 of your Water Pokémon. \u003cem\u003e(This doesn't use up your 1 Energy card attachment for the turn.)\u003c/em\u003e This power can't be used if Blastoise is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[WWW] Hydro Pump (40+)\r\n\u003cbr\u003eDoes 40 damage plus 10 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42360_200w.jpg",
+      "modifiedOn": "2025-12-23T19:17:35.087",
+      "name": "Blastoise",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42360,
+      "url": "https://www.tcgplayer.com/product/42360/pokemon-base-set-blastoise"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Electabuzz",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "020/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[L] Thundershock (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1L] Thunderpunch (30+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Electabuzz does 10 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42361_200w.jpg",
+      "modifiedOn": "2023-06-19T10:10:37.95",
+      "name": "Electabuzz",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42361,
+      "url": "https://www.tcgplayer.com/product/42361/pokemon-base-set-electabuzz"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Electrode",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "021/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Buzzap\u003c/strong\u003e At any time during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may Knock Out Electrode and attach it to 1 of your other Pokémon. If you do, choose a type of Energy. Electrode is now an Energy card of that type (instead of a Pokémon) that provides 2 Energy. This power can't be used if Electrode is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[LLL] Electric Shock (50)\r\n\u003cbr\u003eFlip a coin. If tails, Electrode does 10 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42362_200w.jpg",
+      "modifiedOn": "2025-11-24T15:56:29.307",
+      "name": "Electrode",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42362,
+      "url": "https://www.tcgplayer.com/product/42362/pokemon-base-set-electrode"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pidgeotto",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "022/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Whirlwind (20)\r\n\u003cbr\u003eIf your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. \u003cem\u003e(Do the damage before switching the Pokémon.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Mirror Move\r\n\u003cbr\u003eIf Pidgeotto was attacked last turn, do the final result of that attack on Pidgeotto to the Defending Pokémon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42363_200w.jpg",
+      "modifiedOn": "2022-11-15T20:54:46.947",
+      "name": "Pidgeotto",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42363,
+      "url": "https://www.tcgplayer.com/product/42363/pokemon-base-set-pidgeotto"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Arcanine",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "023/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1RR] Flamethrower (50)\r\n\u003cbr\u003eDiscard 1 Fire Energy card attached to Arcanine in order to use this attack."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2RR] Take Down (80)\r\n\u003cbr\u003eArcanine does 30 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42364_200w.jpg",
+      "modifiedOn": "2023-03-19T11:38:32.517",
+      "name": "Arcanine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42364,
+      "url": "https://www.tcgplayer.com/product/42364/pokemon-base-set-arcanine"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Charmeleon",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "024/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[3] Slash (30)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1RR] Flamethrower (50)\r\n\u003cbr\u003eDiscard 1 Fire Energy card attached to Charmeleon in order to use this attack."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42365_200w.jpg",
+      "modifiedOn": "2023-01-16T09:19:06.467",
+      "name": "Charmeleon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42365,
+      "url": "https://www.tcgplayer.com/product/42365/pokemon-base-set-charmeleon"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Dewgong",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "025/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1WW] Aurora Beam (50)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2WW] Ice Beam (30)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42366_200w.jpg",
+      "modifiedOn": "2023-03-28T17:04:40.773",
+      "name": "Dewgong",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42366,
+      "url": "https://www.tcgplayer.com/product/42366/pokemon-base-set-dewgong"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Dratini",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "026/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Pound (10)"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42367_200w.jpg",
+      "modifiedOn": "2025-11-20T04:53:33.1",
+      "name": "Dratini",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42367,
+      "url": "https://www.tcgplayer.com/product/42367/pokemon-base-set-dratini"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Farfetchd",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "027/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Leek Slap (30)\r\n\u003cbr\u003e\r\nFlip a coin. If tails, this attack does nothing. Either way, you can't use this attack again as long as Farfetch'd stays in play (even putting Farfetch'd on the Bench won't let you use it again)."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Pot Smash (30)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42368_200w.jpg",
+      "modifiedOn": "2024-01-25T22:28:20.653",
+      "name": "Farfetch'd",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42368,
+      "url": "https://www.tcgplayer.com/product/42368/pokemon-base-set-farfetchd"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Growlithe",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "028/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1R] Flare (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42369_200w.jpg",
+      "modifiedOn": "2025-10-31T18:25:33.557",
+      "name": "Growlithe",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42369,
+      "url": "https://www.tcgplayer.com/product/42369/pokemon-base-set-growlithe"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Haunter",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "029/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Hypnosis\r\n\u003cbr\u003eThe Defending Pokémon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[PP] Dream Eater (50)\r\n\u003cbr\u003eYou can't use this attack unless the Defending Pokémon is Asleep."
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42370_200w.jpg",
+      "modifiedOn": "2023-06-29T07:12:31.593",
+      "name": "Haunter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42370,
+      "url": "https://www.tcgplayer.com/product/42370/pokemon-base-set-haunter"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Chansey",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "003/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "120"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Scrunch\r\n\u003cbr\u003eFlip a coin. If heads, prevent all damage done to Chansey during your opponent's next turn. \u003cem\u003e(Any other effects of attacks still happen.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[4] Double-edge (80)\r\n\u003cbr\u003eChansey does 80 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42371_200w.jpg",
+      "modifiedOn": "2023-10-11T13:38:31.427",
+      "name": "Chansey",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42371,
+      "url": "https://www.tcgplayer.com/product/42371/pokemon-base-set-chansey"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ivysaur",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "030/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2G] Vine Whip (30)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[GGG] Poisonpowder (20)\r\n\u003cbr\u003eThe Defending Pokémon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42372_200w.jpg",
+      "modifiedOn": "2025-10-10T23:56:20.577",
+      "name": "Ivysaur",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42372,
+      "url": "https://www.tcgplayer.com/product/42372/pokemon-base-set-ivysaur"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Jynx",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "031/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Doubleslap (10x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1PP] Meditate (20+)\r\n\u003cbr\u003eDoes 20 damage plus 10 more damage for each damage counter on the Defending Pokémon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42373_200w.jpg",
+      "modifiedOn": "2025-10-31T18:25:33.86",
+      "name": "Jynx",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42373,
+      "url": "https://www.tcgplayer.com/product/42373/pokemon-base-set-jynx"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Kadabra",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "032/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[PP] Recover\r\n\u003cbr\u003eDiscard 1 Psychic Energy card attached to Kadabra in order to use this attack. Remove all damage counters from Kadabra."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1PP] Super Psy (50)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42374_200w.jpg",
+      "modifiedOn": "2025-10-31T18:25:33.813",
+      "name": "Kadabra",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42374,
+      "url": "https://www.tcgplayer.com/product/42374/pokemon-base-set-kadabra"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Kakuna",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "033/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Stiffen\r\n\u003cbr\u003eFlip a coin. If heads, prevent all damage done to Kakuna during your opponent's next turn. \u003cem\u003e(Any other effects of attacks still happen.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[GG] Poisonpowder (20)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42375_200w.jpg",
+      "modifiedOn": "2025-11-24T15:11:42.25",
+      "name": "Kakuna",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42375,
+      "url": "https://www.tcgplayer.com/product/42375/pokemon-base-set-kakuna"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Machoke",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "034/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1FF] Karate Chop (50-)\r\n\u003cbr\u003eDoes 50 damage minus 10 damage for each damage counter on Machoke."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2FF] Submission (60)\r\n\u003cbr\u003eMachoke does 20 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42376_200w.jpg",
+      "modifiedOn": "2025-02-01T04:23:33.983",
+      "name": "Machoke",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42376,
+      "url": "https://www.tcgplayer.com/product/42376/pokemon-base-set-machoke"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magikarp",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "035/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Tackle (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[W] Flail (10x)\r\n\u003cbr\u003eDoes 10 damage times the number of damage counters on Magikarp."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42377_200w.jpg",
+      "modifiedOn": "2023-06-26T11:19:36.597",
+      "name": "Magikarp",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42377,
+      "url": "https://www.tcgplayer.com/product/42377/pokemon-base-set-magikarp"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magmar",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "036/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[RR] Fire Punch (30)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1RR] Flamethrower (50)\r\n\u003cbr\u003eDiscard 1 Fire Energy card attached to Magmar in order to use this attack."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42378_200w.jpg",
+      "modifiedOn": "2024-08-27T11:00:50.85",
+      "name": "Magmar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42378,
+      "url": "https://www.tcgplayer.com/product/42378/pokemon-base-set-magmar"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Nidorino",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "037/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2G] Double Kick (30x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2GG] Horn Drill (50)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42379_200w.jpg",
+      "modifiedOn": "2024-01-18T08:17:19.55",
+      "name": "Nidorino",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42379,
+      "url": "https://www.tcgplayer.com/product/42379/pokemon-base-set-nidorino"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Poliwhirl",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "038/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[WW] Amnesia\r\n\u003cbr\u003eChoose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1WW] Doubleslap (30x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42380_200w.jpg",
+      "modifiedOn": "2025-10-31T18:25:34.063",
+      "name": "Poliwhirl",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42380,
+      "url": "https://www.tcgplayer.com/product/42380/pokemon-base-set-poliwhirl"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Porygon",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "039/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Conversion 1\r\n\u003cbr\u003eIf the Defending Pokémon has a Weakness, you may change it to a type of your choice other than Colorless."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Conversion 2\r\n\u003cbr\u003eChange Porygon's Resistance to a type of your choice other than Colorless."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42381_200w.jpg",
+      "modifiedOn": "2024-11-23T10:15:35.57",
+      "name": "Porygon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42381,
+      "url": "https://www.tcgplayer.com/product/42381/pokemon-base-set-porygon"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Charizard",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "004/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "120"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Energy Burn\u003c/strong\u003e As often as you like during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[RRRR] Fire Spin (100)\r\n\u003cbr\u003eDiscard 2 Energy cards attached to Charizard in order to use this attack."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42382_200w.jpg",
+      "modifiedOn": "2022-11-15T15:59:44.91",
+      "name": "Charizard",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42382,
+      "url": "https://www.tcgplayer.com/product/42382/pokemon-base-set-charizard"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Raticate",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "040/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Bite (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Super Fang (?)\r\n\u003cbr\u003eDoes damage to the Defending Pokémon equal to half the Defending Pokémon's remaining HP (rounded up to the nearest 10)."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42383_200w.jpg",
+      "modifiedOn": "2022-11-16T17:37:50.403",
+      "name": "Raticate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42383,
+      "url": "https://www.tcgplayer.com/product/42383/pokemon-base-set-raticate"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Seel",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "041/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Headbutt (10)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42384_200w.jpg",
+      "modifiedOn": "2025-10-31T18:25:34.253",
+      "name": "Seel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42384,
+      "url": "https://www.tcgplayer.com/product/42384/pokemon-base-set-seel"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Wartortle",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "042/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1W] WIthdraw\r\n\u003cbr\u003eFlip a coin. If heads, prevent all damage done to Wartortle during your opponent's next turn. \u003cem\u003e(Any other effects of attacks still happen.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2W] Bite (40)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42385_200w.jpg",
+      "modifiedOn": "2024-11-17T10:43:54.523",
+      "name": "Wartortle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42385,
+      "url": "https://www.tcgplayer.com/product/42385/pokemon-base-set-wartortle"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Abra",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "043/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Psyshock (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42386_200w.jpg",
+      "modifiedOn": "2024-07-26T16:11:02.583",
+      "name": "Abra",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42386,
+      "url": "https://www.tcgplayer.com/product/42386/pokemon-base-set-abra"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Bulbasaur",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "044/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[GG] Leech Seed (20)\r\n\u003cbr\u003eUnless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42387_200w.jpg",
+      "modifiedOn": "2025-12-15T20:42:34.31",
+      "name": "Bulbasaur",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42387,
+      "url": "https://www.tcgplayer.com/product/42387/pokemon-base-set-bulbasaur"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Caterpie",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "045/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] String Shot (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42388_200w.jpg",
+      "modifiedOn": "2023-11-01T04:47:16.167",
+      "name": "Caterpie",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42388,
+      "url": "https://www.tcgplayer.com/product/42388/pokemon-base-set-caterpie"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Charmander",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "046/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Scratch (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1R] Ember (30)\r\n\u003cbr\u003eDiscard 1 Fire Energy card attached to Charmander in order to use this attack."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42389_200w.jpg",
+      "modifiedOn": "2025-05-09T02:06:04.037",
+      "name": "Charmander",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42389,
+      "url": "https://www.tcgplayer.com/product/42389/pokemon-base-set-charmander"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Diglett",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "047/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Dig (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[FF] Mud Slap (30)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "L-30"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42390_200w.jpg",
+      "modifiedOn": "2025-10-31T18:25:33.447",
+      "name": "Diglett",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42390,
+      "url": "https://www.tcgplayer.com/product/42390/pokemon-base-set-diglett"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Doduo",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "048/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Fury Attack (10x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42391_200w.jpg",
+      "modifiedOn": "2025-02-01T21:53:18.89",
+      "name": "Doduo",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42391,
+      "url": "https://www.tcgplayer.com/product/42391/pokemon-base-set-doduo"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Drowzee",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "049/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Pound (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[PP] Confuse Ray (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42392_200w.jpg",
+      "modifiedOn": "2025-11-24T18:36:52.427",
+      "name": "Drowzee",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42392,
+      "url": "https://www.tcgplayer.com/product/42392/pokemon-base-set-drowzee"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Clefairy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "005/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Sing\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Metronome\r\n\u003cbr\u003eChoose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required to use that attack, such as discarding Energy cards. \u003cem\u003e(No matter what type the Defending Pokémon is, Clefairy's type is still Colorless.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42393_200w.jpg",
+      "modifiedOn": "2024-08-17T17:34:34.19",
+      "name": "Clefairy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42393,
+      "url": "https://www.tcgplayer.com/product/42393/pokemon-base-set-clefairy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Gastly",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "050/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Sleeping Gas\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1P] Destiny Bond\r\n\u003cbr\u003eDiscard 1 Psychic Energy card attached to Gastly in order to use this attack. If a Pokémon Knocks Out Gastly during your opponent's next turn, Knock Out that Pokémon."
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42394_200w.jpg",
+      "modifiedOn": "2025-11-24T18:54:44.183",
+      "name": "Gastly",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42394,
+      "url": "https://www.tcgplayer.com/product/42394/pokemon-base-set-gastly"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Koffing",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "051/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[GG] Foul Gas (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Poisoned; if tails, it is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42395_200w.jpg",
+      "modifiedOn": "2025-10-31T18:25:33.333",
+      "name": "Koffing",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42395,
+      "url": "https://www.tcgplayer.com/product/42395/pokemon-base-set-koffing"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Machop",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "052/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Low Kick (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42396_200w.jpg",
+      "modifiedOn": "2025-10-31T18:25:34.313",
+      "name": "Machop",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42396,
+      "url": "https://www.tcgplayer.com/product/42396/pokemon-base-set-machop"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magnemite",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "053/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[L] Thunder Wave (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1L] Selfdestruct (40)\r\n\u003cbr\u003eDoes 10 damage to each Pokémon on each player's Bench. \u003cem\u003e(Don't apply Weakness and Resistance for Benched Pokémon.)\u003c/em\u003e Magnemite does 40 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42397_200w.jpg",
+      "modifiedOn": "2024-07-26T16:11:02.63",
+      "name": "Magnemite",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42397,
+      "url": "https://www.tcgplayer.com/product/42397/pokemon-base-set-magnemite"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Metapod",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "054/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Stiffen\r\n\u003cbr\u003eFlip a coin. If heads, prevent all damage done to Metapod during your opponent's next turn. \u003cem\u003e(Any other effects of attacks still happen.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[GG] Stun Spore (20)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42398_200w.jpg",
+      "modifiedOn": "2024-11-18T05:56:01.12",
+      "name": "Metapod",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42398,
+      "url": "https://www.tcgplayer.com/product/42398/pokemon-base-set-metapod"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Nidoran M",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "055/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Horn Hazard (30)\r\n\u003cbr\u003eFlip a coin. If tails, this attack does nothing."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42399_200w.jpg",
+      "modifiedOn": "2025-11-29T03:21:19.627",
+      "name": "Nidoran M",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42399,
+      "url": "https://www.tcgplayer.com/product/42399/pokemon-base-set-nidoran-m"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Onix",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "056/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Rock Throw (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[FF] Harden\r\n\u003cbr\u003e\r\nDuring your opponent's next turn, whenever 30 or less damage is done to Onix \u003cem\u003e(after applying Weakness and Resistance)\u003c/em\u003e, prevent that damage. \u003cem\u003e(Any other effects of attacks still happen.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42400_200w.jpg",
+      "modifiedOn": "2024-11-10T11:54:52.163",
+      "name": "Onix",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42400,
+      "url": "https://www.tcgplayer.com/product/42400/pokemon-base-set-onix"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pidgey",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "057/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Whirlwind (10)\r\n\u003cbr\u003eIf your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. \u003cem\u003e(Do the damage before switching the Pokémon.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42401_200w.jpg",
+      "modifiedOn": "2025-10-10T23:55:02.81",
+      "name": "Pidgey",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42401,
+      "url": "https://www.tcgplayer.com/product/42401/pokemon-base-set-pidgey"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pikachu",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "058/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Gnaw (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1L] Thunder Jolt (30)\r\n\u003cbr\u003eFlip a coin. If tails, Pikachu does 10 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42402_200w.jpg",
+      "modifiedOn": "2025-11-24T18:48:42.83",
+      "name": "Pikachu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42402,
+      "url": "https://www.tcgplayer.com/product/42402/pokemon-base-set-pikachu"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Poliwag",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "059/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Water Gun (10+)\r\n\u003cbr\u003eDoes 10 damage plus 10 more damage for each Water Energy attached to Poliwag but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42403_200w.jpg",
+      "modifiedOn": "2025-10-31T18:25:33.51",
+      "name": "Poliwag",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42403,
+      "url": "https://www.tcgplayer.com/product/42403/pokemon-base-set-poliwag"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Gyarados",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "006/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[WWW] Dragon Rage (50)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[WWWW] Bubblebeam (40)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42404_200w.jpg",
+      "modifiedOn": "2024-04-13T08:00:04.15",
+      "name": "Gyarados",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42404,
+      "url": "https://www.tcgplayer.com/product/42404/pokemon-base-set-gyarados"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ponyta",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "060/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Smash Kick (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[RR] Flame Tail (30)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42405_200w.jpg",
+      "modifiedOn": "2025-10-31T18:25:34.19",
+      "name": "Ponyta",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42405,
+      "url": "https://www.tcgplayer.com/product/42405/pokemon-base-set-ponyta"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Rattata",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "061/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Bite (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42406_200w.jpg",
+      "modifiedOn": "2025-10-31T18:25:33.62",
+      "name": "Rattata",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42406,
+      "url": "https://www.tcgplayer.com/product/42406/pokemon-base-set-rattata"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Sandshrew",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "062/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Sand-attack (10)\r\n\u003cbr\u003eIf the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "L-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42407_200w.jpg",
+      "modifiedOn": "2026-01-29T16:11:30.873",
+      "name": "Sandshrew",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42407,
+      "url": "https://www.tcgplayer.com/product/42407/pokemon-base-set-sandshrew"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Squirtle",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "063/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Bubble (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1W] Withdraw\r\n\u003cbr\u003eFlip a coin. If heads, prevent all damage done to Squirtle during your opponent's next turn. \u003cem\u003e(Any other effects of attacks still happen.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42408_200w.jpg",
+      "modifiedOn": "2024-10-17T04:41:57.69",
+      "name": "Squirtle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42408,
+      "url": "https://www.tcgplayer.com/product/42408/pokemon-base-set-squirtle"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Starmie",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "064/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[WW] Recover\r\n\u003cbr\u003eDiscard 1 Water Energy card attached to Starmie in order to use this attack. Remove all damage counters from Starmie."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2W] Star Freeze (20)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42409_200w.jpg",
+      "modifiedOn": "2025-01-06T06:33:53.187",
+      "name": "Starmie",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42409,
+      "url": "https://www.tcgplayer.com/product/42409/pokemon-base-set-starmie"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Staryu",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "065/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Slap (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42410_200w.jpg",
+      "modifiedOn": "2026-01-29T16:12:01.277",
+      "name": "Staryu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42410,
+      "url": "https://www.tcgplayer.com/product/42410/pokemon-base-set-staryu"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Tangela",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "066/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1G] Bind (20)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[GGG] Poisonpowder (20)\r\n\u003cbr\u003eThe Defending Pokémon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42411_200w.jpg",
+      "modifiedOn": "2025-11-24T14:58:47.687",
+      "name": "Tangela",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42411,
+      "url": "https://www.tcgplayer.com/product/42411/pokemon-base-set-tangela"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Voltorb",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "067/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Tackle (10)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42412_200w.jpg",
+      "modifiedOn": "2025-10-10T23:58:34.993",
+      "name": "Voltorb",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42412,
+      "url": "https://www.tcgplayer.com/product/42412/pokemon-base-set-voltorb"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Vulpix",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "068/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[RR] Confuse Ray (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42413_200w.jpg",
+      "modifiedOn": "2025-10-31T18:25:34.003",
+      "name": "Vulpix",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42413,
+      "url": "https://www.tcgplayer.com/product/42413/pokemon-base-set-vulpix"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Weedle",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "069/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Poison Sting (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42414_200w.jpg",
+      "modifiedOn": "2025-10-31T18:25:33.667",
+      "name": "Weedle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42414,
+      "url": "https://www.tcgplayer.com/product/42414/pokemon-base-set-weedle"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Hitmonchan",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "007/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Jab (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1FF] Special Punch (40)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42415_200w.jpg",
+      "modifiedOn": "2025-11-28T22:37:39.633",
+      "name": "Hitmonchan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42415,
+      "url": "https://www.tcgplayer.com/product/42415/pokemon-base-set-hitmonchan"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Clefairy Doll",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "070/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "10"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Play Clefairy Doll as if it were a Basic Pokémon. While in play, Clefairy Doll counts as a Pokémon (instead of a Trainer card). Clefairy Doll has no attacks, can't retreat, and can't be Asleep, Confused, Paralyzed, or Poisoned. If Clefairy Doll is Knocked Out, it doesn't count as a Knocked Out Pokémon. At any time during your turn before your attack, you may discard Clefairy Doll."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42416_200w.jpg",
+      "modifiedOn": "2025-11-13T23:42:21.713",
+      "name": "Clefairy Doll",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42416,
+      "url": "https://www.tcgplayer.com/product/42416/pokemon-base-set-clefairy-doll"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Computer Search",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "071/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Discard 2 of the other cards from your hand in order to search your deck for any card and put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42417_200w.jpg",
+      "modifiedOn": "2026-01-29T16:06:34.113",
+      "name": "Computer Search",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42417,
+      "url": "https://www.tcgplayer.com/product/42417/pokemon-base-set-computer-search"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Devolution Spray",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "072/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Choose 1 of your own Pokémon in play and a Stage of Evolution. Discard all Evolution cards of that Stage or higher attached to that Pokémon. That Pokémon is no longer Asleep, Confused, Paralyzed, Poisoned or anything else that might be the result of an attack (just as if you had evolved it)."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42418_200w.jpg",
+      "modifiedOn": "2024-04-25T15:31:19.807",
+      "name": "Devolution Spray",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42418,
+      "url": "https://www.tcgplayer.com/product/42418/pokemon-base-set-devolution-spray"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Item Finder",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "074/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Discard 2 of the other cards from your hand in order to put a Trainer card from your discard pile into your hand."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42420_200w.jpg",
+      "modifiedOn": "2025-11-20T04:25:00.113",
+      "name": "Item Finder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42420,
+      "url": "https://www.tcgplayer.com/product/42420/pokemon-base-set-item-finder"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Lass",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "075/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "You and your opponent show each other your hands, then shuffle all the Trainer cards from your hands into your decks."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42421_200w.jpg",
+      "modifiedOn": "2025-11-20T04:23:31.23",
+      "name": "Lass",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42421,
+      "url": "https://www.tcgplayer.com/product/42421/pokemon-base-set-lass"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pokemon Breeder",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "076/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Put a Stage 2 Evolution card from your hand on the matching Basic Pokémon. You can only play this card when you would be allowed to evolve that Pokémon anyway."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42422_200w.jpg",
+      "modifiedOn": "2025-11-24T15:09:12.347",
+      "name": "Pokemon Breeder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42422,
+      "url": "https://www.tcgplayer.com/product/42422/pokemon-base-set-pokemon-breeder"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Scoop Up",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "078/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Choose 1 of your Pokémon in play and return its Basic Pokémon card to your hand. \u003cem\u003e(Discard all cards attached to that card.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42423_200w.jpg",
+      "modifiedOn": "2025-11-24T19:14:30.587",
+      "name": "Scoop Up",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42423,
+      "url": "https://www.tcgplayer.com/product/42423/pokemon-base-set-scoop-up"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Super Energy Removal",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "079/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Discard 1 Energy card attached to 1 of your own Pokémon in order to choose 1 of your opponent's Pokémon and up to 2 Energy cards attached to it. Discard those Energy cards."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42424_200w.jpg",
+      "modifiedOn": "2024-08-22T20:16:03.633",
+      "name": "Super Energy Removal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42424,
+      "url": "https://www.tcgplayer.com/product/42424/pokemon-base-set-super-energy-removal"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Defender",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "080/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Attach Defender to 1 of your Pokémon. At the end of your opponent's next turn, discard Defender. Damage done to that Pokémon by attacks is reduced by 20 \u003cem\u003e(after applying Weakness and Resistance)\u003c/em\u003e."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42426_200w.jpg",
+      "modifiedOn": "2025-11-20T04:57:09.48",
+      "name": "Defender",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42426,
+      "url": "https://www.tcgplayer.com/product/42426/pokemon-base-set-defender"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Energy Retrieval",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "081/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Trade 1 of the other cards in your hand for up to 2 basic Energy cards from your discard pile."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42427_200w.jpg",
+      "modifiedOn": "2025-11-24T19:05:47.007",
+      "name": "Energy Retrieval",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42427,
+      "url": "https://www.tcgplayer.com/product/42427/pokemon-base-set-energy-retrieval"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Full Heal",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "082/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Your Active Pokémon is no longer Asleep, Confused, Paralyzed, or Poisoned."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42428_200w.jpg",
+      "modifiedOn": "2026-01-29T16:09:45.157",
+      "name": "Full Heal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42428,
+      "url": "https://www.tcgplayer.com/product/42428/pokemon-base-set-full-heal"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Maintenance",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "083/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Shuffle 2 of the other cards from your hand into your deck in order to draw a card."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42429_200w.jpg",
+      "modifiedOn": "2024-07-26T16:11:03.19",
+      "name": "Maintenance",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42429,
+      "url": "https://www.tcgplayer.com/product/42429/pokemon-base-set-maintenance"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "PlusPower",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "084/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Attach PlusPower to your Active Pokémon. At the end of your turn, discard PlusPower. If this Pokémon's attack does damage to the Defending Pokémon \u003cem\u003e(after applying Weakness and Resistance)\u003c/em\u003e, the attack does 10 more damage to the Defending Pokémon."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42430_200w.jpg",
+      "modifiedOn": "2025-11-24T15:16:13.43",
+      "name": "PlusPower",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42430,
+      "url": "https://www.tcgplayer.com/product/42430/pokemon-base-set-pluspower"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Professor Oak",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "088/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Discard your hand, then draw 7 cards."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42431_200w.jpg",
+      "modifiedOn": "2026-01-29T16:10:52.31",
+      "name": "Professor Oak",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42431,
+      "url": "https://www.tcgplayer.com/product/42431/pokemon-base-set-professor-oak"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Revive",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "089/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Put 1 Basic Pokémon card from your discard pile onto your Bench. Put damage counters on that Pokémon equal to half its HP (rounded down to the nearest 10). \u003cem\u003e(You can't play Revive if your Bench is full.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42432_200w.jpg",
+      "modifiedOn": "2025-11-24T19:17:16.457",
+      "name": "Revive",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42432,
+      "url": "https://www.tcgplayer.com/product/42432/pokemon-base-set-revive"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magneton",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "009/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1LL] Thunder Wave (30)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2LL] Selfdestruct (80)\r\n\u003cbr\u003eDoes 20 damage to each Pokémon on each player's Bench. \u003cem\u003e(Don't apply Weakness and Resistance for Benched Pokémon.)\u003c/em\u003e Magneton does 80 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42433_200w.jpg",
+      "modifiedOn": "2025-11-28T22:40:23.257",
+      "name": "Magneton",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42433,
+      "url": "https://www.tcgplayer.com/product/42433/pokemon-base-set-magneton"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Super Potion",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "090/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Discard 1 Energy card attached to 1 of your own Pokémon in order to remove up to 4 damage counters from that Pokémon."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42434_200w.jpg",
+      "modifiedOn": "2025-11-24T19:09:58.867",
+      "name": "Super Potion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42434,
+      "url": "https://www.tcgplayer.com/product/42434/pokemon-base-set-super-potion"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Bill",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "091/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Draw 2 cards."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42435_200w.jpg",
+      "modifiedOn": "2025-11-24T18:50:38.73",
+      "name": "Bill",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42435,
+      "url": "https://www.tcgplayer.com/product/42435/pokemon-base-set-bill"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Energy Removal",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "092/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Choose 1 Energy card attached to 1 of your opponent's Pokémon and discard it."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42436_200w.jpg",
+      "modifiedOn": "2025-11-24T19:04:01.6",
+      "name": "Energy Removal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42436,
+      "url": "https://www.tcgplayer.com/product/42436/pokemon-base-set-energy-removal"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Gust of Wind",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "093/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Choose 1 of your opponent's Benched Pokémon and switch it with his or her Active Pokémon."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42437_200w.jpg",
+      "modifiedOn": "2025-11-24T15:17:04.527",
+      "name": "Gust of Wind",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42437,
+      "url": "https://www.tcgplayer.com/product/42437/pokemon-base-set-gust-of-wind"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Potion",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "094/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Remove up to 2 damage counters from 1 of your Pokémon."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42438_200w.jpg",
+      "modifiedOn": "2026-01-29T16:10:15.56",
+      "name": "Potion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42438,
+      "url": "https://www.tcgplayer.com/product/42438/pokemon-base-set-potion"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Switch",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "095/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Switch 1 of your Benched Pokémon with your Active Pokémon."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42439_200w.jpg",
+      "modifiedOn": "2026-01-29T16:09:10.953",
+      "name": "Switch",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42439,
+      "url": "https://www.tcgplayer.com/product/42439/pokemon-base-set-switch"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Double Colorless Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "096/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Special Energy"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Provides 2 Colorless energy.\r\n\u003cbr\u003eDoesn't count as a basic Energy card."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42440_200w.jpg",
+      "modifiedOn": "2025-11-20T04:56:32.903",
+      "name": "Double Colorless Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42440,
+      "url": "https://www.tcgplayer.com/product/42440/pokemon-base-set-double-colorless-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Fighting Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "097/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Basic Energy"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42441_200w.jpg",
+      "modifiedOn": "2026-01-29T16:07:44.78",
+      "name": "Fighting Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42441,
+      "url": "https://www.tcgplayer.com/product/42441/pokemon-base-set-fighting-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Fire Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "098/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Basic Energy"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42442_200w.jpg",
+      "modifiedOn": "2025-11-25T19:26:56.463",
+      "name": "Fire Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42442,
+      "url": "https://www.tcgplayer.com/product/42442/pokemon-base-set-fire-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Grass Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "099/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Basic Energy"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42443_200w.jpg",
+      "modifiedOn": "2026-01-29T16:08:09.883",
+      "name": "Grass Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 42443,
+      "url": "https://www.tcgplayer.com/product/42443/pokemon-base-set-grass-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Imposter Professor Oak",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "073/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Your opponent shuffles his or her hand into his or her deck, then draws 7 cards."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86271_200w.jpg",
+      "modifiedOn": "2025-11-20T04:24:19.18",
+      "name": "Imposter Professor Oak",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86271,
+      "url": "https://www.tcgplayer.com/product/86271/pokemon-base-set-imposter-professor-oak"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pokedex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "087/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Look at up to 5 cards from the top of your deck and rearrange them as you like."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/108645_200w.jpg",
+      "modifiedOn": "2025-10-31T18:25:33.393",
+      "name": "Pokedex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 108645,
+      "url": "https://www.tcgplayer.com/product/108645/pokemon-base-set-pokedex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pokemon Center",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "085/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Remove all damage counters from all of your own Pokémon with damage counters on them, then discard all Energy cards attached to those Pokémon."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/108646_200w.jpg",
+      "modifiedOn": "2025-11-20T04:20:58.067",
+      "name": "Pokemon Center",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 108646,
+      "url": "https://www.tcgplayer.com/product/108646/pokemon-base-set-pokemon-center"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pokemon Flute",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "086/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Choose 1 Basic Pokémon card from your opponent's discard pile and put it onto his or her Bench. \u003cem\u003e(You can't play Pokémon Flute if your opponent's Bench is full.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/108647_200w.jpg",
+      "modifiedOn": "2025-12-11T23:29:05.803",
+      "name": "Pokemon Flute",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 108647,
+      "url": "https://www.tcgplayer.com/product/108647/pokemon-base-set-pokemon-flute"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pokemon Trader",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "077/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Trade 1 of the Basic Pokémon or Evolution cards in your hand for 1 of the Basic Pokémon or Evolution cards from your deck. Show both cards to your opponent. Shuffle your deck afterward."
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/108648_200w.jpg",
+      "modifiedOn": "2025-11-24T18:47:28.783",
+      "name": "Pokemon Trader",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 108648,
+      "url": "https://www.tcgplayer.com/product/108648/pokemon-base-set-pokemon-trader"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pokemon 2 Player Starter Set Revised Base Set Reprint Run",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003eThis revised reprint run of Base Set saw Shadowed printings and revised text on Pokemon cards.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/136400_200w.jpg",
+      "modifiedOn": "2017-06-28T12:52:03.383",
+      "name": "Pokemon 2-Player Starter Set (Revised Base Set Reprint Run)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 136400,
+      "url": "https://www.tcgplayer.com/product/136400/pokemon-base-set-pokemon-2-player-starter-set-revised-base-set-reprint-run"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Base Set Theme Deck Blackout Revised Base Set Reprint Run",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003e This revised reprint run of Base Set saw Shadowed printings and revised text on Pokemon cards.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/136401_200w.jpg",
+      "modifiedOn": "2018-10-03T13:12:12.937",
+      "name": "Base Set Theme Deck - \"Blackout\" (Revised Base Set Reprint Run)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 136401,
+      "url": "https://www.tcgplayer.com/product/136401/pokemon-base-set-base-set-theme-deck-blackout-revised-base-set-reprint-run"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Base Set Theme Deck Zap Revised Base Set Reprint Run",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003e This revised reprint run of Base Set saw Shadowed printings and revised text on Pokemon cards.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/136402_200w.jpg",
+      "modifiedOn": "2018-10-03T13:12:39.683",
+      "name": "Base Set Theme Deck - \"Zap!\" (Revised Base Set Reprint Run)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 136402,
+      "url": "https://www.tcgplayer.com/product/136402/pokemon-base-set-base-set-theme-deck-zap-revised-base-set-reprint-run"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Base Set Theme Deck Brushfire Revised Base Set Reprint Run",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003e This revised reprint run of Base Set saw Shadowed printings and revised text on Pokemon cards.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/136403_200w.jpg",
+      "modifiedOn": "2018-10-03T13:12:23.443",
+      "name": "Base Set Theme Deck - \"Brushfire\" (Revised Base Set Reprint Run)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 136403,
+      "url": "https://www.tcgplayer.com/product/136403/pokemon-base-set-base-set-theme-deck-brushfire-revised-base-set-reprint-run"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Base Set Theme Deck Overgrowth Revised Base Set Reprint Run",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003e This revised reprint run of Base Set saw Shadowed printings and revised text on Pokemon cards.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/136404_200w.jpg",
+      "modifiedOn": "2018-10-03T13:12:32.2",
+      "name": "Base Set Theme Deck - \"Overgrowth\" (Revised Base Set Reprint Run)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 136404,
+      "url": "https://www.tcgplayer.com/product/136404/pokemon-base-set-base-set-theme-deck-overgrowth-revised-base-set-reprint-run"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Base Set Booster Pack Revised Unlimited Edition",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "This is the reprinted Base Set unlimited booster pack that introduced the new shadowed border design and card format introduced in Jungle.\r\n\u003cbr\u003eDisclaimer: This product comes in 3 different sealed wrapping designs. The design you receive when ordering this product depends on the seller's inventory. \r\n\u003cbr\u003e\r\n\u003cbr\u003e\u003cstrong\u003e(Not to be confused with the original 1st Edition and Unlimited Shadowless print runs)\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/138130_200w.jpg",
+      "modifiedOn": "2022-12-07T13:53:45.347",
+      "name": "Base Set Booster Pack [Revised Unlimited Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 138130,
+      "url": "https://www.tcgplayer.com/product/138130/pokemon-base-set-base-set-booster-pack-revised-unlimited-edition"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Base Set Booster Box Revised Unlimited Edition",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "This is the reprinted Base Set unlimited booster box that introduced the new shadowed border design and card format introduced in Jungle.\r\n\u003cbr\u003e\r\n\u003cbr\u003e\u003cstrong\u003e(Not to be confused with the original 1st Edition and Unlimited Shadowless print runs)\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/185731_200w.jpg",
+      "modifiedOn": "2021-12-13T19:23:48.47",
+      "name": "Base Set Booster Box [Revised Unlimited Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 185731,
+      "url": "https://www.tcgplayer.com/product/185731/pokemon-base-set-base-set-booster-box-revised-unlimited-edition"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Charizard Black Dot Error",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "004/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "120"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Energy Burn\u003c/strong\u003e As often as you like during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[RRRR] Fire Spin (100)\r\n\u003cbr\u003eDiscard 2 Energy cards attached to Charizard in order to use this attack."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 604,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/657516_200w.jpg",
+      "modifiedOn": "2025-10-10T14:50:00.273",
+      "name": "Charizard (Black Dot Error)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 657516,
+      "url": "https://www.tcgplayer.com/product/657516/pokemon-base-set-charizard-black-dot-error"
+    }
+  ],
+  "success": true,
+  "totalItems": 109
+}

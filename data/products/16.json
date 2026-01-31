@@ -1,0 +1,4074 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Air Elemental",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e As insubstantial, and as powerful, as the wind that carries it. \u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37459_200w.jpg",
+      "modifiedOn": "2023-07-26T18:40:03.603",
+      "name": "Air Elemental",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37459,
+      "url": "https://www.tcgplayer.com/product/37459/magic-beatdown-box-set-air-elemental"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Balduvian Horde",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "34"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Barbarian"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37460_200w.jpg",
+      "modifiedOn": "2023-06-28T12:53:16.253",
+      "name": "Balduvian Horde",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37460,
+      "url": "https://www.tcgplayer.com/product/37460/magic-beatdown-box-set-balduvian-horde"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ball Lightning",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "35"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample; haste \u003cem\u003e(This creature may attack and T the turn it comes under your control.)\u003c/em\u003e\r\n\u003cbr\u003eAt end of turn, sacrifice Ball Lightning."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37461_200w.jpg",
+      "modifiedOn": "2023-07-26T18:41:43.317",
+      "name": "Ball Lightning",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37461,
+      "url": "https://www.tcgplayer.com/product/37461/magic-beatdown-box-set-ball-lightning"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Blizzard Elemental",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\u003cbr\u003e3U: Untap Blizzard Elemental."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eStudents who had seen Rayne argue with Urza were certain she had summoned it to make him seem warmer by comparison.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37462_200w.jpg",
+      "modifiedOn": "2025-12-02T04:09:18.6",
+      "name": "Blizzard Elemental",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37462,
+      "url": "https://www.tcgplayer.com/product/37462/magic-beatdown-box-set-blizzard-elemental"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bloodrock Cyclops",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "36"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Cyclops"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Bloodrock Cyclops attacks each turn if able."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"He's big an' dumb an' ready to fight. A lot like ol' Hornhead here.\"\u003cbr\u003e—Squee, goblin cabin hand,\u003cbr\u003escouting report\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37463_200w.jpg",
+      "modifiedOn": "2023-06-28T13:02:46.817",
+      "name": "Bloodrock Cyclops",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37463,
+      "url": "https://www.tcgplayer.com/product/37463/magic-beatdown-box-set-bloodrock-cyclops"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bone Harvest",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "19"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Put any number of target creature cards from your graveyard on top of your library.\r\n\u003cbr\u003eDraw a card at the beginning of the next turn's upkeep."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Only fools believe they will face my armies but once.\"\u003cbr\u003e—Kaervek\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37464_200w.jpg",
+      "modifiedOn": "2023-07-19T15:54:06.873",
+      "name": "Bone Harvest",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37464,
+      "url": "https://www.tcgplayer.com/product/37464/magic-beatdown-box-set-bone-harvest"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Brainstorm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Draw three cards, then put two cards from your hand on top of your library in any order."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I reeled from the blow, and then suddenly, I knew exactly what to do. Within Moments victory was mine.\"\u003cbr\u003e—Gustha Ebbasdotter\u003cbr\u003eKjeldoran royal mage\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37465_200w.jpg",
+      "modifiedOn": "2023-07-19T15:57:45.53",
+      "name": "Brainstorm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37465,
+      "url": "https://www.tcgplayer.com/product/37465/magic-beatdown-box-set-brainstorm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Clockwork Avian",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "69"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Clockwork Avian enters the battlefield with four +1/+0 counters on it\u003cbr\u003eClockwork Avian can't have more than four +1/+0 counters on it.\u003cbr\u003eAt end of combat, if Clockwork Avian attacked or blocked this combat, remove a +1/+0 counter from it.\u003cbr\u003eX, T: Put up to X +1/+0 counters on Clockwork Avian. This ability can't cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate this ability only during your upkeep."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37466_200w.jpg",
+      "modifiedOn": "2023-07-26T18:42:47.02",
+      "name": "Clockwork Avian",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37466,
+      "url": "https://www.tcgplayer.com/product/37466/magic-beatdown-box-set-clockwork-avian"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Clockwork Beast",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "70"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Clockwork Beast enters the battlefield with seven +1/+0 counters on it.\u003cbr\u003e\u003cbr\u003eClockwork Beast can't have more than seven +1/+0 counters on it. \u003cbr\u003e \u003cbr\u003eAt end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it.\u003cbr\u003e\u003cbr\u003eX, T: Put up to X +1/+0 counters on Clockwork Beast. Play this ability only during your upkeep."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37467_200w.jpg",
+      "modifiedOn": "2023-07-26T18:43:01.62",
+      "name": "Clockwork Beast",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37467,
+      "url": "https://www.tcgplayer.com/product/37467/magic-beatdown-box-set-clockwork-beast"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cloud Djinn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Djinn"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\u003cbr\u003eCloud Djinn can block only creatures with flying."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e As elusive as the footprint of a djinn\u003cbr\u003e—Suq'Ata expression\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37468_200w.jpg",
+      "modifiedOn": "2023-07-19T17:05:52.8",
+      "name": "Cloud Djinn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37468,
+      "url": "https://www.tcgplayer.com/product/37468/magic-beatdown-box-set-cloud-djinn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cloud Elemental",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\u003cbr\u003eCloud Elemental can block only creatures with flying."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"You know you've angered the gods when the clouds turn against you.\"\u003cbr\u003e—Sisay, Captain of the\u003c/em\u003e Weatherlight"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37469_200w.jpg",
+      "modifiedOn": "2023-07-19T17:04:45.953",
+      "name": "Cloud Elemental",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37469,
+      "url": "https://www.tcgplayer.com/product/37469/magic-beatdown-box-set-cloud-elemental"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Coercion",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "20"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Look at target opponent's hand and choose a card from it. You choose a card from it. That player discards that card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"There's very little that escapes me, Greven. And you will escape very little if you fail.\"\u003cbr\u003e—Volrath\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37470_200w.jpg",
+      "modifiedOn": "2023-07-19T17:08:07.407",
+      "name": "Coercion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37470,
+      "url": "https://www.tcgplayer.com/product/37470/magic-beatdown-box-set-coercion"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Counterspell",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Counter target spell."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37471_200w.jpg",
+      "modifiedOn": "2023-07-26T18:43:19.363",
+      "name": "Counterspell",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37471,
+      "url": "https://www.tcgplayer.com/product/37471/magic-beatdown-box-set-counterspell"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Crash of Rhinos",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "51"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Rhino"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "8"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cLove is like a rhino, short-sighted and hasty; if it cannot find a way, it will make a way.\u003cbr\u003e—Femeref adage\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37472_200w.jpg",
+      "modifiedOn": "2023-07-26T18:43:26.497",
+      "name": "Crash of Rhinos",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37472,
+      "url": "https://www.tcgplayer.com/product/37472/magic-beatdown-box-set-crash-of-rhinos"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Crashing Boars",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "52"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Boar"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Crashing Boars attacks, defending player chooses an untapped creature he or she controls. That creature blocks Crashing Boars this turn if able."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e Bores ruin a party. Boars are party to ruin.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37473_200w.jpg",
+      "modifiedOn": "2024-03-14T15:29:26.977",
+      "name": "Crashing Boars",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37473,
+      "url": "https://www.tcgplayer.com/product/37473/magic-beatdown-box-set-crashing-boars"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dark Ritual",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "21"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Add BBB to your mana pool."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37474_200w.jpg",
+      "modifiedOn": "2023-07-26T18:43:45.857",
+      "name": "Dark Ritual",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37474,
+      "url": "https://www.tcgplayer.com/product/37474/magic-beatdown-box-set-dark-ritual"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Deadly Insect",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "53"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Insect"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Deadly Insect can't be the target of spells or abilities"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eWith his newfound sense of self-importance, Squee set his sights on ever-bigger bugs.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37475_200w.jpg",
+      "modifiedOn": "2023-07-19T17:12:46.137",
+      "name": "Deadly Insect",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37475,
+      "url": "https://www.tcgplayer.com/product/37475/magic-beatdown-box-set-deadly-insect"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Death Stroke",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "22"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target tapped creature."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e For a sharp second, Selina froze, and Crovax's blade found home, As the angel shattered like glass, Crovax felt his mind collapse—the curse had been fulfilled.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37476_200w.jpg",
+      "modifiedOn": "2024-07-10T14:16:54.35",
+      "name": "Death Stroke",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37476,
+      "url": "https://www.tcgplayer.com/product/37476/magic-beatdown-box-set-death-stroke"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Diabolic Edict",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "23"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target player sacrifices a creature."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eGrevin\u003c/em\u003eil-\u003cem\u003eVec lifted Vhati off his feet. \"The fall will give you time to think on your failure.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37477_200w.jpg",
+      "modifiedOn": "2023-07-19T17:15:55.07",
+      "name": "Diabolic Edict",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37477,
+      "url": "https://www.tcgplayer.com/product/37477/magic-beatdown-box-set-diabolic-edict"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Diabolic Vision",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "67"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Look at the top five cards of your library. Put one of them into your hand and the rest on top of your library in any order."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I have seen the true path. I will not warm myself by the fire—I will become the flame.\"\u003cbr\u003e—Lim-Dûl, the Necromancer\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37478_200w.jpg",
+      "modifiedOn": "2023-07-19T17:19:01.66",
+      "name": "Diabolic Vision",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37478,
+      "url": "https://www.tcgplayer.com/product/37478/magic-beatdown-box-set-diabolic-vision"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Drain Life",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "24"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Spend only black mana on X.\u003cbr\u003eDrain Life deals X damage to target creature or player. You gain life equal to the damage dealt, but not more life than the player's life total before Drain Life dealt damage or the creature's toughness."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37479_200w.jpg",
+      "modifiedOn": "2025-12-10T18:15:32.45",
+      "name": "Drain Life",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37479,
+      "url": "https://www.tcgplayer.com/product/37479/magic-beatdown-box-set-drain-life"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dwarven Ruins",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "71"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Dwarven Ruins comes into play tapped.\u003cbr\u003eT: Add R to your mana pool. \r\n\u003cbr\u003eT, Sacrifice Dwarven Ruins: Add RR to your mana pool."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37480_200w.jpg",
+      "modifiedOn": "2023-07-26T18:45:30.057",
+      "name": "Dwarven Ruins",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37480,
+      "url": "https://www.tcgplayer.com/product/37480/magic-beatdown-box-set-dwarven-ruins"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ebon Stronghold",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "72"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Ebon Stronghold comes into play.\u003cbr\u003eT: Add B to your mana pool. \r\n\u003cbr\u003eT, Sacrifice Ebon Stronghold: Add BB to your mana pool."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37481_200w.jpg",
+      "modifiedOn": "2023-07-26T18:46:14.807",
+      "name": "Ebon Stronghold",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37481,
+      "url": "https://www.tcgplayer.com/product/37481/magic-beatdown-box-set-ebon-stronghold"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Erhnam Djinn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "54"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Djinn"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your upkeep, target non—Wall creature an opponent controls gains forestwalk until your next upkeep.\u003cem\u003e(The creature is unblockable as long as defending player controls a forest.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37482_200w.jpg",
+      "modifiedOn": "2023-07-19T17:26:50.18",
+      "name": "Erhnam Djinn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37482,
+      "url": "https://www.tcgplayer.com/product/37482/magic-beatdown-box-set-erhnam-djinn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fallen Angel",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "25"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Angel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\u003cbr\u003eSacrifice a creature: Fallen Angel gets +2/+1 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Angels are simply extensions of truth upon the fabric of life—and there is far more dark than light.\"—Baron Sengir\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37483_200w.jpg",
+      "modifiedOn": "2023-07-19T17:36:52.987",
+      "name": "Fallen Angel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37483,
+      "url": "https://www.tcgplayer.com/product/37483/magic-beatdown-box-set-fallen-angel"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Feral Shadow",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "26"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Nightstalker"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The nightstalkers are such a minor power in Urborg. Their sad eagerness to elevate themselves makes them willing tools in the plundering of little Femeref.\"\u003cbr\u003e—Kaervek\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37484_200w.jpg",
+      "modifiedOn": "2023-07-19T17:46:20.887",
+      "name": "Feral Shadow",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37484,
+      "url": "https://www.tcgplayer.com/product/37484/magic-beatdown-box-set-feral-shadow"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fireball",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "37"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Fireball deals X damage divided evenly, rounded down, among Y plus one target creatures and/or players."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37485_200w.jpg",
+      "modifiedOn": "2023-07-26T18:49:57.487",
+      "name": "Fireball",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37485,
+      "url": "https://www.tcgplayer.com/product/37485/magic-beatdown-box-set-fireball"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fog",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "55"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Prevent all combat damage that would be dealt this turn."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37486_200w.jpg",
+      "modifiedOn": "2023-07-26T18:50:06.633",
+      "name": "Fog",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37486,
+      "url": "https://www.tcgplayer.com/product/37486/magic-beatdown-box-set-fog"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fog Elemental",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\u003cbr\u003e\r\nWhen Fog Elemental attacks or blocks, sacrifice it at end of combat."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I've seen fog so thick you could cut it, but none that could cut me.\"\u003cbr\u003e—Tahngarth of the\u003c/em\u003eWeatherlight"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37487_200w.jpg",
+      "modifiedOn": "2023-07-26T18:50:26.66",
+      "name": "Fog Elemental",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37487,
+      "url": "https://www.tcgplayer.com/product/37487/magic-beatdown-box-set-fog-elemental"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Force of Nature",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "56"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "8"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "8"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\u003cbr\u003eAt the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay GGGG."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37488_200w.jpg",
+      "modifiedOn": "2024-12-13T14:32:25.957",
+      "name": "Force of Nature",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37488,
+      "url": "https://www.tcgplayer.com/product/37488/magic-beatdown-box-set-force-of-nature"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gaseous Form",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Prevent all combat damage that would be dealt to and dealt by enchanted creature."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"It's hard to hurt anyone when you're as transparent as your motives.\"\u003cbr\u003e—Ertai, wizard adept\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37490_200w.jpg",
+      "modifiedOn": "2023-07-26T18:51:30.923",
+      "name": "Gaseous Form",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37490,
+      "url": "https://www.tcgplayer.com/product/37490/magic-beatdown-box-set-gaseous-form"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Giant Crab",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Crab"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "U: Giant Crab gains shroud until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eDuring the giant crabs; mating season, Skyshroud nights are filled with the clatter of their skirmishes.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37491_200w.jpg",
+      "modifiedOn": "2023-07-26T18:51:47.487",
+      "name": "Giant Crab",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37491,
+      "url": "https://www.tcgplayer.com/product/37491/magic-beatdown-box-set-giant-crab"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Giant Growth",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "57"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target creature gets +3/+3 until end of turn."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37492_200w.jpg",
+      "modifiedOn": "2023-07-19T18:06:13.33",
+      "name": "Giant Growth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37492,
+      "url": "https://www.tcgplayer.com/product/37492/magic-beatdown-box-set-giant-growth"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gravedigger",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "27"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Gravedigger comes into play, you may return target creature card from your graveyard to your hand."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e A full coffin is like a full coffer—both are attractive to thieves.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37493_200w.jpg",
+      "modifiedOn": "2023-07-19T18:08:26.277",
+      "name": "Gravedigger",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37493,
+      "url": "https://www.tcgplayer.com/product/37493/magic-beatdown-box-set-gravedigger"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Havenwood Battleground",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "73"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Havenwood Battleground comes into play tapped.\u003cbr\u003eT: Add G to your mana pool.\u003cbr\u003eT, Sacrifice Havenwood Battleground: Add GG to your mana pool."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37494_200w.jpg",
+      "modifiedOn": "2023-07-26T18:52:31.88",
+      "name": "Havenwood Battleground",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37494,
+      "url": "https://www.tcgplayer.com/product/37494/magic-beatdown-box-set-havenwood-battleground"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hollow Dogs",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "28"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Hound"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Hollow Dogs attacks, it gets +2/+0 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e A hollow dog is never empty. It is filled with thirst for the hunt.\u003c/br\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37495_200w.jpg",
+      "modifiedOn": "2023-07-19T18:12:02.53",
+      "name": "Hollow Dogs",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37495,
+      "url": "https://www.tcgplayer.com/product/37495/magic-beatdown-box-set-hollow-dogs"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hulking Cyclops",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "38"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Giant"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Hulking Cyclops can't block."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eAnyone can get around a cyclops, but few can stand in it's way.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37496_200w.jpg",
+      "modifiedOn": "2023-07-26T18:52:50.32",
+      "name": "Hulking Cyclops",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37496,
+      "url": "https://www.tcgplayer.com/product/37496/magic-beatdown-box-set-hulking-cyclops"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Impulse",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Controlling time ensures you need never look impulsive again.\"\u003cbr\u003e—Teferi\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37497_200w.jpg",
+      "modifiedOn": "2023-07-19T18:16:22.317",
+      "name": "Impulse",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37497,
+      "url": "https://www.tcgplayer.com/product/37497/magic-beatdown-box-set-impulse"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 81",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "81"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Island"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37498_200w.jpg",
+      "modifiedOn": "2023-07-19T18:23:39.157",
+      "name": "Island (81)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37498,
+      "url": "https://www.tcgplayer.com/product/37498/magic-beatdown-box-set-island-81"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Killer Whale",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Whale"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "U: Killer Whale gains flying until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eHunger is like the sea: deep, endless, and unforgiving.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37499_200w.jpg",
+      "modifiedOn": "2023-07-26T18:53:27.513",
+      "name": "Killer Whale",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37499,
+      "url": "https://www.tcgplayer.com/product/37499/magic-beatdown-box-set-killer-whale"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kird Ape",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "39"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Ape"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Kird Ape gets +1/+2 as long as you control a Forest."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37500_200w.jpg",
+      "modifiedOn": "2023-07-19T18:27:19.52",
+      "name": "Kird Ape",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37500,
+      "url": "https://www.tcgplayer.com/product/37500/magic-beatdown-box-set-kird-ape"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lava Axe",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "40"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lava Axe deals 5 damage to target player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Catch!\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37501_200w.jpg",
+      "modifiedOn": "2023-07-26T18:53:43.673",
+      "name": "Lava Axe",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37501,
+      "url": "https://www.tcgplayer.com/product/37501/magic-beatdown-box-set-lava-axe"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Leviathan",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Leviathan"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "10"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "10"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\u003cbr\u003eLeviathan enters the battlefield tapped and doesn't untap during your untap step.\u003cbr\u003eAt the beginning of your upkeep, you may sacrifice two Islands. If you do, untap Leviathan.\u003cbr\u003eLeviathan can't attack unless you sacrifice two Islands."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37502_200w.jpg",
+      "modifiedOn": "2023-07-19T19:29:01.747",
+      "name": "Leviathan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37502,
+      "url": "https://www.tcgplayer.com/product/37502/magic-beatdown-box-set-leviathan"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lightning Bolt",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "41"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lightning Bolt deals 3 damage to target creature or player."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37503_200w.jpg",
+      "modifiedOn": "2023-07-26T18:56:16.707",
+      "name": "Lightning Bolt",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37503,
+      "url": "https://www.tcgplayer.com/product/37503/magic-beatdown-box-set-lightning-bolt"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Llanowar Elves",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "58"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elf"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add G to your mana pool."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eOne bone broken for every twig snapped underfoot.\u003cbr\u003e—Llanowar penalty for trespassing\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37504_200w.jpg",
+      "modifiedOn": "2023-07-26T18:56:31.047",
+      "name": "Llanowar Elves",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37504,
+      "url": "https://www.tcgplayer.com/product/37504/magic-beatdown-box-set-llanowar-elves"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lowland Giant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "42"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Giant"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Faugh!\" snorted Tahngarth. \"Why would it make a meal or something like you?\" Squee looked relieved. \"No, he continued, \"you'd make a much better toothpick.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37505_200w.jpg",
+      "modifiedOn": "2024-03-11T13:49:33.313",
+      "name": "Lowland Giant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37505,
+      "url": "https://www.tcgplayer.com/product/37505/magic-beatdown-box-set-lowland-giant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mahamoti Djinn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Djinn"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e Of royal blood among the spirits of the air, the Mahamoti djinn rides on the wings of the winds. As dangerous in the gambling hall as he is in battle, he is a master of trickery and misdirection.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37506_200w.jpg",
+      "modifiedOn": "2023-07-19T19:36:16.65",
+      "name": "Mahamoti Djinn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37506,
+      "url": "https://www.tcgplayer.com/product/37506/magic-beatdown-box-set-mahamoti-djinn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plated Spider",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "59"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spider"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Plated Spider may block as though it had flying."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cMost spiders wait patiently for their prey to arrive. Most spiders aren't forty feet tall.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37508_200w.jpg",
+      "modifiedOn": "2023-07-19T19:40:15.5",
+      "name": "Plated Spider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37508,
+      "url": "https://www.tcgplayer.com/product/37508/magic-beatdown-box-set-plated-spider"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Polluted Mire",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "74"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Cycling 2 \u003cem\u003e (You may pay 2 and discard this card from your hand to draw a card. Play this ability any time you could play an instant.)\u003c/em\u003e\r\nPolluted Mire enters the battlefield tapped.\u003cbr\u003eT: Add B to your mana pool."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37509_200w.jpg",
+      "modifiedOn": "2023-07-26T18:57:23.237",
+      "name": "Polluted Mire",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37509,
+      "url": "https://www.tcgplayer.com/product/37509/magic-beatdown-box-set-polluted-mire"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Power Sink",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Counter target spell unless its controller pays X. If he or she doesn't that player taps all lands he or she controls and empties his or her mana pool."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37510_200w.jpg",
+      "modifiedOn": "2023-07-26T18:57:34.827",
+      "name": "Power Sink",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37510,
+      "url": "https://www.tcgplayer.com/product/37510/magic-beatdown-box-set-power-sink"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Quirion Elves",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "60"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elf"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As Quirion Elves comes into play, choose a color.\u003cbr\u003eT: Add G to your mana pool.\u003cbr\u003eT: Add one mana of the chosen color to your mana pool."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37511_200w.jpg",
+      "modifiedOn": "2023-07-26T18:58:02.803",
+      "name": "Quirion Elves",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37511,
+      "url": "https://www.tcgplayer.com/product/37511/magic-beatdown-box-set-quirion-elves"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Raging Goblin",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "43"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Goblin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste \u003cem\u003e(This creature can attack and T as soon as it comes under your control.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eHe raged at the world, at his family, at his life. But mostly he just raged.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37512_200w.jpg",
+      "modifiedOn": "2023-07-26T18:58:15.57",
+      "name": "Raging Goblin",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37512,
+      "url": "https://www.tcgplayer.com/product/37512/magic-beatdown-box-set-raging-goblin"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rampant Growth",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "61"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Search your library for a basic land card and put that card into play tapped. Then shuffle your library."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eRath forces plants from its surface as one presses whey from cheese.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37513_200w.jpg",
+      "modifiedOn": "2023-07-19T19:48:49.607",
+      "name": "Rampant Growth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37513,
+      "url": "https://www.tcgplayer.com/product/37513/magic-beatdown-box-set-rampant-growth"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Remote Isle",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "75"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Cycling 2 \u003cem\u003e (You may pay 2 and discard this card from your hand to draw a card. Play this ability any time you could play an instant.)\u003c/em\u003e\u003cbr\u003eRemote Isle comes into play tapped.\u003cbr\u003eT: Add U to your mana pool."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37514_200w.jpg",
+      "modifiedOn": "2023-07-26T18:58:51.123",
+      "name": "Remote Isle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37514,
+      "url": "https://www.tcgplayer.com/product/37514/magic-beatdown-box-set-remote-isle"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Scaled Wurm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "62"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Wurm"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "7"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Flourishing during the Ice Age, these wurms were the bane of all Kjeldorans. Their great size and ferocity made them the subject of countless nightmares—they embodied the worst of the Ice Age.\"\u003c/em\u003e\u003cbr\u003e—Kjeldor: Ice Civilization"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37515_200w.jpg",
+      "modifiedOn": "2023-07-19T19:58:32.583",
+      "name": "Scaled Wurm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37515,
+      "url": "https://www.tcgplayer.com/product/37515/magic-beatdown-box-set-scaled-wurm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Segmented Wurm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "68"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Wurm"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Segmented Wurm becomes the target of a spell or ability, put a -1/-1 counter on it."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"If only we could so easily leave behind those parts of ourselves that pain us.\"\u003cbr\u003e—Crovax\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37516_200w.jpg",
+      "modifiedOn": "2023-07-19T20:00:05.487",
+      "name": "Segmented Wurm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37516,
+      "url": "https://www.tcgplayer.com/product/37516/magic-beatdown-box-set-segmented-wurm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sengir Vampire",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "29"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Vampire"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\u003cbr\u003eWhenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37517_200w.jpg",
+      "modifiedOn": "2023-07-27T13:25:51.147",
+      "name": "Sengir Vampire",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37517,
+      "url": "https://www.tcgplayer.com/product/37517/magic-beatdown-box-set-sengir-vampire"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shambling Strider",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "63"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Strider"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "RG: Shambling Strider gets +1/-1 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eFreyalise forbid that any stranger should wander into the striders' territory.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37518_200w.jpg",
+      "modifiedOn": "2025-10-28T16:24:38.157",
+      "name": "Shambling Strider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37518,
+      "url": "https://www.tcgplayer.com/product/37518/magic-beatdown-box-set-shambling-strider"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shivan Dragon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "44"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\u003cbr\u003eR: Shivan Dragon gets +1/+0 until end of turn."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37519_200w.jpg",
+      "modifiedOn": "2026-01-12T19:11:14.563",
+      "name": "Shivan Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37519,
+      "url": "https://www.tcgplayer.com/product/37519/magic-beatdown-box-set-shivan-dragon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shock",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "45"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Shock deals 2 damage to target creature or player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eLightning tethers souls to the world.\u003cbr\u003e—Kor saying\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37520_200w.jpg",
+      "modifiedOn": "2023-07-19T20:09:17.113",
+      "name": "Shock",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37520,
+      "url": "https://www.tcgplayer.com/product/37520/magic-beatdown-box-set-shock"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Skittering Horror",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "30"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Horror"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When you cast a creature spell, sacrifice Skittering Horror."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"This monstrosity will do—for now.\"\u003cbr\u003e—Davvol, Evincar of Rath\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37521_200w.jpg",
+      "modifiedOn": "2023-07-19T20:10:34.793",
+      "name": "Skittering Horror",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37521,
+      "url": "https://www.tcgplayer.com/product/37521/magic-beatdown-box-set-skittering-horror"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Skittering Skirge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "31"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Imp"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\u003cbr\u003eWhen you cast a creature spell, sacrifice Skittering Skirge."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe imps' warbling cries echo through Phyrexia's towers like those of mourning doves in a cathedral.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37522_200w.jpg",
+      "modifiedOn": "2023-07-19T20:12:13.073",
+      "name": "Skittering Skirge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37522,
+      "url": "https://www.tcgplayer.com/product/37522/magic-beatdown-box-set-skittering-skirge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Slippery Karst",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "76"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Cycling \u003cem\u003e(You may pay 2 and discard this card from your hand to draw a card. Play this ability any time you could play an instant.)\u003c/em\u003e\u003cbr\u003eSlippery Karst comes into play tapped.\u003cbr\u003eT: Add G to your mana pool."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37523_200w.jpg",
+      "modifiedOn": "2023-07-26T19:00:08.2",
+      "name": "Slippery Karst",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37523,
+      "url": "https://www.tcgplayer.com/product/37523/magic-beatdown-box-set-slippery-karst"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Smoldering Crater",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "77"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Cycling 2 \u003cem\u003e(You may pay 2 and discard this card from your hand to draw a card. Play this ability any time you could play an instant.)\u003c/em\u003eSmoldering Crater comes into play tapped.\u003cbr\u003eT: Add R to your mana pool."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37524_200w.jpg",
+      "modifiedOn": "2023-07-26T19:00:48.017",
+      "name": "Smoldering Crater",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37524,
+      "url": "https://www.tcgplayer.com/product/37524/magic-beatdown-box-set-smoldering-crater"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Snapping Drake",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Drake"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eDrakes claim to be dragons—until the dragons show up.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37525_200w.jpg",
+      "modifiedOn": "2023-07-19T20:22:28.977",
+      "name": "Snapping Drake",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37525,
+      "url": "https://www.tcgplayer.com/product/37525/magic-beatdown-box-set-snapping-drake"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sonic Burst",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "46"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As an additional cost to play Sonic Burst, discard a card at random from your hand.\u003cbr\u003eSonic Burst deals 4 damage to target creature or player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eMusic scythes the savage beast.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37526_200w.jpg",
+      "modifiedOn": "2025-12-09T23:01:08.47",
+      "name": "Sonic Burst",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37526,
+      "url": "https://www.tcgplayer.com/product/37526/magic-beatdown-box-set-sonic-burst"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Svyelunite Temple",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "78"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Svyelunite Temple comes into play tapped.\u003cbr\u003eT: Add U to your mana pool.\u003cbr\u003eT, Sacrifice Svyelunite Temple: Add UU to your mana pool."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37527_200w.jpg",
+      "modifiedOn": "2025-12-05T18:53:41.253",
+      "name": "Svyelunite Temple",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37527,
+      "url": "https://www.tcgplayer.com/product/37527/magic-beatdown-box-set-svyelunite-temple"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Talruum Minotaur",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "47"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Minotaur"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste \u003cem\u003e(This creature may attack and T the turn it comes under your control.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e Don't insult a Talruum unless your mount is swift.\u003cbr\u003e—Suq'Ata saying \u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37529_200w.jpg",
+      "modifiedOn": "2023-07-26T19:02:13.16",
+      "name": "Talruum Minotaur",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37529,
+      "url": "https://www.tcgplayer.com/product/37529/magic-beatdown-box-set-talruum-minotaur"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tar Pit Warrior",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "32"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Giant"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Tar Pit Warrior becomes the target of a spell or ability, sacrifice Tar Pit Warrior."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The cyclops shrugged off savage blows, but casual insults made him weep.\"\u003cbr\u003e—Azeworai, \"The Cyclops who Couldn't\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37530_200w.jpg",
+      "modifiedOn": "2023-07-19T20:36:13.14",
+      "name": "Tar Pit Warrior",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37530,
+      "url": "https://www.tcgplayer.com/product/37530/magic-beatdown-box-set-tar-pit-warrior"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Terror",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "33"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target nonartifact, nonblack creature. It can't be regenerated."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37531_200w.jpg",
+      "modifiedOn": "2023-07-26T19:02:51.173",
+      "name": "Terror",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37531,
+      "url": "https://www.tcgplayer.com/product/37531/magic-beatdown-box-set-terror"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thunderbolt",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "48"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose one — Thunderbolt deals 3 damage to target player; or Thunderbolt deals 4 damage to target creature with flying."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Most wizards consider a thunderbolt to be a proper retort.\"\u003cbr\u003e—Ertai, wizard adept\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37532_200w.jpg",
+      "modifiedOn": "2023-07-19T20:38:07.533",
+      "name": "Thunderbolt",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37532,
+      "url": "https://www.tcgplayer.com/product/37532/magic-beatdown-box-set-thunderbolt"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thundering Giant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "49"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Giant"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste \u003cem\u003e(This creature can attack and T as soon as it comes under your control.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e The giant was felt a few seconds before he was seen.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37533_200w.jpg",
+      "modifiedOn": "2023-07-26T19:03:16.817",
+      "name": "Thundering Giant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37533,
+      "url": "https://www.tcgplayer.com/product/37533/magic-beatdown-box-set-thundering-giant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tolarian Winds",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Discard your hand, then draw that many cards."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eAfterward, Tolaria's winds were like the whispers of lost wizards, calling for life.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37534_200w.jpg",
+      "modifiedOn": "2025-11-11T05:03:44.8",
+      "name": "Tolarian Winds",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37534,
+      "url": "https://www.tcgplayer.com/product/37534/magic-beatdown-box-set-tolarian-winds"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Viashino Warrior",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "50"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Viashino"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"When traveling the Great Desert avoid wearing the scales of lizards, for the viashino rule the sands and look poorly on the skinning of their cousins.\"\u003cbr\u003e—Zhalfrin Guide to the Desert"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37535_200w.jpg",
+      "modifiedOn": "2023-07-19T20:43:52.08",
+      "name": "Viashino Warrior",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37535,
+      "url": "https://www.tcgplayer.com/product/37535/magic-beatdown-box-set-viashino-warrior"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Vigilant Drake",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "17"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Drake"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\u003cbr\u003e2U: Untap Vigilant Drake."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eAwake and awing in the blink of an eye.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37536_200w.jpg",
+      "modifiedOn": "2023-07-26T19:03:54.943",
+      "name": "Vigilant Drake",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37536,
+      "url": "https://www.tcgplayer.com/product/37536/magic-beatdown-box-set-vigilant-drake"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wayward Soul",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "18"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spirit"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\u003cbr\u003eU: Put Wayward Soul on top of its owner's library."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"no home   no heart   no hope\"\u003cbr\u003e—Stronghold graffito\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37537_200w.jpg",
+      "modifiedOn": "2023-07-26T19:04:03.503",
+      "name": "Wayward Soul",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37537,
+      "url": "https://www.tcgplayer.com/product/37537/magic-beatdown-box-set-wayward-soul"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wild Growth",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "64"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever enchanted land is tapped for mana, its controller adds G to his or her mana pool."
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37538_200w.jpg",
+      "modifiedOn": "2023-07-26T19:04:10.49",
+      "name": "Wild Growth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37538,
+      "url": "https://www.tcgplayer.com/product/37538/magic-beatdown-box-set-wild-growth"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Woolly Spider",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "65"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spider"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Woolly Spider may block as though it had flying.\u003cbr\u003eWhenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"We need not fear the forces of the air; I've yet to see a spider without an appetite.\"\u003cbr\u003e—Taaveti of Kelsinko, elvish hunter\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37539_200w.jpg",
+      "modifiedOn": "2023-07-19T20:29:22.247",
+      "name": "Woolly Spider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37539,
+      "url": "https://www.tcgplayer.com/product/37539/magic-beatdown-box-set-woolly-spider"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Yavimaya Wurm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "66"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Wurm"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eWhen the gorilla playfully grabbed the wurm's tail, the wurm doubled back and playfully ate the gorilla's head.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/37540_200w.jpg",
+      "modifiedOn": "2023-07-19T20:26:56.65",
+      "name": "Yavimaya Wurm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 37540,
+      "url": "https://www.tcgplayer.com/product/37540/magic-beatdown-box-set-yavimaya-wurm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Beatdown Box Set",
+      "extendedData": [],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/77301_200w.jpg",
+      "modifiedOn": "2015-03-24T12:32:34.703",
+      "name": "Beatdown Box Set",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 77301,
+      "url": "https://www.tcgplayer.com/product/77301/magic-beatdown-box-set-beatdown-box-set"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 79",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "79"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/80211_200w.jpg",
+      "modifiedOn": "2023-07-19T18:19:53.02",
+      "name": "Island (79)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 80211,
+      "url": "https://www.tcgplayer.com/product/80211/magic-beatdown-box-set-island-79"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 80",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "80"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Island"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/80212_200w.jpg",
+      "modifiedOn": "2023-07-19T18:23:03.893",
+      "name": "Island (80)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 80212,
+      "url": "https://www.tcgplayer.com/product/80212/magic-beatdown-box-set-island-80"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 82",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "82"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/80213_200w.jpg",
+      "modifiedOn": "2025-12-01T22:12:14.28",
+      "name": "Swamp (82)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 80213,
+      "url": "https://www.tcgplayer.com/product/80213/magic-beatdown-box-set-swamp-82"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 83",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "83"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/80214_200w.jpg",
+      "modifiedOn": "2024-10-23T12:41:46.317",
+      "name": "Swamp (83)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 80214,
+      "url": "https://www.tcgplayer.com/product/80214/magic-beatdown-box-set-swamp-83"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 84",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "84"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/80215_200w.jpg",
+      "modifiedOn": "2023-07-19T20:30:33.21",
+      "name": "Swamp (84)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 80215,
+      "url": "https://www.tcgplayer.com/product/80215/magic-beatdown-box-set-swamp-84"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 85",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "85"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/80216_200w.jpg",
+      "modifiedOn": "2023-07-26T18:56:45.827",
+      "name": "Mountain (85)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 80216,
+      "url": "https://www.tcgplayer.com/product/80216/magic-beatdown-box-set-mountain-85"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 86",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "86"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/80217_200w.jpg",
+      "modifiedOn": "2024-10-23T12:43:20.333",
+      "name": "Mountain (86)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 80217,
+      "url": "https://www.tcgplayer.com/product/80217/magic-beatdown-box-set-mountain-86"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 87",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "87"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/80218_200w.jpg",
+      "modifiedOn": "2025-12-06T01:22:45.013",
+      "name": "Mountain (87)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 80218,
+      "url": "https://www.tcgplayer.com/product/80218/magic-beatdown-box-set-mountain-87"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 88",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "88"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/80219_200w.jpg",
+      "modifiedOn": "2023-07-19T17:55:55.967",
+      "name": "Forest (88)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 80219,
+      "url": "https://www.tcgplayer.com/product/80219/magic-beatdown-box-set-forest-88"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 89",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "89"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/80220_200w.jpg",
+      "modifiedOn": "2023-07-19T17:56:17.397",
+      "name": "Forest (89)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 80220,
+      "url": "https://www.tcgplayer.com/product/80220/magic-beatdown-box-set-forest-89"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 90",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "90"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land"
+        }
+      ],
+      "groupId": 16,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/80221_200w.jpg",
+      "modifiedOn": "2023-07-19T17:56:42.843",
+      "name": "Forest (90)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 80221,
+      "url": "https://www.tcgplayer.com/product/80221/magic-beatdown-box-set-forest-90"
+    }
+  ],
+  "success": true,
+  "totalItems": 91
+}

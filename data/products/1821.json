@@ -1,0 +1,712 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "From the Vault Lore Box Set",
+      "extendedData": [],
+      "groupId": 1821,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/120968_200w.jpg",
+      "modifiedOn": "2016-08-22T20:16:25.21",
+      "name": "From the Vault: Lore - Box Set",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 120968,
+      "url": "https://www.tcgplayer.com/product/120968/magic-from-the-vault-lore-from-the-vault-lore-box-set"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Beseech the Queen",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Search your library for a card with converted mana cost less than or equal to the number of lands you control, reveal it, and put it into your hand. Then shuffle your library."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThose who hear her go mad with inspiration.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1821,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/121167_200w.jpg",
+      "modifiedOn": "2025-10-10T18:58:47.353",
+      "name": "Beseech the Queen",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 121167,
+      "url": "https://www.tcgplayer.com/product/121167/magic-from-the-vault-lore-beseech-the-queen"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cabal Ritual",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Add BBB to your mana pool.\r\n\u003cbr\u003e\r\n\u003cem\u003eThreshold\u003c/em\u003e — Add BBBBB to your mana pool instead if seven or more cards are in your graveyard."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe Patriarch is long dead, but his name still stains the lips of cultists.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1821,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/121168_200w.jpg",
+      "modifiedOn": "2025-05-01T18:42:48.373",
+      "name": "Cabal Ritual",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 121168,
+      "url": "https://www.tcgplayer.com/product/121168/magic-from-the-vault-lore-cabal-ritual"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Conflux",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Search your library for a white card, a blue card, a black card, a red card, and a green card. Reveal those cards and put them into your hand. Then shuffle your library."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"It's self-indulgent, I admit, but I do like to watch my own symphony play itself out.\"\r\n\u003cbr\u003e\r\n—Nicol Bolas\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1821,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/121169_200w.jpg",
+      "modifiedOn": "2025-05-01T18:43:35.987",
+      "name": "Conflux",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 121169,
+      "url": "https://www.tcgplayer.com/product/121169/magic-from-the-vault-lore-conflux"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dark Depths",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Snow Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Dark Depths enters the battlefield with ten ice counters on it.\r\n\u003cbr\u003e\r\n3: Remove an ice counter from Dark Depths.\r\n\u003cbr\u003e\r\nWhen Dark Depths has no ice counters on it, sacrifice it. If you do, put a legendary 20/20 black Avatar creature token with flying and indestructible named Marit Lage onto the battlefield."
+        }
+      ],
+      "groupId": 1821,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/121170_200w.jpg",
+      "modifiedOn": "2025-05-01T18:45:51.597",
+      "name": "Dark Depths",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 121170,
+      "url": "https://www.tcgplayer.com/product/121170/magic-from-the-vault-lore-dark-depths"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Glissa the Traitor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Zombie Elf"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike, deathtouch\r\n\u003cbr\u003e\r\nWhenever a creature an opponent controls dies, you may return target artifact card from your graveyard to your hand."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eOnce Mirrodin's brightest hope. Now Phyrexia's cruel champion.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1821,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/121171_200w.jpg",
+      "modifiedOn": "2025-05-01T18:46:31.007",
+      "name": "Glissa, the Traitor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 121171,
+      "url": "https://www.tcgplayer.com/product/121171/magic-from-the-vault-lore-glissa-the-traitor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Helvault",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1, T: Exile target creature you control.\r\n\u003cbr\u003e\r\n7, T: Exile target creature you don't control.\r\n\u003cbr\u003e\r\nWhen Helvault is put into a graveyard from the battlefield, return all cards exiled with it to the battlefield under their owner's control."
+        }
+      ],
+      "groupId": 1821,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/121172_200w.jpg",
+      "modifiedOn": "2025-05-01T18:46:55.16",
+      "name": "Helvault",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 121172,
+      "url": "https://www.tcgplayer.com/product/121172/magic-from-the-vault-lore-helvault"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Marit Lage Token",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Token Legendary Creature — Avatar"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "20"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "20"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, indestructible"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eMarit Lage lies dreaming, not dead. When will she awake from her icy prison?\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1821,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/121173_200w.jpg",
+      "modifiedOn": "2025-11-21T20:18:28.8",
+      "name": "Marit Lage Token",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 121173,
+      "url": "https://www.tcgplayer.com/product/121173/magic-from-the-vault-lore-marit-lage-token"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Memnarch",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact Creature — Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1UU: Target permanent becomes an artifact in addition to its other types.\r\n\u003cbr\u003e\r\n3U: Gain control of target artifact."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"An imperfection in the perfect world? We can't allow that.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1821,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/121174_200w.jpg",
+      "modifiedOn": "2025-05-01T18:47:42.517",
+      "name": "Memnarch",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 121174,
+      "url": "https://www.tcgplayer.com/product/121174/magic-from-the-vault-lore-memnarch"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Minds Desire",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Shuffle your library. Then exile the top card of your library. Until end of turn, you may play that card without paying its mana cost.\r\n\u003cbr\u003e\r\nStorm \u003cem\u003e(When you cast this spell, copy it for each spell cast before it this turn.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1821,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/121175_200w.jpg",
+      "modifiedOn": "2025-05-01T18:48:21.107",
+      "name": "Mind's Desire",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 121175,
+      "url": "https://www.tcgplayer.com/product/121175/magic-from-the-vault-lore-minds-desire"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Momir Vig Simic Visionary",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elf Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you cast a green creature spell, you may search your library for a creature card and reveal it. If you do, shuffle your library and put that card on top of it.\r\n\u003cbr\u003e\r\nWhenever you cast a blue creature spell, reveal the top card of your library. If it's a creature card, put that card into your hand."
+        }
+      ],
+      "groupId": 1821,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/121176_200w.jpg",
+      "modifiedOn": "2025-05-01T18:49:49.36",
+      "name": "Momir Vig, Simic Visionary",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 121176,
+      "url": "https://www.tcgplayer.com/product/121176/magic-from-the-vault-lore-momir-vig-simic-visionary"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Near Death Experience",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your upkeep, if you have exactly 1 life, you win the game."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eLands ravaged, cities in ruins, so many lives sacrificed, and yet there was no other word for it but victory.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1821,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/121177_200w.jpg",
+      "modifiedOn": "2025-05-01T18:50:38.147",
+      "name": "Near-Death Experience",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 121177,
+      "url": "https://www.tcgplayer.com/product/121177/magic-from-the-vault-lore-near-death-experience"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Obliterate",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Obliterate can't be countered.\r\n\u003cbr\u003e\r\nDestroy all artifacts, creatures, and lands. They can't be regenerated."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eFor his family, Barrin made a funeral pyre of Tolaria.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1821,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/121178_200w.jpg",
+      "modifiedOn": "2025-05-01T18:51:28.467",
+      "name": "Obliterate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 121178,
+      "url": "https://www.tcgplayer.com/product/121178/magic-from-the-vault-lore-obliterate"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phyrexian Processor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As Phyrexian Processor enters the battlefield, pay any amount of life.\r\n\u003cbr\u003e\r\n4, T: Put an X/X black Minion creature token onto the battlefield, where X is the life paid as Phyrexian Processor entered the battlefield."
+        }
+      ],
+      "groupId": 1821,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/121179_200w.jpg",
+      "modifiedOn": "2025-05-01T18:51:56.36",
+      "name": "Phyrexian Processor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 121179,
+      "url": "https://www.tcgplayer.com/product/121179/magic-from-the-vault-lore-phyrexian-processor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tolaria West",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tolaria West enters the battlefield tapped.\r\n\u003cbr\u003e\r\nT: Add U to your mana pool.\r\n\u003cbr\u003e\r\nTransmute 1UU \u003cem\u003e(1UU, Discard this card: Search your library for a card with converted mana cost 0, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1821,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/121180_200w.jpg",
+      "modifiedOn": "2025-10-10T18:57:40.94",
+      "name": "Tolaria West",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 121180,
+      "url": "https://www.tcgplayer.com/product/121180/magic-from-the-vault-lore-tolaria-west"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Umezawas Jitte",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever equipped creature deals combat damage, put two charge counters on Umezawa's Jitte. \r\n\u003cbr\u003e\r\nRemove a charge counter form Umezawa's Jitte: Choose one —\r\n\u003cbr\u003e\r\n• Equipped creature gets +2/+2 until end of turn.\r\n\u003cbr\u003e\r\n• Target creature gets -1/-1 until end of turn.\r\n\u003cbr\u003e\r\n• You gain 2 life.\r\n\u003cbr\u003e\r\nEquip 2"
+        }
+      ],
+      "groupId": 1821,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/121181_200w.jpg",
+      "modifiedOn": "2025-05-01T18:53:29.237",
+      "name": "Umezawa's Jitte",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 121181,
+      "url": "https://www.tcgplayer.com/product/121181/magic-from-the-vault-lore-umezawas-jitte"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Unmask",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may exile a black card from your hand rather than pay Unmask's mana cost.\r\n\u003cbr\u003e\r\nTarget player reveals his or her hand. You choose a nonland card from it. That player discards that card."
+        }
+      ],
+      "groupId": 1821,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/121182_200w.jpg",
+      "modifiedOn": "2025-12-05T23:16:32.147",
+      "name": "Unmask",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 121182,
+      "url": "https://www.tcgplayer.com/product/121182/magic-from-the-vault-lore-unmask"
+    }
+  ],
+  "success": true,
+  "totalItems": 17
+}

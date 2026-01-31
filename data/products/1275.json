@@ -1,0 +1,3944 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Anthologies Box Set",
+      "extendedData": [],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/77302_200w.jpg",
+      "modifiedOn": "2014-01-06T17:52:21.233",
+      "name": "Anthologies Box Set",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 77302,
+      "url": "https://www.tcgplayer.com/product/77302/magic-anthologies-anthologies-box-set"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nevinyrrals Disk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Nevinyrral's Disk comes into play tapped.\r\n\u003cbr\u003e1, T: Destroy all artifacts, creatures, and enchantments."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79529_200w.jpg",
+      "modifiedOn": "2023-06-30T16:57:09.43",
+      "name": "Nevinyrral's Disk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79529,
+      "url": "https://www.tcgplayer.com/product/79529/magic-anthologies-nevinyrrals-disk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin King",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Lord"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All Goblins get +1/+1 and gain mountainwalk. \u003cem\u003e(If defending player controls a mountain, those creatures are unblockable.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eTo be king, Numsgil did in Blog, who did in Unkful, who did in Viddle, who did in Loll, who did in Alrok . . . .\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79530_200w.jpg",
+      "modifiedOn": "2026-01-30T02:29:14.383",
+      "name": "Goblin King",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79530,
+      "url": "https://www.tcgplayer.com/product/79530/magic-anthologies-goblin-king"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Warrens",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2R, Sacrifice two Goblins: Put three Goblin tokens into play. Treat these tokens as 1/1 red creatures."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Goblins bred underground, their numbers hidden from the enemy until it was too late.” \u003c/em\u003e—Sarpadian Empires, \u003cem\u003evol. IV\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79531_200w.jpg",
+      "modifiedOn": "2022-12-09T08:37:05.923",
+      "name": "Goblin Warrens",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79531,
+      "url": "https://www.tcgplayer.com/product/79531/magic-anthologies-goblin-warrens"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Volcanic Dragon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eVolcanic Dragon is unaffected by summoning sickness."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eSpeed and fire are always a deadly combination.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79532_200w.jpg",
+      "modifiedOn": "2026-01-13T20:29:59.493",
+      "name": "Volcanic Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79532,
+      "url": "https://www.tcgplayer.com/product/79532/magic-anthologies-volcanic-dragon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Strip Mine",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add one colorless mana to your mana pool.\r\n\u003cbr\u003eT, Sacrifice Strip Mine: Destroy target land."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eUnlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79533_200w.jpg",
+      "modifiedOn": "2023-03-04T14:25:03.49",
+      "name": "Strip Mine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79533,
+      "url": "https://www.tcgplayer.com/product/79533/magic-anthologies-strip-mine"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lady Orca",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Legend"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "7"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“I do not remember what he said to her. I remember her fiery eyes, fixed upon him for an instant. I remember a flash, and the hot breath of sudden flames made me turn away. When I looked again, Angus was gone.” —A Wayfarer, on meeting Lady Orca\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79534_200w.jpg",
+      "modifiedOn": "2022-04-18T19:27:16.193",
+      "name": "Lady Orca",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79534,
+      "url": "https://www.tcgplayer.com/product/79534/magic-anthologies-lady-orca"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Black Knight",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike, protection from white"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Battle doesn’t need a purpose; the battle is its own purpose. You don’t ask why a plague spreads or a field burns. Don’t ask why I fight.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79535_200w.jpg",
+      "modifiedOn": "2023-01-07T08:07:08.683",
+      "name": "Black Knight",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79535,
+      "url": "https://www.tcgplayer.com/product/79535/magic-anthologies-black-knight"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hypnotic Specter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Specter"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eWhenever Hypnotic Specter successfully deals damage to an opponent, that player discards a card at random from his or her hand."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79536_200w.jpg",
+      "modifiedOn": "2022-08-17T14:11:36.867",
+      "name": "Hypnotic Specter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79536,
+      "url": "https://www.tcgplayer.com/product/79536/magic-anthologies-hypnotic-specter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Knight of Stromgald",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Protection from white\r\n\u003cbr\u003eB: Knight of Stromgald gains first strike until end of turn\r\n\u003cbr\u003eBB: Knight of Stromgald gets +1/+0 until end of turn"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79537_200w.jpg",
+      "modifiedOn": "2023-06-05T11:02:05.757",
+      "name": "Knight of Stromgald",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79537,
+      "url": "https://www.tcgplayer.com/product/79537/magic-anthologies-knight-of-stromgald"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ihsans Shade",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Legend"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Protection from white"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Ihsan, the weak. Ihsan, the fallen. Ihsan, the betrayer. He has brought shame to the Serra Paladins where none existed before. May his suffering equal his betrayal.”—Baris, Serra inquisitor\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79538_200w.jpg",
+      "modifiedOn": "2017-12-18T18:56:13.69",
+      "name": "Ihsan's Shade",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79538,
+      "url": "https://www.tcgplayer.com/product/79538/magic-anthologies-ihsans-shade"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Balloon Brigade",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Goblins"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "R: Goblin Balloon Brigade gains flying until end of turn"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“From up here we can drop rocks and arrows and more rocks!”\u003cbr\u003e“Uh, yeah boss, but how do we get down?”\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79539_200w.jpg",
+      "modifiedOn": "2024-07-26T16:02:02.673",
+      "name": "Goblin Balloon Brigade",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79539,
+      "url": "https://www.tcgplayer.com/product/79539/magic-anthologies-goblin-balloon-brigade"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Mutant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Goblin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\r\n\u003cbr\u003eGoblin Mutant cannot attack if defending player controls an untapped creature with power 3 or more.\r\n\u003cbr\u003eGoblin Mutant cannot block a creature with power 3 or more."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79540_200w.jpg",
+      "modifiedOn": "2023-07-02T12:15:21.7",
+      "name": "Goblin Mutant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79540,
+      "url": "https://www.tcgplayer.com/product/79540/magic-anthologies-goblin-mutant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Offensive",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "192"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Put X Goblin tokens into play. Treat these tokens as 1/1 red creatures."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThey certainly are.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79541_200w.jpg",
+      "modifiedOn": "2023-06-07T19:46:22.02",
+      "name": "Goblin Offensive",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79541,
+      "url": "https://www.tcgplayer.com/product/79541/magic-anthologies-goblin-offensive"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Recruiter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Goblin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Goblin Recruiter comes into play, search your library for any number of Goblin cards and reveal them to all players. Shuffle your library, then put the revealed cards on top of it in any order."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Next!”\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79542_200w.jpg",
+      "modifiedOn": "2026-01-22T16:55:32.033",
+      "name": "Goblin Recruiter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79542,
+      "url": "https://www.tcgplayer.com/product/79542/magic-anthologies-goblin-recruiter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Snowman",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Goblins"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Goblin Snowman blocks, it does not deal or receive combat damage that turn.\r\n\u003cbr\u003eT: Goblin Snowman deals 1 damage to target creature it is blocking."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Strength in numbers? Right.”—Ib Halfheart, Goblin Tactician\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79543_200w.jpg",
+      "modifiedOn": "2017-12-18T18:27:31.167",
+      "name": "Goblin Snowman",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79543,
+      "url": "https://www.tcgplayer.com/product/79543/magic-anthologies-goblin-snowman"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pyrokinesis",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may remove a red card in your hand from the game instead of paying Pyrokinesis's casting cost.\r\n\u003cbr\u003ePyrokinesis deals 4 damage, divided any way you choose among any number of target creatures."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79544_200w.jpg",
+      "modifiedOn": "2022-08-22T17:10:33.26",
+      "name": "Pyrokinesis",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79544,
+      "url": "https://www.tcgplayer.com/product/79544/magic-anthologies-pyrokinesis"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Uthden Troll",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "17"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Troll"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "R: Regenerate Uthden Troll."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Oi oi oi, me gotta hurt in ‘ere,Oi oi oi, me smell a ting is near,Gonna bosh ‘n gonna nosh‘n da hurt’ll disappear.”—Troll chant\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79545_200w.jpg",
+      "modifiedOn": "2017-12-18T20:13:30.747",
+      "name": "Uthden Troll",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79545,
+      "url": "https://www.tcgplayer.com/product/79545/magic-anthologies-uthden-troll"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Aesthir Glider",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "19"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eAesthir Glider can't block."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“A fine example of the rewards of artifice: a thoroughly obedient steed with wings of Soldevi steel.”—Arcum Dagsson, Soldevi Machinist\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79546_200w.jpg",
+      "modifiedOn": "2025-10-22T21:22:41.6",
+      "name": "Aesthir Glider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79546,
+      "url": "https://www.tcgplayer.com/product/79546/magic-anthologies-aesthir-glider"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Polluted Mire",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "323"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Polluted Mire comes into play tapped.\r\n\u003cbr\u003eT: Add B to your mana pool. \r\n\u003cbr\u003eCycling 2 \u003cem\u003e(You may pay 2 and discard this card from your hand to draw a card. Play this ability as an instant.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79547_200w.jpg",
+      "modifiedOn": "2023-06-29T16:26:37.45",
+      "name": "Polluted Mire",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79547,
+      "url": "https://www.tcgplayer.com/product/79547/magic-anthologies-polluted-mire"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Smoldering Crater",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "328"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Smoldering Crater comes into play tapped.\r\n\u003cbr\u003eT: Add R to your mana pool.\r\n\u003cbr\u003eCycling 2 \u003cem\u003e(You may pay 2 and discard this card from your hand to draw a card. Play this ability as an instant.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79548_200w.jpg",
+      "modifiedOn": "2023-01-24T11:05:37.72",
+      "name": "Smoldering Crater",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79548,
+      "url": "https://www.tcgplayer.com/product/79548/magic-anthologies-smoldering-crater"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cuombajj Witches",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "22"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Witches"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Cuombajj Witches deals 1 damage to target creature or player and 1 damage to target creature or player of an opponent's choice. \u003cem\u003e(Choose your target first.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79549_200w.jpg",
+      "modifiedOn": "2025-01-19T08:44:59.747",
+      "name": "Cuombajj Witches",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79549,
+      "url": "https://www.tcgplayer.com/product/79549/magic-anthologies-cuombajj-witches"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Feast of the Unicorn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "23"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchant Creature"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target creature gets +4/+0."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Could there be a fouler act? No doubt the baron knows of one.”—Autumn Willow\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79550_200w.jpg",
+      "modifiedOn": "2017-12-18T17:36:48.48",
+      "name": "Feast of the Unicorn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79550,
+      "url": "https://www.tcgplayer.com/product/79550/magic-anthologies-feast-of-the-unicorn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hymn to Tourach",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "24"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target player discards two cards at random from his or her hand. \u003cem\u003e(If that player has only one card, he or she discards it.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79551_200w.jpg",
+      "modifiedOn": "2022-04-19T15:40:39.163",
+      "name": "Hymn to Tourach",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79551,
+      "url": "https://www.tcgplayer.com/product/79551/magic-anthologies-hymn-to-tourach"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Terror",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "25"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target nonartifact, nonblack creature. That creature cannot be regenerated this turn."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79552_200w.jpg",
+      "modifiedOn": "2022-09-04T11:24:20.33",
+      "name": "Terror",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79552,
+      "url": "https://www.tcgplayer.com/product/79552/magic-anthologies-terror"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Unholy Strength",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "26"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchant Creature"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchanted creature gets +2/+1."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79553_200w.jpg",
+      "modifiedOn": "2017-12-18T20:11:11.4",
+      "name": "Unholy Strength",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79553,
+      "url": "https://www.tcgplayer.com/product/79553/magic-anthologies-unholy-strength"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fireball",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "27"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the time you play Fireball, pay an additional 1 for each target beyond the first.\r\n\u003cbr\u003eFireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79554_200w.jpg",
+      "modifiedOn": "2019-02-24T08:51:42.683",
+      "name": "Fireball",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79554,
+      "url": "https://www.tcgplayer.com/product/79554/magic-anthologies-fireball"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Digging Team",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "28"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Goblins"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Sacrifice Goblin Digging Team: Destroy target Wall."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“From down here we can make the whole wall collapse!”\u003cbr\u003e“Uh, yeah, boss, but how do we get out?”\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79555_200w.jpg",
+      "modifiedOn": "2017-12-18T18:02:01.52",
+      "name": "Goblin Digging Team",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79555,
+      "url": "https://www.tcgplayer.com/product/79555/magic-anthologies-goblin-digging-team"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Grenade",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "29"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the time you play Goblin Grenade, sacrifice a Goblin.\r\n\u003cbr\u003eGoblin Grenade deals 5 damage to target creature or player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I don't suppose we could teach them to\u003c/em\u003e throw \u003cem\u003ethe cursed things?' -Ivra Jursdotter\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79556_200w.jpg",
+      "modifiedOn": "2025-11-21T04:15:40.21",
+      "name": "Goblin Grenade",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79556,
+      "url": "https://www.tcgplayer.com/product/79556/magic-anthologies-goblin-grenade"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Hero",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "30"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Goblin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“When you’re a goblin, you don’t have to step forward to be a hero—everyone else just has to step back!”—Biggum Flodrot, goblin veteran\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79557_200w.jpg",
+      "modifiedOn": "2025-12-02T04:20:04.67",
+      "name": "Goblin Hero",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79557,
+      "url": "https://www.tcgplayer.com/product/79557/magic-anthologies-goblin-hero"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Matron",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "31"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Goblin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Goblin Matron comes into play, you may search your library for a Goblin card. If you do, reveal that card, put it into your hand, and shuffle your library afterward."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79558_200w.jpg",
+      "modifiedOn": "2024-10-17T18:54:22.59",
+      "name": "Goblin Matron",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79558,
+      "url": "https://www.tcgplayer.com/product/79558/magic-anthologies-goblin-matron"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Tinkerer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "32"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Goblin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "R, T: Destroy target artifact. That artifact deals damage equal to its total casting cost to Goblin Tinkerer."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cEm\u003e“Can they do that?”—Imwita, Zhalfirin artificer, last words\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79559_200w.jpg",
+      "modifiedOn": "2022-12-14T05:22:11.537",
+      "name": "Goblin Tinkerer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79559,
+      "url": "https://www.tcgplayer.com/product/79559/magic-anthologies-goblin-tinkerer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Vandal",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "33"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Goblin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "R: Destroy target artifact defending player controls. Goblin Vandal deals no combat damage this turn. Use this ability only if Goblin Vandal is attacking and unblocked and only once each turn."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79560_200w.jpg",
+      "modifiedOn": "2018-09-01T19:26:12.397",
+      "name": "Goblin Vandal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79560,
+      "url": "https://www.tcgplayer.com/product/79560/magic-anthologies-goblin-vandal"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lightning Bolt",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "34"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lightning Bolt deals 3 damage to target creature or player."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79561_200w.jpg",
+      "modifiedOn": "2025-01-05T14:44:16.977",
+      "name": "Lightning Bolt",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79561,
+      "url": "https://www.tcgplayer.com/product/79561/magic-anthologies-lightning-bolt"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mogg Fanatic",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "35"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Goblin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“I got it! I got it! I—”\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79562_200w.jpg",
+      "modifiedOn": "2025-11-28T18:16:49.007",
+      "name": "Mogg Fanatic",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79562,
+      "url": "https://www.tcgplayer.com/product/79562/magic-anthologies-mogg-fanatic"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mogg Flunkies",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "36"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Goblins"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Mogg Flunkies cannot attack or block unless another creature you control attacks or blocks the same turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThey’ll attack whatever’s in front of them—as long as you tell them where that is.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79563_200w.jpg",
+      "modifiedOn": "2022-09-27T17:13:14.423",
+      "name": "Mogg Flunkies",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79563,
+      "url": "https://www.tcgplayer.com/product/79563/magic-anthologies-mogg-flunkies"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mogg Raider",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "37"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Goblin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Sacrifice a Goblin: Target creature gets +1/+1 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe evisceration of one mogg always cheers up the rest.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79564_200w.jpg",
+      "modifiedOn": "2022-09-21T05:46:53.26",
+      "name": "Mogg Raider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79564,
+      "url": "https://www.tcgplayer.com/product/79564/magic-anthologies-mogg-raider"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pyrotechnics",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "38"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Pyrotechnics deals 4 damage divided any way you choose among any number of target creatures and/or players."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Hi! ni! ya! Behold the man of flint, that’s me!Four lightnings zigzag from me, strike and return.” —Navajo war chant\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79565_200w.jpg",
+      "modifiedOn": "2020-10-26T12:02:47.333",
+      "name": "Pyrotechnics",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79565,
+      "url": "https://www.tcgplayer.com/product/79565/magic-anthologies-pyrotechnics"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Raging Goblin",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "39"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Goblin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Raging Goblin is unaffected by summoning sickness."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eCharging alone takes uncommon daring or uncommon stupidity. Or both.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79566_200w.jpg",
+      "modifiedOn": "2022-11-30T06:01:18.36",
+      "name": "Raging Goblin",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79566,
+      "url": "https://www.tcgplayer.com/product/79566/magic-anthologies-raging-goblin"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain Arabian Nights",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "40"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add R to your mana pool."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79567_200w.jpg",
+      "modifiedOn": "2023-05-09T19:51:44.213",
+      "name": "Mountain (Arabian Nights)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79567,
+      "url": "https://www.tcgplayer.com/product/79567/magic-anthologies-mountain-arabian-nights"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain Mirage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "41"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add R to your mana pool."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79568_200w.jpg",
+      "modifiedOn": "2022-08-08T07:49:54.643",
+      "name": "Mountain (Mirage)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79568,
+      "url": "https://www.tcgplayer.com/product/79568/magic-anthologies-mountain-mirage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp Ice Age",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "42"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add B to your mana pool."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79569_200w.jpg",
+      "modifiedOn": "2022-04-19T15:20:01.647",
+      "name": "Swamp (Ice Age)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79569,
+      "url": "https://www.tcgplayer.com/product/79569/magic-anthologies-swamp-ice-age"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp Tempest",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "43"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add B to your mana pool."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79570_200w.jpg",
+      "modifiedOn": "2017-12-18T20:06:55.927",
+      "name": "Swamp (Tempest)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79570,
+      "url": "https://www.tcgplayer.com/product/79570/magic-anthologies-swamp-tempest"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Brushland",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "44"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add one colorless mana to your mana pool.\r\nT: Add G or W to your mana pool. Brushland deals 1 damage to you."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79571_200w.jpg",
+      "modifiedOn": "2023-08-30T04:53:51.627",
+      "name": "Brushland",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79571,
+      "url": "https://www.tcgplayer.com/product/79571/magic-anthologies-brushland"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mirri Cat Warrior",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "114"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Legend"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Mirri, Cat Warrior counts as a Cat Warrior.\r\n\u003cbr\u003eFirst strike; forestwalk \u003cem\u003e(If defending player controls any forests, this creature is unblockable.)\u003c/em\u003e\r\n\u003cbr\u003eAttacking does not cause Mirri to tap."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79572_200w.jpg",
+      "modifiedOn": "2023-02-27T19:06:20.7",
+      "name": "Mirri, Cat Warrior",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79572,
+      "url": "https://www.tcgplayer.com/product/79572/magic-anthologies-mirri-cat-warrior"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Armageddon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "46"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy all lands."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79573_200w.jpg",
+      "modifiedOn": "2024-03-27T19:00:43.84",
+      "name": "Armageddon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79573,
+      "url": "https://www.tcgplayer.com/product/79573/magic-anthologies-armageddon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sacred Mesa",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "47"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "During your upkeep, sacrifice a Pegasus or sacrifice Sacred Mesa.\r\n\u003cbr\u003e1W: Put a Pegasus token into play. Treat this token as a 1/1 white creature with flying."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Do not go there, do not go / unless you rise on wings, unless you walk on hooves.”—“Song to the Sun,” Femeref song\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79574_200w.jpg",
+      "modifiedOn": "2023-11-01T07:56:20.593",
+      "name": "Sacred Mesa",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79574,
+      "url": "https://www.tcgplayer.com/product/79574/magic-anthologies-sacred-mesa"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pendelhaven",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "48"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add G to your mana pool\r\n\u003cbr\u003eT: Target 1/1 creature gains +1/+2 until end of turn."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79575_200w.jpg",
+      "modifiedOn": "2025-12-10T18:13:26.213",
+      "name": "Pendelhaven",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79575,
+      "url": "https://www.tcgplayer.com/product/79575/magic-anthologies-pendelhaven"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Jalum Tome",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "49"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2, T: Draw a card, then choose and discard a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThis timeworn relic was responsible for many of Urza’s victories, though he never fully comprehended its mystical runes.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79576_200w.jpg",
+      "modifiedOn": "2022-08-11T18:30:40.49",
+      "name": "Jalum Tome",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79576,
+      "url": "https://www.tcgplayer.com/product/79576/magic-anthologies-jalum-tome"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ranger en Vec",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "50"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike\r\n\u003cbr\u003eG: Regenerate Ranger \u003cem\u003een-\u003c/em\u003eVec."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“The path of least resistance will seldom lead you beyond your doorstep.”—Oracle\u003c/em\u003e en-\u003cem\u003eVec\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79577_200w.jpg",
+      "modifiedOn": "2017-12-18T19:50:13.113",
+      "name": "Ranger en-Vec",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79577,
+      "url": "https://www.tcgplayer.com/product/79577/magic-anthologies-ranger-en-vec"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Erhnam Djinn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "51"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Djinn"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "During your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next turn. \u003cem\u003e(If defending player controls a forest, that creature is unblockable.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79578_200w.jpg",
+      "modifiedOn": "2022-11-29T11:30:16.56",
+      "name": "Erhnam Djinn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79578,
+      "url": "https://www.tcgplayer.com/product/79578/magic-anthologies-erhnam-djinn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hurricane",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "52"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Hurricane deals X damage to creature with flying and each player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The raging winds..., settling on the sea, the surges, the sweep,/ Raise liquid mountains, and disclose the deep.\" -Virgil, Aeneid, Book I, trans. Dryden\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79579_200w.jpg",
+      "modifiedOn": "2017-12-18T18:46:38.26",
+      "name": "Hurricane",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79579,
+      "url": "https://www.tcgplayer.com/product/79579/magic-anthologies-hurricane"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Spectral Bears",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "53"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Bears"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Spectral Bears attacks, if defending player controls no black cards, Spectral Bears does not untap during your next untap phase."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“I hear there are bears—or spirits—that guard caravans passing through the forest.” —Gulsen, Abbey Matron\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79580_200w.jpg",
+      "modifiedOn": "2023-10-29T06:41:39.337",
+      "name": "Spectral Bears",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79580,
+      "url": "https://www.tcgplayer.com/product/79580/magic-anthologies-spectral-bears"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Overrun",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "54"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All creatures you control get +3/+3 and gain trample until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“You want to know your enemy? Look at your feet while you trample him.”—Tahngarth of the Weatherlight\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79581_200w.jpg",
+      "modifiedOn": "2022-11-16T14:48:56.383",
+      "name": "Overrun",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79581,
+      "url": "https://www.tcgplayer.com/product/79581/magic-anthologies-overrun"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Order of the White Shield",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "55"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Protection from black\r\n\u003cbr\u003eW: Order of the White Shield gains first strike until end of turn\r\n\u003cbr\u003eWW: Order of the White Shield gets +1/+0 until end of turn"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eA shield of light admits no shadow.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79582_200w.jpg",
+      "modifiedOn": "2017-12-18T19:26:35.24",
+      "name": "Order of the White Shield",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79582,
+      "url": "https://www.tcgplayer.com/product/79582/magic-anthologies-order-of-the-white-shield"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pegasus Charger",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "30"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Pegasus"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, first strike"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“The clouds came alive and dove to the earth! Hooves flashed among the dark army, who fled before the spectacle of fury.”\u003c/em\u003e —Song of All, \u003cem\u003ecanto 211\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79583_200w.jpg",
+      "modifiedOn": "2022-05-15T10:02:14.6",
+      "name": "Pegasus Charger",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79583,
+      "url": "https://www.tcgplayer.com/product/79583/magic-anthologies-pegasus-charger"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Serra Angel",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "57"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Angel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eAttacking does not cause Serra Angel to tap."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eBorn with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79584_200w.jpg",
+      "modifiedOn": "2018-02-12T21:40:39.77",
+      "name": "Serra Angel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79584,
+      "url": "https://www.tcgplayer.com/product/79584/magic-anthologies-serra-angel"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swords to Plowshares",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "58"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Remove target creature from the game. The creature’s controller gains life equal to its power."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79585_200w.jpg",
+      "modifiedOn": "2026-01-28T22:40:59.44",
+      "name": "Swords to Plowshares",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79585,
+      "url": "https://www.tcgplayer.com/product/79585/magic-anthologies-swords-to-plowshares"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "White Knight",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "59"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike, protection from black"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eOut of the blackness and stench of the engulfing swamp emerged a shimmering figure. Only the splattered armor and ichor-stained sword hinted at the unfathomable evil the Knight had just laid waste.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79586_200w.jpg",
+      "modifiedOn": "2019-05-24T13:34:51.363",
+      "name": "White Knight",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79586,
+      "url": "https://www.tcgplayer.com/product/79586/magic-anthologies-white-knight"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pegasus Stampede",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Buyback—Sacrifice a land. \u003cem\u003e(You may sacrifice a land in addition to any other costs when you play this spell. If you do, put Pegasus Stampede into your hand instead of your graveyard as part of the spell’s effect.)\u003c/em\u003e \r\n\u003cbr\u003ePut a Pegasus token into play. Treat this token as a 1/1 white creature with flying."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79587_200w.jpg",
+      "modifiedOn": "2021-09-14T12:25:22.747",
+      "name": "Pegasus Stampede",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79587,
+      "url": "https://www.tcgplayer.com/product/79587/magic-anthologies-pegasus-stampede"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Drifting Meadow",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "320"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Drifting Meadow comes into play tapped.\r\n\u003cbr\u003eT: Add W to your mana pool.\r\n\u003cbr\u003eCycling 2 \u003cem\u003e(You may pay 2 and discard this card from your hand to draw a card. Play this ability as an instant.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79588_200w.jpg",
+      "modifiedOn": "2023-03-16T14:37:14.48",
+      "name": "Drifting Meadow",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79588,
+      "url": "https://www.tcgplayer.com/product/79588/magic-anthologies-drifting-meadow"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Slippery Karst",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "327"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Slippery Karst comes into play tapped.\r\n\u003cbr\u003eT: Add G to your mana pool.\r\n\u003cbr\u003eCycling 2 \u003cem\u003e(You may pay 2 and discard this card from your hand to draw a card. Play this ability as an instant.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79589_200w.jpg",
+      "modifiedOn": "2023-11-26T06:26:08.987",
+      "name": "Slippery Karst",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79589,
+      "url": "https://www.tcgplayer.com/product/79589/magic-anthologies-slippery-karst"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Serrated Arrows",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "63"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Serrated Arrows comes into play with three arrowhead counters on it.\r\n\u003cbr\u003eWhen there are no arrowhead counters on Serrated Arrows, destroy it.\r\n\u003cbr\u003eT, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79590_200w.jpg",
+      "modifiedOn": "2023-07-26T19:17:20.917",
+      "name": "Serrated Arrows",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79590,
+      "url": "https://www.tcgplayer.com/product/79590/magic-anthologies-serrated-arrows"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Canopy Spider",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "64"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Spider"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Canopy Spider can block creatures with flying."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“We know our place in the cycle of life—and it is not as flies.”—Eladamri, Lord of Leaves\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79591_200w.jpg",
+      "modifiedOn": "2017-12-18T16:28:01.273",
+      "name": "Canopy Spider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79591,
+      "url": "https://www.tcgplayer.com/product/79591/magic-anthologies-canopy-spider"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Carnivorous Plant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "65"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Wall"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“It had a mouth like that of a great beast, and gnashed its teeth as it strained to reach us. I am thankful it possessed no means of locomotion.”—Vervamon the Elder\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79592_200w.jpg",
+      "modifiedOn": "2026-01-05T15:55:57.56",
+      "name": "Carnivorous Plant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79592,
+      "url": "https://www.tcgplayer.com/product/79592/magic-anthologies-carnivorous-plant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Giant Growth",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "66"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target creature gets +3/+3 until end of turn."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79593_200w.jpg",
+      "modifiedOn": "2017-12-18T17:51:37.74",
+      "name": "Giant Growth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79593,
+      "url": "https://www.tcgplayer.com/product/79593/magic-anthologies-giant-growth"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Giant Spider",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "67"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Spider"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Giant Spider can block creatures with flying."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eWhile it possesses potent venom, the giant spider often chooses not to paralyze its victims. Perhaps the creature enjoys the gentle rocking motion caused by its captives’ struggles to escape its web.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79594_200w.jpg",
+      "modifiedOn": "2017-12-18T17:53:20.597",
+      "name": "Giant Spider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79594,
+      "url": "https://www.tcgplayer.com/product/79594/magic-anthologies-giant-spider"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gorilla Chieftain",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "68"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Gorilla"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1G: Regenerate Gorilla Chieftain."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Oh, no—not\u003c/em\u003e you \u003cem\u003eagain?!”—Jaya Ballard, task mage\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79595_200w.jpg",
+      "modifiedOn": "2023-05-30T21:43:11.68",
+      "name": "Gorilla Chieftain",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79595,
+      "url": "https://www.tcgplayer.com/product/79595/magic-anthologies-gorilla-chieftain"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Llanowar Elves",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "69"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Elves"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add G to your mana pool. Play this ability as a mana source."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eOne bone broken for every twig snapped underfoot. -Llanowar penalty for trespassing\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79596_200w.jpg",
+      "modifiedOn": "2023-03-05T18:53:23.667",
+      "name": "Llanowar Elves",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79596,
+      "url": "https://www.tcgplayer.com/product/79596/magic-anthologies-llanowar-elves"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Scavenger Folk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "70"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Scavenger Folk"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "G, T, Sacrifice Scavenger Folk: Destroy target artifact."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eString, weapons, wax, or jewels—it makes no difference. Leave nothing unguarded in Scarwood.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79597_200w.jpg",
+      "modifiedOn": "2022-03-17T18:59:58.447",
+      "name": "Scavenger Folk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79597,
+      "url": "https://www.tcgplayer.com/product/79597/magic-anthologies-scavenger-folk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Woolly Spider",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "71"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Spider"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Woolly Spider can block creatures with flying.\r\n\u003cbr\u003eWhen Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“We need not fear the forces of the air; I’ve yet to see a Spider without an appetite.”—Taaveti of Kelsinko, elvish hunter\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79598_200w.jpg",
+      "modifiedOn": "2026-01-05T15:56:58.18",
+      "name": "Woolly Spider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79598,
+      "url": "https://www.tcgplayer.com/product/79598/magic-anthologies-woolly-spider"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Armored Pegasus",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "72"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Pegasus"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eAsked how it survived a run-in with a bog imp, the pegasus just shook its mane and burped.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79599_200w.jpg",
+      "modifiedOn": "2021-09-09T14:45:27.563",
+      "name": "Armored Pegasus",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79599,
+      "url": "https://www.tcgplayer.com/product/79599/magic-anthologies-armored-pegasus"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Benalish Knight",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "73"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strikeYou may play Benalish Knight whenever you could play an instant."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“We called them ‘armored lightning.’”—Gerrard of the\u003c/em\u003e Weatherlight"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79600_200w.jpg",
+      "modifiedOn": "2024-06-12T10:03:32.2",
+      "name": "Benalish Knight",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79600,
+      "url": "https://www.tcgplayer.com/product/79600/magic-anthologies-benalish-knight"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Combat Medic",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "74"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1W: Prevent 1 damage to a creature or player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Without combat medics, Icatia would probably not have withstood the forces of chaos as long as it did.\"\u003c/em\u003e —Sarpadian Empires, \u003cem\u003evol. VI\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79601_200w.jpg",
+      "modifiedOn": "2021-05-28T17:24:34.99",
+      "name": "Combat Medic",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79601,
+      "url": "https://www.tcgplayer.com/product/79601/magic-anthologies-combat-medic"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Disenchant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "75"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target artifact or enchantment."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79602_200w.jpg",
+      "modifiedOn": "2020-09-03T14:45:29.35",
+      "name": "Disenchant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79602,
+      "url": "https://www.tcgplayer.com/product/79602/magic-anthologies-disenchant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Freewind Falcon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "76"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Falcon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, protection from red"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“That does it! I’m going back to hunting chickens!”—Rhirhok, goblin archer\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79603_200w.jpg",
+      "modifiedOn": "2017-12-18T17:51:11.437",
+      "name": "Freewind Falcon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79603,
+      "url": "https://www.tcgplayer.com/product/79603/magic-anthologies-freewind-falcon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Icatian Javelineers",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "77"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Soldiers"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Icatian Javelineers comes into play, put a javelin counter on it.\r\n\u003cbr\u003eT, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79604_200w.jpg",
+      "modifiedOn": "2018-03-14T12:39:47.93",
+      "name": "Icatian Javelineers",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79604,
+      "url": "https://www.tcgplayer.com/product/79604/magic-anthologies-icatian-javelineers"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Infantry Veteran",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "78"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Target attacking creature gets +1/+1 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“The true dishonor for a soldier is surviving the war.”—Telim’Tor\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79605_200w.jpg",
+      "modifiedOn": "2017-12-18T18:59:24.077",
+      "name": "Infantry Veteran",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79605,
+      "url": "https://www.tcgplayer.com/product/79605/magic-anthologies-infantry-veteran"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pacifism",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "79"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchant Creature"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchanted creature cannot attack or block."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eFor the first time in his life, Grakk felt a little warm and fuzzy inside.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79606_200w.jpg",
+      "modifiedOn": "2017-12-18T19:31:25.11",
+      "name": "Pacifism",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79606,
+      "url": "https://www.tcgplayer.com/product/79606/magic-anthologies-pacifism"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Samite Healer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "81"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Prevent 1 damage to a creature or player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eHealers ultimately acquire the divine gifts of spiritual and physical wholeness. The most devout are also granted the ability to pass physical wholeness on to others.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79607_200w.jpg",
+      "modifiedOn": "2017-12-18T19:53:03.257",
+      "name": "Samite Healer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79607,
+      "url": "https://www.tcgplayer.com/product/79607/magic-anthologies-samite-healer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Warriors Honor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "82"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All creatures you control get +1/+1 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“We are to be bound together as the reeds of a basket.”—Asmira, Rashida, and Jabari, unity chant\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79608_200w.jpg",
+      "modifiedOn": "2024-08-22T20:07:18.093",
+      "name": "Warrior's Honor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79608,
+      "url": "https://www.tcgplayer.com/product/79608/magic-anthologies-warriors-honor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Youthful Knight",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "83"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Summon Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Let no child be without a sword. We will all fight, for if we fail, we will certainly all die.”—Oracle\u003c/em\u003e en-\u003cem\u003eVec\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79609_200w.jpg",
+      "modifiedOn": "2024-10-23T12:35:03.397",
+      "name": "Youthful Knight",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79609,
+      "url": "https://www.tcgplayer.com/product/79609/magic-anthologies-youthful-knight"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest Arena",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "84"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add G to your mana pool."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79610_200w.jpg",
+      "modifiedOn": "2024-03-16T14:55:31.717",
+      "name": "Forest (Arena)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79610,
+      "url": "https://www.tcgplayer.com/product/79610/magic-anthologies-forest-arena"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest Portal Second Age",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "85"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "G"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79611_200w.jpg",
+      "modifiedOn": "2025-12-15T21:11:45.48",
+      "name": "Forest (Portal Second Age)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79611,
+      "url": "https://www.tcgplayer.com/product/79611/magic-anthologies-forest-portal-second-age"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plains Mirage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "86"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add W to your mana pool."
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79612_200w.jpg",
+      "modifiedOn": "2022-02-11T16:13:55.39",
+      "name": "Plains (Mirage)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79612,
+      "url": "https://www.tcgplayer.com/product/79612/magic-anthologies-plains-mirage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plains Portal",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "87"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "W"
+        }
+      ],
+      "groupId": 1275,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79613_200w.jpg",
+      "modifiedOn": "2025-05-10T12:49:36.017",
+      "name": "Plains (Portal)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79613,
+      "url": "https://www.tcgplayer.com/product/79613/magic-anthologies-plains-portal"
+    }
+  ],
+  "success": true,
+  "totalItems": 86
+}

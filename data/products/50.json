@@ -1,0 +1,649 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Aether Vial",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your upkeep, you may put a charge counter on Æther Vial.\r\n\u003cbr\u003e\r\nT: You may put a creature card with converted mana cost equal to the number of charge counters on Æther Vial from your hand onto the battlefield."
+        }
+      ],
+      "groupId": 50,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36756_200w.jpg",
+      "modifiedOn": "2025-12-06T00:51:50.227",
+      "name": "Aether Vial",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36756,
+      "url": "https://www.tcgplayer.com/product/36756/magic-from-the-vault-relics-aether-vial"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Black Vise",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As Black Vise enters the battlefield, choose an opponent.\r\n\u003cbr\u003e\r\nAt the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in his or her hand minus 4."
+        }
+      ],
+      "groupId": 50,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36757_200w.jpg",
+      "modifiedOn": "2025-12-06T00:52:54.723",
+      "name": "Black Vise",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36757,
+      "url": "https://www.tcgplayer.com/product/36757/magic-from-the-vault-relics-black-vise"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Isochron Scepter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eImprint\u003c/em\u003e — When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.\r\n\u003cbr\u003e\r\n2, T: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost."
+        }
+      ],
+      "groupId": 50,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36758_200w.jpg",
+      "modifiedOn": "2025-11-26T17:22:44.767",
+      "name": "Isochron Scepter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36758,
+      "url": "https://www.tcgplayer.com/product/36758/magic-from-the-vault-relics-isochron-scepter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ivory Tower",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus four."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eValuing scholarship above all else, the inhabitants of the Ivory Tower reward those who sacrifice power for knowledge.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 50,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36759_200w.jpg",
+      "modifiedOn": "2025-05-01T19:17:10.86",
+      "name": "Ivory Tower",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36759,
+      "url": "https://www.tcgplayer.com/product/36759/magic-from-the-vault-relics-ivory-tower"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Jesters Cap",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2, T, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles his or her library."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Know your foes' strengths as well as their weaknesses.\"\r\n\u003cbr\u003e\r\n—Arcum Dagsson, Soldevi machinist\u003c/em\u003e"
+        }
+      ],
+      "groupId": 50,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36760_200w.jpg",
+      "modifiedOn": "2025-05-01T19:18:16.367",
+      "name": "Jester's Cap",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36760,
+      "url": "https://www.tcgplayer.com/product/36760/magic-from-the-vault-relics-jesters-cap"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Karn Silver Golem",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact Creature — Golem"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.\r\n\u003cbr\u003e\r\n1: Target noncreature artifact is an artifact creature with power and toughness each equal to its converted mana cost until end of turn."
+        }
+      ],
+      "groupId": 50,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36761_200w.jpg",
+      "modifiedOn": "2025-05-01T19:18:43.873",
+      "name": "Karn, Silver Golem",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36761,
+      "url": "https://www.tcgplayer.com/product/36761/magic-from-the-vault-relics-karn-silver-golem"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Masticore",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Masticore"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your upkeep, sacrifice Masticore unless you discard a card.\r\n\u003cbr\u003e\r\n2: Masticore deals 1 damage to target creature. \r\n\u003cbr\u003e\r\n2: Regenerate Masticore."
+        }
+      ],
+      "groupId": 50,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36762_200w.jpg",
+      "modifiedOn": "2025-05-01T19:19:15.347",
+      "name": "Masticore",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36762,
+      "url": "https://www.tcgplayer.com/product/36762/magic-from-the-vault-relics-masticore"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Memory Jar",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T, Sacrifice Memory Jar: Each player exiles all cards from his or her hand face down and draws seven cards. At the beginning of the next end step, each player discards his or her hand and returns to his or her hand each card he or she exiled this way."
+        }
+      ],
+      "groupId": 50,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36763_200w.jpg",
+      "modifiedOn": "2025-05-01T19:20:04.94",
+      "name": "Memory Jar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36763,
+      "url": "https://www.tcgplayer.com/product/36763/magic-from-the-vault-relics-memory-jar"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mirari",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you cast an instant or sorcery spell, you may pay 3. If you do, copy that spell. You may choose new targets for the copy."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"It offers you what you want, not what you need.\"\r\n\u003cbr\u003e\r\n—Braids, dementia summoner\u003c/em\u003e"
+        }
+      ],
+      "groupId": 50,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36764_200w.jpg",
+      "modifiedOn": "2026-01-07T23:29:03.817",
+      "name": "Mirari",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36764,
+      "url": "https://www.tcgplayer.com/product/36764/magic-from-the-vault-relics-mirari"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mox Diamond",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If Mox Diamond would enter the battlefield, you may discard a land card instead. If you do, put Mox Diamond onto the battlefield. If you don't, put it into its owner's graveyard.\r\n\u003cbr\u003e\r\nT: Add one mana of any color to your mana pool."
+        }
+      ],
+      "groupId": 50,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36765_200w.jpg",
+      "modifiedOn": "2025-05-01T19:21:13.497",
+      "name": "Mox Diamond",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36765,
+      "url": "https://www.tcgplayer.com/product/36765/magic-from-the-vault-relics-mox-diamond"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nevinyrrals Disk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Nevinyrral's Disk enters the battlefield tapped.\r\n\u003cbr\u003e\r\n1, T: Destroy all artifacts, creatures, and enchantments."
+        }
+      ],
+      "groupId": 50,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36766_200w.jpg",
+      "modifiedOn": "2025-05-01T19:21:59.713",
+      "name": "Nevinyrral's Disk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36766,
+      "url": "https://www.tcgplayer.com/product/36766/magic-from-the-vault-relics-nevinyrrals-disk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sol Ring",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add 2 to your mana pool."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eLost to time is the artificer's art of trapping light from a distant star in a ring of purest gold.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 50,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36767_200w.jpg",
+      "modifiedOn": "2025-05-01T19:22:41.417",
+      "name": "Sol Ring",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36767,
+      "url": "https://www.tcgplayer.com/product/36767/magic-from-the-vault-relics-sol-ring"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sundering Titan",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Golem"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "7"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "10"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Sundering Titan enters the battlefield or leaves the battlefield, choose a land of each basic land type, then destroy those lands."
+        }
+      ],
+      "groupId": 50,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36768_200w.jpg",
+      "modifiedOn": "2025-05-01T19:23:03.667",
+      "name": "Sundering Titan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36768,
+      "url": "https://www.tcgplayer.com/product/36768/magic-from-the-vault-relics-sundering-titan"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sword of Body and Mind",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature gets +2/+2 and has protection from green and from blue.\r\n\u003cbr\u003e\r\nWhenever equipped creature deals combat damage to a player, you put a 2/2 green Wolf creature token onto the battlefield and that player puts the top ten cards of his or her library into his or her graveyard.\r\n\u003cbr\u003e\r\nEquip 2"
+        }
+      ],
+      "groupId": 50,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36769_200w.jpg",
+      "modifiedOn": "2025-05-01T19:23:36.987",
+      "name": "Sword of Body and Mind",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36769,
+      "url": "https://www.tcgplayer.com/product/36769/magic-from-the-vault-relics-sword-of-body-and-mind"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Zuran Orb",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Sacrifice a land: You gain 2 life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I will go to any length to achieve my goal. Eternal life is worth any sacrifice.\"\r\n\u003cbr\u003e\r\n—Zur the Enchanter\u003c/em\u003e"
+        }
+      ],
+      "groupId": 50,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/36770_200w.jpg",
+      "modifiedOn": "2025-05-01T19:24:06.713",
+      "name": "Zuran Orb",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 36770,
+      "url": "https://www.tcgplayer.com/product/36770/magic-from-the-vault-relics-zuran-orb"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "From the Vault Relics Box Set",
+      "extendedData": [],
+      "groupId": 50,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/77350_200w.jpg",
+      "modifiedOn": "2017-11-02T12:53:16.883",
+      "name": "From the Vault: Relics - Box Set",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 77350,
+      "url": "https://www.tcgplayer.com/product/77350/magic-from-the-vault-relics-from-the-vault-relics-box-set"
+    }
+  ],
+  "success": true,
+  "totalItems": 16
+}

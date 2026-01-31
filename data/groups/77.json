@@ -1,0 +1,70 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "abbreviation": "GT",
+      "categoryId": 77,
+      "groupId": 24471,
+      "isSupplemental": false,
+      "modifiedOn": "2025-12-05T13:55:04.91",
+      "name": "Gothic",
+      "publishedOn": "2025-10-31T00:00:00"
+    },
+    {
+      "abbreviation": "SCRDL",
+      "categoryId": 77,
+      "groupId": 24378,
+      "isSupplemental": true,
+      "modifiedOn": "2026-01-16T14:52:17.723",
+      "name": "Dragonlord",
+      "publishedOn": "2025-08-02T00:00:00"
+    },
+    {
+      "abbreviation": "ART",
+      "categoryId": 77,
+      "groupId": 23588,
+      "isSupplemental": false,
+      "modifiedOn": "2025-08-12T12:27:38.783",
+      "name": "Arthurian Legends",
+      "publishedOn": "2024-10-04T00:00:00"
+    },
+    {
+      "abbreviation": "ARTP",
+      "categoryId": 77,
+      "groupId": 23778,
+      "isSupplemental": false,
+      "modifiedOn": "2024-12-30T14:44:47.19",
+      "name": "Arthurian Legends Promo",
+      "publishedOn": "2024-10-04T00:00:00"
+    },
+    {
+      "abbreviation": "DRP",
+      "categoryId": 77,
+      "groupId": 23514,
+      "isSupplemental": false,
+      "modifiedOn": "2026-01-23T14:01:27.127",
+      "name": "Dust Reward Promos",
+      "publishedOn": "2024-05-10T00:00:00"
+    },
+    {
+      "abbreviation": "B",
+      "categoryId": 77,
+      "groupId": 23336,
+      "isSupplemental": false,
+      "modifiedOn": "2026-01-16T15:45:02.927",
+      "name": "Beta",
+      "publishedOn": "2023-11-10T00:00:00"
+    },
+    {
+      "abbreviation": "A",
+      "categoryId": 77,
+      "groupId": 23335,
+      "isSupplemental": false,
+      "modifiedOn": "2025-10-21T20:37:07.453",
+      "name": "Alpha",
+      "publishedOn": "2023-10-26T00:00:00"
+    }
+  ],
+  "success": true,
+  "totalItems": 7
+}

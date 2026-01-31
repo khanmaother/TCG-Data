@@ -1,0 +1,3523 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Abu Jafar",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Leper"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If Abu dies without regenerating while participating in an attack or defense,all creatures Abu is blocking or being blocked by are also killed and may not regenerate."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3160_200w.jpg",
+      "modifiedOn": "2024-03-30T03:23:53.39",
+      "name": "Abu Ja'far",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3160,
+      "url": "https://www.tcgplayer.com/product/3160/magic-arabian-nights-abu-jafar"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Aladdin",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Aladdin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1RR and tap to take control of an artifact from opponent. Artifact is returned when Aladdin is removed from play or when game ends."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3161_200w.jpg",
+      "modifiedOn": "2018-05-12T14:13:41.223",
+      "name": "Aladdin",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3161,
+      "url": "https://www.tcgplayer.com/product/3161/magic-arabian-nights-aladdin"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Aladdins Lamp",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Mono Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "X: Instead of drawing a card from the top of your library, draw X cards but choose only one to put in your hand. You must shuffle the leftover cards and put them at the bottom of your library."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3162_200w.jpg",
+      "modifiedOn": "2021-10-03T19:44:50.213",
+      "name": "Aladdin's Lamp",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3162,
+      "url": "https://www.tcgplayer.com/product/3162/magic-arabian-nights-aladdins-lamp"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Aladdins Ring",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Mono Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "8: Do 4 damage to any target."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "“After these words the magician drew a ring off his finger, and put it on one of Aladdin’s, saying: ‘It is a talisman against all evil, so long as you obey me.’” —The Arabian Nights, Junior Classics trans."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3163_200w.jpg",
+      "modifiedOn": "2021-03-13T21:50:13.377",
+      "name": "Aladdin's Ring",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3163,
+      "url": "https://www.tcgplayer.com/product/3163/magic-arabian-nights-aladdins-ring"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ali Baba",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Ali Baba"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "R: Tap a wall."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3164_200w.jpg",
+      "modifiedOn": "2021-10-03T19:45:00.563",
+      "name": "Ali Baba",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3164,
+      "url": "https://www.tcgplayer.com/product/3164/magic-arabian-nights-ali-baba"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ali from Cairo",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Ali from Cairo"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "While Ali is in play, damage that would reduce you to less than 1 life lowers you to 1 life. All further damage is prevented."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3165_200w.jpg",
+      "modifiedOn": "2020-01-31T20:07:50.607",
+      "name": "Ali from Cairo",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3165,
+      "url": "https://www.tcgplayer.com/product/3165/magic-arabian-nights-ali-from-cairo"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Army of Allah",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All attacking creatures gain +2/+0 until end of turn."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3166_200w.jpg",
+      "modifiedOn": "2022-10-10T12:47:55.28",
+      "name": "Army of Allah",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3166,
+      "url": "https://www.tcgplayer.com/product/3166/magic-arabian-nights-army-of-allah"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bazaar of Baghdad",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap to take two cards from your library, after which you must immediately discard three from your hand to your graveyard. If you don’t have three or more cards in your hand, discard your whole hand. No spells may be cast between drawing and discarding cards."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3168_200w.jpg",
+      "modifiedOn": "2019-03-07T13:50:08.057",
+      "name": "Bazaar of Baghdad",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3168,
+      "url": "https://www.tcgplayer.com/product/3168/magic-arabian-nights-bazaar-of-baghdad"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bird Maiden",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Bird Maiden"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "“Four things that never meet do here unite To shed my blood and to ravage my heart, A radiant brow and tresses that beguile And rosy cheeks and a glittering smile.” —The Arabian Nights, trans. Haddawy"
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3169_200w.jpg",
+      "modifiedOn": "2024-04-24T11:58:09.403",
+      "name": "Bird Maiden",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3169,
+      "url": "https://www.tcgplayer.com/product/3169/magic-arabian-nights-bird-maiden"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bottle of Suleiman",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Mono Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "4: Flip a coin, with opponent calling heads or tails while coin is in the air. If the flip ends up in opponent’s favor, Bottle of Suleiman does 5 damage to you. Otherwise, a 5/5 flying Djinn immediately comes into play on your side. Use a counter to represent Djinn. Djinn is treated exactly like a normal artifact creature except that if it leaves play it is removed from the game entirely. No matter how the flip turns out, Bottle of Suleiman is discarded after use."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3171_200w.jpg",
+      "modifiedOn": "2022-03-03T19:57:10.847",
+      "name": "Bottle of Suleiman",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3171,
+      "url": "https://www.tcgplayer.com/product/3171/magic-arabian-nights-bottle-of-suleiman"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Brass Man",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Brass Man does not untap as normal; you must pay 1 during your untap phase to untap it."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3172_200w.jpg",
+      "modifiedOn": "2021-10-07T12:17:20.557",
+      "name": "Brass Man",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3172,
+      "url": "https://www.tcgplayer.com/product/3172/magic-arabian-nights-brass-man"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Camel",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Camel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "BandsAll creatures attacking in a band with Camel are immune to damage done by Deserts."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3173_200w.jpg",
+      "modifiedOn": "2023-11-20T04:20:21.02",
+      "name": "Camel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3173,
+      "url": "https://www.tcgplayer.com/product/3173/magic-arabian-nights-camel"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "City in a Bottle",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Continuous Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All cards from Arabian Nights must be discarded from play, except for City in a Bottle. While City in a Bottle is in play, no further cards from Arabian Nights can be played."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3174_200w.jpg",
+      "modifiedOn": "2019-03-03T13:33:30.71",
+      "name": "City in a Bottle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3174,
+      "url": "https://www.tcgplayer.com/product/3174/magic-arabian-nights-city-in-a-bottle"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "City of Brass",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap to add 1 mana of any color to your mana pool. You suffer 1 damage whenever City of Brass becomes tapped."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3175_200w.jpg",
+      "modifiedOn": "2023-05-03T17:55:46.17",
+      "name": "City of Brass",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3175,
+      "url": "https://www.tcgplayer.com/product/3175/magic-arabian-nights-city-of-brass"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cuombajj Witches",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Witches"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap to do 1 damage to any target; opponent may also do 1 damage to any target. You choose your target before opponent does, but damage is inflicted simultaneously."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3176_200w.jpg",
+      "modifiedOn": "2025-10-22T00:47:27.067",
+      "name": "Cuombajj Witches",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3176,
+      "url": "https://www.tcgplayer.com/product/3176/magic-arabian-nights-cuombajj-witches"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cyclone",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Put one chip on Cyclone each round during your upkeep, then pay G for each chip or discard Cyclone. If not discarded, Cyclone immediately does 1 damage per chip to each player and each creature in play."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3177_200w.jpg",
+      "modifiedOn": "2020-08-15T12:40:39.193",
+      "name": "Cyclone",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3177,
+      "url": "https://www.tcgplayer.com/product/3177/magic-arabian-nights-cyclone"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dancing Scimitar",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying"
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3178_200w.jpg",
+      "modifiedOn": "2023-10-31T19:50:37.703",
+      "name": "Dancing Scimitar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3178,
+      "url": "https://www.tcgplayer.com/product/3178/magic-arabian-nights-dancing-scimitar"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dandan",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Dandan"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Dandan cannot attack unless opponent has islands in play. Dandan is destroyed immediately if at any time you have no islands in play."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3179_200w.jpg",
+      "modifiedOn": "2023-07-25T17:04:34.217",
+      "name": "Dandan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3179,
+      "url": "https://www.tcgplayer.com/product/3179/magic-arabian-nights-dandan"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Desert",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap to add 1 colorless mana to your mana pool or do 1 damage to an attacking creature after it deals its damage."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3180_200w.jpg",
+      "modifiedOn": "2023-07-04T15:33:21.09",
+      "name": "Desert",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3180,
+      "url": "https://www.tcgplayer.com/product/3180/magic-arabian-nights-desert"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Desert Nomads",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Nomads"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "DesertwalkDesert Nomads are immune to damage done by Deserts."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3181_200w.jpg",
+      "modifiedOn": "2021-09-18T10:23:46.263",
+      "name": "Desert Nomads",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3181,
+      "url": "https://www.tcgplayer.com/product/3181/magic-arabian-nights-desert-nomads"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Desert Twister",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy any card in play."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3182_200w.jpg",
+      "modifiedOn": "2021-10-03T19:45:19.73",
+      "name": "Desert Twister",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3182,
+      "url": "https://www.tcgplayer.com/product/3182/magic-arabian-nights-desert-twister"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Diamond Valley",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap to sacrifice one of your creatures in exchange for a number of life points equal to its toughness. Note that this ability may be used after blocking has been declared."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3183_200w.jpg",
+      "modifiedOn": "2019-03-03T13:36:02.53",
+      "name": "Diamond Valley",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3183,
+      "url": "https://www.tcgplayer.com/product/3183/magic-arabian-nights-diamond-valley"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Drop of Honey",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "During your upkeep, the creature in play with the lowest power is destroyed and cannot be regenerated. If there is a tie you choose which to destroy. Drop of Honey must be discarded if there are no creatures in play."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3184_200w.jpg",
+      "modifiedOn": "2024-08-20T13:20:24.107",
+      "name": "Drop of Honey",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3184,
+      "url": "https://www.tcgplayer.com/product/3184/magic-arabian-nights-drop-of-honey"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ebony Horse",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Mono Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2: Remove one of your attacking creatures from combat. Treat this as if the creature never attacked, except that defenders assigned to block it cannot choose to block another creature."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3185_200w.jpg",
+      "modifiedOn": "2024-05-18T08:18:14.23",
+      "name": "Ebony Horse",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3185,
+      "url": "https://www.tcgplayer.com/product/3185/magic-arabian-nights-ebony-horse"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "El Hajjaj",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — El—Hajjaj"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You gain 1 life for every point of damage El-Hajjaj inflicts."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3186_200w.jpg",
+      "modifiedOn": "2019-03-03T13:36:24.65",
+      "name": "El-Hajjaj",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3186,
+      "url": "https://www.tcgplayer.com/product/3186/magic-arabian-nights-el-hajjaj"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Elephant Graveyard",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap to add 1 colorless mana to your mana pool or regenerate an Elephant or Mammoth."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3187_200w.jpg",
+      "modifiedOn": "2023-07-21T20:11:43.777",
+      "name": "Elephant Graveyard",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3187,
+      "url": "https://www.tcgplayer.com/product/3187/magic-arabian-nights-elephant-graveyard"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Erg Raiders",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Raiders"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If you do not attack with Raiders, they do 2 damage to you at end of turn. Raiders do no damage to you during the turn in which they are summoned."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3188_200w.jpg",
+      "modifiedOn": "2023-08-14T09:35:56.437",
+      "name": "Erg Raiders",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3188,
+      "url": "https://www.tcgplayer.com/product/3188/magic-arabian-nights-erg-raiders"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Erhnam Djinn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Djinn"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "During your upkeep, you must choose one of opponent’s non-wall creatures in play. Until your next upkeep, that creature gains the forestwalk ability. If opponent has no creatures, ignore this effect."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3190_200w.jpg",
+      "modifiedOn": "2026-01-07T13:57:59.54",
+      "name": "Erhnam Djinn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3190,
+      "url": "https://www.tcgplayer.com/product/3190/magic-arabian-nights-erhnam-djinn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Eye for an Eye",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Can be cast only when a creature or spell does damage to you. Eye for an Eye does an equal amount of damage to the controller of that creature or spell. If some spell or effect reduces the amount of damage you receive, it does not reduce the damage dealt by Eye for an Eye."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3191_200w.jpg",
+      "modifiedOn": "2020-11-29T15:38:47.333",
+      "name": "Eye for an Eye",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3191,
+      "url": "https://www.tcgplayer.com/product/3191/magic-arabian-nights-eye-for-an-eye"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fishliver Oil",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchant Creature"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target creature gains islandwalk ability."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "Then the maiden bade him cast off his robes and cover his body with fishliver oil, that he might safely follow her into the sea."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3192_200w.jpg",
+      "modifiedOn": "2023-09-26T03:19:59.487",
+      "name": "Fishliver Oil",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3192,
+      "url": "https://www.tcgplayer.com/product/3192/magic-arabian-nights-fishliver-oil"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Flying Carpet",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Mono Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2: Gives one creature flying ability until end of turn. If that creature is destroyed before end of turn, so is Flying Carpet."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3194_200w.jpg",
+      "modifiedOn": "2022-02-12T06:05:38.107",
+      "name": "Flying Carpet",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3194,
+      "url": "https://www.tcgplayer.com/product/3194/magic-arabian-nights-flying-carpet"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Flying Men",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Flying Men"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying"
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3195_200w.jpg",
+      "modifiedOn": "2023-11-15T10:52:43.607",
+      "name": "Flying Men",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3195,
+      "url": "https://www.tcgplayer.com/product/3195/magic-arabian-nights-flying-men"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ghazban Ogre",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Ogre"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "During its current controller’s upkeep, the player with the highest life total takes control of Ghazban Ogre."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3196_200w.jpg",
+      "modifiedOn": "2025-11-25T17:16:10.637",
+      "name": "Ghazban Ogre",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3196,
+      "url": "https://www.tcgplayer.com/product/3196/magic-arabian-nights-ghazban-ogre"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Giant Tortoise",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Tortoise"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Giant Tortoise gains +0/+3 while untapped."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3197_200w.jpg",
+      "modifiedOn": "2023-02-13T11:02:51.723",
+      "name": "Giant Tortoise",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3197,
+      "url": "https://www.tcgplayer.com/product/3197/magic-arabian-nights-giant-tortoise"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Guardian Beast",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Guardian"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As long as Guardian Beast is untapped, your non-creature artifacts cannot be further enchanted, destroyed, or taken under someone else’s control. If something occurs that would destroy the Guardian Beast and artifacts simultaneously, the Guardian Beast is destroyed but your artifacts are not. If an artifact is enchanted or stolen while Guardian Beast is tapped, it remains so when Guardian Beast becomes untapped."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3199_200w.jpg",
+      "modifiedOn": "2019-03-03T13:38:00.313",
+      "name": "Guardian Beast",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3199,
+      "url": "https://www.tcgplayer.com/product/3199/magic-arabian-nights-guardian-beast"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hasran Ogress",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Ogre"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Unless you pay 2 each time Hasran Ogressattacks, Hasran Ogress does 3 damage to you."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3200_200w.jpg",
+      "modifiedOn": "2023-12-02T08:34:38.253",
+      "name": "Hasran Ogress",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3200,
+      "url": "https://www.tcgplayer.com/product/3200/magic-arabian-nights-hasran-ogress"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hurr Jackal",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Jackal"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap to prevent a target creature from regenerating for the remainder of the turn."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3202_200w.jpg",
+      "modifiedOn": "2021-08-07T13:55:12.09",
+      "name": "Hurr Jackal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3202,
+      "url": "https://www.tcgplayer.com/product/3202/magic-arabian-nights-hurr-jackal"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ifh Biff Efreet",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Efreet"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eWhile Ifh-Bíff Efreet is in play, any player can pay G to have Ifh-Bíff Efreet do 1 damage to each player and each flying creature in play. This ability does not tap the Ifh-Bíff Efreet, and can be used as soon as it is successfully summoned."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3203_200w.jpg",
+      "modifiedOn": "2024-06-21T13:18:03.297",
+      "name": "Ifh-Biff Efreet",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3203,
+      "url": "https://www.tcgplayer.com/product/3203/magic-arabian-nights-ifh-biff-efreet"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island Fish Jasconius",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Island Fish"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "8"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You must pay UUU during your untap phase to untap Island Fish. Island Fish cannot attack unless opponent has islands in play. Island Fish is destroyed immediately if at any time you have no islands in play."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3204_200w.jpg",
+      "modifiedOn": "2023-05-13T06:35:51.023",
+      "name": "Island Fish Jasconius",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3204,
+      "url": "https://www.tcgplayer.com/product/3204/magic-arabian-nights-island-fish-jasconius"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island of Wak Wak",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap to reduce target flying creature’s power to 0."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3205_200w.jpg",
+      "modifiedOn": "2022-11-18T15:35:53.893",
+      "name": "Island of Wak-Wak",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3205,
+      "url": "https://www.tcgplayer.com/product/3205/magic-arabian-nights-island-of-wak-wak"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Jandors Ring",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Mono Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2: Discard a card you just drew from your library, and draw another card to replace it."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3206_200w.jpg",
+      "modifiedOn": "2020-12-27T21:29:31.46",
+      "name": "Jandor's Ring",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3206,
+      "url": "https://www.tcgplayer.com/product/3206/magic-arabian-nights-jandors-ring"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Jandors Saddlebags",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Mono Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "3: Untap a creature."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3207_200w.jpg",
+      "modifiedOn": "2021-10-07T12:17:35.127",
+      "name": "Jandor's Saddlebags",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3207,
+      "url": "https://www.tcgplayer.com/product/3207/magic-arabian-nights-jandors-saddlebags"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Jeweled Bird",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Mono Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Draw a card, and exchange Jeweled Bird for your contribution to the ante. Your former contribution goes to your graveyard. Remove this card from your deck before playing if you are not playing for ante."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3208_200w.jpg",
+      "modifiedOn": "2022-12-17T13:17:22.383",
+      "name": "Jeweled Bird",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3208,
+      "url": "https://www.tcgplayer.com/product/3208/magic-arabian-nights-jeweled-bird"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Junun Efreet",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Efreet"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eYou must pay BB during your upkeep or Junun Efreet is destroyed and may not regenerate."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3210_200w.jpg",
+      "modifiedOn": "2021-04-10T11:58:44.787",
+      "name": "Junun Efreet",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3210,
+      "url": "https://www.tcgplayer.com/product/3210/magic-arabian-nights-junun-efreet"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Juzam Djinn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Djinn"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Juzám Djinn does 1 damage to you during your upkeep."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "“Expect my visit when the darkness comes. The night I think is best for hiding all.” —Ouallada"
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3211_200w.jpg",
+      "modifiedOn": "2019-03-03T13:43:22.377",
+      "name": "Juzam Djinn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3211,
+      "url": "https://www.tcgplayer.com/product/3211/magic-arabian-nights-juzam-djinn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Khabal Ghoul",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Ghoul"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the end of each turn, put a +1/+1 counter on Khabál Ghoul for each other creature that died during the turn and was not regenerated."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3212_200w.jpg",
+      "modifiedOn": "2019-03-03T13:43:30.173",
+      "name": "Khabal Ghoul",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3212,
+      "url": "https://www.tcgplayer.com/product/3212/magic-arabian-nights-khabal-ghoul"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "King Suleiman",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature King"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap to destroy an Efreet or Djinn."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3213_200w.jpg",
+      "modifiedOn": "2019-03-03T13:43:39.86",
+      "name": "King Suleiman",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3213,
+      "url": "https://www.tcgplayer.com/product/3213/magic-arabian-nights-king-suleiman"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kird Ape",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Ape"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Kird Ape gains +1/+2 if you have any forests in play."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3214_200w.jpg",
+      "modifiedOn": "2023-05-05T08:21:02.023",
+      "name": "Kird Ape",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3214,
+      "url": "https://www.tcgplayer.com/product/3214/magic-arabian-nights-kird-ape"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Library of Alexandria",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap to add 1 colorless mana to your mana pool or draw a card from your library; you may use the card-drawing ability only if you have exactly seven cards in your hand."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3215_200w.jpg",
+      "modifiedOn": "2019-03-03T13:43:55.727",
+      "name": "Library of Alexandria",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3215,
+      "url": "https://www.tcgplayer.com/product/3215/magic-arabian-nights-library-of-alexandria"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Magnetic Mountain",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Blue creatures do not untap as normal. During their untap phases, players must spend 4 for each blue creature they wish to untap. This cost must be paid in addition to any other untap cost a given blue creature may already require."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3216_200w.jpg",
+      "modifiedOn": "2021-03-23T14:40:59.687",
+      "name": "Magnetic Mountain",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3216,
+      "url": "https://www.tcgplayer.com/product/3216/magic-arabian-nights-magnetic-mountain"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Merchant Ship",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Ship"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If Merchant Ship attacks and is not blocked, you gain 2 life. Merchant Ship cannot attack unless opponent has islands in play. Merchant Ship is destroyed immediately if at any time you have no islands in play."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3217_200w.jpg",
+      "modifiedOn": "2024-02-06T16:10:22.51",
+      "name": "Merchant Ship",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3217,
+      "url": "https://www.tcgplayer.com/product/3217/magic-arabian-nights-merchant-ship"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Metamorphosis",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Sacrifice a creature of yours in play for an amount of mana equal to its casting cost plus 1. This mana can be of any one color, and can only be used to summon creatures."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3218_200w.jpg",
+      "modifiedOn": "2024-07-28T05:02:39.367",
+      "name": "Metamorphosis",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3218,
+      "url": "https://www.tcgplayer.com/product/3218/magic-arabian-nights-metamorphosis"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mijae Djinn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Djinn"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If you choose to attack with Mijae Djinn, flip a coin immediately after attack is announced; opponent calls heads or tails while coin is in the air. If the flip ends up in opponent’s favor, Mijae Djinn is tapped but does not attack."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3219_200w.jpg",
+      "modifiedOn": "2021-06-04T12:22:25.653",
+      "name": "Mijae Djinn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3219,
+      "url": "https://www.tcgplayer.com/product/3219/magic-arabian-nights-mijae-djinn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Moorish Cavalry",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Cavalry"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample"
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3220_200w.jpg",
+      "modifiedOn": "2024-07-21T12:40:51.543",
+      "name": "Moorish Cavalry",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3220,
+      "url": "https://www.tcgplayer.com/product/3220/magic-arabian-nights-moorish-cavalry"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain Arabian Nights",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap to add R to your mana pool."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3222_200w.jpg",
+      "modifiedOn": "2021-07-26T16:32:29.927",
+      "name": "Mountain (Arabian Nights)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3222,
+      "url": "https://www.tcgplayer.com/product/3222/magic-arabian-nights-mountain-arabian-nights"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nafs Asp",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Asp"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If Asp inflicts any damage on your opponent, your opponent must spend 1 before the draw phase of his or her next turn or lose an additional 1 life."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3223_200w.jpg",
+      "modifiedOn": "2025-12-09T17:07:51.063",
+      "name": "Nafs Asp",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3223,
+      "url": "https://www.tcgplayer.com/product/3223/magic-arabian-nights-nafs-asp"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Oasis",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap to prevent 1 damage to any creature."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3225_200w.jpg",
+      "modifiedOn": "2019-03-03T13:45:35.823",
+      "name": "Oasis",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3225,
+      "url": "https://www.tcgplayer.com/product/3225/magic-arabian-nights-oasis"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Old Man of the Sea",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Marid"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap to gain control of a creature with power no greater than Old Man’s power. If Old Man becomes untapped, you lose control of this creature; you may choose not to untap Old Man as normal. You also lose control of the creature if Old Man dies or if the creature’s power becomes greater than Old Man’s."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3226_200w.jpg",
+      "modifiedOn": "2019-03-03T13:45:44.437",
+      "name": "Old Man of the Sea",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3226,
+      "url": "https://www.tcgplayer.com/product/3226/magic-arabian-nights-old-man-of-the-sea"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Oubliette",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Select a creature in play when Oubliette is cast. That creature is considered out of play as long as Oubliette is in play. Hence the creature cannot be the target of spells and cannot receive damage, use special powers, attack, or defend. All counters and enchantments on the creature remain but are also out of play. If Oubliette is removed, creature returns to play tapped."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3227_200w.jpg",
+      "modifiedOn": "2024-03-03T13:55:44.693",
+      "name": "Oubliette",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3227,
+      "url": "https://www.tcgplayer.com/product/3227/magic-arabian-nights-oubliette"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Piety",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All defending creatures gain +0/+3 until end of turn."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3229_200w.jpg",
+      "modifiedOn": "2022-05-04T12:53:35.76",
+      "name": "Piety",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3229,
+      "url": "https://www.tcgplayer.com/product/3229/magic-arabian-nights-piety"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pyramids",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Poly Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2: Prevents a land from being destroyed, or removes an enchantment from any land."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3231_200w.jpg",
+      "modifiedOn": "2022-07-28T17:07:59.227",
+      "name": "Pyramids",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3231,
+      "url": "https://www.tcgplayer.com/product/3231/magic-arabian-nights-pyramids"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Repentant Blacksmith",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Smith"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Protection from red"
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3232_200w.jpg",
+      "modifiedOn": "2023-06-17T15:25:05.99",
+      "name": "Repentant Blacksmith",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3232,
+      "url": "https://www.tcgplayer.com/product/3232/magic-arabian-nights-repentant-blacksmith"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ring of Maruf",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Mono Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "5: Instead of drawing a card from the top of your library, select one of your cards from outside the game. This card can be any card you have that you’re not using in your deck or that for some reason has left the game. Ring of Ma’rûf is removed from the game entirely after use."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3233_200w.jpg",
+      "modifiedOn": "2019-03-03T13:47:26.613",
+      "name": "Ring of Ma'ruf",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3233,
+      "url": "https://www.tcgplayer.com/product/3233/magic-arabian-nights-ring-of-maruf"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rukh Egg",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Egg"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If Rukh Egg goes to the graveyard, a Rukh—a 4/4 red flying creature—comes into play on your side at the end of that turn. Use a counter to represent Rukh. Rukh is treated exactly like a normal creature except that if it leaves play it is removed from the game entirely."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3234_200w.jpg",
+      "modifiedOn": "2023-03-17T08:42:00.907",
+      "name": "Rukh Egg",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3234,
+      "url": "https://www.tcgplayer.com/product/3234/magic-arabian-nights-rukh-egg"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sandals of Abdallah",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Mono Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2: Gives one creature islandwalk ability until end of turn. If that creature is destroyed before end of turn, so are Sandals."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3236_200w.jpg",
+      "modifiedOn": "2022-03-03T20:21:46.76",
+      "name": "Sandals of Abdallah",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3236,
+      "url": "https://www.tcgplayer.com/product/3236/magic-arabian-nights-sandals-of-abdallah"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sandstorm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All attacking creatures suffer 1 damage."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3237_200w.jpg",
+      "modifiedOn": "2023-09-24T07:48:45.503",
+      "name": "Sandstorm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3237,
+      "url": "https://www.tcgplayer.com/product/3237/magic-arabian-nights-sandstorm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Serendib Djinn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Djinn"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "FlyingDuring your upkeep, you must choose one of your own lands and destroy it. If you destroy an island in this manner, Serendib Djinn does 3 damage to you. Serendib Djinn is destroyed immediately if at any time you have no land in play."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3238_200w.jpg",
+      "modifiedOn": "2022-03-03T20:25:17.253",
+      "name": "Serendib Djinn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3238,
+      "url": "https://www.tcgplayer.com/product/3238/magic-arabian-nights-serendib-djinn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Serendib Efreet",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Efreet"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "FlyingSerendib Efreet does 1 damage to you during your upkeep."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3239_200w.jpg",
+      "modifiedOn": "2024-02-16T19:15:24.533",
+      "name": "Serendib Efreet",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3239,
+      "url": "https://www.tcgplayer.com/product/3239/magic-arabian-nights-serendib-efreet"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shahrazad",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Players must leave game in progress as it is and use the cards left in their libraries as decks with which to play a subgame of Magic. When subgame is over, players shuffle these cards, return them to libraries, and resume game in progress, with any loser of subgame halving his or her remaining life points, rounding down. Effects that prevent damage may not be used to counter this loss of life. The subgame has no ante; using less than forty cards may be necessary."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3240_200w.jpg",
+      "modifiedOn": "2022-03-04T16:49:21.927",
+      "name": "Shahrazad",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3240,
+      "url": "https://www.tcgplayer.com/product/3240/magic-arabian-nights-shahrazad"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sindbad",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Sindbad"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap to draw a card from your library, but discard that card if it is not a land."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3241_200w.jpg",
+      "modifiedOn": "2019-03-03T13:48:36.067",
+      "name": "Sindbad",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3241,
+      "url": "https://www.tcgplayer.com/product/3241/magic-arabian-nights-sindbad"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Singing Tree",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Singing Tree"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap to reduce an attacking creature’s power to 0."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3242_200w.jpg",
+      "modifiedOn": "2020-12-16T15:11:46.557",
+      "name": "Singing Tree",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3242,
+      "url": "https://www.tcgplayer.com/product/3242/magic-arabian-nights-singing-tree"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sorceress Queen",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Sorceress"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap to make another creature 0/2 until end of turn. Treat this exactly as if the numbers in the lower right of the target card were 0/2. All special characteristics and enchantments on the creature are unaffected."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3243_200w.jpg",
+      "modifiedOn": "2023-04-20T12:00:59.75",
+      "name": "Sorceress Queen",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3243,
+      "url": "https://www.tcgplayer.com/product/3243/magic-arabian-nights-sorceress-queen"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Unstable Mutation",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchant Creature"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target creature gains +3/+3. Each round, put a -1/-1 counter on the creature during its controller’s upkeep. These counters remain even if this enchantment is removed before the creature dies."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3246_200w.jpg",
+      "modifiedOn": "2025-11-25T17:18:14.073",
+      "name": "Unstable Mutation",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3246,
+      "url": "https://www.tcgplayer.com/product/3246/magic-arabian-nights-unstable-mutation"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "War Elephant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Elephant"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample, bands"
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3247_200w.jpg",
+      "modifiedOn": "2023-02-01T08:53:04.19",
+      "name": "War Elephant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3247,
+      "url": "https://www.tcgplayer.com/product/3247/magic-arabian-nights-war-elephant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wyluli Wolf",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Wolf"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap to give any creature in play +1/+1 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "“When one wolf calls, others follow. Who wants to fight creatures that eat scorpions?” —Maimun al-Wyluli, Diary"
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3249_200w.jpg",
+      "modifiedOn": "2024-07-13T04:07:44.103",
+      "name": "Wyluli Wolf",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3249,
+      "url": "https://www.tcgplayer.com/product/3249/magic-arabian-nights-wyluli-wolf"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ydwen Efreet",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Efreet"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If you choose to block with Ydwen Efreet, flip a coin immediately after defense is announced; opponent calls heads or tails while coin is in the air. If the flip ends up in opponent’s favor, Ydwen Efreet cannot block this turn."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/3251_200w.jpg",
+      "modifiedOn": "2023-05-25T18:02:46.387",
+      "name": "Ydwen Efreet",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 3251,
+      "url": "https://www.tcgplayer.com/product/3251/magic-arabian-nights-ydwen-efreet"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Army of Allah Light",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All attacking creatures gain +2/+0 until end of turn."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/18143_200w.jpg",
+      "modifiedOn": "2024-05-18T08:17:35.18",
+      "name": "Army of Allah (Light)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 18143,
+      "url": "https://www.tcgplayer.com/product/18143/magic-arabian-nights-army-of-allah-light"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bird Maiden Light",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Bird Maiden"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "“Four things that never meet do here unite To shed my blood and to ravage my heart, A radiant brow and tresses that beguile And rosy cheeks and a glittering smile.” —The Arabian Nights, trans. Haddawy"
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/18144_200w.jpg",
+      "modifiedOn": "2023-03-11T10:09:31.653",
+      "name": "Bird Maiden (Light)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 18144,
+      "url": "https://www.tcgplayer.com/product/18144/magic-arabian-nights-bird-maiden-light"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Erg Raiders Light",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Raiders"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If you do not attack with Raiders, they do 2 damage to you at end of turn. Raiders do no damage to you during the turn in which they are summoned."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/18145_200w.jpg",
+      "modifiedOn": "2025-02-14T05:05:33.11",
+      "name": "Erg Raiders (Light)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 18145,
+      "url": "https://www.tcgplayer.com/product/18145/magic-arabian-nights-erg-raiders-light"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fishliver Oil Light",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchant Creature"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target creature gains islandwalk ability."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "Then the maiden bade him cast off his robes and cover his body with fishliver oil, that he might safely follow her into the sea."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/18146_200w.jpg",
+      "modifiedOn": "2023-12-03T10:44:21.13",
+      "name": "Fishliver Oil (Light)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 18146,
+      "url": "https://www.tcgplayer.com/product/18146/magic-arabian-nights-fishliver-oil-light"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Giant Tortoise Light",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Tortoise"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Giant Tortoise gains +0/+3 while untapped."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/18147_200w.jpg",
+      "modifiedOn": "2024-04-05T15:05:43.67",
+      "name": "Giant Tortoise (Light)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 18147,
+      "url": "https://www.tcgplayer.com/product/18147/magic-arabian-nights-giant-tortoise-light"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hasran Ogress Light",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Ogre"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Unless you pay 2 each time Hasran Ogressattacks, Hasran Ogress does 3 damage to you."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/18148_200w.jpg",
+      "modifiedOn": "2021-10-13T12:21:38.183",
+      "name": "Hasran Ogress (Light)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 18148,
+      "url": "https://www.tcgplayer.com/product/18148/magic-arabian-nights-hasran-ogress-light"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Moorish Cavalry Light",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Cavalry"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample"
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/18149_200w.jpg",
+      "modifiedOn": "2024-12-15T10:52:23.797",
+      "name": "Moorish Cavalry (Light)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 18149,
+      "url": "https://www.tcgplayer.com/product/18149/magic-arabian-nights-moorish-cavalry-light"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nafs Asp Light",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Asp"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If Asp inflicts any damage on your opponent, your opponent must spend 1 before the draw phase of his or her next turn or lose an additional 1 life."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/18150_200w.jpg",
+      "modifiedOn": "2025-12-09T17:08:16.69",
+      "name": "Nafs Asp (Light)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 18150,
+      "url": "https://www.tcgplayer.com/product/18150/magic-arabian-nights-nafs-asp-light"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Oubliette Light",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Select a creature in play when Oubliette is cast. That creature is considered out of play as long as Oubliette is in play. Hence the creature cannot be the target of spells and cannot receive damage, use special powers, attack, or defend. All counters and enchantments on the creature remain but are also out of play. If Oubliette is removed, creature returns to play tapped."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/18151_200w.jpg",
+      "modifiedOn": "2022-02-09T14:03:19.573",
+      "name": "Oubliette (Light)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 18151,
+      "url": "https://www.tcgplayer.com/product/18151/magic-arabian-nights-oubliette-light"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Piety Light",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All defending creatures gain +0/+3 until end of turn."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/18152_200w.jpg",
+      "modifiedOn": "2023-05-01T11:58:22.097",
+      "name": "Piety (Light)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 18152,
+      "url": "https://www.tcgplayer.com/product/18152/magic-arabian-nights-piety-light"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rukh Egg Light",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Egg"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If Rukh Egg goes to the graveyard,a Rukh—a 4/4 red flying creature—comes into play on your side at the end of that turn. Use a counter to represent Rukh. Rukh is treated exactly like a normal creature except that if it leaves play it is removed from the game entirely."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/18153_200w.jpg",
+      "modifiedOn": "2022-09-26T12:22:23.077",
+      "name": "Rukh Egg (Light)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 18153,
+      "url": "https://www.tcgplayer.com/product/18153/magic-arabian-nights-rukh-egg-light"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "War Elephant Light",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Elephant"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample, bands"
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/18155_200w.jpg",
+      "modifiedOn": "2025-11-11T19:16:44.993",
+      "name": "War Elephant (Light)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 18155,
+      "url": "https://www.tcgplayer.com/product/18155/magic-arabian-nights-war-elephant-light"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wyluli Wolf Light",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Wolf"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap to give any creature in play +1/+1 until end of turn."
+        }
+      ],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/18156_200w.jpg",
+      "modifiedOn": "2025-03-08T10:33:06.847",
+      "name": "Wyluli Wolf (Light)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 18156,
+      "url": "https://www.tcgplayer.com/product/18156/magic-arabian-nights-wyluli-wolf-light"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Arabian Nights Booster Box",
+      "extendedData": [],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/27265_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Arabian Nights - Booster Box",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 27265,
+      "url": "https://www.tcgplayer.com/product/27265/magic-arabian-nights-arabian-nights-booster-box"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Arabian Nights Booster Pack",
+      "extendedData": [],
+      "groupId": 11,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/27327_200w.jpg",
+      "modifiedOn": "2015-02-23T20:36:17.407",
+      "name": "Arabian Nights - Booster Pack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 27327,
+      "url": "https://www.tcgplayer.com/product/27327/magic-arabian-nights-arabian-nights-booster-pack"
+    }
+  ],
+  "success": true,
+  "totalItems": 91
+}

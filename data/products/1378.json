@@ -1,0 +1,6070 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 3,
+      "cleanName": "Absol",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "15/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Shining Horn \r\n\u003cbr\u003eAs long as Absol is the only Pokemon you have in play, your opponent's Basic Pokemon can't attack."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Extra Call\r\n\u003cbr\u003eSearch your deck for a Pokemon-ex, show it to your opponent, and put it into your hand.  Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1D] Feint Attack\r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on that Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83451_200w.jpg",
+      "modifiedOn": "2022-12-01T20:51:40.503",
+      "name": "Absol",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83451,
+      "url": "https://www.tcgplayer.com/product/83451/pokemon-legend-maker-absol"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Aerodactyl",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "1/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY  Reactive Protection\u003c/b\u003e\r\n\u003cbr\u003eAny damage done to Aerodactyl by attacks from your opponent's Pokemon is reduced by 10 for each React Energy card attached to Aerodactyl \u003cem\u003e(after applying Weakness and Resistance)."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Power Blow (10+)\r\n\u003cbr\u003eDoes 10 damage plus 10 more damage for each Energy attached to Aerodactyl."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Speed Stroke (40) \r\n\u003cbr\u003eDuring your opponent's next turn, prevent all effects, including damage, done to Aerodactyl by attacks from your opponent's Pokemon-ex."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "0"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83468_200w.jpg",
+      "modifiedOn": "2024-04-11T17:57:24.737",
+      "name": "Aerodactyl",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83468,
+      "url": "https://www.tcgplayer.com/product/83468/pokemon-legend-maker-aerodactyl"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Aggron",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "2/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Metal"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "110"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2F] Heavy Blow (70-) \r\n\u003cbr\u003eDoes 70 damage minus 10 damage for each damage counter on Aggron.  If Aggron has any React Energy cards attached to it, this attack does 70 instead."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2FM] Bound Crush \r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 60 damage to that Pokemon. \u003ci\u003e (Don't apply Weakness and Resistance for Benched Pokemon.) \u003c/i\u003e During your next turn, Aggron can't use Bound Crush."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "4"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83476_200w.jpg",
+      "modifiedOn": "2024-04-11T17:57:29.613",
+      "name": "Aggron",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83476,
+      "url": "https://www.tcgplayer.com/product/83476/pokemon-legend-maker-aggron"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Anorith",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "29/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Influence\r\n\u003cbr\u003eSearch your deck for Omanyte, Kabuto, Aerodactyl, Lileep, or Anorith and put 2 of them onto your Bench.  Shuffle your deck afterward.  Treat the new Benched Pokemon as Basic Pokemon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Stretch Claws (20) \r\n\u003cbr\u003eIf Anorith has any React Energy cards attached to it, this attack does 20 damage to 1 of your opponent's Benched Pokemon. \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Gx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83559_200w.jpg",
+      "modifiedOn": "2022-12-01T20:53:31.3",
+      "name": "Anorith",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83559,
+      "url": "https://www.tcgplayer.com/product/83559/pokemon-legend-maker-anorith"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Arcanine ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "83/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "120"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Fire Remedy \r\n\u003cbr\u003eWhenever you attach a Fire Energy from your hand to Arcanine ex, remove 1 damage counter and all Special Conditions from Arcanine ex."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1R] Overrun (30) \r\n\u003cbr\u003eDoes 20 damage to 1 of your opponent's Benched Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1RR] Flame Swirl (100) \r\n\u003cbr\u003eDiscard 2 Fire Energy or 1 React Energy card attached to Arcanine ex."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83590_200w.jpg",
+      "modifiedOn": "2022-12-01T20:59:54.323",
+      "name": "Arcanine ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83590,
+      "url": "https://www.tcgplayer.com/product/83590/pokemon-legend-maker-arcanine-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Armaldo ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "84/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "160"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Dual Armor \r\n\u003cbr\u003eAs long as Armaldo ex has any React Energy cards attached to it, Armaldo ex is both Grass and Fighting type."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1F] Spiral Drain (40) \r\n\u003cbr\u003eRemove 2 damage counters from Armaldo ex."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2F] Vortex Chop (70) \r\n\u003cbr\u003eIf the Defending Pokemon has any Resistance, this attack's base damage is 100 instead of 70."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83624_200w.jpg",
+      "modifiedOn": "2025-01-09T20:38:32.467",
+      "name": "Armaldo ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83624,
+      "url": "https://www.tcgplayer.com/product/83624/pokemon-legend-maker-armaldo-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Aron",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "48/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Metal"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Self Charge  \r\n\u003cbr\u003eAttach a Metal Energy card from your hand to Aron."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1M] Headbutt (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83632_200w.jpg",
+      "modifiedOn": "2022-12-01T20:55:31.083",
+      "name": "Aron",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83632,
+      "url": "https://www.tcgplayer.com/product/83632/pokemon-legend-maker-aron"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Banette ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "85/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-POWER\u003c/b\u003e Shady Move \r\n\u003cbr\u003eOnce during your turn\u003cem\u003e (before your attack)\u003c/em\u003e, if Banette ex is your Active Pokemon, you may move 1 damage counter from either player's Pokemon to another Pokemon\u003cem\u003e (yours or your opponent's)\u003c/em\u003e.  This power can't be used if Banette ex is affected by a Special Condition.  (Poke-POWER)"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1P] Shadow Chant (30+) \r\n\u003cBr\u003eDoes 30 damage plus 10 more damage for each Supporter card in your discard pile.  You can't add more than 60 damage in this way."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "D"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83725_200w.jpg",
+      "modifiedOn": "2022-12-01T21:00:16.43",
+      "name": "Banette ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83725,
+      "url": "https://www.tcgplayer.com/product/83725/pokemon-legend-maker-banette-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Bellsprout",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "49/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Sleep Powder \r\n\u003cbr\u003eThe Defending Pokemon is now Asleep."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83808_200w.jpg",
+      "modifiedOn": "2022-12-01T20:55:36.337",
+      "name": "Bellsprout",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83808,
+      "url": "https://www.tcgplayer.com/product/83808/pokemon-legend-maker-bellsprout"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Cascoon",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "30/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-POWER\u003c/b\u003e Emerge \r\n\u003cbr\u003eOnce during your turn (before your attack), if Cascoon is your Active Pokemon, you may flip a coin.  If heads, search your deck for a card that evolves from Cascoon and put it onto Cascoon. \u003cem\u003e (This counts as evolving Cascoon.) \u003c/em\u003e Shuffle your deck afterward.  This power can't be used if Cascoon is affected by a Special Condition."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Tackle (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Rx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84120_200w.jpg",
+      "modifiedOn": "2022-12-01T20:53:37.6",
+      "name": "Cascoon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84120,
+      "url": "https://www.tcgplayer.com/product/84120/pokemon-legend-maker-cascoon"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Chinchou",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "50/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[L] Random Spark \r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.\u003ci\u003e  (Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1L] Lightning Ball (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84306_200w.jpg",
+      "modifiedOn": "2022-12-14T12:19:04.977",
+      "name": "Chinchou",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84306,
+      "url": "https://www.tcgplayer.com/product/84306/pokemon-legend-maker-chinchou"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Clamperl",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "51/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Iron Defense  \r\n\u003cbr\u003eFlip a coin.  If heads, prevent all effects of an attack, including damage, done to Clamperl during your opponent's next turn."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[W] Clamp Splash (10)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84324_200w.jpg",
+      "modifiedOn": "2022-12-01T20:55:51.72",
+      "name": "Clamperl",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84324,
+      "url": "https://www.tcgplayer.com/product/84324/pokemon-legend-maker-clamperl"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Claw Fossil",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "78/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Item"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Play Claw Fossil as if it were a Basic Pokemon.  While in play, Claw Fossil counts as a Colorless Pokemon (as well as a Trainer card).  Claw Fossil has no attacks of its own, can't retreat, and can't be affected by any Special Conditions.  If Claw Fossil is Knocked Out, it doesn't count as a Knocked Out Pokemon.  (Discard it anyway.) At any time during your turn before your attack, you may discard Claw Fossil from play.\r\n\u003cbr\u003e\r\n\u003cbr\u003e\r\n\u003cbr\u003cb\u003ePoke-BODY\u003c/b\u003e Jagged Stone \r\n\u003cbr\u003eIf Claw Fossil is your Active Pokemon and is damaged by an opponent's attack (even if Claw Fossil is Knocked Out), put 1 damage counter on the Attacking Pokemon."
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84329_200w.jpg",
+      "modifiedOn": "2022-12-01T20:59:10.167",
+      "name": "Claw Fossil",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84329,
+      "url": "https://www.tcgplayer.com/product/84329/pokemon-legend-maker-claw-fossil"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Cradily",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "3/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Devolution Wave\r\n\u003cbr\u003eCount the number of React Energy cards attached to Cradily and choose up to that number of your opponent's Evolved Pokemon.  Remove the highest Stage Evolution card from each of those Pokemon, then have your opponent shuffle those cards into his or her deck."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1G] Linear Attack \r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 30 damage to that Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Attack 3",
+          "name": "Attack 3",
+          "value": "[3] Mud Shot (50)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84452_200w.jpg",
+      "modifiedOn": "2024-04-11T17:57:35.643",
+      "name": "Cradily",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84452,
+      "url": "https://www.tcgplayer.com/product/84452/pokemon-legend-maker-cradily"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Cursed Stone",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "72/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Stadium"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.  If another card with the same name is in play, you can't play this card.\r\n\u003cbr\u003e\r\n\u003cbr\u003e\r\nAt any time between turns, each player puts 1 damage counter on his or her Pokemon that has a Poke-Power."
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84538_200w.jpg",
+      "modifiedOn": "2022-12-01T20:58:21.187",
+      "name": "Cursed Stone",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84538,
+      "url": "https://www.tcgplayer.com/product/84538/pokemon-legend-maker-cursed-stone"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Delcatty",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "4/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003e Poke-POWER\u003c/b\u003e Reactive Shift \r\n\u003cbr\u003eOnce during your turn (before your attack), you may move a React Energy card attached to 1 of your Pokemon to another of your Pokemon.  This power can't be used if Delcatty is affected by a Special Condition."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Energy Link (20) \r\n\u003cbr\u003eSearch your discard pile for an Energy card and attach it to Delcatty."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Tail Whap (40)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84738_200w.jpg",
+      "modifiedOn": "2024-04-11T17:57:39.58",
+      "name": "Delcatty",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84738,
+      "url": "https://www.tcgplayer.com/product/84738/pokemon-legend-maker-delcatty"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Dunsparce",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "31/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Deadlock \r\n\u003cbr\u003eAs long as Dunsparce is your Active Pokemon, your opponent's Dunsparce can't attack."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Down Draw\r\n\u003cbr\u003eDraw 2 cards from the bottom of your deck."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1] Tripping Turn \r\n\u003cbr\u003eThe Defending Pokemon is now Confused.  You may switch Dunsparce with 1 of your Benched Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Fx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85009_200w.jpg",
+      "modifiedOn": "2022-12-01T20:53:43.173",
+      "name": "Dunsparce",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85009,
+      "url": "https://www.tcgplayer.com/product/85009/pokemon-legend-maker-dunsparce"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Dustox ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "86/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "140"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Safeguard  \r\n\u003cbr\u003ePrevent all effects of attacks, including damage, done to Dustox ex by your opponent's Pokemon-ex."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1G] Silver Wind (40) \r\n\u003cbr\u003eDuring your next turn, if an attack does damage to the Defending Pokemon \u003ci\u003e(after applying Weakness and Resistance)\u003c/i\u003e, that attack does 30 more damage."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2G] Cutting Wind (70)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "RP"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85060_200w.jpg",
+      "modifiedOn": "2022-12-01T21:00:34.43",
+      "name": "Dustox ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85060,
+      "url": "https://www.tcgplayer.com/product/85060/pokemon-legend-maker-dustox-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Electrode",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "32/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Supersonic (10) \r\n\u003cbr\u003eThe Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2L] Tumbling Attack (40+)\r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 40 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Fx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "0"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85155_200w.jpg",
+      "modifiedOn": "2022-12-01T20:53:48.913",
+      "name": "Electrode",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85155,
+      "url": "https://www.tcgplayer.com/product/85155/pokemon-legend-maker-electrode"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Fieldworker",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "73/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Supporter"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "You can play only one supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.\r\n\u003cbr\u003e\r\n\u003cbr\u003e\r\nDraw 3 cards.  Your opponent may also draw a card."
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85431_200w.jpg",
+      "modifiedOn": "2025-11-20T02:48:46.357",
+      "name": "Fieldworker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85431,
+      "url": "https://www.tcgplayer.com/product/85431/pokemon-legend-maker-fieldworker"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Flygon ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "87/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "150"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-POWER\u003c/b\u003e Emerge Charge \r\n\u003cbr\u003eOnce during your turn, when you play Flygon ex from your hand to evolve 1 of your Pokemon, you may search your discard pile for up to 2 Energy cards, and attach them to Flygon ex."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1L] Reactive Blast (40+) \r\n\u003cbr\u003eYou may discard any number of React Energy cards attached to Flygon ex.  If you do, this attack does 40 damage plus 30 more damage for each React Energy card you discarded."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3GL] Dragon Claw (100)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "C"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "FL"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85530_200w.jpg",
+      "modifiedOn": "2022-12-01T21:00:40.7",
+      "name": "Flygon ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85530,
+      "url": "https://www.tcgplayer.com/product/85530/pokemon-legend-maker-flygon-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Full Flame",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "74/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Stadium"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.  If another card with the same name is in play, you can't play this card.\r\n\u003cbr\u003e\r\n\u003cbr\u003e\r\nPut 4 damage counters instead of 2 on each Burned Pokemon between turns.  The Special Condition Burned can't be removed by evolving or devolving the Burned Pokemon."
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85579_200w.jpg",
+      "modifiedOn": "2022-12-01T20:58:35.457",
+      "name": "Full Flame",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85579,
+      "url": "https://www.tcgplayer.com/product/85579/pokemon-legend-maker-full-flame"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Furret",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "33/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Body Slam (20)\r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Do the Wave (10+) \r\n\u003cbr\u003eDoes 10 damage plus 10 more damage for each of your Benched Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85592_200w.jpg",
+      "modifiedOn": "2022-12-01T20:53:57.727",
+      "name": "Furret",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85592,
+      "url": "https://www.tcgplayer.com/product/85592/pokemon-legend-maker-furret"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Gastly",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "52/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Lick \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[P] Smog \r\n\u003cbr\u003eThe Defending Pokemon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "D"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85651_200w.jpg",
+      "modifiedOn": "2022-12-01T20:56:02.667",
+      "name": "Gastly",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85651,
+      "url": "https://www.tcgplayer.com/product/85651/pokemon-legend-maker-gastly"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Gengar",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "5/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-POWER\u003c/b\u003e Shadow Curse\r\n\u003cbr\u003eIf Gengar would be Knocked Out by damage from an opponent's attack, you may put 3 damage counters on 1 of your opponent's Pokemon."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Cursed Reaction \r\n\u003cbr\u003ePut 2 damage counters on your opponent's Pokemon in any way you like.  If Gengar has any React Energy attached to it, put 4 damage counters instead."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1PP] Super Psy Bolt (60)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "D"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85674_200w.jpg",
+      "modifiedOn": "2024-04-11T17:57:50.473",
+      "name": "Gengar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85674,
+      "url": "https://www.tcgplayer.com/product/85674/pokemon-legend-maker-gengar"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Geodude",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "53/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1F] Selfdestruct (50) \r\n\u003cbr\u003eDoes 10 damage to each Benched Pokemon \u003ci\u003e(both yours and your opponent's).  (Don't apply Weakness and Resistance for Benched Pokemon.) \u003c/i\u003e Geodude does 50 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85689_200w.jpg",
+      "modifiedOn": "2022-12-01T20:56:09.55",
+      "name": "Geodude",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85689,
+      "url": "https://www.tcgplayer.com/product/85689/pokemon-legend-maker-geodude"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Giant Stump",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "75/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Stadium"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Each player can't have more than 3 Benched Pokemon.  When Giant Stump comes into play, each player discards Benched Pokemon and any cards attached to them until he or she has 3 Benched Pokemon.  \u003cem\u003e(You discard your Pokemon first.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85697_200w.jpg",
+      "modifiedOn": "2022-12-01T20:58:46.93",
+      "name": "Giant Stump",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85697,
+      "url": "https://www.tcgplayer.com/product/85697/pokemon-legend-maker-giant-stump"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Girafarig",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "16/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Rear Sensor \r\n\u003cbr\u003eEach player's Active Basic Pokemon \u003cem\u003e(excluding Pokemon-ex)\u003c/em\u003e can't use any Poke-Powers."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Foresight \r\n\u003cbr\u003eLook at the top 5 cards of either player's deck and put them back on top of that player's deck in any order."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1P] Disorder (20) \r\n\u003cbr\u003eIf the Defending Pokemon has any Special Energy cards attached to it, the Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85730_200w.jpg",
+      "modifiedOn": "2022-12-01T20:51:49.563",
+      "name": "Girafarig",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85730,
+      "url": "https://www.tcgplayer.com/product/85730/pokemon-legend-maker-girafarig"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Golem",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "6/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "120"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Mend\r\n\u003cbr\u003eSearch your discard pile for a Fighting Energy card and attach it to Golem.  If you do, remove 2 damage counters from Golem."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1F] Enraged Linear Attack\r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 10 damage for each damage counter on Golem to that Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Attack 3",
+          "name": "Attack 3",
+          "value": "[2FF] Rock Tumble (70) \r\n\u003cbr\u003eThis attack's damage isn't affected by Resistance."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85827_200w.jpg",
+      "modifiedOn": "2024-04-11T17:57:44.327",
+      "name": "Golem",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85827,
+      "url": "https://www.tcgplayer.com/product/85827/pokemon-legend-maker-golem"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Gorebyss",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "17/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Reactive Booster\r\n\u003cbr\u003eEach React Energy card attached to all of your Huntail and Gorebyss provides 2 Energy of each type but has no effect other than providing Energy."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1W] Hydro Pump (30+) \r\n\u003cbr\u003eDoes 30 damage plus 20 more damage for each Water Energy attached to Gorebyss but not used to pay for this attack's Energy cost.  You can't add more than 40 damage in this way."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Lx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "0"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85843_200w.jpg",
+      "modifiedOn": "2022-12-01T20:51:57.487",
+      "name": "Gorebyss",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85843,
+      "url": "https://www.tcgplayer.com/product/85843/pokemon-legend-maker-gorebyss"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Graveler",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "34/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Exoskeleton\r\n\u003cbr\u003eAny damage done to Graveler by attacks is reduced by 10 \u003cem\u003e(after applying Weakness and Resistance).  \u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1F] Rock Slide (20) \r\n\u003cbr\u003eDoes 10 damage to 2 of your opponent's Benched Pokemon (1 if there is only 1).  (Don't apply Weakness and Resistance for Benched Pokemon.)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85891_200w.jpg",
+      "modifiedOn": "2022-12-01T20:54:03.277",
+      "name": "Graveler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85891,
+      "url": "https://www.tcgplayer.com/product/85891/pokemon-legend-maker-graveler"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Grimer",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "54/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Ascension \r\n\u003cbr\u003eSearch your deck for a card that evolves from Grimer and put it onto Grimer.  \u003ci\u003e(This counts as evolving Grimer).\u003c/i\u003e  Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Sludge Toss (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85910_200w.jpg",
+      "modifiedOn": "2022-12-01T20:56:15.21",
+      "name": "Grimer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85910,
+      "url": "https://www.tcgplayer.com/product/85910/pokemon-legend-maker-grimer"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Growlithe",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "55/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Body Slam (10) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1R] Firebreathing (10+)\r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 10 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85955_200w.jpg",
+      "modifiedOn": "2025-11-20T02:49:28.923",
+      "name": "Growlithe",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85955,
+      "url": "https://www.tcgplayer.com/product/85955/pokemon-legend-maker-growlithe"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Haunter",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "35/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Time Spiral \r\n\u003cbr\u003eIf your opponent has any Evolved Pokemon in play, choose 1 of them and flip a coin.  If heads, remove the highest Stage Evolution card on the Pokemon and have your opponent shuffle it into his or her deck."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1P] Haunt \r\n\u003cbr\u003ePut 2 damage counters on the Defending Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "D"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86026_200w.jpg",
+      "modifiedOn": "2022-12-01T20:54:08.15",
+      "name": "Haunter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86026,
+      "url": "https://www.tcgplayer.com/product/86026/pokemon-legend-maker-haunter"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Huntail",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "18/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-POWER\u003c/b\u003e Reactive Generator\r\n\u003cbr\u003eOnce during your turn (before your attack), if Huntail has no React Energy cards attached to it, you may search your deck for a React Energy card and attach it to Huntail.  Shuffle your deck afterward.  This power can't be used if Huntail is affected by a Special Condition."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2W] Bite Off (40+) \r\n\u003cbr\u003eIf the Defending Pokemon is Pokemon-ex, this attack does 40 damage plus 30 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Lx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86237_200w.jpg",
+      "modifiedOn": "2022-12-01T20:52:03.61",
+      "name": "Huntail",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86237,
+      "url": "https://www.tcgplayer.com/product/86237/pokemon-legend-maker-huntail"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Kabuto",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "36/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Ancient Protection  \r\n\u003cbr\u003eEach of your Omanyte, Omastar, Kabuto, Kabutops, and Kabutops ex has no Weakness."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Granite Head (20) \r\n\u003cbr\u003eDuring your opponent's next turn, any damage done to Kabuto by attacks is reduced by 10 \u003ci\u003e(after applying Weakness and Resistance).\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86384_200w.jpg",
+      "modifiedOn": "2022-12-01T20:54:13.39",
+      "name": "Kabuto",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86384,
+      "url": "https://www.tcgplayer.com/product/86384/pokemon-legend-maker-kabuto"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Kabutops",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "7/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "110"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Ancient Shell\r\n\u003cbr\u003eAs long as you have Omanyte or Omastar in play, damage done to Kabutops by attacks is reduced by 20\u003cem\u003e (after applying Weakness and Resistance). \u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Energy Stream (30) \r\n\u003cbr\u003eSearch your discard pile for a basic Energy card and attach it to Kabutops."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2F] Energy Claws (50+) \r\n\u003cbr\u003eIf the Defending Pokemon is a Pokemon-ex, this attack does 50 damage plus 30 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86397_200w.jpg",
+      "modifiedOn": "2024-04-11T17:57:57.377",
+      "name": "Kabutops",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86397,
+      "url": "https://www.tcgplayer.com/product/86397/pokemon-legend-maker-kabutops"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Kecleon",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "37/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Reactive Colors  \r\n\u003cbr\u003eIf Kecleon has any React Energy cards attached to it, Kecleon is Grass, FIre, Water, Lightning, Psychic, and Fighting type."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Tongue Whip  \r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Quick Attack (10+) \r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 10 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86429_200w.jpg",
+      "modifiedOn": "2025-11-20T02:50:30.483",
+      "name": "Kecleon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86429,
+      "url": "https://www.tcgplayer.com/product/86429/pokemon-legend-maker-kecleon"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Lairon",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "38/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Metal"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Rest \r\n\u003cbr\u003eRemove all Special Conditions and 5 damage counters (all if there are less than 5) from Lairon.  Lairon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1M] Body Slam (20) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86576_200w.jpg",
+      "modifiedOn": "2023-06-23T14:13:08.467",
+      "name": "Lairon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86576,
+      "url": "https://www.tcgplayer.com/product/86576/pokemon-legend-maker-lairon"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Lanturn",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "19/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Dual Armor\r\n\u003cbr\u003eAs long as Lanturn has any Water Energy attached to it, Lanturn is both Water and Lightning type."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1L] Razor Fin (30)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Water Gun (40+) \r\n\u003cbr\u003eDoes 40 damage plus 20 more damage for each Water Energy attached to Lanturn but not used to pay for this attack's Energy cost.  You may not add more than 40 damage in this way."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Fx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86606_200w.jpg",
+      "modifiedOn": "2022-12-01T20:52:17.063",
+      "name": "Lanturn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86606,
+      "url": "https://www.tcgplayer.com/product/86606/pokemon-legend-maker-lanturn"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Lapras",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "8/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Support Navigation \r\n\u003cbr\u003eOnce during your turn, when you put Lapras onto your bench from your hand, you may search your deck for a Supporter card, show it to your opponent, and put it into your hand.  Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1W] Surf (30)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86617_200w.jpg",
+      "modifiedOn": "2024-04-11T17:58:01.153",
+      "name": "Lapras",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86617,
+      "url": "https://www.tcgplayer.com/product/86617/pokemon-legend-maker-lapras"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Lileep",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "56/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Tender Tentacles (20) \r\n\u003cbr\u003eIf Lileep has any React Energy cards attached to it, remove 2 damage counters from Lileep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1G] Confuse Ray (20) \r\n\u003cbr\u003eThe Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86787_200w.jpg",
+      "modifiedOn": "2022-12-01T20:56:25.647",
+      "name": "Lileep",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86787,
+      "url": "https://www.tcgplayer.com/product/86787/pokemon-legend-maker-lileep"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Lunatone",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "20/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Sol Shade\r\nAs long as you have Solrock in play, each player's R Pokemon (excluding Pokemon-ex) can't use any Poke-Powers."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Moon Guidance\r\n\u003cbr\u003eSearch your deck for a Trainer card\u003ci\u003e (excluding Supporter cards)\u003c/i\u003e, show it to your opponent, and put it into your hand.  Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[P] Psyshock (10) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Px2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86925_200w.jpg",
+      "modifiedOn": "2022-12-01T20:52:26.157",
+      "name": "Lunatone",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86925,
+      "url": "https://www.tcgplayer.com/product/86925/pokemon-legend-maker-lunatone"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Machamp",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "9/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "120"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1F] Derail (40)\r\n\u003cbr\u003e Discard a Special Energy card, if any, attached to the Defending Pokemon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2F] Swift Blow (60+) \r\n\u003cbr\u003eDoes 60 damage plus 20 damage for each React Energy card attached to Machamp."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86963_200w.jpg",
+      "modifiedOn": "2024-04-11T17:58:06.507",
+      "name": "Machamp",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86963,
+      "url": "https://www.tcgplayer.com/product/86963/pokemon-legend-maker-machamp"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Machoke",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "39/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Paranoid  \r\n\u003cbr\u003eAs long as Machoke is Confused, Machoke's attacks do 50 more damage to the Defending Pokemon (before applying Weakness and Resistance)."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Split Kick \r\n\u003cbr\u003eDoes 20 damage to each Defending Pokemon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Magnum Punch (40)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86979_200w.jpg",
+      "modifiedOn": "2022-12-01T20:54:30.11",
+      "name": "Machoke",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86979,
+      "url": "https://www.tcgplayer.com/product/86979/pokemon-legend-maker-machoke"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Machop",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "57/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Mach Punch (10) \r\n\u003cbr\u003eDoes 10 damage to 1 of your opponent's Benched Pokemon. \u003ci\u003e (Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86993_200w.jpg",
+      "modifiedOn": "2022-12-01T20:56:30.957",
+      "name": "Machop",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86993,
+      "url": "https://www.tcgplayer.com/product/86993/pokemon-legend-maker-machop"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magby",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "58/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-POWER\u003c/b\u003e Baby Evolution \r\n\u003cbr\u003eOnce during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may put Magmar from your hand onto Magby \u003cem\u003e(this counts as evolving Magby)\u003c/em\u003e and remove all damage counters from Magby."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Ignite (10) \r\n\u003cbr\u003eIf Full Flame is in play, the Defending Pokemon is now Burned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87004_200w.jpg",
+      "modifiedOn": "2022-12-01T20:56:37.04",
+      "name": "Magby",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87004,
+      "url": "https://www.tcgplayer.com/product/87004/pokemon-legend-maker-magby"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magmar",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "21/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Stages of Evolution \r\n\u003cbr\u003eAs long as Magmar is an Evolved Pokemon, all Energy attached to Magmar are R Energy instead of their usual types."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Linear Attack\r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[RRR] Burning Sensation (40) \r\n\u003cbr\u003eIf the Defending Pokemon already has any damage counters on it, the Defending Pokemon is now Burned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Wx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87046_200w.jpg",
+      "modifiedOn": "2022-12-01T20:52:34.063",
+      "name": "Magmar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87046,
+      "url": "https://www.tcgplayer.com/product/87046/pokemon-legend-maker-magmar"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magnemite",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "59/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Magnetic Swirl (10) \r\n\u003cbr\u003eFlip a coin.  If tails, this attack does nothing.  If heads, discard an Energy attached to the Defending Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87079_200w.jpg",
+      "modifiedOn": "2022-12-01T20:56:43.04",
+      "name": "Magnemite",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87079,
+      "url": "https://www.tcgplayer.com/product/87079/pokemon-legend-maker-magnemite"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magneton",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "22/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-POWER\u003c/b\u003e Reactive Recharge \r\n\u003cbr\u003eIf Magneton would be Knocked Out by damage from an opponent's attack, you may move any number of React Energy cards from Magneton to your Pokemon in any way you like."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1L] Multiple Force (30+) \r\n\u003cbr\u003eIf Magneton has any React Energy cards attached to it, this attack does 30 damage plus 10 more damage for each Magnemite and Magneton \u003ci\u003e(both yours and your opponent's) in play."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3L] Magnetic Blast (60)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Fx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87105_200w.jpg",
+      "modifiedOn": "2022-12-01T20:52:40.853",
+      "name": "Magneton",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87105,
+      "url": "https://www.tcgplayer.com/product/87105/pokemon-legend-maker-magneton"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Mew",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "10/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-POWER\u003c/b\u003e Type Change \r\n\u003cbr\u003eOnce during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may choose 1 of the Defending Pokemon.  Mew is the same type as that Pokemon \u003cem\u003e(all if that Pokemon is more than 1 type)\u003c/em\u003e until the end of your turn.  This power can't be used if Mew is affected by a Special Condition."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1P] Link Blast (50)\r\n\u003cbr\u003eIf Mew and the Defending Pokemon have a different amount of Energy attached to them, this attack's base damage is 20 instead of 50."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87399_200w.jpg",
+      "modifiedOn": "2022-12-01T20:50:30.41",
+      "name": "Mew",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87399,
+      "url": "https://www.tcgplayer.com/product/87399/pokemon-legend-maker-mew"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Mew ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "88/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Versatile \r\n\u003cbr\u003eMew ex can use the attacks of all Pokemon in play as its own.  \u003cem\u003e(You still need the necessary Energy to use each attack.)  \u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1P] Power Move \r\n\u003cbr\u003eSearch your deck for an Energy card and attach it to Mew ex.  Shuffle your deck afterward.  Then, you may switch Mew ex with 1 of your Benched Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87409_200w.jpg",
+      "modifiedOn": "2022-12-01T21:00:49.563",
+      "name": "Mew ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87409,
+      "url": "https://www.tcgplayer.com/product/87409/pokemon-legend-maker-mew-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Misdreavus",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "40/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Deep Sleep \r\n\u003cbr\u003eAs long as Misdreavus is your Active Pokemon, each player flips 2 coins for each of his or her Pokemon that is Asleep between turns.  If either coin is tails, that Pokemon is still Asleep."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Return Trance \r\n\u003cbr\u003eReturn an Energy card attached to Misdreavus to your hand.  The Defending Pokemon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[P] Dream Eater (30) \r\n\u003cbr\u003eIf the Defending Pokemon is not Asleep, this attack does nothing."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "D"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87505_200w.jpg",
+      "modifiedOn": "2022-12-01T20:54:38.773",
+      "name": "Misdreavus",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87505,
+      "url": "https://www.tcgplayer.com/product/87505/pokemon-legend-maker-misdreavus"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Muk",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "11/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Stench \r\n\u003cbr\u003eAs long as Muk is your Active Pokemon, each player's Pokemon can't use any Poke-Powers."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1G] Poison Ring (20)\r\n\u003cbr\u003eThe Defending Pokemon is now Poisoned.  The Defending Pokemon can't retreat during your opponent's next turn."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2G] Sludge Toss (50)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87622_200w.jpg",
+      "modifiedOn": "2023-01-30T11:45:19.753",
+      "name": "Muk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87622,
+      "url": "https://www.tcgplayer.com/product/87622/pokemon-legend-maker-muk"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Mysterious Fossil",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "79/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Item"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Play Mysterious Fossil as if it were a Basic Pokemon.  While in play, Mysterious Fossil counts as a Pokemon (as well as a Trainer card).  Mysterious Fossil has no attacks, can't retreat, and can't be Asleep, Confused, Paralyzed, or Poisoned.  If Mysterious Fossil is Knocked Out, it doesn't count as a Knocked Out Pokemon.  (Discard it anyway.) At any time during your turn before your attack, you may discard Mysterious Fossil from play."
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87663_200w.jpg",
+      "modifiedOn": "2025-11-20T02:51:48.953",
+      "name": "Mysterious Fossil",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87663,
+      "url": "https://www.tcgplayer.com/product/87663/pokemon-legend-maker-mysterious-fossil"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Nuzleaf",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "41/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Pound (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1D] Plunder (30) \r\n\u003cbr\u003eBefore doing damage, discard all Trainer cards attached to the Defending Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87822_200w.jpg",
+      "modifiedOn": "2022-12-01T20:54:45.08",
+      "name": "Nuzleaf",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87822,
+      "url": "https://www.tcgplayer.com/product/87822/pokemon-legend-maker-nuzleaf"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Omanyte",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "60/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Ancient Tentacles \r\n\u003cbr\u003eDamage done to your opponent's Pokemon by Omanyte, Omastar, Kabuto, Kabutops, and Kabutops ex isn't affected by Resistance."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1W] Rising Lunge (20+) \r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 20 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87858_200w.jpg",
+      "modifiedOn": "2023-07-20T17:13:20.983",
+      "name": "Omanyte",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87858,
+      "url": "https://www.tcgplayer.com/product/87858/pokemon-legend-maker-omanyte"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Omastar",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "23/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Ancient Fang \r\n\u003cbr\u003eAs long as you have Kabuto, Kabutops, or Kabutops ex in play, Omastar's attacks do 20 more damage to the Defending Pokemon \u003cem\u003e(before applying Weakness and Resistance)."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Drag Off (10) \r\n\u003cbr\u003eBefore doing damage, you may choose 1 of your opponent's Benched Pokemon and switch it with 1 of the Defending Pokemon.  You opponent chooses the Defending Pokemon to switch."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2W] Hydro Splash (50)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Lx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87868_200w.jpg",
+      "modifiedOn": "2022-12-01T20:52:47.523",
+      "name": "Omastar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87868,
+      "url": "https://www.tcgplayer.com/product/87868/pokemon-legend-maker-omastar"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pikachu Delta Species",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "93/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Metal"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Thunder Wave \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1M] Iron Tail (20x) \r\n\u003cbr\u003eFlip a coin until you get tails.  This attack does 20 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88107_200w.jpg",
+      "modifiedOn": "2022-12-01T21:01:17.26",
+      "name": "Pikachu (Delta Species)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88107,
+      "url": "https://www.tcgplayer.com/product/88107/pokemon-legend-maker-pikachu-delta-species"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pinsir",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "24/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Shining Horn\r\n\u003cbr\u003eAs long as Pinsir is the only Pokemon you have in play, your opponent's Basic Pokemon can't attack."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Cry for Help\r\n\u003cbr\u003eSearch your deck for a G Pokemon (excluding Pokemon-ex), show it to your opponent, and put it into your hand.  Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1G] Overhead Toss (30) \r\n\u003cbr\u003eDoes 20 damage to 1 of your Benched Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Rx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88136_200w.jpg",
+      "modifiedOn": "2022-12-01T20:52:55.91",
+      "name": "Pinsir",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88136,
+      "url": "https://www.tcgplayer.com/product/88136/pokemon-legend-maker-pinsir"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Power Tree",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "76/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Stadium"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Once during each player's turn, if the player has no Special Energy cards in his or her discard pile, that player searches his or her discard pile for a Basic Energy card, shows it to the opponent, and puts it into his or her hand."
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88355_200w.jpg",
+      "modifiedOn": "2022-12-01T20:58:54.637",
+      "name": "Power Tree",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88355,
+      "url": "https://www.tcgplayer.com/product/88355/pokemon-legend-maker-power-tree"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Rainbow Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "81/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Special Energy"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Attach Rainbow Energy to 1 of your Pokemon.  While in play, Rainbow Energy provides every type of energy but provides only 1 energy at a time.  \u003cem\u003e(Has no effect other than providing energy.)\u003c/em\u003e  When you attach this card from your hand to 1 of your Pokemon, put 1 damage counter on that Pokemon."
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88546_200w.jpg",
+      "modifiedOn": "2022-12-01T20:59:38.923",
+      "name": "Rainbow Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88546,
+      "url": "https://www.tcgplayer.com/product/88546/pokemon-legend-maker-rainbow-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "React Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "82/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Special Energy"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "React Energy provides C Energy."
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88649_200w.jpg",
+      "modifiedOn": "2022-12-01T20:59:47.17",
+      "name": "React Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88649,
+      "url": "https://www.tcgplayer.com/product/88649/pokemon-legend-maker-react-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Regice Star",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "90/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Ice Barrier (10) \r\n\u003cbr\u003ePrevent all effects of an attack, including damage, done to Regice Star by your opponent's Pokemon-ex during your opponent's next turn."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1WW] Final Blizzard (30) \r\n\u003cbr\u003eIf your opponent has only 1 Prize card left and Regice Star is the only Pokemon you have in play, this attack does 30 damage to each of your opponent's Benched Pokemon. \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "M"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88658_200w.jpg",
+      "modifiedOn": "2022-12-01T21:01:03.137",
+      "name": "Regice Star",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88658,
+      "url": "https://www.tcgplayer.com/product/88658/pokemon-legend-maker-regice-star"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Regirock Star",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "91/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Dig Drain (10) \r\n\u003cbr\u003eRemove 1 damage counter from Regirock Star."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1FF] Final Blast (30)\r\nIf your opponent has only 1 Prize card left and Regirock Star is the only Pokemon you have in play, this attack's base damage is 100 instead of 30."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88673_200w.jpg",
+      "modifiedOn": "2022-12-01T21:01:08.56",
+      "name": "Regirock Star",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88673,
+      "url": "https://www.tcgplayer.com/product/88673/pokemon-legend-maker-regirock-star"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Registeel Star",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "92/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Metal"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[M] Barrier Attack (10)\r\n\u003cbr\u003eDuring your opponent's next turn, any damage done to Registeel Star by attacks is reduced by 10 \u003ci\u003e(after applying Weakness and Resistance)."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1MM] Final Laser  \r\n\u003cbr\u003ePut 3 damage counters on your opponent's Pokemon in any way you like.  If your opponent has only 1 Prize card left and Regice Star is the only Pokemon you have in play, put 6 damage counters instead."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88678_200w.jpg",
+      "modifiedOn": "2022-12-01T21:01:12.937",
+      "name": "Registeel Star",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88678,
+      "url": "https://www.tcgplayer.com/product/88678/pokemon-legend-maker-registeel-star"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Root Fossil",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "80/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Item"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Play Root Fossil as if it were a Basic Pokemon.  While in play, Root Fossil counts as a C Pokemon (as well as a Trainer card).  Root Fossil has no attacks of it's own, can't retreat, and can't be affected by any Special Conditions.  If Root Fossil is Knocked Out, it doesn't count as a Knocked Out Pokemon.  (Discard it anyway.) At any time during your turn before your attack, you may discard Root Fossil from play.\r\n\u003cbr\u003e\r\n\u003cbr\u003e\r\n\u003cb\u003ePoke-BODY\u003c/b\u003e Spongy Stone \r\n\u003cbr\u003eAt any time between turns, remove 1 damage counter from Root Fossil"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88811_200w.jpg",
+      "modifiedOn": "2022-12-01T20:59:28.36",
+      "name": "Root Fossil",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88811,
+      "url": "https://www.tcgplayer.com/product/88811/pokemon-legend-maker-root-fossil"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Roselia",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "42/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Reactive Aroma \r\n\u003cbr\u003eAs long as Roselia has any React Energy cards attached to it, remove 1 damage counter from each of your Pokemon (excluding Pokemon-ex) that has any React Energy cards attached to it between turns.  You can't use more than 1 Reactive Aroma Poke-Body each turn."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Flick Poison \r\n\u003cbr\u003eSwitch 1 of your opponent's Benched Pokemon with 1 of the Defending Pokemon.  Your opponent chooses the Defending Pokemon to switch.  The new Defending Pokemon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88818_200w.jpg",
+      "modifiedOn": "2022-12-01T20:54:51.41",
+      "name": "Roselia",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88818,
+      "url": "https://www.tcgplayer.com/product/88818/pokemon-legend-maker-roselia"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Sealeo",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "43/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-POWER\u003c/b\u003e Power Circulation  \r\n\u003cbr\u003eOnce during your turn (before your attack), you may search your discard pile for a basic Energy card, show it to your opponent, and put it on top of your deck.  If you do, put 1 damage counter on Sealeo.  This power can't be used if Sealeo is affected by a Special Condition."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1W] Lunge Out (30)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "M"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89030_200w.jpg",
+      "modifiedOn": "2022-12-01T20:54:59.353",
+      "name": "Sealeo",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89030,
+      "url": "https://www.tcgplayer.com/product/89030/pokemon-legend-maker-sealeo"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Seedot",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "61/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Drawup Power \r\n\u003cbr\u003eSearch your deck for an Energy card, show it to your opponent, and put it into your hand.  Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[G] Continuous Tumble (10x) \r\n\u003cbr\u003eFlip a coin until you get tails.  This attack does 10 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89040_200w.jpg",
+      "modifiedOn": "2022-12-01T20:56:56.86",
+      "name": "Seedot",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89040,
+      "url": "https://www.tcgplayer.com/product/89040/pokemon-legend-maker-seedot"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Sentret",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "62/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Scratch (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Quick Attack (10+) \r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 10 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89065_200w.jpg",
+      "modifiedOn": "2022-12-01T20:57:02.667",
+      "name": "Sentret",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89065,
+      "url": "https://www.tcgplayer.com/product/89065/pokemon-legend-maker-sentret"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Shiftry",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "12/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "110"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-POWER\u003c/b\u003e Evolutionary Fan \r\n\u003cbr\u003eOnce during your turn, when you play Shiftry from your hand to evolve 1 of your Pokemon, you may choose 1 of your Evolved Pokemon in play\u003cem\u003e (excluding any Shiftry)\u003c/em\u003e.  Return that Pokemon and all cards attached to it to your hand."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Reactive Beating (30) \r\n\u003cbr\u003eIf Shiftry has any React Energy cards attached to it, the Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2D] Cross-Cut (40+) \r\n\u003cbr\u003eIf the Defending Pokemon is an Evolved Pokemon, this attack does 40 damage plus 30 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Fx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89156_200w.jpg",
+      "modifiedOn": "2022-12-01T20:50:59.513",
+      "name": "Shiftry",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89156,
+      "url": "https://www.tcgplayer.com/product/89156/pokemon-legend-maker-shiftry"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Shuppet",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "63/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Headbutt (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1P] Will-o'-the-wisp (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "D"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89197_200w.jpg",
+      "modifiedOn": "2022-12-01T20:57:09.233",
+      "name": "Shuppet",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89197,
+      "url": "https://www.tcgplayer.com/product/89197/pokemon-legend-maker-shuppet"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Skitty",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "64/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Important Errands \r\n\u003cbr\u003eSearch your deck for a React Energy card, show it to your opponent, and put it into your hand.  Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Jump On (10+) \r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 10 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89264_200w.jpg",
+      "modifiedOn": "2022-12-01T20:57:17.197",
+      "name": "Skitty",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89264,
+      "url": "https://www.tcgplayer.com/product/89264/pokemon-legend-maker-skitty"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Solrock",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "25/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Luna Shade \r\n\u003cbr\u003eAs long as you have Lunatone in play, each player's Colorless Pokemon \u003cem\u003e(excluding Pokemon-ex)\u003c/em\u003e can't use any Poke-Powers."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Call for Family\r\n\u003cbr\u003eSearch your deck for a Lunatone and put it onto your Bench.  Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[F] Hyper Beam\r\n\u003cbr\u003e Flip a coin.  If heads, discard an Energy card attached to the Defending Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89427_200w.jpg",
+      "modifiedOn": "2022-12-01T20:53:03.367",
+      "name": "Solrock",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89427,
+      "url": "https://www.tcgplayer.com/product/89427/pokemon-legend-maker-solrock"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Spheal",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "65/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Ram (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "M"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89446_200w.jpg",
+      "modifiedOn": "2022-12-01T20:57:26.897",
+      "name": "Spheal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89446,
+      "url": "https://www.tcgplayer.com/product/89446/pokemon-legend-maker-spheal"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Spinda",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "26/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Pattern Distraction \r\n\u003cbr\u003eAs long as Spinda is your Active Pokemon, whenever your opponent's Basic Pokemon tries to attack, your opponent flips a coin.  If tails, that attack does nothing.  You can't use more than 1 Pattern Distraction Poke-Body each turn."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Whimsy Draw\r\n\u003cbr\u003eFlip a coin until you get tails.  For each heads, draw 2 cards."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Double-Edge (30) \r\n\u003cbr\u003eFlip a coin.  If tails, Spinda does 10 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Fx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89460_200w.jpg",
+      "modifiedOn": "2022-12-01T20:53:10",
+      "name": "Spinda",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89460,
+      "url": "https://www.tcgplayer.com/product/89460/pokemon-legend-maker-spinda"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Strange Cave",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "77/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Stadium"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Once during each player's turn, that player may put an Omanyte, Kabuto, Aerodactyl, Aerodactyl ex, Lileep, or Anorith onto his or her Bench from his or her hand.  Treat the new Benched Pokemon as Basic Pokemon."
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89574_200w.jpg",
+      "modifiedOn": "2022-12-01T20:59:02.34",
+      "name": "Strange Cave",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89574,
+      "url": "https://www.tcgplayer.com/product/89574/pokemon-legend-maker-strange-cave"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Tangela",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "44/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Reactive Healing \r\n\u003cbr\u003eWhenever you attach a React Energy card from your hand to Tangela, remove all damage counters from Tangela."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Entangling Vines (10) \r\n\u003cbr\u003eIf the Defending Pokemon is a Basic Pokemon, that Pokemon can't attack during your opponent's next turn."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2G] Gentle Wrap (30) \r\n\u003cbr\u003eThe Defending Pokemon can't retreat during your opponent's next turn."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89743_200w.jpg",
+      "modifiedOn": "2022-12-01T20:55:05.783",
+      "name": "Tangela",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89743,
+      "url": "https://www.tcgplayer.com/product/89743/pokemon-legend-maker-tangela"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Tentacool",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "66/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Poison Sting \r\n\u003cbr\u003eThe Defending Pokemon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89867_200w.jpg",
+      "modifiedOn": "2022-12-01T20:57:34.64",
+      "name": "Tentacool",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89867,
+      "url": "https://www.tcgplayer.com/product/89867/pokemon-legend-maker-tentacool"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Tentacruel",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "45/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Reactive Shield \r\n\u003cbr\u003eAs long as Tentacruel has any React Energy cards attached to it, prevent all effects, including damage, done to any of your Tentacruel in play by attacks from your opponent's Pokemon-ex."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Water Arrow \r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Fury Strikes (20x) \r\n\u003cbr\u003eFlip 3 coins.  This attack does 20 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "0"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89876_200w.jpg",
+      "modifiedOn": "2022-12-01T20:55:12.953",
+      "name": "Tentacruel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89876,
+      "url": "https://www.tcgplayer.com/product/89876/pokemon-legend-maker-tentacruel"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Torkoal",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "27/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Cry for Help\r\n\u003cbr\u003eSearch your deck for a Fire Pokemon \u003ci\u003e(excluding Pokemon-ex)\u003c/i\u003e, show it to your opponent, and put it into your hand.  Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1R] Fireworks (30) \r\n\u003cbr\u003eFlip a coin.  If tails, discard a R Energy attached to Torkoal."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Wx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89968_200w.jpg",
+      "modifiedOn": "2022-12-01T20:53:18.967",
+      "name": "Torkoal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89968,
+      "url": "https://www.tcgplayer.com/product/89968/pokemon-legend-maker-torkoal"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Trapinch",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "67/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Pebble Throw \r\n\u003cbr\u003eChoose 1 of your opponent's Benched Pokemon.  This attack does 10 damage to that Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1F] Double Pinchers (20x) \r\n\u003cbr\u003eFlip 2 coins.  This attack does 2 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90021_200w.jpg",
+      "modifiedOn": "2025-11-20T02:53:17.637",
+      "name": "Trapinch",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90021,
+      "url": "https://www.tcgplayer.com/product/90021/pokemon-legend-maker-trapinch"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Vibrava",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "46/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Supersonic \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Bi-Blast (20+) \r\n\u003cbr\u003eIf Vibrava has any React Energy cards attached to it, this attack does 20 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "C"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "FL"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90335_200w.jpg",
+      "modifiedOn": "2022-12-01T20:55:20.733",
+      "name": "Vibrava",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90335,
+      "url": "https://www.tcgplayer.com/product/90335/pokemon-legend-maker-vibrava"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Victreebel",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "13/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-POWER\u003c/b\u003e Nectar Pod \r\n\u003cbr\u003eOnce during your turn (before your attack), you may switch 1 of your opponent's Benched Stage 2 Evolved Pokemon with 1 of the Defending Pokemon.  Your opponent chooses the Defending Pokemon to switch.  This power can't be used if Victreebel is affected by a Special Condition."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1G] Sleep Poison (10) The Defending Pokemon is now Asleep and Poisoned."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2G] Sharp Leaf (40+) Flip a coin.  If heads, this attack does 40 plus 30 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90363_200w.jpg",
+      "modifiedOn": "2022-12-01T20:51:09.223",
+      "name": "Victreebel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90363,
+      "url": "https://www.tcgplayer.com/product/90363/pokemon-legend-maker-victreebel"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Voltorb",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "68/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Thunder Wave \r\n\u003cbr\u003eFlip a coin.  If the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1L] Bouncing Ball (30) \r\n\u003cbr\u003eVoltorb does 10 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90417_200w.jpg",
+      "modifiedOn": "2022-12-01T20:57:51.703",
+      "name": "Voltorb",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90417,
+      "url": "https://www.tcgplayer.com/product/90417/pokemon-legend-maker-voltorb"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Wailmer",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "69/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Double Tackle \r\n\u003cbr\u003eDoes 20 damage to each Defending Pokemon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1WW] Whirlpool (30) \r\n\u003cbr\u003eFlip a coin.  If heads, discard an Energy card attached to the Defending Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90452_200w.jpg",
+      "modifiedOn": "2025-12-08T23:37:17.803",
+      "name": "Wailmer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90452,
+      "url": "https://www.tcgplayer.com/product/90452/pokemon-legend-maker-wailmer"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Wailord",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "14/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "120"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Reactive Lift \r\n\u003cbr\u003eAs long as Wailord has any React Energy cards attached to it, the Retreat Cost for each of your W Pokemon \u003cem\u003e(excluding Pokemon-ex)\u003c/em\u003e is now 0."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1WW] Hypno Splash (40)\r\n\u003cbr\u003eThe Defending Pokemon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2WW] Rely on Friends (40+) \r\n\u003cbr\u003eDoes 40 damage plus 10 more damage for each of your Benched Stage 1 Evolved Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "4"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90458_200w.jpg",
+      "modifiedOn": "2022-12-01T20:51:31.497",
+      "name": "Wailord",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90458,
+      "url": "https://www.tcgplayer.com/product/90458/pokemon-legend-maker-wailord"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Walrein ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "89/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "150"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Icy Aura \r\n\u003cbr\u003eAs long as Walrein ex is your Active Pokemon, put 1 damage counter on each Active Pokemon \u003cem\u003e(both yours and your opponent's)\u003c/em\u003e between turns, excluding W Pokemon."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1W] Water Arrow\r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 40 damage to that Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2WW] Ice Throw (80) \r\n\u003cbr\u003eIf the Defending Pokemon is a Fighting Pokemon, this attack's base damage is 120 instead of 80."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "FM"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90470_200w.jpg",
+      "modifiedOn": "2022-12-01T21:00:56.587",
+      "name": "Walrein ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90470,
+      "url": "https://www.tcgplayer.com/product/90470/pokemon-legend-maker-walrein-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Weepinbell",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "47/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Sleep Seed (20) \r\n\u003cbr\u003eThe Defending Pokemon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2G] Vine Whip (40)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90553_200w.jpg",
+      "modifiedOn": "2022-12-01T20:55:26.12",
+      "name": "Weepinbell",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90553,
+      "url": "https://www.tcgplayer.com/product/90553/pokemon-legend-maker-weepinbell"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Wobbuffet",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "28/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Stages of Evolution\r\n\u003cbr\u003eAs long as Wobbuffet is an Evolved Pokemon, your opponent pays 1 more to retreat his or her Active Pokemon."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Grind (10x) \r\n\u003cbr\u003eDoes 10 damage times the amount of Energy attached to Wobbuffet."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1PP] Shadow Tag \r\n\u003cbr\u003ePut 7 damage counters on the Defending Pokemon at the end of your opponent's next turn."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Px2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90616_200w.jpg",
+      "modifiedOn": "2023-04-11T11:53:22.977",
+      "name": "Wobbuffet",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90616,
+      "url": "https://www.tcgplayer.com/product/90616/pokemon-legend-maker-wobbuffet"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Wurmple",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "70/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-BODY\u003c/b\u003e Poison Payback \r\n\u003cbr\u003eIf Wurmple is your Active Pokemon and is damaged by an opponent's attack \u003cem\u003e(even if Wurmple is Knocked Out), the Attacking Pokemon is now Poisoned. \u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] String Pull  \r\n\u003cbr\u003eSwitch 1 of your opponent's Benched Pokemon with 1 of the Defending Pokemon.  Your opponent chooses the Defending Pokemon to switch."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90650_200w.jpg",
+      "modifiedOn": "2022-12-01T20:58:04.893",
+      "name": "Wurmple",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90650,
+      "url": "https://www.tcgplayer.com/product/90650/pokemon-legend-maker-wurmple"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Wynaut",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "71/92"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-POWER\u003c/b\u003e Baby Evolution \r\n\u003cbr\u003eOnce during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may put Wobbuffet from your hand onto Wynaut \u003cem\u003e(this counts as evolving Wynaut)\u003c/em\u003e and remove all damage counters from Wynaut.  (Poke-POWER)"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Confusion Wave  \r\n\u003cbr\u003eBoth Wynaut and the Defending Pokemon are now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90655_200w.jpg",
+      "modifiedOn": "2022-12-01T20:58:11.867",
+      "name": "Wynaut",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90655,
+      "url": "https://www.tcgplayer.com/product/90655/pokemon-legend-maker-wynaut"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Legend Maker Booster Box",
+      "extendedData": [],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/98556_200w.jpg",
+      "modifiedOn": "2015-05-06T14:20:09.25",
+      "name": "Legend Maker Booster Box",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 98556,
+      "url": "https://www.tcgplayer.com/product/98556/pokemon-legend-maker-legend-maker-booster-box"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Legend Maker Booster Pack",
+      "extendedData": [],
+      "groupId": 1378,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/98557_200w.jpg",
+      "modifiedOn": "2017-07-22T17:00:09.81",
+      "name": "Legend Maker Booster Pack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 98557,
+      "url": "https://www.tcgplayer.com/product/98557/pokemon-legend-maker-legend-maker-booster-pack"
+    }
+  ],
+  "success": true,
+  "totalItems": 95
+}

@@ -1,0 +1,52 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "abbreviation": "GZTPC",
+      "categoryId": 60,
+      "groupId": 3021,
+      "isSupplemental": false,
+      "modifiedOn": "2022-02-18T21:26:05.667",
+      "name": "GZ Tournament Pack Cards",
+      "publishedOn": "2022-01-07T00:00:00"
+    },
+    {
+      "abbreviation": "EVG",
+      "categoryId": 60,
+      "groupId": 2607,
+      "isSupplemental": false,
+      "modifiedOn": "2020-02-21T21:45:54.92",
+      "name": "Evangelion Card Game",
+      "publishedOn": "2020-02-28T00:00:00"
+    },
+    {
+      "abbreviation": "GDZ",
+      "categoryId": 60,
+      "groupId": 2513,
+      "isSupplemental": false,
+      "modifiedOn": "2022-02-18T21:25:02.713",
+      "name": "Godzilla",
+      "publishedOn": "2019-09-27T00:00:00"
+    },
+    {
+      "abbreviation": "NB",
+      "categoryId": 60,
+      "groupId": 2467,
+      "isSupplemental": false,
+      "modifiedOn": "2019-09-17T20:10:12.587",
+      "name": "Naruto Boruto Card Game",
+      "publishedOn": "2019-06-28T00:00:00"
+    },
+    {
+      "abbreviation": "NBTPC",
+      "categoryId": 60,
+      "groupId": 2478,
+      "isSupplemental": true,
+      "modifiedOn": "2022-02-18T21:24:28.97",
+      "name": "NB Tournament Pack Cards",
+      "publishedOn": "2019-06-28T00:00:00"
+    }
+  ],
+  "success": true,
+  "totalItems": 5
+}

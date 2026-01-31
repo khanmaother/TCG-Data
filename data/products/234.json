@@ -1,0 +1,398 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Giant Rat",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "HL03-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Parallel Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1450"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is sent to the Graveyard as a result of battle, you can Special Summon 1 EARTH monster with an ATK of 1500 or less in face-up Attack Position from your Deck. Then shuffle your Deck."
+        }
+      ],
+      "groupId": 234,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26544_200w.jpg",
+      "modifiedOn": "2024-10-21T19:50:43.21",
+      "name": "Giant Rat",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26544,
+      "url": "https://www.tcgplayer.com/product/26544/yugioh-hobby-league-3-giant-rat"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Creature Swap",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "HL03-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Parallel Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each player selects 1 monster they control and switches control of those monsters with each other. Those monsters' cannot change their battle positions for the rest of this turn."
+        }
+      ],
+      "groupId": 234,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26545_200w.jpg",
+      "modifiedOn": "2024-10-21T19:50:12.743",
+      "name": "Creature Swap",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26545,
+      "url": "https://www.tcgplayer.com/product/26545/yugioh-hobby-league-3-creature-swap"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Trap Hole",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "HL03-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Parallel Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When your opponent Normal Summons or Flip Summons a monster with an ATK of 1000 points or more, destroy the monster."
+        }
+      ],
+      "groupId": 234,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26546_200w.jpg",
+      "modifiedOn": "2024-10-21T19:51:49.513",
+      "name": "Trap Hole",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26546,
+      "url": "https://www.tcgplayer.com/product/26546/yugioh-hobby-league-3-trap-hole"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Spear Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "HL03-EN004"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Parallel Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent's Life Points. If this card attacks, it is changed to Defense Position at the end of the Damage Step."
+        }
+      ],
+      "groupId": 234,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26547_200w.jpg",
+      "modifiedOn": "2024-10-21T19:51:34.403",
+      "name": "Spear Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26547,
+      "url": "https://www.tcgplayer.com/product/26547/yugioh-hobby-league-3-spear-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Mystic Tomato",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "HL03-EN005"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Parallel Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Plant"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is sent to the Graveyard as a result of battle, you can Special Summon 1 DARK monster with an ATK of 1500 or less in face-up Attack Position from your Deck. Then shuffle your Deck."
+        }
+      ],
+      "groupId": 234,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26548_200w.jpg",
+      "modifiedOn": "2024-10-21T19:50:59.933",
+      "name": "Mystic Tomato",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26548,
+      "url": "https://www.tcgplayer.com/product/26548/yugioh-hobby-league-3-mystic-tomato"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Royal Decree",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "HL03-EN006"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "While this card is face-up on the field, negate the effects of all Trap Cards on the field except this card."
+        }
+      ],
+      "groupId": 234,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26549_200w.jpg",
+      "modifiedOn": "2024-10-21T19:51:18.057",
+      "name": "Royal Decree",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26549,
+      "url": "https://www.tcgplayer.com/product/26549/yugioh-hobby-league-3-royal-decree"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Balter the Terrible",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "HL03-EN007"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Parallel Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\"\"\"Possessed Dark Soul\"\" + \"\"Frontier Wiseman\"\"\u003cBR\u003eA Fusion Summon of this monster can only be conducted with the above Fusion Material Monsters. When a Normal Spell Card is activated, negate the effect by paying 1000 Life Points. The effect of an Effect Monster that this monster destroys as a result of battle is negated.\""
+        }
+      ],
+      "groupId": 234,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26550_200w.jpg",
+      "modifiedOn": "2024-10-21T19:50:29.41",
+      "name": "Dark Balter the Terrible",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26550,
+      "url": "https://www.tcgplayer.com/product/26550/yugioh-hobby-league-3-dark-balter-the-terrible"
+    }
+  ],
+  "success": true,
+  "totalItems": 7
+}

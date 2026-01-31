@@ -1,0 +1,176 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Silent Magician LV4",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "NTR-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each time your opponent draws a card(s), place 1 Magic counter on this card (max: 5). Increase the ATK of this card by 500 points for each Spell Counter on this card. If 5 Spell Counters are on this card, during the Standby Phase of your next turn, by sending this face-up card with 5 Spell Counters on it to the Graveyard. Special Summon 1 \"Silent Magician LV8\" from your hand or Deck."
+        }
+      ],
+      "groupId": 256,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24517_200w.jpg",
+      "modifiedOn": "2026-01-06T13:02:44.493",
+      "name": "Silent Magician LV4",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24517,
+      "url": "https://www.tcgplayer.com/product/24517/yugioh-nintendo-ds-nightmare-of-troubadour-silent-magician-lv4"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Silent Magician LV8",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "NTR-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card can not be Normal Summoned or Set. This card cannot be Special Summoned except by the effect of \"Silent Magician LV4.\" This card is unaffected by the effects of your opponent's Spell Cards."
+        }
+      ],
+      "groupId": 256,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24518_200w.jpg",
+      "modifiedOn": "2026-01-06T13:03:38.727",
+      "name": "Silent Magician LV8",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24518,
+      "url": "https://www.tcgplayer.com/product/24518/yugioh-nintendo-ds-nightmare-of-troubadour-silent-magician-lv8"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Magicians Circle",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "NTR-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only activate this card when a Spellcaster-Type monster declares an attack. Each player selects 1 Spellcaster-Type monster from their Deck with an ATK of 2000 or less, and Special Summons it in face-up Attack Position to their side of the field."
+        }
+      ],
+      "groupId": 256,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/24519_200w.jpg",
+      "modifiedOn": "2026-01-06T12:51:31.863",
+      "name": "Magician's Circle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 24519,
+      "url": "https://www.tcgplayer.com/product/24519/yugioh-nintendo-ds-nightmare-of-troubadour-magicians-circle"
+    }
+  ],
+  "success": true,
+  "totalItems": 3
+}

@@ -1,0 +1,166 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Dimensional Prison",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "WC08-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate only when your opponent declares an attack. Remove from play the attacking monster."
+        }
+      ],
+      "groupId": 349,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26601_200w.jpg",
+      "modifiedOn": "2024-05-14T21:26:21.393",
+      "name": "Dimensional Prison",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26601,
+      "url": "https://www.tcgplayer.com/product/26601/yugioh-world-championship-2008-dimensional-prison"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Deep Diver",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "WC08-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Aqua"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is destroyed by battle and sent to the Graveyard, at the end of the Battle Phase select 1 Monster Card from your Deck, and place it on top of your Deck."
+        }
+      ],
+      "groupId": 349,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26797_200w.jpg",
+      "modifiedOn": "2022-08-23T20:05:08.24",
+      "name": "Deep Diver",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26797,
+      "url": "https://www.tcgplayer.com/product/26797/yugioh-world-championship-2008-deep-diver"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Burden of the Mighty",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "WC08-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each face-up monster your opponent controls loses 100 ATK x its own Level."
+        }
+      ],
+      "groupId": 349,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/27470_200w.jpg",
+      "modifiedOn": "2022-08-22T20:47:50.573",
+      "name": "Burden of the Mighty",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 27470,
+      "url": "https://www.tcgplayer.com/product/27470/yugioh-world-championship-2008-burden-of-the-mighty"
+    }
+  ],
+  "success": true,
+  "totalItems": 3
+}

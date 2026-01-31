@@ -1,0 +1,4229 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Cemetery Illuminator",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "50"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spirit"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eWhenever Cemetery Illuminator enters the battlefield or attacks, exile a card from a graveyard.\r\n\u003cbr\u003eYou may look at the top card of your library any time.\r\n\u003cbr\u003eOnce each turn, you may cast a spell from the top of your library if it shares a card type with a card exiled with Cemetery Illuminator."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/255216_200w.jpg",
+      "modifiedOn": "2025-04-09T12:54:14.26",
+      "name": "Cemetery Illuminator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 255216,
+      "url": "https://www.tcgplayer.com/product/255216/magic-promo-pack-aetherdrift-cemetery-illuminator"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Necroduality",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "70"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever a nontoken Zombie enters the battlefield under your control, create a token that's a copy of that creature."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Geralf's process continues to grow. He can now replicate my own creations with near-perfect accuracy.\" —Ludevic's laboratory notes\u003c/em\u003e\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/255222_200w.jpg",
+      "modifiedOn": "2025-07-09T12:51:29.03",
+      "name": "Necroduality",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 255222,
+      "url": "https://www.tcgplayer.com/product/255222/magic-promo-pack-aetherdrift-necroduality"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cemetery Desecrator",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "100"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace\r\n\u003cbr\u003eWhen Cemetery Desecrator enters the battlefield or dies, exile another card from a graveyard. When you do, choose one—\r\n\u003cbr\u003e• Remove X counters from target permanent, where X is the mana value of the exiled card.\r\n\u003cbr\u003e• Target creature an opponent controls gets -X/-X until end of turn, where X is the mana value of the exiled card."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/255227_200w.jpg",
+      "modifiedOn": "2025-07-30T17:52:10.003",
+      "name": "Cemetery Desecrator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 255227,
+      "url": "https://www.tcgplayer.com/product/255227/magic-promo-pack-aetherdrift-cemetery-desecrator"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cemetery Gatekeeper",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "148"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Vampire"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike\r\n\u003cbr\u003eWhen Cemetery Gatekeeper enters the battlefield, exile a card from a graveyard.\r\n\u003cbr\u003eWhenever a player plays a land or casts a spell, if it shares a card type with the exiled card, Cemetery Gatekeeper deals 2 damage to that player."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/255239_200w.jpg",
+      "modifiedOn": "2025-08-20T17:57:40.937",
+      "name": "Cemetery Gatekeeper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 255239,
+      "url": "https://www.tcgplayer.com/product/255239/magic-promo-pack-aetherdrift-cemetery-gatekeeper"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cemetery Prowler",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "191"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Wolf"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance\r\n\u003cbr\u003eWhenever Cemetery Prowler enters the battlefield or attacks, exile a card from a graveyard.\r\n\u003cbr\u003eSpells you cast cost 1 less to cast for each card type they share with cards exiled with Cemetery Prowler."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/255250_200w.jpg",
+      "modifiedOn": "2025-04-09T13:07:40.74",
+      "name": "Cemetery Prowler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 255250,
+      "url": "https://www.tcgplayer.com/product/255250/magic-promo-pack-aetherdrift-cemetery-prowler"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Aetherdrift Foil Promo Pack",
+      "extendedData": [
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each Aetherdrift Foil Promo Pack contain 3 cards."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/604408_200w.jpg",
+      "modifiedOn": "2025-02-12T15:20:22.897",
+      "name": "Aetherdrift - Foil Promo Pack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 604408,
+      "url": "https://www.tcgplayer.com/product/604408/magic-promo-pack-aetherdrift-aetherdrift-foil-promo-pack"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Aetherdrift Promo Pack",
+      "extendedData": [
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each Aetherdrift Promo Pack contain 3 cards."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/604409_200w.jpg",
+      "modifiedOn": "2025-02-12T15:20:35.49",
+      "name": "Aetherdrift - Promo Pack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 604409,
+      "url": "https://www.tcgplayer.com/product/604409/magic-promo-pack-aetherdrift-aetherdrift-promo-pack"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Marauding Mako",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "419"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Shark Pirate"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you discard one or more cards, put that many +1/+1 counters on this creature. \r\n\u003cbr\u003eCycling 2"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/614499_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:42.167",
+      "name": "Marauding Mako",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 614499,
+      "url": "https://www.tcgplayer.com/product/614499/magic-promo-pack-aetherdrift-marauding-mako"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tune Up",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "417"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Return target artifact card from your graveyard to the battlefield. If it's a Vehicle, it becomes an artifact creature."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/615613_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:42.533",
+      "name": "Tune Up",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 615613,
+      "url": "https://www.tcgplayer.com/product/615613/magic-promo-pack-aetherdrift-tune-up"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gastal Raider",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "418"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Vampire Rogue"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Start your engines!\r\n\u003cbr\u003eWhen this creature enters, target opponent reveals their hand. You choose an instant or sorcery card from it. That player discards that card.\r\n\u003cbr\u003eMax speed — This creature gets +1/+1 and has menace"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/615622_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:42.887",
+      "name": "Gastal Raider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 615622,
+      "url": "https://www.tcgplayer.com/product/615622/magic-promo-pack-aetherdrift-gastal-raider"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Skyserpent Seeker",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "420"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Snake"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, deathtouch\r\n\u003cbr\u003eExhaust — 4: Reveal cards from the top of your library until you reveal two land cards. Put those land cards onto the battlefield tapped and the rest on the bottom of your library in a random order. Put a +1/+1 counter on this creature. \u003cem\u003e(Activate each exhaust ability only once.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/615737_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:43.267",
+      "name": "Skyserpent Seeker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 615737,
+      "url": "https://www.tcgplayer.com/product/615737/magic-promo-pack-aetherdrift-skyserpent-seeker"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Voyage Home",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "421"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Affinity for artifacts\r\n\u003cbr\u003eYou draw three cards and gain 3 life."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/615738_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:43.65",
+      "name": "Voyage Home",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 615738,
+      "url": "https://www.tcgplayer.com/product/615738/magic-promo-pack-aetherdrift-voyage-home"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Basri Tomorrows Champion",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Knight"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "W, T, Exert Basri: Create a 1/1 white Cat creature token with lifelink. \u003cem\u003e(An Exert creature won't untap during your next untap step.)\u003c/em\u003e\u003cbr\u003e\u003cbr\u003e\nCycling 2W \u003cem\u003e(2W, Discard this card: Draw a card.)\u003c/em\u003e\u003cbr\u003e\u003cbr\u003e\nWhen you cycle this card, Cats you control gain hexproof and indestructible until end of turn."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616840_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:44.013",
+      "name": "Basri, Tomorrow's Champion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616840,
+      "url": "https://www.tcgplayer.com/product/616840/magic-promo-pack-aetherdrift-basri-tomorrows-champion"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bulwark Ox",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Ox Mount"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever this creature attacks while saddled, put a +1/+1 counter on target creature.\u003cbr\u003e\r\u003cbr\u003e\nSacrifice this creature: Creatures you control with counters on them gain hexproof and indestructible until end of turn.\u003cbr\u003e\r\u003cbr\u003e\nSaddle 1 \u003cem\u003e(Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616841_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:44.467",
+      "name": "Bulwark Ox",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616841,
+      "url": "https://www.tcgplayer.com/product/616841/magic-promo-pack-aetherdrift-bulwark-ox"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Guardian Sunmare",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Horse Mount"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Ward 2\r\u003cbr\u003e\n\u003cbr\u003eWhenever this creature attacks while saddled, search your library for a nonland permanent card with mana value 3 or less, put it onto the battlefield, then shuffle.\r\u003cbr\u003e\n\u003cbr\u003eSaddle 4"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616842_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:44.777",
+      "name": "Guardian Sunmare",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616842,
+      "url": "https://www.tcgplayer.com/product/616842/magic-promo-pack-aetherdrift-guardian-sunmare"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Perilous Snare",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "23"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Start your engines! \u003cem\u003e(If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\u003c/em\u003e\r\u003cbr\u003e\n\u003cbr\u003e\r\u003cbr\u003e\nWhen this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.\r\u003cbr\u003e\n\u003cbr\u003e\r\u003cbr\u003e\nMax speed — T: Put a +1/+1 counter on target creature or Vehicle you control. Activate only as a sorcery."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616843_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:45.17",
+      "name": "Perilous Snare",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616843,
+      "url": "https://www.tcgplayer.com/product/616843/magic-promo-pack-aetherdrift-perilous-snare"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Salvation Engine",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "27"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Vehicle"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "10"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Other artifact creatures you control get +2/+2.\r\n\u003cbr\u003e\r\n\u003cbr\u003eWhenever this Vehicle attacks, return up to one target artifact card from your graveyard to the battlefield.\r\n\u003cbr\u003e\r\n\u003cbr\u003eCrew 6"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The Guidelight Voyagers seem to exhibit more humanity than their flesh-and-blood competitors.\"\r\n\u003cbr\u003e\r\n\u003cbr\u003e—Pia Nalaar\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616844_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:45.36",
+      "name": "Salvation Engine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616844,
+      "url": "https://www.tcgplayer.com/product/616844/magic-promo-pack-aetherdrift-salvation-engine"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Skyseers Chariot",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "28"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Vehicle"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\n\u003cbr\u003eAs this Vehicle enters, choose a nonland card name.\r\n\u003cbr\u003e\r\n\u003cbr\u003eActivated abilities of sources with the chosen name cost 2 more to activate.\r\n\u003cbr\u003e\r\n\u003cbr\u003eCrew 2"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"It's the dawn of a new era, and we shall rise like the suns to greet it.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616845_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:45.467",
+      "name": "Skyseer's Chariot",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616845,
+      "url": "https://www.tcgplayer.com/product/616845/magic-promo-pack-aetherdrift-skyseers-chariot"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Spectacular Pileup",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "29"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All creatures and Vehicles lose indestructible end of turn, then destroy all creatures and Vehicles.\r\n\u003cbr\u003e\r\n\u003cbr\u003eCycling 2 \u003cem\u003e(2, Discard this card: Draw a card.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe first four crashes were accidental. Then the Endriders joined the fun.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616846_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:45.683",
+      "name": "Spectacular Pileup",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616846,
+      "url": "https://www.tcgplayer.com/product/616846/magic-promo-pack-aetherdrift-spectacular-pileup"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Valors Flagship",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "35"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact — Vehicle"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "7"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "7"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, first strike, lifelink \r\n\u003cbr\u003e\r\n\u003cbr\u003eCrew 3 \r\n\u003cbr\u003e\r\n\u003cbr\u003eCycling X2W \u003cem\u003e(X2W, Disacard this card: Draw a card.)\u003c/em\u003e\r\n\u003cbr\u003e\r\n\u003cbr\u003eWhen you cycle this card, create X 1/1 colorless Pilot creature tokens with \"This token saddles Mounts and crews Vehicles as though its power were 2 greater.\""
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616847_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:45.81",
+      "name": "Valor's Flagship",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616847,
+      "url": "https://www.tcgplayer.com/product/616847/magic-promo-pack-aetherdrift-valors-flagship"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Voyager Glidecar",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "36"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Vehicle"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When this Vehicle enters, scry 1.\r\n\u003cbr\u003e\r\n\u003cbr\u003eTap three other untapped creatures you control: Until end of turn, this Vehicle becomes an artifact creature and gains flying. Put a +1/+1 counter on it.\r\n\u003cbr\u003e\r\n\u003cbr\u003eCrew 1"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Exclamatory: Hang on to something.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616848_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:45.923",
+      "name": "Voyager Glidecar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616848,
+      "url": "https://www.tcgplayer.com/product/616848/magic-promo-pack-aetherdrift-voyager-glidecar"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mindspring Merfolk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "51"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Merfolk Wizard"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exhaust — XUU, T: Draw X cards. Put a +1/+1 counter on each Merfolk creature you control. \u003cem\u003e(Activate each exhaust ability only once.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe Invasion roused the reclusive jalpari from the depths. Since then, they had fully integrated into Avishkari society.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616849_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:46.363",
+      "name": "Mindspring Merfolk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616849,
+      "url": "https://www.tcgplayer.com/product/616849/magic-promo-pack-aetherdrift-mindspring-merfolk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mu Yanling Wind Rider",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "52"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Wizard Pilot"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When this creature enters, create a 3/2 colorless Vehicle artifact token with crew 1.\r\u003cbr\u003e\n\u003cbr\u003e\r\u003cbr\u003e\nVehicles you control have flying.\r\u003cbr\u003e\n\u003cbr\u003e\r\u003cbr\u003e\nWhenever one or more creatures you control with flying deal combat damage to a player, draw a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe search for her lost mentor continued.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616850_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:46.753",
+      "name": "Mu Yanling, Wind Rider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616850,
+      "url": "https://www.tcgplayer.com/product/616850/magic-promo-pack-aetherdrift-mu-yanling-wind-rider"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Possession Engine",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "54"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Vehicle"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When this Vehicle enters, gain control of target creature an opponent controls for as long as you control this Vehicle. That creature can't attack or block for as long as you control this Vehicle.\u003cbr\u003e\u003cbr\u003e\nCrew 3"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Here's a tip: If your ride needs souls for fuel, make sure to always keep one handy.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616851_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:47.153",
+      "name": "Possession Engine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616851,
+      "url": "https://www.tcgplayer.com/product/616851/magic-promo-pack-aetherdrift-possession-engine"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Repurposing Bay",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "56"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2, T, Sacrifice another artifact: Search your library for an artifact card with mana value equal to 1 plus the sacrificed artifact's mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eBy the end of the race, few of the Aether Rangers' vehicles resembled what they started as.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616852_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:47.56",
+      "name": "Repurposing Bay",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616852,
+      "url": "https://www.tcgplayer.com/product/616852/magic-promo-pack-aetherdrift-repurposing-bay"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Riverchurn Monument",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "57"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1, T: Any number of target players each mill two cards. \u003cem\u003e(Each of them puts the top two cards of their library into their graveyard.)\u003c/em\u003e\r\u003cbr\u003e\n\u003cbr\u003eExhaust — 2UU, T: Any number of target players each mill cards equal to the number of cards in their graveyard. \u003cem\u003e(Activate each exhaust ability only once.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616853_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:47.987",
+      "name": "Riverchurn Monument",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616853,
+      "url": "https://www.tcgplayer.com/product/616853/magic-promo-pack-aetherdrift-riverchurn-monument"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thopter Fabricator",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "68"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Vehicle"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying \r\n\u003cbr\u003e\r\n\u003cbr\u003eWhenever you draw your second card each turn, create a 1/1 colorless Thopter artifact creature token with flying. \r\n\u003cbr\u003e\r\n\u003cbr\u003eCrew 2"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eEvery camera had a backup, and every backup had a backup, and every backup's backup had a backup, too.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616854_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:48.153",
+      "name": "Thopter Fabricator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616854,
+      "url": "https://www.tcgplayer.com/product/616854/magic-promo-pack-aetherdrift-thopter-fabricator"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Unstoppable Plan",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "72"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your end step, untap all nonland permanents you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eJace knew that if he just had time to explain his plan, he would find support. Unfortunately, time was in short supply.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616855_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:48.293",
+      "name": "Unstoppable Plan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616855,
+      "url": "https://www.tcgplayer.com/product/616855/magic-promo-pack-aetherdrift-unstoppable-plan"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Vnwxt Verbose Host",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "73"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Homunculus"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Start your engines! \u003cem\u003e(If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\u003c/em\u003e\u003cbr\u003e\u003cbr\u003e\r\nYou have no maximum hand size.\u003cbr\u003e\u003cbr\u003e\r\nMax speed — If you would draw a card, draw two cards instead."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Racers! Start! Your! Engiiiiiines!\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616856_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:48.42",
+      "name": "Vnwxt, Verbose Host",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616856,
+      "url": "https://www.tcgplayer.com/product/616856/magic-promo-pack-aetherdrift-vnwxt-verbose-host"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Waxen Shapethief",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "74"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Shapeshifter"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "0"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\r\n\u003cbr\u003e\r\n\u003cbr\u003eYou may have this creature enter as a copy of an artifact or creature you control.\r\n\u003cbr\u003e\r\n\u003cbr\u003eCycling 2 \u003cem\u003e(2, Discard this card: Draw a card)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616857_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:48.557",
+      "name": "Waxen Shapethief",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616857,
+      "url": "https://www.tcgplayer.com/product/616857/magic-promo-pack-aetherdrift-waxen-shapethief"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bloodghast",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "77"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Vampire Spirit"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "This creature can't block.\r\u003cbr\u003e\n\u003cbr\u003eThis creature has haste as long as an opponent has 10 or less life.\r\u003cbr\u003e\n\u003cbr\u003e\u003cem\u003eLandfall\u003c/em\u003e — Whenever a land you control enters, you may return this card from your graveyard to the battlefield."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eSummoning it is easy. Controlling it is another matter.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616858_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:49.173",
+      "name": "Bloodghast",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616858,
+      "url": "https://www.tcgplayer.com/product/616858/magic-promo-pack-aetherdrift-bloodghast"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cryptcaller Chariot",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "80"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Vehicle"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace\u003cbr\u003e\u003cbr\u003e\nWhenever you discard one or more cards, create that many tapped 2/2 black Zombie creature tokens.\u003cbr\u003e\u003cbr\u003e\nCrew 2"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"They too deserve to witness Amonkhet's rebirth.\"\u003cbr\u003e\u003cbr\u003e\n—Zahur\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616859_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:49.993",
+      "name": "Cryptcaller Chariot",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616859,
+      "url": "https://www.tcgplayer.com/product/616859/magic-promo-pack-aetherdrift-cryptcaller-chariot"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cursecloth Wrappings",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "81"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Zombies you control get +1/+1.\u003cbr\u003e\u003cbr\u003e\nT: Target creature card in your graveyard gains embalm until end of turn. The embalm cost is equal to its mana cost. \u003cem\u003e(Exile that card and pay its embalm cost: Create a token that's a copy of it, except it's a white Zombie in addition to its other types and has no mana cost. Embalm only as a sorcery.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616860_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:50.497",
+      "name": "Cursecloth Wrappings",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616860,
+      "url": "https://www.tcgplayer.com/product/616860/magic-promo-pack-aetherdrift-cursecloth-wrappings"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Demonic Junker",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "83"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Vehicle"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Affinity for artifacts \u003cem\u003e(This spell costs 1 less to cast for each artifact you control.)\u003c/em\u003e\r\u003cbr\u003e\n\u003cbr\u003e\r\u003cbr\u003e\nWhen this Vehicle enters, for each player, destroy up to one target creature that player controls. If a creature you controlled was destroyed this way, put two +1/+1 counters on this Vehicle.\r\u003cbr\u003e\n\u003cbr\u003e\r\u003cbr\u003e\nCrew 2"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616861_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:51.117",
+      "name": "Demonic Junker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616861,
+      "url": "https://www.tcgplayer.com/product/616861/magic-promo-pack-aetherdrift-demonic-junker"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gas Guzzler",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "85"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Vampire Rogue"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Start your engines! \u003cem\u003e(If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\u003c/em\u003e\r\u003cbr\u003e\n\u003cbr\u003eThis creature enters tapped. \r\u003cbr\u003e\n\u003cbr\u003eMax speed — B, Sacrifice another creature or Vehicle: Draw a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eGastal's vampires took fuel from the dead.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616862_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:51.677",
+      "name": "Gas Guzzler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616862,
+      "url": "https://www.tcgplayer.com/product/616862/magic-promo-pack-aetherdrift-gas-guzzler"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gonti Night Minister",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "87"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Aetherborn Rogue"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever a player casts a spell they don't own, that player creates a Treasure token.\r\u003cbr\u003e\n\u003cbr\u003eWhenever a creature deals combat damage to one of your opponents, its controller looks at the top card of that opponent's library and exiles it face down. They may play that card for as long as it remains exiled. Mana of any type can be spent to cast a spell this way."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616863_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:52.457",
+      "name": "Gonti, Night Minister",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616863,
+      "url": "https://www.tcgplayer.com/product/616863/magic-promo-pack-aetherdrift-gonti-night-minister"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Last Ride",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "94"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact — Vehicle"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "13"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "13"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "The Last Ride gets -X/-X, where X is your life total.\u003cbr\u003e\r\n\u003cbr\u003e\r\n2B, Pay 2 life: Draw a card.\u003cbr\u003e\r\n\u003cbr\u003e\r\nCrew 2"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe rearview mirror showed Winter what awaited him should he fail.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616864_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:52.733",
+      "name": "The Last Ride",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616864,
+      "url": "https://www.tcgplayer.com/product/616864/magic-promo-pack-aetherdrift-the-last-ride"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Quag Feast",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "100"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose target creature, planeswalker, or Vehicle. Mill two cards, then destroy the chosen permanent if its mana value is less than or equal to the number of cards in your graveyard."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eSpeedbrood racers are gregarious while not racing, but everyone must eat.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616865_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:53.253",
+      "name": "Quag Feast",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616865,
+      "url": "https://www.tcgplayer.com/product/616865/magic-promo-pack-aetherdrift-quag-feast"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Speed Demon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "105"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Demon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, trample \r\n\u003cbr\u003e\r\n\u003cbr\u003eStart your engines! \u003cem\u003e(If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\u003c/em\u003e\r\n\u003cbr\u003e\r\n\u003cbr\u003eAt the beginning of your end step, you draw X cards and lose X life, where X is your speed."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eCaution is for those who falter.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616866_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:53.44",
+      "name": "The Speed Demon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616866,
+      "url": "https://www.tcgplayer.com/product/616866/magic-promo-pack-aetherdrift-the-speed-demon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Boommobile",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "113"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Vehicle"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When this Vehicle enters, add four mana of any one color. Spend this mana only to activate abilities.\u003cbr\u003e\u003cbr\u003e\nExhaust — X2R: This Vehicle deals X damage to any target. Put a +1/+1 counter on this Vehicle. \u003cem\u003e(Activate each exhaust ability only once.)\u003c/em\u003e\u003cbr\u003e\u003cbr\u003e\nCrew 2"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616867_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:53.983",
+      "name": "Boommobile",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616867,
+      "url": "https://www.tcgplayer.com/product/616867/magic-promo-pack-aetherdrift-boommobile"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Burnout Bashtronaut",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "115"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Goblin Warrior"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace\r\u003cbr\u003e\n\u003cbr\u003eStart your engines! \u003cem\u003e(If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\u003c/em\u003e\r\u003cbr\u003e\n\u003cbr\u003e2: This creature gets +1/+0 until end of turn. \r\u003cbr\u003e\n\u003cbr\u003eMax speed — This creature has double strike."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616868_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:54.633",
+      "name": "Burnout Bashtronaut",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616868,
+      "url": "https://www.tcgplayer.com/product/616868/magic-promo-pack-aetherdrift-burnout-bashtronaut"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Chandra Spark Hunter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "116"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Chandra"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of combat on your turn, choose up to one target Vehicle you control. Until end of turn, it becomes an artifact creature and gains haste.\u003cbr\u003e\u003cbr\u003e\n[+2]: You may sacrifice an artifact or discard a card. If you do, draw a card.\u003cbr\u003e\u003cbr\u003e\n[0]: Create a 3/2 colorless Vehicle artifact token with crew 1.\u003cbr\u003e\u003cbr\u003e\n[-7]: You get an emblem with \" Whenever an artifact you control enters, this emblem deals 3 damage to any target.\""
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616869_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:55.39",
+      "name": "Chandra, Spark Hunter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616869,
+      "url": "https://www.tcgplayer.com/product/616869/magic-promo-pack-aetherdrift-chandra-spark-hunter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Count on Luck",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "118"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your upkeep, exile the top card of yoru library. You may play that card this turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eWith your help, Loot, we're going to make a hell of an entrance,\" said Chandra. In less that fifteen minutes, she came to regret those words.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616870_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:56.047",
+      "name": "Count on Luck",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616870,
+      "url": "https://www.tcgplayer.com/product/616870/magic-promo-pack-aetherdrift-count-on-luck"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Daretti Rocketeer Engineer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "120"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Goblin Artificer"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Daretti's power is equal to the greatest mana value among artifacts you control. \u003cbr\u003eWhenever Daretti enters or attacks, choose target artifact card in your graveyard. You may sacrifice an artifact. If you do, return the chosen card to the battlefield."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616871_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:56.76",
+      "name": "Daretti, Rocketeer Engineer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616871,
+      "url": "https://www.tcgplayer.com/product/616871/magic-promo-pack-aetherdrift-daretti-rocketeer-engineer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Draconautics Engineer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "121"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Goblin Artificer"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exhaust — R: Other creatures you control gain haste until end of turn. Put a +1/+1 counter on this creature. \u003cem\u003e(Activate each exhaust ability only once.)\u003c/em\u003e\r\u003cbr\u003e\n\u003cbr\u003eExhaust — 3R: Create a 4/4 red Dinosaur Dragon creature token with flying."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616872_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:57.443",
+      "name": "Draconautics Engineer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616872,
+      "url": "https://www.tcgplayer.com/product/616872/magic-promo-pack-aetherdrift-draconautics-engineer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Full Throttle",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "127"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "After this main phase, there are two additional combat phases.\u003cbr\u003e\u003cbr\u003e\nAt the beginning of each combat this turn, untap all creatures that attacked this turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"You wanted a fight. Now you've got two.\"\u003cbr\u003e\u003cbr\u003e\n—Chandra Nalaar\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616873_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:58.423",
+      "name": "Full Throttle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616873,
+      "url": "https://www.tcgplayer.com/product/616873/magic-promo-pack-aetherdrift-full-throttle"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gastal Thrillroller",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "129"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Vehicle"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample, haste\r\u003cbr\u003e\n\u003cbr\u003eWhen this Vehicle enters, it becomes an artifact creature until end of turn.\r\u003cbr\u003e\n\u003cbr\u003eCrew 2\r\u003cbr\u003e\n\u003cbr\u003e2R, Discard a card: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616874_200w.jpg",
+      "modifiedOn": "2025-02-13T16:47:59.167",
+      "name": "Gastal Thrillroller",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616874,
+      "url": "https://www.tcgplayer.com/product/616874/magic-promo-pack-aetherdrift-gastal-thrillroller"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hazoret Godseeker",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "133"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — God"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Indestructible, haste \r\u003cbr\u003e\n\u003cbr\u003eStart your engines! \u003cem\u003e(If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\u003c/em\u003e\r\u003cbr\u003e\n\u003cbr\u003e1, T: Target creature with power 2 or less can't be blocked this turn. \r\u003cbr\u003e\n\u003cbr\u003eHazoret can't attack or block unless you have max speed."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616875_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:00.17",
+      "name": "Hazoret, Godseeker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616875,
+      "url": "https://www.tcgplayer.com/product/616875/magic-promo-pack-aetherdrift-hazoret-godseeker"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Howlsquad Heavy",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "134"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Goblin Mercenary"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Start your engines!\r\u003cbr\u003e\n\u003cbr\u003eOther Goblins you control have haste.\r\u003cbr\u003e\n\u003cbr\u003eAt the beginning of combat on your turn, create a 1/1 red Goblin creature token. That token attacks this combat if able.\r\u003cbr\u003e\n\u003cbr\u003eMax Speed — T: Add R for each Goblin you control."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616876_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:00.993",
+      "name": "Howlsquad Heavy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616876,
+      "url": "https://www.tcgplayer.com/product/616876/magic-promo-pack-aetherdrift-howlsquad-heavy"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Afterburner Expert",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "150"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Goblin Artificer"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exhaust — 2GG: Put two +1/+1 counters on this creature. \u003cem\u003e(Activate each exhaust ability only once.)\u003c/em\u003e \r\u003cbr\u003e\n\u003cbr\u003eWhenever you activate an exhaust ability, return this card from your graveyard to the battlefield."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eSpeedbump has miraculously survived ninety-nine rocket crashes, and he's aiming for an even hundred.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616877_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:01.883",
+      "name": "Afterburner Expert",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616877,
+      "url": "https://www.tcgplayer.com/product/616877/magic-promo-pack-aetherdrift-afterburner-expert"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Agonasaur Rex",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "151"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Dinosaur"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\r\u003cbr\u003e\n\u003cbr\u003eCycling 2G \u003cem\u003e(2G, Discard this card: Draw a card.)\u003c/em\u003e\r\u003cbr\u003e\n\u003cbr\u003eWhen you cycle this card, put two +1/+1 counters on up to one target creature or Vehicle. It gains trample and indestructible until end of turn."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616878_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:02.763",
+      "name": "Agonasaur Rex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616878,
+      "url": "https://www.tcgplayer.com/product/616878/magic-promo-pack-aetherdrift-agonasaur-rex"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "District Mascot",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "158"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Dog Mount"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "This creature enters with a +1/+1 counter on it.\r\u003cbr\u003e\n\u003cbr\u003e\r\u003cbr\u003e\n1G, Remove two +1/+1 counters from this creature: Destroy target artifact.\r\u003cbr\u003e\n\u003cbr\u003e\r\u003cbr\u003e\nWhenever this creature attacks while saddled, put a +1/+1 counter on it.\r\u003cbr\u003e\n\u003cbr\u003e\r\u003cbr\u003e\nSaddle 1"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616879_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:03.7",
+      "name": "District Mascot",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616879,
+      "url": "https://www.tcgplayer.com/product/616879/magic-promo-pack-aetherdrift-district-mascot"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lumbering Worldwagon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "168"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Vehicle"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "This Vehicle's power is equal to the number of lands you control.\r\u003cbr\u003e\n\u003cbr\u003eWhenever this Vehicle enters or attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\r\u003cbr\u003e\n\u003cbr\u003eCrew 4"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616880_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:04.963",
+      "name": "Lumbering Worldwagon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616880,
+      "url": "https://www.tcgplayer.com/product/616880/magic-promo-pack-aetherdrift-lumbering-worldwagon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "March of the World Ooze",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "169"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Creatures you control have base power and toughness 6/6 and are Oozes in addition to their other types.\r\u003cbr\u003e\n\u003cbr\u003e\r\u003cbr\u003e\nWhenever an opponent casts a spell, if it's not their turn, you create a 3/3 green Elephant creature token."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The fauna here functions as a planar antibody.\"\r\u003cbr\u003e\n\u003cbr\u003e\r\u003cbr\u003e\n—Rashmi, aether-seer\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616881_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:05.823",
+      "name": "March of the World Ooze",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616881,
+      "url": "https://www.tcgplayer.com/product/616881/magic-promo-pack-aetherdrift-march-of-the-world-ooze"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Oviya Automech Artisan",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "173"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Artificer"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each creature that's attacking one of your opponents has trample.\r\u003cbr\u003e\n\u003cbr\u003eG, T: You may put a creature or Vehicle card from your hand onto the battlefield. If you put an artifact onto the battlefield this way, put two +1/+1 counters on it."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616882_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:06.913",
+      "name": "Oviya, Automech Artisan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616882,
+      "url": "https://www.tcgplayer.com/product/616882/magic-promo-pack-aetherdrift-oviya-automech-artisan"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Regal Imperiosaur",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "177"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Dinosaur"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Other Dinosaurs you control get +1/+1."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eInitially frustrated by Muraganda's inconsistent biodiversity, Avishkari researchers made a breakthrough after mapping the plane's aetheric index-the wide variety of fauna was the result of raw magic, not evolution.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616883_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:07.703",
+      "name": "Regal Imperiosaur",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616883,
+      "url": "https://www.tcgplayer.com/product/616883/magic-promo-pack-aetherdrift-regal-imperiosaur"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thunderous Velocipede",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "183"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Vehicle"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\u003cbr\u003e\u003cbr\u003e\r\nEach other Vehicle and creature you control enters with an additional +1/+1 counter on it if its mana value is 4 or less. Otherwise, it enters with three additional +1/+1 counter on it. \u003cbr\u003e\u003cbr\u003e\r\nCrew 3"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616884_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:07.91",
+      "name": "Thunderous Velocipede",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616884,
+      "url": "https://www.tcgplayer.com/product/616884/magic-promo-pack-aetherdrift-thunderous-velocipede"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Webstrike Elite",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "186"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Insect Archer"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Reach\r\n\u003cbr\u003e\r\n\u003cbr\u003eCycling XGG \u003cem\u003e(XGG, Discard this card: Draw a card.)\u003c/em\u003e\r\n\u003cbr\u003e\r\n\u003cbr\u003eWhen you cycle this card, destroy up to one target artifact or enchantment with mana value X."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616885_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:08.083",
+      "name": "Webstrike Elite",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616885,
+      "url": "https://www.tcgplayer.com/product/616885/magic-promo-pack-aetherdrift-webstrike-elite"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Aatchik Emerald Radian",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "187"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Insect Druid"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Aatchik enters, create a 1/1 green Insect creature token for each artifact and/or creature card in your graveyard.\u003cbr\u003e\r\u003cbr\u003e\nWhenever another Insect you control dies, put a +1/+1 counter on Aatchik. Each opponent leses 1 life."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616886_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:08.947",
+      "name": "Aatchik, Emerald Radian",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616886,
+      "url": "https://www.tcgplayer.com/product/616886/magic-promo-pack-aetherdrift-aatchik-emerald-radian"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Brightglass Gearhulk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "191"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Construct"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike, trample \r\u003cbr\u003e\n\u003cbr\u003eWhen this creature enters, you may search your library for up to two artifact, creature, and/or enchantment cards with mana value 1 or less, reveal them, put them into your hand, then shuffle."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"A new day dawns for Avishkar, and we shall draw our power from its light.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616887_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:09.86",
+      "name": "Brightglass Gearhulk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616887,
+      "url": "https://www.tcgplayer.com/product/616887/magic-promo-pack-aetherdrift-brightglass-gearhulk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Captain Howler Sea Scourge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "194"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Shark Pirate"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Ward—2, Pay 2 life.\u003cbr\u003e\u003cbr\u003e\nWhenever you discard one or more cards, target creature gets +2/+0 until end of turn for each card discarded this way. Whenever that creature deals combat damage to a player this turn, you draw a card."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616888_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:10.823",
+      "name": "Captain Howler, Sea Scourge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616888,
+      "url": "https://www.tcgplayer.com/product/616888/magic-promo-pack-aetherdrift-captain-howler-sea-scourge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Caradora Heart of Alacria",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "195"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Knight"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Caradora enters, you may search your library for a Mount or Vehicle card, reveal it, put it into your hand, then shuffle.\u003cbr\u003e\u003cbr\u003e\nIf one or more +1/+1 counters would be put on a creature or Vehicle you control, that many plus one +1/+1 counters are put on it instead."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616889_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:12.063",
+      "name": "Caradora, Heart of Alacria",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616889,
+      "url": "https://www.tcgplayer.com/product/616889/magic-promo-pack-aetherdrift-caradora-heart-of-alacria"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Coalstoke Gearhulk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "198"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Construct"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace, deathtouch\r\u003cbr\u003e\n\u003cbr\u003eWhen this creature enters, put target creature card with mana value 4 or less from a graveyard onto the battlefield under your control with a finality counter on it. That creature gains menace, deathtouch, and haste. At the beginning of your next end step, exile that creature."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616890_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:13.043",
+      "name": "Coalstoke Gearhulk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616890,
+      "url": "https://www.tcgplayer.com/product/616890/magic-promo-pack-aetherdrift-coalstoke-gearhulk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Debris Beetle",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "199"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Vehicle"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cbr\u003eTrample\r\u003cbr\u003e\n\u003cbr\u003eWhen this Vehicle enters, each opponent loses 3 life and you gain 3 life.\r\u003cbr\u003e\n\u003cbr\u003eCrew 2"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eMany brought weapons to the race. This crew built theirs as they went.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616891_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:14.08",
+      "name": "Debris Beetle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616891,
+      "url": "https://www.tcgplayer.com/product/616891/magic-promo-pack-aetherdrift-debris-beetle"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Explosive Getaway",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "202"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exile up to one target artifact or creature. Return it to the battlefield under its owner's control at the beginning of the next end step.\r\u003cbr\u003e\n\u003cbr\u003e\r\u003cbr\u003e\nExplosive Getaway deals 4 damage to each creature."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eLoot decided he liked these rescuers much more than the last ones.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616892_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:15.243",
+      "name": "Explosive Getaway",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616892,
+      "url": "https://www.tcgplayer.com/product/616892/magic-promo-pack-aetherdrift-explosive-getaway"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Far Fortune End Boss",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "203"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Mercenary"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Start your engines! \u003cem\u003e(If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\u003c/em\u003e\u003cbr\u003e\u003cbr\u003e\r\nWhenever you attack, Far Fortune deals 1 damage to each opponent.\u003cbr\u003e\u003cbr\u003e\r\nMax speed — If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616893_200w.jpg",
+      "modifiedOn": "2025-03-04T21:52:58.33",
+      "name": "Far Fortune, End Boss",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616893,
+      "url": "https://www.tcgplayer.com/product/616893/magic-promo-pack-aetherdrift-far-fortune-end-boss"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fearless Swashbuckler",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "204"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Fish Pirate"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\u003cbr\u003e\u003cbr\u003e\nVehicles you control have haste.\u003cbr\u003e\u003cbr\u003e\nWhenever you attack, if a Pirate and a Vehicle attacked this combat, draw three cards, then discard two cards."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616894_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:17.597",
+      "name": "Fearless Swashbuckler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616894,
+      "url": "https://www.tcgplayer.com/product/616894/magic-promo-pack-aetherdrift-fearless-swashbuckler"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ketramose the New Dawn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "209"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — God"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace, lifelink, indestructible\u003cbr\u003e\u003cbr\u003e\nKetramose can't attack or block unless there are seven or more card in exile.\u003cbr\u003e\u003cbr\u003e\nWhenever one or more cards are put into exile from graveyards and/or the battfield during your turn, you draw a card and lose 1 life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eLet the past die so the future might live.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616895_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:18.593",
+      "name": "Ketramose, the New Dawn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616895,
+      "url": "https://www.tcgplayer.com/product/616895/magic-promo-pack-aetherdrift-ketramose-the-new-dawn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kolodin Triumph Caster",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "210"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Pilot"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Mounts and Vehicles you control have haste.\u003cbr\u003e\u003cbr\u003e\nWhenever a Mount you control enters, it becomes an artifact creature until end of turn.\u003cbr\u003e\u003cbr\u003e\nWhenever a Vehicle you control enters, it becomes an artifact creature until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\" Stay in formation! We win this together, or not at all.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616896_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:19.843",
+      "name": "Kolodin, Triumph Caster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616896,
+      "url": "https://www.tcgplayer.com/product/616896/magic-promo-pack-aetherdrift-kolodin-triumph-caster"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Loot the Pathfinder",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "212"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Beast Noble"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Double strike, vigilance, haste\u003cbr\u003e\u003cbr\u003e\nExhaust — G, T: Add three mana of any one color. \u003cem\u003e(Activate each exhaust ability only once.)\u003c/em\u003e\u003cbr\u003e\u003cbr\u003e\nExhaust — U, T: Draw three cards.\u003cbr\u003e\u003cbr\u003e\nExhaust — R, T: Loot deals 3 damage to any target."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616897_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:20.963",
+      "name": "Loot, the Pathfinder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616897,
+      "url": "https://www.tcgplayer.com/product/616897/magic-promo-pack-aetherdrift-loot-the-pathfinder"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mendicant Core Guidelight",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "213"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact Creature — Robot"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Medicant Core's power is equal to the number of artifacts you control.\u003cbr\u003e\u003cbr\u003e\nStart your engines! \u003cem\u003e(If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\u003c/em\u003e\u003cbr\u003e\u003cbr\u003e\nMax speed — Whenever you cast an artifact spell, you may pay 1. If you do, copy it. \u003cem\u003e(The copy becomes a token.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616898_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:22.05",
+      "name": "Mendicant Core, Guidelight",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616898,
+      "url": "https://www.tcgplayer.com/product/616898/magic-promo-pack-aetherdrift-mendicant-core-guidelight"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mimeoplasm Revered One",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "214"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Ooze"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As Mimeoplasm enters, exile up to X creature cards from your graveyard. It enters with three +1/+1 counters on it for each creature card exiled this way.\r\u003cbr\u003e\n\u003cbr\u003e2: Mimeoplasm becomes a copy of target creature card exiled with it, except it's 0/0 and has this ability."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616899_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:23.23",
+      "name": "Mimeoplasm, Revered One",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616899,
+      "url": "https://www.tcgplayer.com/product/616899/magic-promo-pack-aetherdrift-mimeoplasm-revered-one"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Oildeep Gearhulk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "215"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Construct"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lifelink, ward 1\r\u003cbr\u003e\n\u003cbr\u003eWhen this creature enters, look at target player's hand. You may choose a card from it. If you do, that player discards that card, then draws a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eOil-actuated inventions raised eyebrows after the Invasion, but no one could argue against the efficacy of the design.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616900_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:24.3",
+      "name": "Oildeep Gearhulk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616900,
+      "url": "https://www.tcgplayer.com/product/616900/magic-promo-pack-aetherdrift-oildeep-gearhulk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pyrewood Gearhulk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "216"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Construct"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance, menace \r\u003cbr\u003e\n\u003cbr\u003eWhen this creature enters, other creatures you control get +2/+2 and gain vigilance and menace until end of turn. Damage can't be prevented this turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eA mighty memorial to a fallen savior.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616901_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:25.48",
+      "name": "Pyrewood Gearhulk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616901,
+      "url": "https://www.tcgplayer.com/product/616901/magic-promo-pack-aetherdrift-pyrewood-gearhulk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Redshift Rocketeer Chief",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "218"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Goblin Pilot"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance\u003cbr\u003e\u003cbr\u003e\nT: Add X mana of any color, where X is Redshift's power. Spend this mana only to activate abilities.\u003cbr\u003e\u003cbr\u003e\nExhaust — 10RG: Put any number fo permanent cards from your hand onto the battlefield. \u003cem\u003e(Activate each exhaust ability only once.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616902_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:26.703",
+      "name": "Redshift, Rocketeer Chief",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616902,
+      "url": "https://www.tcgplayer.com/product/616902/magic-promo-pack-aetherdrift-redshift-rocketeer-chief"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Riptide Gearhulk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "219"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Construct"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Double strike\r\u003cbr\u003e\n\u003cbr\u003eProwess \u003cem\u003e(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\u003c/em\u003e\r\u003cbr\u003e\n\u003cbr\u003eWhen this creature enters, for each opponent, put up to one target nonland permanent that player controls into its owner's library third from the top."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616903_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:27.957",
+      "name": "Riptide Gearhulk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616903,
+      "url": "https://www.tcgplayer.com/product/616903/magic-promo-pack-aetherdrift-riptide-gearhulk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sab Sunen Luxa Embodied",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "221"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — God"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Reach, trample, indestructible \r\u003cbr\u003e\n\u003cbr\u003eSab-Sunen can't attack or block unless it has an even number of counters on it. \u003cem\u003e(Zero is even.)\u003c/em\u003e \r\u003cbr\u003e\n\u003cbr\u003eAt the beginning of your first main phase, put a +1/+1 counter on Sab-Sunen. Then if it has an odd number of counters on it, draw two cards."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616904_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:29.183",
+      "name": "Sab-Sunen, Luxa Embodied",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616904,
+      "url": "https://www.tcgplayer.com/product/616904/magic-promo-pack-aetherdrift-sab-sunen-luxa-embodied"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Samut the Driving Force",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "222"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Warrior Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike, vigilance, haste\u003cbr\u003e\u003cbr\u003e\r\nStart your engines! \u003cem\u003e(If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\u003c/em\u003e\u003cbr\u003e\u003cbr\u003e\r\nOther creatures you control get +X/+0, where X is your speed.\u003cbr\u003e\u003cbr\u003e\r\nNoncreature spells you cast cost X less to cast, where X is your speed."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616905_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:29.6",
+      "name": "Samut, the Driving Force",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616905,
+      "url": "https://www.tcgplayer.com/product/616905/magic-promo-pack-aetherdrift-samut-the-driving-force"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sita Varma Masked Racer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "223"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Rogue"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exhaust — XGGU: Put X +1/+1 counters on Sita Varma. Then you may have the base power and toughness of each other creature you control becomes equal to Sita Varma's power until end of turn. \u003cem\u003e(Activate each exhaust ability only once.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616906_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:29.863",
+      "name": "Sita Varma, Masked Racer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616906,
+      "url": "https://www.tcgplayer.com/product/616906/magic-promo-pack-aetherdrift-sita-varma-masked-racer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Winter Cursed Rider",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "228"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Warlock"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Ward—Pay 2 life.\u003cbr\u003e\u003cbr\u003e\r\nArtifacts you control have \"Ward—Pay 2 life.\"\u003cbr\u003e\u003cbr\u003e\r\nExhaust — 2UB, T, Exile X artifact cards from your graveyard: Each other nonartifact creature gets -X/-X until end of turn. \u003cem\u003e(Activate each exhaust ability only once.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616907_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:30.09",
+      "name": "Winter, Cursed Rider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616907,
+      "url": "https://www.tcgplayer.com/product/616907/magic-promo-pack-aetherdrift-winter-cursed-rider"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Zahur Glorys Past",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "229"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Zombie Cat Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Start your engines! \u003cem\u003e(If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\u003c/em\u003e\u003cbr\u003e\u003cbr\u003e\r\nSacrifice another creature: Surveil 1. Activate only once each turn.\u003cbr\u003e\u003cbr\u003e\r\nMaz speed — Whenever a nontoken creature you control dies, create a tapped 2/2 black Zombie creature token."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616908_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:30.403",
+      "name": "Zahur, Glory's Past",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616908,
+      "url": "https://www.tcgplayer.com/product/616908/magic-promo-pack-aetherdrift-zahur-glorys-past"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Aetherspark",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "231"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact Planeswalker — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As long as The Aetherspark is attached to a creature, The Aetherspark can't be attacked and has \"Whenever equipped creature deals combat damage during your turn, put that many loyalty counters on The Aetherspark.\"\u003cbr\u003e\u003cbr\u003e\r\n[+1]: Attach The Aetherspark to up to one target creature you control. Put a +1/+1 counter on that creature.\u003cbr\u003e\u003cbr\u003e\r\n[-5]: Draw two cards.\u003cbr\u003e\u003cbr\u003e\r\n[-10]: Add ten mana of any one color."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616909_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:30.673",
+      "name": "The Aetherspark",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616909,
+      "url": "https://www.tcgplayer.com/product/616909/magic-promo-pack-aetherdrift-the-aetherspark"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lifecraft Engine",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "234"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Vehicle"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As this Vehicle enters, choose a creature type. \r\u003cbr\u003e\n\u003cbr\u003eVehicle creatures you control are the chosen creature type in addition to their other types. \r\u003cbr\u003e\n\u003cbr\u003eEach creature you control of the chosen type other than this Vehicle gets +1/+1. \r\u003cbr\u003e\n\u003cbr\u003eCrew 3"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616910_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:31.987",
+      "name": "Lifecraft Engine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616910,
+      "url": "https://www.tcgplayer.com/product/616910/magic-promo-pack-aetherdrift-lifecraft-engine"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Marketback Walker",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "235"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Construct"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "This creature enters with X + 1/1 counters on it. \r\u003cbr\u003e\n\u003cbr\u003e4: Put 1 + 1/1 counter on this creature. \r\u003cbr\u003e\n\u003cbr\u003eWhen this creature dies, draw a card for each 1/1 counter on it."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eMany of the inventions built to fight the Phyrexians have since been repurposed for civilian use.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616911_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:33.383",
+      "name": "Marketback Walker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616911,
+      "url": "https://www.tcgplayer.com/product/616911/magic-promo-pack-aetherdrift-marketback-walker"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Monument to Endurance",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "237"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you discard a card, choose one that hasn't been chosen this turn —\r\u003cbr\u003e\n\u003cbr\u003e• Draw a card.\r\u003cbr\u003e\n\u003cbr\u003e• Create a Treasure token.\r\u003cbr\u003e\n\u003cbr\u003e• Each opponent loses 3 life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eLoss is not the end of the journey.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616912_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:34.883",
+      "name": "Monument to Endurance",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616912,
+      "url": "https://www.tcgplayer.com/product/616912/magic-promo-pack-aetherdrift-monument-to-endurance"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Radiant Lotus",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "240"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T, Sacrifice one or more artifacts:\r\u003cbr\u003e\n\u003cbr\u003eChoose a color. Target player adds three mana of the chosen color for each artifact sacrificed this way."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eAfter devastation, hope bloomed.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616913_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:36.243",
+      "name": "Radiant Lotus",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616913,
+      "url": "https://www.tcgplayer.com/product/616913/magic-promo-pack-aetherdrift-radiant-lotus"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bleachbone Verge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "250"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add B. \u003cbr\u003e\u003cbr\u003e\nT: Add W. Activate only if you control a Plains or a Swamp."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Despite being older than nearly every living thing here, Loot is still just a kid. That doesn't change what we need from him.\" \u003cbr\u003e\u003cbr\u003e\n—Face\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616914_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:37.72",
+      "name": "Bleachbone Verge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616914,
+      "url": "https://www.tcgplayer.com/product/616914/magic-promo-pack-aetherdrift-bleachbone-verge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Muraganda Raceway",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "257"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Start your engines! \u003cem\u003e(If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)\u003c/em\u003e\u003cbr\u003e\u003cbr\u003e\nT: Add C.\u003cbr\u003e\u003cbr\u003e\nMax speed — T: Add CC."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eStage 3: The streaming jungles of Muraganda under falling skies.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616915_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:39.13",
+      "name": "Muraganda Raceway",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616915,
+      "url": "https://www.tcgplayer.com/product/616915/magic-promo-pack-aetherdrift-muraganda-raceway"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Riverpyre Verge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "260"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add R.\u003cbr\u003e\u003cbr\u003e\nT: Add U. Activate only if you control and Island or a Mountain."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"While Loot's ability to predict Omenpaths is extraordinary, I'm more impressed by his unrelenting curiousity.\"\u003cbr\u003e\u003cbr\u003e\n—Pia Nalaar\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616916_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:40.447",
+      "name": "Riverpyre Verge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616916,
+      "url": "https://www.tcgplayer.com/product/616916/magic-promo-pack-aetherdrift-riverpyre-verge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sunbillow Verge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "264"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add W. \u003cbr\u003e\u003cbr\u003e\r\nT: Add R. Activate only if you control a Mountain or a Plains."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Loot is free to go where he wants, so let's make sure the kid gets there in one piece.\" \u003cbr\u003e\u003cbr\u003e\r\n—Chandra Nalaar\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616917_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:40.73",
+      "name": "Sunbillow Verge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616917,
+      "url": "https://www.tcgplayer.com/product/616917/magic-promo-pack-aetherdrift-sunbillow-verge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wastewood Verge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "268"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add G. \u003cbr\u003e\u003cbr\u003e\r\nT: Add B. Activate only if you control a Swamp or a Forest."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I'm worried about Loot. He has great power but lacks the experience to know what dangers await him.\"\u003cbr\u003e\u003cbr\u003e\r\n—Vraska\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616918_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:41.127",
+      "name": "Wastewood Verge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616918,
+      "url": "https://www.tcgplayer.com/product/616918/magic-promo-pack-aetherdrift-wastewood-verge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Willowrush Verge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "270"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add U. \u003cbr\u003e\u003cbr\u003e\r\nT: Add G. Activate only if you control a Forest or Island."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"If nothing else, that Loot is one brave little rat.\"\u003cbr\u003e\u003cbr\u003e\r\n—Winter\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/616919_200w.jpg",
+      "modifiedOn": "2025-02-13T16:48:41.317",
+      "name": "Willowrush Verge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 616919,
+      "url": "https://www.tcgplayer.com/product/616919/magic-promo-pack-aetherdrift-willowrush-verge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Banner of Kinship",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "127"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As this artifact enters, choose a creature type. This artifact enters with a fellowship counter on it for each creature you control of the chosen type. \r\n\u003cbr\u003eCreatures you control of the chosen type get +1/+1 for each fellowship counter on this artifact."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/623110_200w.jpg",
+      "modifiedOn": "2025-03-12T15:47:09.503",
+      "name": "Banner of Kinship",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 623110,
+      "url": "https://www.tcgplayer.com/product/623110/magic-promo-pack-aetherdrift-banner-of-kinship"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kykar Zephyr Awakener",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "122"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Bird Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying \u003cbr\u003e\r\nWhenever you cast a noncreature spell, choose one —\u003cbr\u003e\r\n• Exile another target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step. \u003cbr\u003e\r\n• Create a 1/1 white Spirit creature token with flying."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/623111_200w.jpg",
+      "modifiedOn": "2025-03-12T15:47:59.83",
+      "name": "Kykar, Zephyr Awakener",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 623111,
+      "url": "https://www.tcgplayer.com/product/623111/magic-promo-pack-aetherdrift-kykar-zephyr-awakener"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Anthem of Champions",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "116"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Creatures you control get +1/+1."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eSetessa is protected by four warrior factions, each named for an animal. United, they can repel any threat to their polis.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/623190_200w.jpg",
+      "modifiedOn": "2025-03-13T15:48:30.54",
+      "name": "Anthem of Champions",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 623190,
+      "url": "https://www.tcgplayer.com/product/623190/magic-promo-pack-aetherdrift-anthem-of-champions"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Alesha Who Laughs at Fate",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "115"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike \u003cbr\u003e\r\nWhenever Alesha attacks, put a +1/+1 counter on it. \u003cbr\u003e\r\n\u003cem\u003eRaid\u003c/em\u003e — At the beginning of your end step, if you attacked this turn, return target creature card with mana value less than or equal to Alesha's power from your graveyard to the battlefield."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/623207_200w.jpg",
+      "modifiedOn": "2025-03-14T12:49:16.21",
+      "name": "Alesha, Who Laughs at Fate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 623207,
+      "url": "https://www.tcgplayer.com/product/623207/magic-promo-pack-aetherdrift-alesha-who-laughs-at-fate"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cemetery Protector",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\r\n\u003cbr\u003eWhen Cemetery Protector enters the battlefield, exile a card from a graveyard.\r\n\u003cbr\u003eWhenever you play a land or cast a spell, if it shares a card type with the exiled card, create a 1/1 white Human creature token."
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/626552_200w.jpg",
+      "modifiedOn": "2025-04-07T12:28:31.89",
+      "name": "Cemetery Protector",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 626552,
+      "url": "https://www.tcgplayer.com/product/626552/magic-promo-pack-aetherdrift-cemetery-protector"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Koma World Eater",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "121"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Serpent"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "8"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "12"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "This spell can't be countered. \r\n\u003cbr\u003eTrample, ward 4\r\n\u003cbr\u003eWhenever Koma deals combat damage to a player, create four 3/3 blue Serpent creature tokens named Koma's Coil."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe gods imprisoned Koma, fearing he would eventually devour the Cosmos itself.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/628505_200w.jpg",
+      "modifiedOn": "2025-08-20T17:49:15.023",
+      "name": "Koma, World-Eater",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 628505,
+      "url": "https://www.tcgplayer.com/product/628505/magic-promo-pack-aetherdrift-koma-world-eater"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Elenda Saint of Dusk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "119"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Vampire Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lifelink, Hexproof from instants\r\n\u003cbr\u003eAs long as your life total is greater than your starting life total, Elenda gets +1/+1 and has menace. Elenda gets an additional +5/+5 as long as your life total is at least 10 greater than your starting life total."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"You have learned nothing in my absence.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23930,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/628506_200w.jpg",
+      "modifiedOn": "2025-08-28T15:12:40.38",
+      "name": "Elenda, Saint of Dusk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 628506,
+      "url": "https://www.tcgplayer.com/product/628506/magic-promo-pack-aetherdrift-elenda-saint-of-dusk"
+    }
+  ],
+  "success": true,
+  "totalItems": 99
+}

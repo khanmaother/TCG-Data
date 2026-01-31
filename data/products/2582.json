@@ -1,0 +1,1385 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Chaos Dragon Levianeer UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 LIGHT and/or DARK monsters from your GY. When Summoned this way: You can apply this effect, based on the Attribute(s) of the monsters banished for the Special Summon, also this card cannot attack for the rest of this turn.\r\n\u003cbr\u003e• Only LIGHT: Special Summon 1 monster from your GY in Defense Position.\r\n\u003cbr\u003e• Only DARK: Shuffle 1 random card from your opponent's hand into the Deck.\r\n\u003cbr\u003e• Both LIGHT and DARK: Destroy up to 2 cards on the field.\r\nYou can only use this effect of \"Chaos Dragon Levianeer\" once per turn."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205788_200w.jpg",
+      "modifiedOn": "2023-08-04T15:16:35.1",
+      "name": "Chaos Dragon Levianeer (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205788,
+      "url": "https://www.tcgplayer.com/product/205788/yugioh-ots-tournament-pack-12-chaos-dragon-levianeer-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Twin Twisters UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Quick-Play Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Discard 1 card, then target up to 2 Spells/Traps on the field; destroy them."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205789_200w.jpg",
+      "modifiedOn": "2023-08-04T15:17:03.297",
+      "name": "Twin Twisters (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205789,
+      "url": "https://www.tcgplayer.com/product/205789/yugioh-ots-tournament-pack-12-twin-twisters-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Solemn Judgment UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Counter Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When a monster would be Summoned, OR a Spell/Trap Card is activated: Pay half your Life Points; negate the Summon or activation, and if you do, destroy that card."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205790_200w.jpg",
+      "modifiedOn": "2023-08-04T15:16:45.813",
+      "name": "Solemn Judgment (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205790,
+      "url": "https://www.tcgplayer.com/product/205790/yugioh-ots-tournament-pack-12-solemn-judgment-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gren Maju Da Eiza",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN004"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card's ATK/DEF are each equal to the number of your banished cards x 400."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205791_200w.jpg",
+      "modifiedOn": "2022-06-29T19:02:23.457",
+      "name": "Gren Maju Da Eiza",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205791,
+      "url": "https://www.tcgplayer.com/product/205791/yugioh-ots-tournament-pack-12-gren-maju-da-eiza"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Crusadia Leonis",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN005"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can Special Summon this card (from your hand) in Defense Position to your zone a Link Monster points to. You can only Special Summon \"Crusadia Leonis\" once per turn this way. You can target 1 \"Crusadia\" Link Monster you control; if it attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent. You can only use this effect of \"Crusadia Leonis\" once per turn."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205793_200w.jpg",
+      "modifiedOn": "2025-05-15T19:34:52.817",
+      "name": "Crusadia Leonis",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205793,
+      "url": "https://www.tcgplayer.com/product/205793/yugioh-ots-tournament-pack-12-crusadia-leonis"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Salamangreat Jack Jaguar",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN006"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Cyberse"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card attacks a Defense Position monster, inflict piercing battle damage. If this card is in your GY and you control a “Salamangreat” Link Monster: You can target 1 “Salamangreat” monster in your GY, except “Salamangreat Jack Jaguar”; shuffle it into the Deck, and if you do, Special Summon this card to your zone a “Salamangreat” Link Monster you control points to. You can only use this effect of \"Salamangreat Jack Jaguar\" once per turn."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205794_200w.jpg",
+      "modifiedOn": "2023-06-02T17:39:20.947",
+      "name": "Salamangreat Jack Jaguar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205794,
+      "url": "https://www.tcgplayer.com/product/205794/yugioh-ots-tournament-pack-12-salamangreat-jack-jaguar"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Orcust Cymbal Skeleton",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN007"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can banish this card from your GY, then target 1 “Orcust” monster in your GY, except “Orcust Cymbal Skeleton”; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except DARK monsters. You can only use this effect of “Orcust Cymbal Skeleton” once per turn."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205795_200w.jpg",
+      "modifiedOn": "2019-12-09T19:59:15.48",
+      "name": "Orcust Cymbal Skeleton",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205795,
+      "url": "https://www.tcgplayer.com/product/205795/yugioh-ots-tournament-pack-12-orcust-cymbal-skeleton"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Servant of Endymion",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN008"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Pendulum/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cstrong\u003ePendulum Effect:\u003c/strong\u003e Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from this card; Special Summon both this card from your Pendulum Zone and 1 monster from your Deck with 1000 or more ATK that you can place a Spell Counter on, and if you do, place 1 Spell Counter on each.\r\n\u003cBr\u003e\u003cstrong\u003eMonster Effect:\u003c/strong\u003e You can only Special Summon \"Servant(s) of Endymion\" once per turn. This card with a Spell Counter can attack directly. Once per opponent's turn (Quick Effect): You can discard 1 card; place 1 Spell Counter on each card you control that you can place a Spell Counter on. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone, then place the same number of Spell Counters on it that it had as a monster."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205796_200w.jpg",
+      "modifiedOn": "2019-12-09T20:01:22.203",
+      "name": "Servant of Endymion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205796,
+      "url": "https://www.tcgplayer.com/product/205796/yugioh-ots-tournament-pack-12-servant-of-endymion"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Tenyi Spirit Adhara",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN009"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Wyrm"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Tuner/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If you control no Effect Monsters: You can Special Summon this card from your hand. If you control a face-up non-Effect Monster: You can banish this card from your hand or GY, then target 1 of your banished Wyrm monsters, except this card; add it to your hand. You can only use each effect of \"Tenyi Spirit - Adhara\" once per turn."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205797_200w.jpg",
+      "modifiedOn": "2025-05-15T19:34:52.863",
+      "name": "Tenyi Spirit - Adhara",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205797,
+      "url": "https://www.tcgplayer.com/product/205797/yugioh-ots-tournament-pack-12-tenyi-spirit-adhara"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Tenyi Spirit Vishuda",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN010"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Wyrm"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If you control no Effect Monsters: You can Special Summon this card from your hand. If you control a face-up non-Effect Monster: You can banish this card from your hand or GY, then target 1 card your opponent controls; return it to the hand. You can only use each effect of \"Tenyi Spirit - Vishuda\" once per turn."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205798_200w.jpg",
+      "modifiedOn": "2019-12-09T20:06:36.423",
+      "name": "Tenyi Spirit - Vishuda",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205798,
+      "url": "https://www.tcgplayer.com/product/205798/yugioh-ots-tournament-pack-12-tenyi-spirit-vishuda"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Time Thief Redoer",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN011"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Xyz/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "2 Level 4 monsters\r\n\u003cbr\u003eOnce per turn, during the Standby Phase: You can attach the top card of your opponent's Deck to this card as material. (Quick Effect): You can detach up to 3 different types of materials from this card, then apply the following effect(s) depending on what was detached.\r\n\u003cbr\u003e• Monster: Banish this card until the End Phase. \r\n\u003cbr\u003e• Spell: Draw 1 card.\r\n\u003cbr\u003e• Trap: Place 1 face-up card your opponent controls on the top of the Deck.\r\n\u003cbr\u003eYou can only use this effect of \"Time Thief Redoer\" once per turn."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205799_200w.jpg",
+      "modifiedOn": "2019-12-09T20:09:22.87",
+      "name": "Time Thief Redoer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205799,
+      "url": "https://www.tcgplayer.com/product/205799/yugioh-ots-tournament-pack-12-time-thief-redoer"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Salamangreat Rage",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN012"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate 1 of these effects.\r\n\u003cbr\u003e• Send 1 \"Salamangreat\" monster from your hand or face-up field to the GY, then target 1 card on the field; destroy it.\r\n\u003cbr\u003e• Target 1 \"Salamangreat\" Link Monster you control that was Link Summoned using a monster with its same name as material; destroy cards your opponent controls, up to that monster's Link Rating.\r\n\u003cbr\u003eYou can only activate 1 \"Salamangreat Rage\" per turn."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205801_200w.jpg",
+      "modifiedOn": "2024-04-14T15:28:30.893",
+      "name": "Salamangreat Rage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205801,
+      "url": "https://www.tcgplayer.com/product/205801/yugioh-ots-tournament-pack-12-salamangreat-rage"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gigantes",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN013"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 EARTH monster from your GY. If this card is destroyed by battle and sent to the GY: Destroy all Spell and Traps on the field."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205802_200w.jpg",
+      "modifiedOn": "2019-12-09T20:12:46.55",
+      "name": "Gigantes",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205802,
+      "url": "https://www.tcgplayer.com/product/205802/yugioh-ots-tournament-pack-12-gigantes"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Brotherhood of the Fire Fist Raven",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN014"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast-Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is sent from the field to the GY: You can Set 1 \"Fire Formation\" Spell directly from your Deck. \"Fire Formation\" Spells/Traps you control cannot be destroyed by your opponent's card effects."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205803_200w.jpg",
+      "modifiedOn": "2019-12-09T20:14:17.253",
+      "name": "Brotherhood of the Fire Fist - Raven",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205803,
+      "url": "https://www.tcgplayer.com/product/205803/yugioh-ots-tournament-pack-12-brotherhood-of-the-fire-fist-raven"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Magicians Robe",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN015"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During your opponent's turn: You can discard 1 Spell/Trap Card; Special Summon 1 \"Dark Magician\" from your Deck (this is a Quick Effect). During your opponent's turn, if you activate a Spell/Trap Card or effect while this card is in your Graveyard (except during the Damage Step): You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Magician's Robe\" once per turn."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205805_200w.jpg",
+      "modifiedOn": "2025-05-15T19:34:52.91",
+      "name": "Magician's Robe",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205805,
+      "url": "https://www.tcgplayer.com/product/205805/yugioh-ots-tournament-pack-12-magicians-robe"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Sea Archiver",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN016"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Cyberse"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If a monster is Normal or Special Summoned to a zone a Link Monster points to (except during the Damage Step): You can Special Summon this card from your GY (if it was there when the Summon resolved) or hand (even if not), but banish it when it leaves the field. You can only use this effect of \"Sea Archiver\" once per turn."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205807_200w.jpg",
+      "modifiedOn": "2025-05-15T19:34:52.957",
+      "name": "Sea Archiver",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205807,
+      "url": "https://www.tcgplayer.com/product/205807/yugioh-ots-tournament-pack-12-sea-archiver"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Flame Bufferlo",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Cyberse"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this face-up card leaves the field: You can discard 1 Cyberse monster, and if you do, draw 2 cards. You can only use this effect of \"Flame Buffalo\" once per turn."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205808_200w.jpg",
+      "modifiedOn": "2023-03-19T11:21:57.463",
+      "name": "Flame Bufferlo",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205808,
+      "url": "https://www.tcgplayer.com/product/205808/yugioh-ots-tournament-pack-12-flame-bufferlo"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Salamangreat Fowl",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN018"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Cyberse"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If a \"Salamangreat\" monster(s), except \"Salamangreat Fowl\" is Normal or Special Summoned (except during the Damage Step): You can Special Summon this card from your hand. You can only use this effect of \"Salamangreat Fowl\" once per turn. You can send 1 \"Salamangreat\" card from your hand or face-up field to the GY, then target 1 Set Spell/Trap your opponent controls; that Set card cannot be activated this turn."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205809_200w.jpg",
+      "modifiedOn": "2019-12-09T20:22:52.273",
+      "name": "Salamangreat Fowl",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205809,
+      "url": "https://www.tcgplayer.com/product/205809/yugioh-ots-tournament-pack-12-salamangreat-fowl"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Kaminari Attack",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN019"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Thunder"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\"Ocubeam\" + \"Mega Thunderball\""
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205811_200w.jpg",
+      "modifiedOn": "2025-05-15T19:34:52.99",
+      "name": "Kaminari Attack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205811,
+      "url": "https://www.tcgplayer.com/product/205811/yugioh-ots-tournament-pack-12-kaminari-attack"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Brotherhood of the Fire Fist Horse Prince",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN020"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast-Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Synchro/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "1 FIRE Tuner + 1+ non-Tuner monsters\r\n\u003cbr\u003eWhen this card is Synchro Summoned: You can Special Summon 1 Level 3 FIRE monster from your Deck. After you Synchro Summon this card, you cannot Special Summon Level 5 or higher monsters for the rest of the turn."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205812_200w.jpg",
+      "modifiedOn": "2019-12-09T20:26:21.743",
+      "name": "Brotherhood of the Fire Fist - Horse Prince",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205812,
+      "url": "https://www.tcgplayer.com/product/205812/yugioh-ots-tournament-pack-12-brotherhood-of-the-fire-fist-horse-prince"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Hi Speedroid Chanbara",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN021"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Synchro/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "1 Tuner + 1 or more non-Tuner monsters\r\n\u003cbr\u003eThis card can make a second attack during each Battle Phase. At the start of the Damage Step, if this card battles: It gains 200 ATK. If this card is sent to the Graveyard: You can target 1 of your banished \"Speedroid\" cards; add it to your hand. You can only Special Summon \"Hi-Speedroid Chanbara(s)\" once per turn."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205814_200w.jpg",
+      "modifiedOn": "2025-05-15T19:34:53.04",
+      "name": "Hi-Speedroid Chanbara",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205814,
+      "url": "https://www.tcgplayer.com/product/205814/yugioh-ots-tournament-pack-12-hi-speedroid-chanbara"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Hole",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN022"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Destroy all monsters on the field."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205816_200w.jpg",
+      "modifiedOn": "2022-11-28T06:14:44.38",
+      "name": "Dark Hole",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205816,
+      "url": "https://www.tcgplayer.com/product/205816/yugioh-ots-tournament-pack-12-dark-hole"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Makiu the Magical Mist",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN023"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Target 1 \"Summoned Skull\", or 1 Thunder Monster, in your Monster Zone; Destroy all monsters your opponent controls with DEF less than or equal to the ATK of That monster. You can not conduct your Battle Phase the turn you activate this card."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205817_200w.jpg",
+      "modifiedOn": "2019-12-09T20:31:56.263",
+      "name": "Makiu, the Magical Mist",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205817,
+      "url": "https://www.tcgplayer.com/product/205817/yugioh-ots-tournament-pack-12-makiu-the-magical-mist"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Contract with the Abyss",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN024"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Ritual Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card can be used to Ritual Summon any DARK Ritual Monster. You must also Tribute monsters from your hand or field of total Levels exactly equal the level of the Ritual Monster you Ritual Summon."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205818_200w.jpg",
+      "modifiedOn": "2019-12-09T20:34:26.95",
+      "name": "Contract with the Abyss",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205818,
+      "url": "https://www.tcgplayer.com/product/205818/yugioh-ots-tournament-pack-12-contract-with-the-abyss"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Fire Formation Tenki",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN025"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is activated: You can add 1 Level 4 or lower Beast-Warrior monster from your Deck to your hand. All Beast-Warrior monsters you control gain 100 ATK. You can only activate 1 \"Fire Formation - Tenki\" per turn."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205819_200w.jpg",
+      "modifiedOn": "2025-05-15T19:34:53.087",
+      "name": "Fire Formation - Tenki",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205819,
+      "url": "https://www.tcgplayer.com/product/205819/yugioh-ots-tournament-pack-12-fire-formation-tenki"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Primal Being Token",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "OP12-EN026"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Rock"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Token Monster"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card can be used as a \"Primal Being Token\".\r\n\u003cbr\u003e\u003cbr\u003e\r\n*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF."
+        }
+      ],
+      "groupId": 2582,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/205820_200w.jpg",
+      "modifiedOn": "2024-11-29T08:40:47.23",
+      "name": "Primal Being Token",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 205820,
+      "url": "https://www.tcgplayer.com/product/205820/yugioh-ots-tournament-pack-12-primal-being-token"
+    }
+  ],
+  "success": true,
+  "totalItems": 26
+}

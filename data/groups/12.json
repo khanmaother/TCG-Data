@@ -1,0 +1,34 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "abbreviation": null,
+      "categoryId": 12,
+      "groupId": 1054,
+      "isSupplemental": false,
+      "modifiedOn": "2023-07-25T18:05:36.133",
+      "name": "Core Set",
+      "publishedOn": "2026-01-30T20:00:05.4177058Z"
+    },
+    {
+      "abbreviation": null,
+      "categoryId": 12,
+      "groupId": 1055,
+      "isSupplemental": false,
+      "modifiedOn": "2023-07-25T18:07:10.93",
+      "name": "CRP",
+      "publishedOn": "2026-01-30T20:00:05.4489497Z"
+    },
+    {
+      "abbreviation": null,
+      "categoryId": 12,
+      "groupId": 1056,
+      "isSupplemental": false,
+      "modifiedOn": "2023-07-25T19:15:36.453",
+      "name": "Spoils of War",
+      "publishedOn": "2026-01-30T20:00:05.4489497Z"
+    }
+  ],
+  "success": true,
+  "totalItems": 3
+}

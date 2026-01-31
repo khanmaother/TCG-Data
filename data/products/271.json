@@ -1,0 +1,171 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "The Dark Creator",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "RGBT-ENSE1"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Thunder"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "3000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned, by having 5 or more DARK monsters in your Graveyard while you control no monsters. Once per turn, you can remove from play 1 DARK monster from your Graveyard to Special Summon 1 DARK monster from your Graveyard."
+        }
+      ],
+      "groupId": 271,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32811_200w.jpg",
+      "modifiedOn": "2018-08-27T11:46:35.783",
+      "name": "The Dark Creator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32811,
+      "url": "https://www.tcgplayer.com/product/32811/yugioh-raging-battle-se-the-dark-creator"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Allure of Darkness",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "RGBT-ENSE2"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Draw 2 cards, then remove from play 1 DARK monster from your hand. If you don't have any DARK monsters in your hand to remove, send all cards in your hand to the Graveyard."
+        }
+      ],
+      "groupId": 271,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32812_200w.jpg",
+      "modifiedOn": "2015-12-17T18:56:07.823",
+      "name": "Allure of Darkness",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32812,
+      "url": "https://www.tcgplayer.com/product/32812/yugioh-raging-battle-se-allure-of-darkness"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Vice Dragon Promo",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DDY1-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand), but its original ATK and DEF are halved.\r\n\r\n\u003cem\u003eNote: This card was actually released in the Raging Battle Special Edition.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 271,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/81888_200w.jpg",
+      "modifiedOn": "2025-11-12T13:43:29.8",
+      "name": "Vice Dragon (Promo)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 81888,
+      "url": "https://www.tcgplayer.com/product/81888/yugioh-raging-battle-se-vice-dragon-promo"
+    }
+  ],
+  "success": true,
+  "totalItems": 3
+}

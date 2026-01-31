@@ -1,0 +1,1996 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 68,
+      "cleanName": "MonkeyDLuffy",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST01-001"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Activate: Main] [Once Per Turn] Give this Leader or 1 of your Characters up to 1 rested DON!! card."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Red"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Leader"
+        },
+        {
+          "displayName": "Life",
+          "name": "Life",
+          "value": "5"
+        },
+        {
+          "displayName": "Power",
+          "name": "Power",
+          "value": "5000"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Straw Hat Crew;Supernovas"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Strike"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599769_200w.jpg",
+      "modifiedOn": "2025-10-09T18:01:18.933",
+      "name": "Monkey.D.Luffy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599769,
+      "url": "https://www.tcgplayer.com/product/599769/one-piece-card-game-revision-pack-cards-monkeydluffy"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Onigashima Island",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST04-017"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Activate: Main] \u003cstrong\u003eYou may rest this Stage\u003c/strong\u003e: If your Leader has the {Animal Kingdom Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Purple"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Stage"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "3"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Animal Kingdom Pirates"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599774_200w.jpg",
+      "modifiedOn": "2024-11-26T19:03:35.113",
+      "name": "Onigashima Island",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599774,
+      "url": "https://www.tcgplayer.com/product/599774/one-piece-card-game-revision-pack-cards-onigashima-island"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Jinbe",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST01-005"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[DON!! x1] [When Attacking] Up to 1 of your Leader or Character cards other than this card gains +1000 power during this turn."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Red"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Character"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "3"
+        },
+        {
+          "displayName": "Power",
+          "name": "Power",
+          "value": "5000"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Fish-Man;Straw Hat Crew"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Strike"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599777_200w.jpg",
+      "modifiedOn": "2024-11-26T19:04:08.047",
+      "name": "Jinbe",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599777,
+      "url": "https://www.tcgplayer.com/product/599777/one-piece-card-game-revision-pack-cards-jinbe"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Blast Breath",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST04-016"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Counter] DON!! -1 \u003cem\u003e(You may return the specified number of DON!! cards from your field to your DON!! deck.)\u003c/em\u003e: Up to 1 of your Leader or Character cards gains +4000 power during this battle."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Purple"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Event"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "1"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Animal Kingdom Pirates;The Four Emperors"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599780_200w.jpg",
+      "modifiedOn": "2024-11-26T19:04:40.093",
+      "name": "Blast Breath",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599780,
+      "url": "https://www.tcgplayer.com/product/599780/one-piece-card-game-revision-pack-cards-blast-breath"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Nami",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST01-007"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Red"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Character"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "1"
+        },
+        {
+          "displayName": "Power",
+          "name": "Power",
+          "value": "1000"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Straw Hat Crew"
+        },
+        {
+          "displayName": "Counter+",
+          "name": "Counterplus",
+          "value": "1000"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Special"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599781_200w.jpg",
+      "modifiedOn": "2024-11-26T19:04:42.893",
+      "name": "Nami",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599781,
+      "url": "https://www.tcgplayer.com/product/599781/one-piece-card-game-revision-pack-cards-nami"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Guard Point",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST01-014"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle. \r\n\u003cbr\u003e[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Red"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Event"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "1"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Animal;Straw Hat Crew"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599784_200w.jpg",
+      "modifiedOn": "2024-11-26T19:05:09.75",
+      "name": "Guard Point",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599784,
+      "url": "https://www.tcgplayer.com/product/599784/one-piece-card-game-revision-pack-cards-guard-point"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Brachio Bomber",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST04-015"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 6 or less, then add up to 1 DON!! card from your DON!! deck and set it as active. \r\n\u003cbr\u003e[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Purple"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Event"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "6"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Animal Kingdom Pirates"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599785_200w.jpg",
+      "modifiedOn": "2024-11-26T19:05:58.693",
+      "name": "Brachio Bomber",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599785,
+      "url": "https://www.tcgplayer.com/product/599785/one-piece-card-game-revision-pack-cards-brachio-bomber"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Gum Gum Jet Pistol",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST01-015"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Main] K.O. up to 1 of your opponent's Characters with 6000 power or less.\r\n\u003cbr\u003e[Trigger] Activate this card's [Main] effect."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Red"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Event"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "4"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Straw Hat Crew;Supernovas"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599789_200w.jpg",
+      "modifiedOn": "2024-11-26T19:08:10.63",
+      "name": "Gum-Gum Jet Pistol",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599789,
+      "url": "https://www.tcgplayer.com/product/599789/one-piece-card-game-revision-pack-cards-gum-gum-jet-pistol"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Diable Jambe",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST01-016"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Main] Select up to 1 of your {Straw Hat Crew} type Leader or Character cards. Your opponent cannot activate [Blocker] if that Leader or Character attacks during this turn. \r\n\u003cbr\u003e[Trigger] K.O. up to 1 of your opponent's [Blocker] Characters with a cost of 3 or less."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Red"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Event"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "1"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Straw Hat Crew"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599793_200w.jpg",
+      "modifiedOn": "2024-11-26T19:09:24.103",
+      "name": "Diable Jambe",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599793,
+      "url": "https://www.tcgplayer.com/product/599793/one-piece-card-game-revision-pack-cards-diable-jambe"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Lead Performer Disaster",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST04-014"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Main] Draw 1 card, then add up to 1 DON!! card from your DON!! deck and set it as active. [Trigger] \u003cbr\u003eActivate this card's [Main] effect."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Purple"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Event"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "4"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Animal Kingdom Pirates"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599796_200w.jpg",
+      "modifiedOn": "2024-11-26T19:10:13.53",
+      "name": "Lead Performer \"Disaster\"",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599796,
+      "url": "https://www.tcgplayer.com/product/599796/one-piece-card-game-revision-pack-cards-lead-performer-disaster"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Thousand Sunny",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST01-017"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Activate: Main] You may rest this Stage: Up to 1 \"Straw Hat Crew\" type Leader or Character card on your field gains +1000 power during this turn."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Red"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Stage"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "2"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Straw Hat Crew"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599801_200w.jpg",
+      "modifiedOn": "2024-11-26T19:11:10.14",
+      "name": "Thousand Sunny",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599801,
+      "url": "https://www.tcgplayer.com/product/599801/one-piece-card-game-revision-pack-cards-thousand-sunny"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "WhosWho",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST04-010"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[On Play] DON!! -1 \u003cem\u003e(You may return the specified number of DON!! cards from your field to your DON!! deck.)\u003c/em\u003e: K.O. up to 1 of your opponent's Characters with a cost of 3 or less. \r\n\u003cbr\u003e[Trigger] Play this card."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Purple"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Character"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "3"
+        },
+        {
+          "displayName": "Power",
+          "name": "Power",
+          "value": "3000"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Animal Kingdom Pirates"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Slash"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599802_200w.jpg",
+      "modifiedOn": "2024-11-26T19:11:11.197",
+      "name": "Who's.Who",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599802,
+      "url": "https://www.tcgplayer.com/product/599802/one-piece-card-game-revision-pack-cards-whoswho"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Jack",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST04-008"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[On Play] You may trash 1 card from your hand: Add up to 1 DON!! card from your DON!! deck and set it as active."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Purple"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Character"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "3"
+        },
+        {
+          "displayName": "Power",
+          "name": "Power",
+          "value": "4000"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Animal Kingdom Pirates"
+        },
+        {
+          "displayName": "Counter+",
+          "name": "Counterplus",
+          "value": "1000"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Strike"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599805_200w.jpg",
+      "modifiedOn": "2024-11-26T19:11:45.057",
+      "name": "Jack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599805,
+      "url": "https://www.tcgplayer.com/product/599805/one-piece-card-game-revision-pack-cards-jack"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Killer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST02-005"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.\r\n\u003cbr\u003e\r\n[Trigger] Play this card."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Green"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Character"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "3"
+        },
+        {
+          "displayName": "Power",
+          "name": "Power",
+          "value": "3000"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Kid Pirates;Supernovas"
+        },
+        {
+          "displayName": "Counter+",
+          "name": "Counterplus",
+          "value": "1000"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Slash"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599806_200w.jpg",
+      "modifiedOn": "2024-11-26T19:11:59.03",
+      "name": "Killer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599806,
+      "url": "https://www.tcgplayer.com/product/599806/one-piece-card-game-revision-pack-cards-killer"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "King",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "SR"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST04-004"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[On Play] DON!! -1 \u003cem\u003e(You may return the specified number of DON!! cards from your field to your DON!! deck.)\u003c/em\u003e: K.O. up to 1 of your opponent's Characters with a cost of 4 or less."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Purple"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Character"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "6"
+        },
+        {
+          "displayName": "Power",
+          "name": "Power",
+          "value": "7000"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Animal Kingdom Pirates"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Special"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599809_200w.jpg",
+      "modifiedOn": "2025-09-29T14:23:22.49",
+      "name": "King",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599809,
+      "url": "https://www.tcgplayer.com/product/599809/one-piece-card-game-revision-pack-cards-king"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Jewelry Bonney",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST02-007"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Activate: Main] (1) \u003cem\u003e(You may rest the specified number of DON!! cards in your cost area.)\u003c/em\u003e You may rest this card: Look at 5 cards from the top of your deck; reveal up to 1 \"Supernovas\" type card and add it to your hand. Then, place the rest at the bottom of your deck in any order."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Green"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Character"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "1"
+        },
+        {
+          "displayName": "Power",
+          "name": "Power",
+          "value": "1000"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Bonney Pirates;Supernovas"
+        },
+        {
+          "displayName": "Counter+",
+          "name": "Counterplus",
+          "value": "1000"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Special"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599810_200w.jpg",
+      "modifiedOn": "2025-02-14T15:54:11.89",
+      "name": "Jewelry Bonney",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599810,
+      "url": "https://www.tcgplayer.com/product/599810/one-piece-card-game-revision-pack-cards-jewelry-bonney"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Scratchmen Apoo",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST02-008"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[DON!! x1] [When Attacking] Rest up to 1 of your opponent's DON!! cards."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Green"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Character"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "2"
+        },
+        {
+          "displayName": "Power",
+          "name": "Power",
+          "value": "3000"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "On-Air Pirates;Supernovas"
+        },
+        {
+          "displayName": "Counter+",
+          "name": "Counterplus",
+          "value": "2000"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Ranged"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599812_200w.jpg",
+      "modifiedOn": "2024-11-26T19:13:20.337",
+      "name": "Scratchmen Apoo",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599812,
+      "url": "https://www.tcgplayer.com/product/599812/one-piece-card-game-revision-pack-cards-scratchmen-apoo"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Kaido 003",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "SR"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST04-003"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[On Play] DON!! -5 \u003cem\u003e(You may return the specified number of DON!! cards from your field to your DON!! deck.)\u003c/em\u003e: K.O. up to 1 of your opponent's Characters with a cost of 6 or less. \r\n\u003cbr\u003eThis Character gains [Rush] during this turn. \r\n\u003cbr\u003e(This card can attack on the turn in which it is played.)"
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Purple"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Character"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "9"
+        },
+        {
+          "displayName": "Power",
+          "name": "Power",
+          "value": "10000"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Animal Kingdom Pirates;The Four Emperors"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Strike"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599813_200w.jpg",
+      "modifiedOn": "2025-09-11T13:55:49.607",
+      "name": "Kaido (003)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599813,
+      "url": "https://www.tcgplayer.com/product/599813/one-piece-card-game-revision-pack-cards-kaido-003"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Trafalgar Law",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "SR"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST02-009"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[On Play] Set up to 1 of your \"Supernovas\" or \"Heart Pirates\" type rested Characters with a cost of 5 or less as active."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Green"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Character"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "5"
+        },
+        {
+          "displayName": "Power",
+          "name": "Power",
+          "value": "6000"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Heart Pirates;Supernovas"
+        },
+        {
+          "displayName": "Counter+",
+          "name": "Counterplus",
+          "value": "1000"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Slash"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599815_200w.jpg",
+      "modifiedOn": "2025-09-11T13:56:11.14",
+      "name": "Trafalgar Law",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599815,
+      "url": "https://www.tcgplayer.com/product/599815/one-piece-card-game-revision-pack-cards-trafalgar-law"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Ulti",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST04-002"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[On Play] DON!! -1 \u003cem\u003e(You may return the specified number of DON!! cards from your field to your DON!! deck.)\u003c/em\u003e: Play up to 1 [Page One] card with a cost of 4 or less from your hand."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Purple"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Character"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "4"
+        },
+        {
+          "displayName": "Power",
+          "name": "Power",
+          "value": "5000"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Animal Kingdom Pirates"
+        },
+        {
+          "displayName": "Counter+",
+          "name": "Counterplus",
+          "value": "2000"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Strike"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599817_200w.jpg",
+      "modifiedOn": "2024-11-26T19:15:06.107",
+      "name": "Ulti",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599817,
+      "url": "https://www.tcgplayer.com/product/599817/one-piece-card-game-revision-pack-cards-ulti"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Kaido 001",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST04-001"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Activate: Main] [Once Per Turn] DON!! -7 \u003cem\u003e(You may return the specified number of DON!! cards from your field to your DON!! deck.)\u003c/em\u003e: Trash up to 1 of your opponent's Life cards."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Purple"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Leader"
+        },
+        {
+          "displayName": "Life",
+          "name": "Life",
+          "value": "5"
+        },
+        {
+          "displayName": "Power",
+          "name": "Power",
+          "value": "5000"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Animal Kingdom Pirates;The Four Emperors"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Strike"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599819_200w.jpg",
+      "modifiedOn": "2025-10-09T18:01:10.337",
+      "name": "Kaido (001)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599819,
+      "url": "https://www.tcgplayer.com/product/599819/one-piece-card-game-revision-pack-cards-kaido-001"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Scalpel",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST02-015"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, set up to 1 of your DON!! cards as active.\r\n\u003cbr\u003e\r\n[Trigger] Set up to 2 of your DON!! cards as active."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Green"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Event"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "1"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Heart Pirates;Supernovas"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599820_200w.jpg",
+      "modifiedOn": "2024-11-26T19:15:42.167",
+      "name": "Scalpel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599820,
+      "url": "https://www.tcgplayer.com/product/599820/one-piece-card-game-revision-pack-cards-scalpel"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Repel",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST02-016"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, set up to 1 of your DON!! cards as active."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Green"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Event"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "2"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Kid Pirates;Supernovas"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599822_200w.jpg",
+      "modifiedOn": "2024-11-26T19:16:06.57",
+      "name": "Repel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599822,
+      "url": "https://www.tcgplayer.com/product/599822/one-piece-card-game-revision-pack-cards-repel"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Love Love Mellow",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST03-017"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, draw 1 card if you have 3 or less cards in your hand."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Blue"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Event"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "2"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Kuja Pirates;The Seven Warlords of the Sea"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599823_200w.jpg",
+      "modifiedOn": "2024-11-26T19:16:11.76",
+      "name": "Love-Love Mellow",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599823,
+      "url": "https://www.tcgplayer.com/product/599823/one-piece-card-game-revision-pack-cards-love-love-mellow"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Thrust Pad Cannon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST03-016"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Counter] Return up to 1 Character with a cost of 3 or less to the owner's hand.\r\n\u003cbr\u003e\r\n[Trigger] Activate this card's [Counter] effect."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Blue"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Event"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "2"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Revolutionary Army;The Seven Warlords of the Sea"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599827_200w.jpg",
+      "modifiedOn": "2024-11-26T19:17:08.883",
+      "name": "Thrust Pad Cannon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599827,
+      "url": "https://www.tcgplayer.com/product/599827/one-piece-card-game-revision-pack-cards-thrust-pad-cannon"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Sables",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST03-015"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Main] Return up to 1 Character with a cost of 7 or less to the owner's hand.\r\n\u003cbr\u003e\r\n[Trigger] Activate this card's [Main] effect."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Blue"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Event"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "4"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Baroque Works;The Seven Warlords of the Sea"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599829_200w.jpg",
+      "modifiedOn": "2024-11-26T19:17:35.663",
+      "name": "Sables",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599829,
+      "url": "https://www.tcgplayer.com/product/599829/one-piece-card-game-revision-pack-cards-sables"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "MarshallDTeach",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST03-014"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[On Play] Return up to 1 Character with a cost of 3 or less to the owner's hand."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Blue"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Character"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "4"
+        },
+        {
+          "displayName": "Power",
+          "name": "Power",
+          "value": "4000"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Blackbeard Pirates;The Seven Warlords of the Sea"
+        },
+        {
+          "displayName": "Counter+",
+          "name": "Counterplus",
+          "value": "1000"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Special"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599830_200w.jpg",
+      "modifiedOn": "2024-11-26T19:18:20.313",
+      "name": "Marshall.D.Teach",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599830,
+      "url": "https://www.tcgplayer.com/product/599830/one-piece-card-game-revision-pack-cards-marshalldteach"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Donquixote Doflamingo",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "SR"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST03-009"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[On Play] Return up to 1 Character with a cost of 7 or less to the owner's hand."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Blue"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Character"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "7"
+        },
+        {
+          "displayName": "Power",
+          "name": "Power",
+          "value": "7000"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Donquixote Pirates;The Seven Warlords of the Sea"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Special"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599832_200w.jpg",
+      "modifiedOn": "2025-09-11T13:55:41.13",
+      "name": "Donquixote Doflamingo",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599832,
+      "url": "https://www.tcgplayer.com/product/599832/one-piece-card-game-revision-pack-cards-donquixote-doflamingo"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Sentomaru",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST03-007"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[DON!! x1] [Activate: Main] [Once Per Turn] (2) \u003cem\u003e(You may rest the specified number of DON!! cards in your cost area.)\u003c/em\u003e: Play up to 1 [Pacifista] with a cost of 4 or less from your deck, then shuffle your deck."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Blue"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Character"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "3"
+        },
+        {
+          "displayName": "Power",
+          "name": "Power",
+          "value": "4000"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Navy"
+        },
+        {
+          "displayName": "Counter+",
+          "name": "Counterplus",
+          "value": "1000"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Slash"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599833_200w.jpg",
+      "modifiedOn": "2024-11-26T19:19:45.95",
+      "name": "Sentomaru",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599833,
+      "url": "https://www.tcgplayer.com/product/599833/one-piece-card-game-revision-pack-cards-sentomaru"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Straw Sword",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST02-017"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Main] Rest up to 1 of your opponent's Characters.\r\n\u003cbr\u003e[Trigger] Play up to 1 \"Supernovas\" type card with a cost of 2 or less from your hand."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Green"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Event"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "2"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Hawkins Pirates;Supernovas"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599834_200w.jpg",
+      "modifiedOn": "2024-11-26T19:20:10.423",
+      "name": "Straw Sword",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599834,
+      "url": "https://www.tcgplayer.com/product/599834/one-piece-card-game-revision-pack-cards-straw-sword"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Gecko Moria",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST03-004"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[On Play] Add up to 1 \"The Seven Warlords of the Sea\" or \"Thriller Bark Pirates\" type Character with a cost of 4 or less than [Gecko Moria] from your trash to your hand."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Blue"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Character"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "4"
+        },
+        {
+          "displayName": "Power",
+          "name": "Power",
+          "value": "5000"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "The Seven Warlords of the Sea;Thriller Bark Pirates"
+        },
+        {
+          "displayName": "Counter+",
+          "name": "Counterplus",
+          "value": "1000"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Special"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599835_200w.jpg",
+      "modifiedOn": "2024-11-26T19:20:23.49",
+      "name": "Gecko Moria",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599835,
+      "url": "https://www.tcgplayer.com/product/599835/one-piece-card-game-revision-pack-cards-gecko-moria"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Crocodile 003",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "SR"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST03-003"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Blocker] \u003cem\u003e(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\u003c/em\u003e\r\n\u003cbr\u003e\r\n[DON!! x1] [On Block] Place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Blue"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Character"
+        },
+        {
+          "displayName": "Cost",
+          "name": "Cost",
+          "value": "5"
+        },
+        {
+          "displayName": "Power",
+          "name": "Power",
+          "value": "6000"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Baroque Works;The Seven Warlords of the Sea"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Special"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599837_200w.jpg",
+      "modifiedOn": "2025-09-11T13:55:31.557",
+      "name": "Crocodile (003)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599837,
+      "url": "https://www.tcgplayer.com/product/599837/one-piece-card-game-revision-pack-cards-crocodile-003"
+    },
+    {
+      "categoryId": 68,
+      "cleanName": "Crocodile 001",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ST03-001"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "[Activate: Main] [Once Per Turn] DON!! -4 \u003cem\u003e(You may return the specified number of DON!! cards from your field to your DON!! deck.)\u003c/em\u003e: Return 1 Character with a cost of 5 or less to the owner's hand."
+        },
+        {
+          "displayName": "Color",
+          "name": "Color",
+          "value": "Blue"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "CardType",
+          "value": "Leader"
+        },
+        {
+          "displayName": "Life",
+          "name": "Life",
+          "value": "5"
+        },
+        {
+          "displayName": "Power",
+          "name": "Power",
+          "value": "5000"
+        },
+        {
+          "displayName": "Subtype(s)",
+          "name": "Subtypes",
+          "value": "Baroque Works;The Seven Warlords of the Sea"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Special"
+        }
+      ],
+      "groupId": 23890,
+      "imageCount": 0,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599838_200w.jpg",
+      "modifiedOn": "2026-01-08T12:47:02.1",
+      "name": "Crocodile (001)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 599838,
+      "url": "https://www.tcgplayer.com/product/599838/one-piece-card-game-revision-pack-cards-crocodile-001"
+    }
+  ],
+  "success": true,
+  "totalItems": 33
+}

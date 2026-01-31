@@ -1,0 +1,6296 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Gorz the Emissary of Darkness",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN000"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When you take damage from a card your opponent controls while you control no cards, you can Special Summon this card from your hand. Then activate the appropriate effect, based on the type of damage: \r\n\u003cbr\u003e• Battle Damage: Special Summon 1 Emissary of Darkness Token (Fairy-Type/LIGHT/Level 7/ATK ?/DEF ?). Its ATK and DEF are each equal to the amount of battle damage you took.\r\n\u003cbr\u003e• Effect damage: Inflict damage to your opponent equal to the amount of damage you took."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33486_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:53.78",
+      "name": "Gorz the Emissary of Darkness",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33486,
+      "url": "https://www.tcgplayer.com/product/33486/yugioh-dark-legends-gorz-the-emissary-of-darkness"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Blue Eyes Ultimate Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "4500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "3800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Blue-Eyes White Dragon + Blue-Eyes White Dragon + Blue-Eyes White Dragon"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33487_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:54.167",
+      "name": "Blue-Eyes Ultimate Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33487,
+      "url": "https://www.tcgplayer.com/product/33487/yugioh-dark-legends-blue-eyes-ultimate-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Blue Eyes White Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2500"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33488_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:54.203",
+      "name": "Blue-Eyes White Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33488,
+      "url": "https://www.tcgplayer.com/product/33488/yugioh-dark-legends-blue-eyes-white-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Flame Swordsman",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Flame Manipulator + Masaki the Legendary Swordsman"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33489_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:54.24",
+      "name": "Flame Swordsman",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33489,
+      "url": "https://www.tcgplayer.com/product/33489/yugioh-dark-legends-flame-swordsman"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Magician",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN004"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2100"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33490_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:54.33",
+      "name": "Dark Magician",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33490,
+      "url": "https://www.tcgplayer.com/product/33490/yugioh-dark-legends-dark-magician"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gaia the Fierce Knight",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN005"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2100"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33491_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:54.467",
+      "name": "Gaia the Fierce Knight",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33491,
+      "url": "https://www.tcgplayer.com/product/33491/yugioh-dark-legends-gaia-the-fierce-knight"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Raigeki",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN006"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Destroy all monsters on your opponent's side of the field."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33492_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Raigeki",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33492,
+      "url": "https://www.tcgplayer.com/product/33492/yugioh-dark-legends-raigeki"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Fissure",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN007"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Destroy the 1 face-up monster your opponent controls that has the lowest ATK. (If it's a tie, you get to choose.)"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33493_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Fissure",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33493,
+      "url": "https://www.tcgplayer.com/product/33493/yugioh-dark-legends-fissure"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Trap Hole",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN008"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate only when your opponent Normal Summons or Flip Summons a monster with 1000 or more ATK. Destroy that monster."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33494_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Trap Hole",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33494,
+      "url": "https://www.tcgplayer.com/product/33494/yugioh-dark-legends-trap-hole"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Polymerization",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN009"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Send Fusion Material Monsters that are listed on a Fusion Monster Card from your hand or your side of the field to the Graveyard, and Special Summon that Fusion Monster from your Extra Deck."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33495_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Polymerization",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33495,
+      "url": "https://www.tcgplayer.com/product/33495/yugioh-dark-legends-polymerization"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Curse of Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN010"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33496_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:54.507",
+      "name": "Curse of Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33496,
+      "url": "https://www.tcgplayer.com/product/33496/yugioh-dark-legends-curse-of-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Giant Soldier of Stone",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN011"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Rock"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33497_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:54.56",
+      "name": "Giant Soldier of Stone",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33497,
+      "url": "https://www.tcgplayer.com/product/33497/yugioh-dark-legends-giant-soldier-of-stone"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Red Eyes B Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN012"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33498_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:54.63",
+      "name": "Red-Eyes B. Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33498,
+      "url": "https://www.tcgplayer.com/product/33498/yugioh-dark-legends-red-eyes-b-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Swords of Revealing Light",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN013"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Flip all monsters your opponent controls face-up. This card remains on the field for 3 of your opponent's turns. While this card is face-up on the field, monsters your opponent controls cannot declare an attack."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33499_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Swords of Revealing Light",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33499,
+      "url": "https://www.tcgplayer.com/product/33499/yugioh-dark-legends-swords-of-revealing-light"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Armed Ninja",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN014"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "FLIP: Select 1 Spell Card on the field and destroy it. If the selected card is Set, pick up and see the card. If it is a Spell Card, it is destroyed. If it is a Trap Card, return it to its original position."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33500_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:54.707",
+      "name": "Armed Ninja",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33500,
+      "url": "https://www.tcgplayer.com/product/33500/yugioh-dark-legends-armed-ninja"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Man Eater Bug",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN015"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Insect"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2450"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "FLIP: Destroy 1 monster on the field."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33501_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:54.77",
+      "name": "Man-Eater Bug",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33501,
+      "url": "https://www.tcgplayer.com/product/33501/yugioh-dark-legends-man-eater-bug"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Hane Hane",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN016"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2450"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "FLIP: Select 1 monster on the field and return it to its owner's hand."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33502_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:54.85",
+      "name": "Hane-Hane",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33502,
+      "url": "https://www.tcgplayer.com/product/33502/yugioh-dark-legends-hane-hane"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Monster Reborn",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Special Summon 1 monster from either player's Graveyard to your side of the field."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33503_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Monster Reborn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33503,
+      "url": "https://www.tcgplayer.com/product/33503/yugioh-dark-legends-monster-reborn"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Right Leg of the Forbidden One",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN018"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "300"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33504_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:54.897",
+      "name": "Right Leg of the Forbidden One",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33504,
+      "url": "https://www.tcgplayer.com/product/33504/yugioh-dark-legends-right-leg-of-the-forbidden-one"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Left Leg of the Forbidden One",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN019"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "300"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33505_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:54.96",
+      "name": "Left Leg of the Forbidden One",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33505,
+      "url": "https://www.tcgplayer.com/product/33505/yugioh-dark-legends-left-leg-of-the-forbidden-one"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Right Arm of the Forbidden One",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN020"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "300"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33506_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:55.007",
+      "name": "Right Arm of the Forbidden One",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33506,
+      "url": "https://www.tcgplayer.com/product/33506/yugioh-dark-legends-right-arm-of-the-forbidden-one"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Left Arm of the Forbidden One",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN021"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "300"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33507_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:55.053",
+      "name": "Left Arm of the Forbidden One",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33507,
+      "url": "https://www.tcgplayer.com/product/33507/yugioh-dark-legends-left-arm-of-the-forbidden-one"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Exodia the Forbidden One",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN022"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When you have Right Leg of the Forbidden One, Left Leg of the Forbidden One, Right Arm of the Forbidden One, and Left Arm of the Forbidden One, in addition to this card in your hand, you win the Duel."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33508_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:55.117",
+      "name": "Exodia the Forbidden One",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33508,
+      "url": "https://www.tcgplayer.com/product/33508/yugioh-dark-legends-exodia-the-forbidden-one"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gaia the Dragon Champion",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN023"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Gaia the Fierce Knight + Curse of Dragon"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33509_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:55.18",
+      "name": "Gaia the Dragon Champion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33509,
+      "url": "https://www.tcgplayer.com/product/33509/yugioh-dark-legends-gaia-the-dragon-champion"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gate Guardian",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN024"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3750"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "3400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by Tributing Sanga of the Thunder, Kazejin, and Suijin"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33510_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:55.227",
+      "name": "Gate Guardian",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33510,
+      "url": "https://www.tcgplayer.com/product/33510/yugioh-dark-legends-gate-guardian"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Summoned Skull",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN025"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33511_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:55.273",
+      "name": "Summoned Skull",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33511,
+      "url": "https://www.tcgplayer.com/product/33511/yugioh-dark-legends-summoned-skull"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Harpie Lady",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN026"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1400"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33512_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:55.383",
+      "name": "Harpie Lady",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33512,
+      "url": "https://www.tcgplayer.com/product/33512/yugioh-dark-legends-harpie-lady"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Harpie Lady Sisters",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN027"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1950"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by the effect of Elegant Egotist"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33513_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:55.523",
+      "name": "Harpie Lady Sisters",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33513,
+      "url": "https://www.tcgplayer.com/product/33513/yugioh-dark-legends-harpie-lady-sisters"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Mask of Darkness",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN028"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "FLIP: Select 1 Trap Card from your Graveyard. Add it to your hand."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33514_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:55.617",
+      "name": "Mask of Darkness",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33514,
+      "url": "https://www.tcgplayer.com/product/33514/yugioh-dark-legends-mask-of-darkness"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "B Skull Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN029"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Summoned Skull + Red-Eyes B. Dragon"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33515_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:55.727",
+      "name": "B. Skull Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33515,
+      "url": "https://www.tcgplayer.com/product/33515/yugioh-dark-legends-b-skull-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Elegant Egotist",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN030"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only activate this card when there are 1 or more face-up Harpie Lady on the field. Special Summon 1 Harpie Lady or Harpie Lady Sisters from your hand or Deck."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33516_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Elegant Egotist",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33516,
+      "url": "https://www.tcgplayer.com/product/33516/yugioh-dark-legends-elegant-egotist"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Sanga of the Thunder",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN031"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Thunder"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only activate this card's effect during your opponent's damage calculation. Make the ATK of a monster attacking this card 0 during damage calculation. This effect can only be used once as long as this card remains face-up on the field."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33517_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:55.803",
+      "name": "Sanga of the Thunder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33517,
+      "url": "https://www.tcgplayer.com/product/33517/yugioh-dark-legends-sanga-of-the-thunder"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Kazejin",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN032"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only activate this card's effect during your opponent's damage calculation. Make the ATK of a monster attacking this card 0 during damage calculation. This effect can only be used once as long as this card remains face-up on the field."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33518_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:55.913",
+      "name": "Kazejin",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33518,
+      "url": "https://www.tcgplayer.com/product/33518/yugioh-dark-legends-kazejin"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Suijin",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN033"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Aqua"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only activate this card's effect during your opponent's damage calculation. Make the ATK of a monster attacking this card 0 during damage calculation. This effect can only be used once as long as this card remains face-up on the field."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33519_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:55.993",
+      "name": "Suijin",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33519,
+      "url": "https://www.tcgplayer.com/product/33519/yugioh-dark-legends-suijin"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Magician of Faith",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN034"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "FLIP: Select 1 Spell Card from your Graveyard. Add the selected card to your hand."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33520_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:56.057",
+      "name": "Magician of Faith",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33520,
+      "url": "https://www.tcgplayer.com/product/33520/yugioh-dark-legends-magician-of-faith"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Baby Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN035"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "700"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33521_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:56.103",
+      "name": "Baby Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33521,
+      "url": "https://www.tcgplayer.com/product/33521/yugioh-dark-legends-baby-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Time Wizard",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN036"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Toss a coin and call Heads or Tails. If you call it right, your opponent's monsters on the field are destroyed. If you call it wrong, your own monsters on the field are destroyed and you lose Life Points equal to half the total ATK of the destroyed monste"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33522_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:56.167",
+      "name": "Time Wizard",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33522,
+      "url": "https://www.tcgplayer.com/product/33522/yugioh-dark-legends-time-wizard"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Sangan",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN037"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is sent from the field to the Graveyard, add 1 monster with 1500 or less ATK from your Deck to your hand."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33523_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:56.247",
+      "name": "Sangan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33523,
+      "url": "https://www.tcgplayer.com/product/33523/yugioh-dark-legends-sangan"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Kuriboh",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN038"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Discard this card. Make the Battle Damage inflicted to your Life Points by 1 of your opponent's monsters 0. You can only use this effect during your opponent's Battle Phase."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33524_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:56.323",
+      "name": "Kuriboh",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33524,
+      "url": "https://www.tcgplayer.com/product/33524/yugioh-dark-legends-kuriboh"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Catapult Turtle",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN039"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Aqua"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Tribute 1 monster on your side of the field. Inflict damage equal to half of the Tributed monster's ATK to your opponent's Life Points."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33525_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:56.387",
+      "name": "Catapult Turtle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33525,
+      "url": "https://www.tcgplayer.com/product/33525/yugioh-dark-legends-catapult-turtle"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Jirai Gumo",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN040"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Insect"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When you declare an attack with this card, toss a coin and call it. If you call it right, attack normally. If you call it wrong, lose half of your Life Points before attacking."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33526_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:56.45",
+      "name": "Jirai Gumo",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33526,
+      "url": "https://www.tcgplayer.com/product/33526/yugioh-dark-legends-jirai-gumo"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Thunder Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN041"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Thunder"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During your Main Phase, by discarding this card, add up to 2 Thunder Dragons from your Deck to your hand."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33527_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:56.497",
+      "name": "Thunder Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33527,
+      "url": "https://www.tcgplayer.com/product/33527/yugioh-dark-legends-thunder-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cannon Soldier",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN042"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "By Tributing 1 monster, inflict 500 damage to your opponent."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33528_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:56.56",
+      "name": "Cannon Soldier",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33528,
+      "url": "https://www.tcgplayer.com/product/33528/yugioh-dark-legends-cannon-soldier"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Twin Headed Thunder Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN043"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Thunder"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Thunder Dragon + Thunder Dragon"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33529_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:56.637",
+      "name": "Twin-Headed Thunder Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33529,
+      "url": "https://www.tcgplayer.com/product/33529/yugioh-dark-legends-twin-headed-thunder-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gazelle the King of Mythical Beasts",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN044"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33530_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:56.7",
+      "name": "Gazelle the King of Mythical Beasts",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33530,
+      "url": "https://www.tcgplayer.com/product/33530/yugioh-dark-legends-gazelle-the-king-of-mythical-beasts"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Barrel Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN045"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Toss a coin 3 times. If 2 out of 3 results are Heads, destroy 1 monster on your opponent's side of the field. You can only use this effect once per turn, during your Main Phase."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33531_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:56.787",
+      "name": "Barrel Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33531,
+      "url": "https://www.tcgplayer.com/product/33531/yugioh-dark-legends-barrel-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Solemn Judgment",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN046"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Pay half your Life Points. Negate the activation of a Spell Card / Trap Card / Normal Summon / Flip Summon / Special Summon and destroy the Spell Card, Trap Card, or Summoned monster."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33532_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Solemn Judgment",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33532,
+      "url": "https://www.tcgplayer.com/product/33532/yugioh-dark-legends-solemn-judgment"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Magic Jammer",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN047"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Discard 1 card. Negate the activation of a Spell Card and destroy it."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33533_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Magic Jammer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33533,
+      "url": "https://www.tcgplayer.com/product/33533/yugioh-dark-legends-magic-jammer"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Seven Tools of the Bandit",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN048"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Pay 1000 Life Points. Negate the activation of a Trap Card and destroy it."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33534_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Seven Tools of the Bandit",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33534,
+      "url": "https://www.tcgplayer.com/product/33534/yugioh-dark-legends-seven-tools-of-the-bandit"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Heavy Storm",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN049"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Destroy all Spell and Trap Cards on the field."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33535_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Heavy Storm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33535,
+      "url": "https://www.tcgplayer.com/product/33535/yugioh-dark-legends-heavy-storm"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Thousand Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN050"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Time Wizard + Baby Dragon"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33536_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:56.857",
+      "name": "Thousand Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33536,
+      "url": "https://www.tcgplayer.com/product/33536/yugioh-dark-legends-thousand-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Blue Eyes Toon Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN051"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Toon Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned while Toon World is on your side the field. You can Special Summon this monster from your hand, but Tributes are required for monsters Level 5 or more. This card cannot att"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33537_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:56.937",
+      "name": "Blue-Eyes Toon Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33537,
+      "url": "https://www.tcgplayer.com/product/33537/yugioh-dark-legends-blue-eyes-toon-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Axe of Despair",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN052"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "The equipped monster gains 1000 ATK. When this card is sent from the field to the Graveyard, you can Tribute 1 monster you control to return this card to the top of your Deck. as an attack"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33538_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Axe of Despair",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33538,
+      "url": "https://www.tcgplayer.com/product/33538/yugioh-dark-legends-axe-of-despair"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Black Pendant",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN053"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "The equipped monster gains 500 ATK. When this card is sent from the field to the Graveyard, inflict 500 damage to your opponent."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33539_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Black Pendant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33539,
+      "url": "https://www.tcgplayer.com/product/33539/yugioh-dark-legends-black-pendant"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Maha Vailo",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN054"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1550"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Increase the ATK of this card by 500 points for each Equip Card equipped to this card."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33540_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:57.033",
+      "name": "Maha Vailo",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33540,
+      "url": "https://www.tcgplayer.com/product/33540/yugioh-dark-legends-maha-vailo"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Relinquished",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN055"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Select 1 monster on your opponent's side of the field and equip it to this card (this effect can only be used once per turn and you can only equip 1 monster at a time to this card). The ATK and DEF of this card become the same amounts as the monster equip"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33541_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:57.113",
+      "name": "Relinquished",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33541,
+      "url": "https://www.tcgplayer.com/product/33541/yugioh-dark-legends-relinquished"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gravekeepers Servant",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN056"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Unless your opponent sends 1 card from the top of his/her Deck to the Graveyard, he/she cannot declare an attack."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33542_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Gravekeeper's Servant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33542,
+      "url": "https://www.tcgplayer.com/product/33542/yugioh-dark-legends-gravekeepers-servant"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Upstart Goblin",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN057"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Draw 1 card from your Deck. Increase your opponent's Life Points by 1000 Life Points."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33543_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Upstart Goblin",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33543,
+      "url": "https://www.tcgplayer.com/product/33543/yugioh-dark-legends-upstart-goblin"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Mystical Space Typhoon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN058"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Destroy 1 Spell or Trap Card on the field."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33544_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Mystical Space Typhoon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33544,
+      "url": "https://www.tcgplayer.com/product/33544/yugioh-dark-legends-mystical-space-typhoon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Giant Trunade",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN059"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Return all Spell and Trap Cards on the field to their owners' hands."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33545_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Giant Trunade",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33545,
+      "url": "https://www.tcgplayer.com/product/33545/yugioh-dark-legends-giant-trunade"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Painful Choice",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN060"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Select 5 cards from your Deck and show them to your opponent. Your opponent selects 1 card among them. Add that card to your hand, and discard the remaining cards to the Graveyard."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33546_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Painful Choice",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33546,
+      "url": "https://www.tcgplayer.com/product/33546/yugioh-dark-legends-painful-choice"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Black Illusion Ritual",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN061"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card is used to Ritual Summon Relinquished. You must also Tribute monsters whose total Level Stars equal 1 or more from the field or your hand."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33547_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Black Illusion Ritual",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33547,
+      "url": "https://www.tcgplayer.com/product/33547/yugioh-dark-legends-black-illusion-ritual"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Megamorph",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN062"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "While your Life Points are lower than your opponent's, the original ATK of the equipped monster is doubled. While your Life Points are higher, the original ATK of the equipped monster is halved."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33548_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Megamorph",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33548,
+      "url": "https://www.tcgplayer.com/product/33548/yugioh-dark-legends-megamorph"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Manga Ryu Ran",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN063"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Toon Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned while Toon World is on your side of the field. You can Special Summon this monster from your hand, but Tributes are required for monster Level 5 or more. This card cannot a"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33549_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:57.267",
+      "name": "Manga Ryu-Ran",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33549,
+      "url": "https://www.tcgplayer.com/product/33549/yugioh-dark-legends-manga-ryu-ran"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Toon Mermaid",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN064"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Aqua"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Toon Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned while Toon World is on your side of the field. You can Special Summon this monster from your hand, but Tributes are required for monster Level 5 or more. This card cannot a"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33550_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:57.363",
+      "name": "Toon Mermaid",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33550,
+      "url": "https://www.tcgplayer.com/product/33550/yugioh-dark-legends-toon-mermaid"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Toon Summoned Skull",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN065"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Toon Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned while Toon World is on your side of the field. You can Special Summon this monster from your hand, but Tributes are required for monster Level 5 or more. This card cannot a"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33551_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:57.45",
+      "name": "Toon Summoned Skull",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33551,
+      "url": "https://www.tcgplayer.com/product/33551/yugioh-dark-legends-toon-summoned-skull"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Hyozanryu",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN066"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2800"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33552_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:57.513",
+      "name": "Hyozanryu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33552,
+      "url": "https://www.tcgplayer.com/product/33552/yugioh-dark-legends-hyozanryu"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Toon World",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN067"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Pay 1000 Life Points to activate this card.\""
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33553_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Toon World",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33553,
+      "url": "https://www.tcgplayer.com/product/33553/yugioh-dark-legends-toon-world"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Giant Rat",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN068"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1450"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is sent to the Graveyard as a result of battle, you can Special Summon 1 EARTH monster with an ATK of 1500 or less in face-up Attack Position from your Deck. Then shuffle your Deck."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33554_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:57.607",
+      "name": "Giant Rat",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33554,
+      "url": "https://www.tcgplayer.com/product/33554/yugioh-dark-legends-giant-rat"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Senju of the Thousand Hands",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN069"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Normal Summoned or Flip Summoned, you can select 1 Ritual Monster Card from your Deck and add it to your hand. Then shuffle your Deck."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33555_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:57.69",
+      "name": "Senju of the Thousand Hands",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33555,
+      "url": "https://www.tcgplayer.com/product/33555/yugioh-dark-legends-senju-of-the-thousand-hands"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "UFO Turtle",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN070"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 FIRE monster with 1500 or less ATK from your Deck in face-up Attack Position."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33556_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:57.833",
+      "name": "UFO Turtle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33556,
+      "url": "https://www.tcgplayer.com/product/33556/yugioh-dark-legends-ufo-turtle"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Giant Germ",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN071"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent. You can also Special Summon up to 2 Giant Germs\" from your Deck in face-up Attack Position.\""
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33557_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:57.927",
+      "name": "Giant Germ",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33557,
+      "url": "https://www.tcgplayer.com/product/33557/yugioh-dark-legends-giant-germ"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Nimble Momonga",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN072"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is destroyed by battle and sent to the Graveyard, gain 1000 Life Points. You can also Special Summon up to 2 Nimble Momongas from your Deck in face-down Defense Position."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33558_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:58.003",
+      "name": "Nimble Momonga",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33558,
+      "url": "https://www.tcgplayer.com/product/33558/yugioh-dark-legends-nimble-momonga"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Shining Angel",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN073"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is sent to the Graveyard by battle, you can Special Summon 1 LIGHT monster with 1500 or less ATK from your Deck in face-up Attack Position."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33559_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:58.067",
+      "name": "Shining Angel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33559,
+      "url": "https://www.tcgplayer.com/product/33559/yugioh-dark-legends-shining-angel"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Mother Grizzly",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN074"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast-Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is sent to the Graveyard by battle, you can Special Summon 1 WATER monster with 1500 or less ATK from your Deck in face-up Attack Position."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33560_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:58.147",
+      "name": "Mother Grizzly",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33560,
+      "url": "https://www.tcgplayer.com/product/33560/yugioh-dark-legends-mother-grizzly"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Flying Kamakiri 1",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN075"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Insect"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "900"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is sent to the Graveyard as a result of battle, you can Special Summon 1 WIND monster with an ATK of 1500 or less in face-up Attack Position from your Deck. Then shuffle your Deck."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33561_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:58.207",
+      "name": "Flying Kamakiri #1",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33561,
+      "url": "https://www.tcgplayer.com/product/33561/yugioh-dark-legends-flying-kamakiri-1"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Sonic Bird",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN076"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Normal or Flip Summoned, add 1 Ritual Spell Card from your Deck to your hand."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33562_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:58.287",
+      "name": "Sonic Bird",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33562,
+      "url": "https://www.tcgplayer.com/product/33562/yugioh-dark-legends-sonic-bird"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Mystic Tomato",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN077"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Plant"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 DARK monster with 1500 or less ATK from your Deck in face-up Attack Position."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33563_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:58.617",
+      "name": "Mystic Tomato",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33563,
+      "url": "https://www.tcgplayer.com/product/33563/yugioh-dark-legends-mystic-tomato"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gaia Power",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN078"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Increase the ATK of all EARTH monsters by 500 points and decrease their DEF by 400 points."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33564_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Gaia Power",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33564,
+      "url": "https://www.tcgplayer.com/product/33564/yugioh-dark-legends-gaia-power"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Umiiruka",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN079"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Increase the ATK of all WATER monsters by 500 points and decrease their DEF by 400 points."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33565_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Umiiruka",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33565,
+      "url": "https://www.tcgplayer.com/product/33565/yugioh-dark-legends-umiiruka"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Molten Destruction",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN080"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Increases the ATK of all FIRE monsters by 500 points and decreases their DEF by 400 points."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33566_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Molten Destruction",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33566,
+      "url": "https://www.tcgplayer.com/product/33566/yugioh-dark-legends-molten-destruction"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Rising Air Current",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN081"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Increase the ATK of all WIND monsters by 500 points and decreases their DEF by 400 points."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33567_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Rising Air Current",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33567,
+      "url": "https://www.tcgplayer.com/product/33567/yugioh-dark-legends-rising-air-current"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Luminous Spark",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN082"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Increase the ATK of all LIGHT monsters by 500 points and decreases their DEF by 400 points."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33568_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Luminous Spark",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33568,
+      "url": "https://www.tcgplayer.com/product/33568/yugioh-dark-legends-luminous-spark"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Messenger of Peace",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN083"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Neither player can declare attacks with face-up monsters with an ATK of 1500 or more. Pay 100 Life Points during each of your Standby Phases. If you do not, destroy this card."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33569_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Messenger of Peace",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33569,
+      "url": "https://www.tcgplayer.com/product/33569/yugioh-dark-legends-messenger-of-peace"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Wall of Illusion",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN084"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1850"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "The monster attacking this monster is returned to its owner's hand. The damage calculation is applied normally."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33570_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:58.743",
+      "name": "Wall of Illusion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33570,
+      "url": "https://www.tcgplayer.com/product/33570/yugioh-dark-legends-wall-of-illusion"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Card Destruction",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN085"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each player discards their hand and draws the same number of cards they discarded."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33571_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:58.85",
+      "name": "Card Destruction",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33571,
+      "url": "https://www.tcgplayer.com/product/33571/yugioh-dark-legends-card-destruction"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "La Jinn the Mystical Genie of the Lamp",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN086"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33572_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:58.963",
+      "name": "La Jinn the Mystical Genie of the Lamp",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33572,
+      "url": "https://www.tcgplayer.com/product/33572/yugioh-dark-legends-la-jinn-the-mystical-genie-of-the-lamp"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Lord of D",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN087"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "While this card remains face-up on the field, all Dragon-Type monsters cannot be targeted by Spell Cards, Trap Cards, or Effect Monster's effects."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33573_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:59.057",
+      "name": "Lord of D.",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33573,
+      "url": "https://www.tcgplayer.com/product/33573/yugioh-dark-legends-lord-of-d"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Flute of Summoning Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN088"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate only while Lord of D. is face-up on the field. Special Summon up to 2 Dragon-Type monsters from your hand."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33574_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "The Flute of Summoning Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33574,
+      "url": "https://www.tcgplayer.com/product/33574/yugioh-dark-legends-the-flute-of-summoning-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Graceful Charity",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN089"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Draw 3 cards, then discard 2 cards."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33575_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Graceful Charity",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33575,
+      "url": "https://www.tcgplayer.com/product/33575/yugioh-dark-legends-graceful-charity"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Penguin Soldier",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN090"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Aqua"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "750"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "FLIP: You can return up to 2 Monster Cards from the field to the owner's hand."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33576_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:59.17",
+      "name": "Penguin Soldier",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33576,
+      "url": "https://www.tcgplayer.com/product/33576/yugioh-dark-legends-penguin-soldier"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Scapegoat",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN091"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If you activate this card, you cannot Summon other monsters this turn. Special Summon 4 Sheep Tokens (Beast-Type/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. The Sheep Tokens cannot be used as a Tribute for a Tribute Summon (or Set)."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33577_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Scapegoat",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33577,
+      "url": "https://www.tcgplayer.com/product/33577/yugioh-dark-legends-scapegoat"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Blast Sphere",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN092"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If your opponent's monster attacks this face-down Defense Position card, this card becomes an Equip Card equipped to the attacking monster, without applying damage calculation. Destroy the equipped monster and this card during the Standby Phase of your op"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33578_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:59.28",
+      "name": "Blast Sphere",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33578,
+      "url": "https://www.tcgplayer.com/product/33578/yugioh-dark-legends-blast-sphere"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Copycat",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN093"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Summoned, select 1 monster your opponent controls. This card's ATK and DEF become equal to the selected monster's original ATK and DEF."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33579_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:59.373",
+      "name": "Copycat",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33579,
+      "url": "https://www.tcgplayer.com/product/33579/yugioh-dark-legends-copycat"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Relieve Monster",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN094"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate only when your opponent declares an attack. Return 1 monster you control to its owner's hand, then Special Summon 1 Level 4 monster from your hand."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33580_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Relieve Monster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33580,
+      "url": "https://www.tcgplayer.com/product/33580/yugioh-dark-legends-relieve-monster"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cloning",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN095"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate only when your opponent Normal Summons or Flip Summons a monster. Special Summon 1 Clone Token that has the same original Level, Type, Attribute, ATK, and DEF as the Summoned monster. When that monster is destroyed and sent to the Graveyard, dest"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33581_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Cloning",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33581,
+      "url": "https://www.tcgplayer.com/product/33581/yugioh-dark-legends-cloning"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Kaibaman",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN096"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "700"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can Tribute this card to Special Summon 1 Blue-Eyes White Dragon from your hand."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33582_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:59.467",
+      "name": "Kaibaman",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33582,
+      "url": "https://www.tcgplayer.com/product/33582/yugioh-dark-legends-kaibaman"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cyber Harpie Lady",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN097"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card's name is treated as Harpie Lady."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33583_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:59.527",
+      "name": "Cyber Harpie Lady",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33583,
+      "url": "https://www.tcgplayer.com/product/33583/yugioh-dark-legends-cyber-harpie-lady"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Amazoness Chain Master",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN098"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this monster is destroyed as a result of battle and sent to the Graveyard, by paying 1500 Life Points, look at your opponent's hand and select 1 Monster Card from it. Add the selected card to your hand, and you can use it in this Duel. (When the card"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33584_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:59.623",
+      "name": "Amazoness Chain Master",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33584,
+      "url": "https://www.tcgplayer.com/product/33584/yugioh-dark-legends-amazoness-chain-master"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Embodiment of Apophis",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN099"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only activate this card during a Main Phase. After activation, this card is treated as a Normal Monster Card (Reptile-Type/EARTH/Level 4/ATK 1600/DEF 1800), and is Special Summoned to your Monster Card Zone. (This card is also still treated as a T"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33585_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Embodiment of Apophis",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33585,
+      "url": "https://www.tcgplayer.com/product/33585/yugioh-dark-legends-embodiment-of-apophis"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Exchange of the Spirit",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN100"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If both players have 15 or more cards in their Graveyards: Pay 1000 LP; each player swaps the cards in their Graveyard with the cards in their Deck, then shuffles their Deck. You can only activate 1 “Exchange of the Spirit” per Duel."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33586_200w.jpg",
+      "modifiedOn": "2015-03-24T12:30:21.28",
+      "name": "Exchange of the Spirit",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33586,
+      "url": "https://www.tcgplayer.com/product/33586/yugioh-dark-legends-exchange-of-the-spirit"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Blizzard Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN101"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn, you can select 1 monster on your opponent's side of the field. The selected monster cannot change its battle position or declare an attack until the end of your opponent's next turn."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33587_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:59.7",
+      "name": "Blizzard Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33587,
+      "url": "https://www.tcgplayer.com/product/33587/yugioh-dark-legends-blizzard-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Metal Shooter",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Normal Summoned, place 2 counters on it. This card gains 800 ATK for each of these counters on it. If this card would be destroyed by a card effect, remove 1 of this card's counter instead."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33588_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:59.797",
+      "name": "Metal Shooter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33588,
+      "url": "https://www.tcgplayer.com/product/33588/yugioh-dark-legends-metal-shooter"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Des Mosquito",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN103"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Insect"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Normal Summoned or Special Summoned, place 2 counters on it. This card gains 500 ATK for each counter placed on it by this effect. If this card is destroyed by battle, remove 1 counter from it, and it is not destroyed."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33589_200w.jpg",
+      "modifiedOn": "2024-03-28T16:16:59.92",
+      "name": "Des Mosquito",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33589,
+      "url": "https://www.tcgplayer.com/product/33589/yugioh-dark-legends-des-mosquito"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Green Baboon Defender of the Forest",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN104"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When a Beast-Type monster you control is destroyed and sent to the Graveyard, you can pay 1000 Life Points to Special Summon this card from your hand or Graveyard."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33590_200w.jpg",
+      "modifiedOn": "2024-03-28T16:17:00.01",
+      "name": "Green Baboon, Defender of the Forest",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33590,
+      "url": "https://www.tcgplayer.com/product/33590/yugioh-dark-legends-green-baboon-defender-of-the-forest"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ancient Lamp",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN105"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this face-down Defense Position card is attacked by your opponent's monster, you can make 1 opponent's monster (except the attacking monster) be attacked instead. While this card is face-up on the field, you can Special Summon 1 La Jinn the Mystical"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33591_200w.jpg",
+      "modifiedOn": "2024-03-28T16:17:00.107",
+      "name": "Ancient Lamp",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33591,
+      "url": "https://www.tcgplayer.com/product/33591/yugioh-dark-legends-ancient-lamp"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Bribe",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN106"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Negate the activation and effect of an opponent's Spell or Trap Card and destroy it. Your opponent draws 1 card."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33592_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Dark Bribe",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33592,
+      "url": "https://www.tcgplayer.com/product/33592/yugioh-dark-legends-dark-bribe"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Card Trooper",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN107"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn, you can send up to 3 cards from the top of your Deck to the Graveyard. This card gains 500 ATK for each card sent to the Graveyard this way, until the end of this turn. When this card on your side of the field is destroyed and sent to your"
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33593_200w.jpg",
+      "modifiedOn": "2024-03-28T16:17:00.217",
+      "name": "Card Trooper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33593,
+      "url": "https://www.tcgplayer.com/product/33593/yugioh-dark-legends-card-trooper"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Destiny HERO Malicious",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN108"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "By removing from play this card while it's in your Graveyard, select 1 Destiny Hero - Malicious from your Deck, and Special Summon it."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33594_200w.jpg",
+      "modifiedOn": "2024-03-28T16:17:00.327",
+      "name": "Destiny HERO - Malicious",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33594,
+      "url": "https://www.tcgplayer.com/product/33594/yugioh-dark-legends-destiny-hero-malicious"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Destiny Draw",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN109"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Discard 1 Destiny Hero card. Draw 2 cards."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33595_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Destiny Draw",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33595,
+      "url": "https://www.tcgplayer.com/product/33595/yugioh-dark-legends-destiny-draw"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Nova Summoner",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 LIGHT Fairy-Type monster with 1500 or less ATK from the Deck. If The Sanctuary in the Sky\" is on the field, you can Special Summon 1 Airknight Parshath instead."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33597_200w.jpg",
+      "modifiedOn": "2024-03-28T16:17:00.453",
+      "name": "Nova Summoner",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33597,
+      "url": "https://www.tcgplayer.com/product/33597/yugioh-dark-legends-nova-summoner"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gellenduo",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN112"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be destroyed by battle. When this card's controller takes any damage, destroy this card. If you Tribute Summon a LIGHT Fairy-Type monster, you can treat this 1 monster as 2 Tribute Monsters for the Tribute Summon."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33598_200w.jpg",
+      "modifiedOn": "2024-03-28T16:17:00.563",
+      "name": "Gellenduo",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33598,
+      "url": "https://www.tcgplayer.com/product/33598/yugioh-dark-legends-gellenduo"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Meltiel Sage of the Sky Ultra Rare",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DLG1-EN110"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each time a Counter Trap Card is activated, gain 1000 Life Points, and if \"The Sanctuary in the Sky\" is on the field, destroy 1 card your opponent controls."
+        }
+      ],
+      "groupId": 167,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79685_200w.jpg",
+      "modifiedOn": "2024-03-28T16:17:00.64",
+      "name": "Meltiel, Sage of the Sky",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79685,
+      "url": "https://www.tcgplayer.com/product/79685/yugioh-dark-legends-meltiel-sage-of-the-sky-ultra-rare"
+    }
+  ],
+  "success": true,
+  "totalItems": 113
+}

@@ -1,0 +1,6116 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 3,
+      "cleanName": "Absol",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "96/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Quick Attack (10+) \r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 10 damage plus 10 more damage."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1DD] Feint Attack \r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 30 damage to that Pokemon.  This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies or any other effects on that Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83450_200w.jpg",
+      "modifiedOn": "2022-11-17T20:59:18.253",
+      "name": "Absol",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83450,
+      "url": "https://www.tcgplayer.com/product/83450/pokemon-team-magma-vs-team-aqua-absol"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Aqua Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "86/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Special Multi Energy"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Aqua Energy can be attached only to a Pokemon with Team Aqua in its name.  Aqua Energy provides Water and Darkness Energy but provides 2 Energy at a time.  \u003cem\u003e(Doesn't count as a basic Energy card when not in play and has no effect other than providing Energy.)\u003c/em\u003e At the end of your turn, discard Aqua Energy."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83565_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:07.207",
+      "name": "Aqua Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83565,
+      "url": "https://www.tcgplayer.com/product/83565/pokemon-team-magma-vs-team-aqua-aqua-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Archie",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "71/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer - Supporter"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cem\u003eYou can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.\u003c/em\u003e\u003cbr\u003e\nSearch your deck for a Pokemon with Team Aqua in its name and put it onto your Bench.  Shuffle your deck afterward.  Treat the new Benched Pokemon as a Basic Pokemon.  If it is a Stage 2 Pokemon, put 2 damage counters on that Pokemon."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83612_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:07.6",
+      "name": "Archie",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83612,
+      "url": "https://www.tcgplayer.com/product/83612/pokemon-team-magma-vs-team-aqua-archie"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Blaziken ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "89/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "150"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1R] Blaze Kick (30+) \r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 30 damage plus 20 more damage.  If tails, this attack does 30 damage and the Defending Pokemon is now Burned."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2RR] Volcanic Ash\r\n\u003cbr\u003eDiscard 2 Fire Energy attached to Blaziken ex and then choose 1 of your opponent's Pokemon.  This attack does 100 damage to that Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "PW"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83912_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:03.937",
+      "name": "Blaziken ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83912,
+      "url": "https://www.tcgplayer.com/product/83912/pokemon-team-magma-vs-team-aqua-blaziken-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Bulbasaur",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "39/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Growth\r\n\u003cbr\u003eAttach a Grass Energy card from your hand to Bulbasaur."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[G] Razor Leaf (10)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84028_200w.jpg",
+      "modifiedOn": "2025-12-01T23:50:46.307",
+      "name": "Bulbasaur",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84028,
+      "url": "https://www.tcgplayer.com/product/84028/pokemon-team-magma-vs-team-aqua-bulbasaur"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Cradily ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "90/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "150"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePoké-BODY\u003c/strong\u003e — Primal Vibes \r\u003cbr\u003e\nAs long as Cradily ex is your Active Pokemon, your opponent can't play a Pokemon from his or her hand to evolve his or her Active Pokemon."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Eerie Light (30) \r\n\u003cbr\u003eThe Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2GG] Acidic Poison (60) \r\n\u003cbr\u003eThe Defending Pokemon is now Poisoned and Burned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "RW"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84457_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:05.04",
+      "name": "Cradily ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84457,
+      "url": "https://www.tcgplayer.com/product/84457/pokemon-team-magma-vs-team-aqua-cradily-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Cubone",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "40/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Bone Attack (20) \r\n\u003cbr\u003eFlip a coin.  If tails, this attack does nothing."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84530_200w.jpg",
+      "modifiedOn": "2024-04-01T21:20:59.193",
+      "name": "Cubone",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84530,
+      "url": "https://www.tcgplayer.com/product/84530/pokemon-team-magma-vs-team-aqua-cubone"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Double Rainbow Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "88/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Special Rainbow Energy"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Double Rainbow Energy can be attached only to an Evolved Pokemon (excluding Pokemon-ex).  While in play, Double Rainbow Energy provides every type of Energy but provides 2 Energy at a time.  \u003cem\u003e(Doesn't count as a basic Energy when not in play and has no effect other than providing Energy.) \u003c/em\u003eDamage done to your opponent's Pokemon by the Pokemon Double Rainbow Energy is attached to is reduced by 10\u003cem\u003e (after applying Weakness and Resistance).\u003c/em\u003e  \r\u003cbr\u003e\nWhen the Pokemon Double Rainbow Energy is attached to is no longer an Evolved Pokemon, discard Double Rainbow Energy."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84895_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:07.307",
+      "name": "Double Rainbow Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84895,
+      "url": "https://www.tcgplayer.com/product/84895/pokemon-team-magma-vs-team-aqua-double-rainbow-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Dual Ball",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "72/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer - Item"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Flip 2 coins.  For each heads, search your deck for a Basic Pokemon card, show it to your opponent, and put it into your hand.  Shuffle your deck afterward."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84985_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:05.343",
+      "name": "Dual Ball",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84985,
+      "url": "https://www.tcgplayer.com/product/84985/pokemon-team-magma-vs-team-aqua-dual-ball"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Entei ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "91/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[R] Searing Flame (10) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Burned."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1RR] Bright Flame (90) \r\n\u003cbr\u003eDiscard 2 Energy attached to Entei ex."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85278_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:04.093",
+      "name": "Entei ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85278,
+      "url": "https://www.tcgplayer.com/product/85278/pokemon-team-magma-vs-team-aqua-entei-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Jigglypuff",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "41/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Doubleslap (10x) \r\n\u003cbr\u003eFlip 2 coins.  This attack does 10 damage times the number of heads."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Rest \r\n\u003cbr\u003eRemove all Special Conditions and 3 damage counters from Jigglypuff \u003ci\u003e(all if there are less than 3)\u003c/i\u003e.  Jigglypuff is now Asleep."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86314_200w.jpg",
+      "modifiedOn": "2025-12-01T23:51:22.98",
+      "name": "Jigglypuff",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86314,
+      "url": "https://www.tcgplayer.com/product/86314/pokemon-team-magma-vs-team-aqua-jigglypuff"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Jirachi",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "97/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Hypnoblast (10) \r\n\u003cbr\u003eThe Defending Pokemon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Swift (20) \r\n\u003cbr\u003eThis attacks damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies or any other effects on the Defending Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86324_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:06.86",
+      "name": "Jirachi",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86324,
+      "url": "https://www.tcgplayer.com/product/86324/pokemon-team-magma-vs-team-aqua-jirachi"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magma Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "87/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Special Multi Energy"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Magma Energy can be attached only to a Pokemon with Team Magma in its name.  Magma Energy provides Fighting and Darkness Energy but provides 2 Energy at a time.  \u003cem\u003e(Doesn't count as a basic Energy card when not in play and has no effect other than providing Energy.)\u003c/em\u003e At the end of your turn, discard Magma Energy."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87039_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:07.39",
+      "name": "Magma Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87039,
+      "url": "https://www.tcgplayer.com/product/87039/pokemon-team-magma-vs-team-aqua-magma-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Maxie",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "73/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer - Supporter"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cem\u003eYou can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.\u003c/em\u003e\u003cbr\u003e\nSearch your hand or discard pile for a Pokemon with Team Magma in its name and put it onto your Bench.  Treat the new Benched Pokemon as a Basic Pokemon.  If it is a Stage 2 Pokemon, put 2 damage counters on that Pokemon."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87270_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:07.68",
+      "name": "Maxie",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87270,
+      "url": "https://www.tcgplayer.com/product/87270/pokemon-team-magma-vs-team-aqua-maxie"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Meowth",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "42/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Plunder (10) \r\n\u003cbr\u003eBefore doing damage, discard all Trainer cards attached to the Defending Pokemon \u003ci\u003e(before they affect the damage).\u003c/i\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Scratch (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87316_200w.jpg",
+      "modifiedOn": "2022-11-17T20:04:28.33",
+      "name": "Meowth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87316,
+      "url": "https://www.tcgplayer.com/product/87316/pokemon-team-magma-vs-team-aqua-meowth"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pikachu",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "43/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Agility \r\n\u003cbr\u003eFlip a coin.  If heads, prevent all effects of an attack, including damage, done to Pikachu during your opponent's next turn."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1L] Thundershock (20) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88077_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:05.71",
+      "name": "Pikachu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88077,
+      "url": "https://www.tcgplayer.com/product/88077/pokemon-team-magma-vs-team-aqua-pikachu"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Psyduck",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "44/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Bubble (10) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[P] Confuse Ray (10) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88436_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:08.657",
+      "name": "Psyduck",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88436,
+      "url": "https://www.tcgplayer.com/product/88436/pokemon-team-magma-vs-team-aqua-psyduck"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Raichu",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "13/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1L] Spark (20) \r\n\u003cbr\u003eDoes 10 damage to 2 of your opponent's Benched Pokemon (1 if there is only 1).  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1LL] Kerzap (40+) \r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 40 damage plus 40 more damage to the Defending Pokemon and discard all Lightning Energy cards attached to Raichu."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88506_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:05.837",
+      "name": "Raichu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88506,
+      "url": "https://www.tcgplayer.com/product/88506/pokemon-team-magma-vs-team-aqua-raichu"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Raikou ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "92/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[L] Dazzle Blast (10) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1LL] Lightning Tackle (70) \r\n\u003cbr\u003eFlip a coin.  If tails, Raikou ex does 20 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88540_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:05.92",
+      "name": "Raikou ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88540,
+      "url": "https://www.tcgplayer.com/product/88540/pokemon-team-magma-vs-team-aqua-raikou-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Sceptile ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "93/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "150"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Green Heal \r\n\u003cbr\u003eRemove 4 damage counters from each of your Pokemon that has Grass Energy attached.  If that Pokemon has less than 4 damage counters, remove all of them."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2G] Poison Ring (40) \r\n\u003cbr\u003eThe Defending Pokemon is now Poisoned.  The Defending Pokemon can't retreat until the end of your opponent's next turn."
+        },
+        {
+          "displayName": "Attack 3",
+          "name": "Attack 3",
+          "value": "[3GG] Slashing Strike (100) \r\n\u003cbr\u003eSceptile ex can't use Slashing Strike during your next turn."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "GR"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88954_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:05.127",
+      "name": "Sceptile ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88954,
+      "url": "https://www.tcgplayer.com/product/88954/pokemon-team-magma-vs-team-aqua-sceptile-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Slowpoke",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "45/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Amnesia \r\n\u003cbr\u003eChoose 1 of the Defending Pokemon's attacks.  That Pokemon can't use that attack during your opponent's next turn."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Tail Strike (10+)\r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 10 damage plus 10 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89326_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:06.957",
+      "name": "Slowpoke",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89326,
+      "url": "https://www.tcgplayer.com/product/89326/pokemon-team-magma-vs-team-aqua-slowpoke"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Squirtle",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "46/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePoké-BODY\u003c/strong\u003e — Shell Retreat\r\u003cbr\u003e\nAs long as Squirtle has any Energy cards attached to it, damage done to Squirtle by an opponent's attack is reduced by 10 \u003cem\u003e(after applying Weakness and Resistance).\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Tackle (10)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89488_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:08.75",
+      "name": "Squirtle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89488,
+      "url": "https://www.tcgplayer.com/product/89488/pokemon-team-magma-vs-team-aqua-squirtle"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Strength Charm",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "74/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer - Pokemon Tool"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePoké-BODY\u003c/strong\u003e — Power Saver \u003cbr\u003e\nAs long as the number of Pokemon in play \u003cem\u003e(both yours and your opponent's)\u003c/em\u003e that has Team Magma in its name is 3 or less, Team Magma's Groudon can't attack."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89578_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:08.197",
+      "name": "Strength Charm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89578,
+      "url": "https://www.tcgplayer.com/product/89578/pokemon-team-magma-vs-team-aqua-strength-charm"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Suicune ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "94/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Energy Flip\r\n\u003cbr\u003eChoose 1 of your opponent's Benched Pokemon.  This attack does 10 damage to that Pokemon.  You may move any Energy card attached to that Pokemon to another of your opponent's Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1WW] Reverse Stream (50+) \r\n\u003cbr\u003eYou may return all basic Energy cards attached to Suicune ex to your hand.  If you do, this attack does 50 damage plus 10 more damage for each basic Energy card you returned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89611_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:08.847",
+      "name": "Suicune ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89611,
+      "url": "https://www.tcgplayer.com/product/89611/pokemon-team-magma-vs-team-aqua-suicune-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Swampert ex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "95/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "150"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Hyper Pump (20+) \r\n\u003cbr\u003eDoes 20 damage plus 20 more damage for each basic Energy attached to Swampert ex but not used to pay for this attack's Energy cost.  You can't add more than 80 damage in this way."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2W] Crushing Wave\r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 40 damage to that Pokemon.  After doing damage, flip a coin.  If heads, you opponent discards an Energy card, if any, attached to that Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance to Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89682_200w.jpg",
+      "modifiedOn": "2024-04-01T21:20:59.337",
+      "name": "Swampert ex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89682,
+      "url": "https://www.tcgplayer.com/product/89682/pokemon-team-magma-vs-team-aqua-swampert-ex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aqua Ball",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "75/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer - Item"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Flip a coin.  If heads, search your deck for a Pokemon that has Team Aqua in its name, show it to your opponent, and put it into your hand.  If tails, search your deck for a Basic Pokemon that has Team Aqua in its name, show it to your opponent and put into your hand.  Shuffle your deck afterward."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89768_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:05.397",
+      "name": "Team Aqua Ball",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89768,
+      "url": "https://www.tcgplayer.com/product/89768/pokemon-team-magma-vs-team-aqua-team-aqua-ball"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aqua Belt",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "76/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer - Pokemon Tool"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cem\u003eAttach Team Aqua Belt to 1 of your Pokémon with Team Aqua in its name that doesn't already have a Pokémon Tool attached to it. If that Pokémon is Knocked Out, discard this card.\u003c/em\u003e\u003cbr\u003e\nAt any time between turns, if the Pokemon Team Aqua Belt is attached to is your Active Pokemon, search your deck for a card that evolves from that Pokemon and put it on that Pokemon.  \u003cem\u003e(This counts as evolving that Pokemon.)\u003c/em\u003e Shuffle your deck afterward, then discard Team Aqua Belt."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89769_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:08.29",
+      "name": "Team Aqua Belt",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89769,
+      "url": "https://www.tcgplayer.com/product/89769/pokemon-team-magma-vs-team-aqua-team-aqua-belt"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aqua Conspirator",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "77/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer - Supporter"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cem\u003eYou can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.\u003c/em\u003e\u003cbr\u003e\r\nSearch your deck for up to 2 in any combination of Basic Pokemon with Team Aqua in its name and basic Energy cards, show them to your opponent, and put them into your hand.  Shuffle your deck afterward."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89770_200w.jpg",
+      "modifiedOn": "2025-11-11T04:03:59.313",
+      "name": "Team Aqua Conspirator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89770,
+      "url": "https://www.tcgplayer.com/product/89770/pokemon-team-magma-vs-team-aqua-team-aqua-conspirator"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aqua Hideout",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "78/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer - Stadium"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.\u003cbr\u003e\nEach Pokemon that does not have Team Aqua in its name pays 1 more to retreat."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89771_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:07.46",
+      "name": "Team Aqua Hideout",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89771,
+      "url": "https://www.tcgplayer.com/product/89771/pokemon-team-magma-vs-team-aqua-team-aqua-hideout"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aqua Schemer",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "69/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer - Supporter"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.\u003cbr\u003e\nDiscard any 1 Pokemon from your hand.  Then draw 3 cards.  If you discarded a Pokemon with Team Aqua in its name, draw 4 cards instead."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "Discard any 1 Pokemon from your hand.  Then draw 3 cards.  If you discarded a Pokemon with Team Aqua in its name, draw 4 cards instead."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89772_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:07.823",
+      "name": "Team Aqua Schemer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89772,
+      "url": "https://www.tcgplayer.com/product/89772/pokemon-team-magma-vs-team-aqua-team-aqua-schemer"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aqua Technical Machine 01",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "79/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer - Technical Machine"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Attach this card to 1 of your Pokemon that has Team Aqua in its name.  That Pokemon may use this card's attack instead of its own.  At the end of your turn, discard Team Aqua Technical Machine 01."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Miracle (10) \r\n\u003cbr\u003eChoose 1 Special Condition.  The Defending Pokemon is now affected by that Special Condition."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89773_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:08.087",
+      "name": "Team Aqua Technical Machine 01",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89773,
+      "url": "https://www.tcgplayer.com/product/89773/pokemon-team-magma-vs-team-aqua-team-aqua-technical-machine-01"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Cacnea 24 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "24/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Paralyzing Gaze\r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Pin Missile (10x) \r\n\u003cbr\u003eFlip 4 coins.  This attack does 4 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89774_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:05.21",
+      "name": "Team Aqua's Cacnea - 24/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89774,
+      "url": "https://www.tcgplayer.com/product/89774/pokemon-team-magma-vs-team-aqua-team-aquas-cacnea-24-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Cacturne",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "1/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[D] Dark Bind (10) \r\n\u003cbr\u003eYou may discard a Darkness Energy card attached to Team Aqua's Cacturne.  If you do, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2G] Poison Barb (40) \r\n\u003cbr\u003eThe Defending Pokemon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89775_200w.jpg",
+      "modifiedOn": "2024-04-01T21:20:58.58",
+      "name": "Team Aqua's Cacturne",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89775,
+      "url": "https://www.tcgplayer.com/product/89775/pokemon-team-magma-vs-team-aqua-team-aquas-cacturne"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Carvanha 25 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "25/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePoké-BODY\u003c/strong\u003e — Dark Lift \r\u003cbr\u003e\nIf Team Aqua's Carvanha has any Darkness Energy attached to it, the Retreat Cost for Team Aqua's Carvanha is 0."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Slow-Acting Poison (20) \r\n\u003cbr\u003eAt the end of your opponent's next turn, the Defending Pokemon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89776_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:08.93",
+      "name": "Team Aqua's Carvanha - 25/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89776,
+      "url": "https://www.tcgplayer.com/product/89776/pokemon-team-magma-vs-team-aqua-team-aquas-carvanha-25-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Carvanha 47 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "47/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Confuse Ray (10) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1W] Poison Fang (10) \r\n\u003cbr\u003eThe Defending Pokemon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89777_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:09.387",
+      "name": "Team Aqua's Carvanha - 47/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89777,
+      "url": "https://www.tcgplayer.com/product/89777/pokemon-team-magma-vs-team-aqua-team-aquas-carvanha-47-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Carvanha 48 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "48/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Wave Splash (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Razor Fin (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89778_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:09.49",
+      "name": "Team Aqua's Carvanha - 48/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89778,
+      "url": "https://www.tcgplayer.com/product/89778/pokemon-team-magma-vs-team-aqua-team-aquas-carvanha-48-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Chinchou",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "49/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Confuse Ray \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1L] Wave Splash (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89779_200w.jpg",
+      "modifiedOn": "2025-02-05T21:16:02.557",
+      "name": "Team Aqua's Chinchou",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89779,
+      "url": "https://www.tcgplayer.com/product/89779/pokemon-team-magma-vs-team-aqua-team-aquas-chinchou"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Corphish 26 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "26/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Double Pinchers (10x) \r\n\u003cbr\u003eFlip 2 coins.  This attack does 10 damage times the number of heads."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1D] Dark Poison (20) \r\n\u003cbr\u003eDiscard a basic Energy card attached to Team Aqua's Corphish or this attack does nothing.  The Defending Pokemon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89780_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:09.663",
+      "name": "Team Aqua's Corphish - 26/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89780,
+      "url": "https://www.tcgplayer.com/product/89780/pokemon-team-magma-vs-team-aqua-team-aquas-corphish-26-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Corphish 50 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "50/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Toxic Grip \r\n\u003cbr\u003eThe Defending Pokemon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89781_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:09.733",
+      "name": "Team Aqua's Corphish - 50/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89781,
+      "url": "https://www.tcgplayer.com/product/89781/pokemon-team-magma-vs-team-aqua-team-aquas-corphish-50-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Corphish 51 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "51/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Slash (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Slow-Acting Poison (10) \r\n\u003cbr\u003eAt the end of your opponent's next turn, the Defending Pokemon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89782_200w.jpg",
+      "modifiedOn": "2025-11-12T23:01:26.983",
+      "name": "Team Aqua's Corphish - 51/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89782,
+      "url": "https://www.tcgplayer.com/product/89782/pokemon-team-magma-vs-team-aqua-team-aquas-corphish-51-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Crawdaunt 2 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "2/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1D] Aqua Reverse (20) \r\n\u003cbr\u003eBefore doing damage, you may choose 1 of your opponent's Benched Pokemon that has Team Magma in its name and switch it with 1 of the Defending Pokemon.  Your opponent chooses which Defending Pokemon to switch."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1WW] Deep Impact (40) \r\n\u003cbr\u003eIf the Defending Pokemon already has any damage counters on it, the Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89783_200w.jpg",
+      "modifiedOn": "2024-04-01T21:20:58.85",
+      "name": "Team Aqua's Crawdaunt - 2/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89783,
+      "url": "https://www.tcgplayer.com/product/89783/pokemon-team-magma-vs-team-aqua-team-aquas-crawdaunt-2-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Crawdaunt 14 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "14/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1W] Poison Reaction (20+)\r\n\u003cbr\u003eIf the Defending Pokemon is Poisoned, this attack does 20 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2W] Double Claw (30+) \r\n\u003cbr\u003eFlip 2 coins.  This attack does 30 damage plus 20 more damage for each heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89784_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:09.953",
+      "name": "Team Aqua's Crawdaunt - 14/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89784,
+      "url": "https://www.tcgplayer.com/product/89784/pokemon-team-magma-vs-team-aqua-team-aquas-crawdaunt-14-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Electrike 27 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "27/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[L] Random Spark \r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Plasma (10) \r\n\u003cbr\u003eFlip a coin.  If heads, search your discard pile for a Lightning Energy card and attach it to Team Aqua's Electrike."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89785_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:06.153",
+      "name": "Team Aqua's Electrike - 27/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89785,
+      "url": "https://www.tcgplayer.com/product/89785/pokemon-team-magma-vs-team-aqua-team-aquas-electrike-27-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Electrike 52 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "52/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Scratch (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1L] Thundershock (10) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89786_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:06.217",
+      "name": "Team Aqua's Electrike - 52/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89786,
+      "url": "https://www.tcgplayer.com/product/89786/pokemon-team-magma-vs-team-aqua-team-aquas-electrike-52-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Electrike 53 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "53/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Self Charge \r\n\u003cbr\u003eAttach an Energy card from your hand to Team Aqua's Electrike."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Tackle (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89787_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:06.28",
+      "name": "Team Aqua's Electrike - 53/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89787,
+      "url": "https://www.tcgplayer.com/product/89787/pokemon-team-magma-vs-team-aqua-team-aquas-electrike-53-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Kyogre",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "3/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePoké-BODY\u003c/strong\u003e — Power Saver\r\u003cbr\u003e\nAs long as the number of Pokemon in play \u003cem\u003e(both yours and your opponent's)\u003c/em\u003e that has Team Aqua in its name is 3 or less, Team Aqua's Kyogre can't attack."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1W] Aqua Trip (10) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Confused.  If tails, the Defending Pokemon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1WW] Aqua Smash (50+) \r\n\u003cbr\u003eIf the Defending Pokemon is affected by a Special Condition, this attack does 50 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89788_200w.jpg",
+      "modifiedOn": "2024-04-01T21:20:58.913",
+      "name": "Team Aqua's Kyogre",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89788,
+      "url": "https://www.tcgplayer.com/product/89788/pokemon-team-magma-vs-team-aqua-team-aquas-kyogre"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Lanturn",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "28/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePoké-POWER\u003c/strong\u003e — Auxiliary Light \u003cbr\u003e\nOnce during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may attach a basic Energy card from your hand to Team Aqua's Lanturn.  Put 2 damage counters on Team Aqua's Lanturn.  This power can't be used if Team Aqua's Lanturn is affected by a Special Condition."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2L] Lightning Ball (50)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89789_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:06.363",
+      "name": "Team Aqua's Lanturn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89789,
+      "url": "https://www.tcgplayer.com/product/89789/pokemon-team-magma-vs-team-aqua-team-aquas-lanturn"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Manectric 4 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "4/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePoké-POWER\u003c/strong\u003e — Power Shift \u003cbr\u003e\nOnce during your turn (before your attack), you may move any number of basic Energy cards attached to 1 of your Pokemon with Team Aqua in its name to another of your Pokemon.  This power can't be used if Team Aqua's Manectric is affected by a Special Condition."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2L] Thunderspark (50) \r\n\u003cbr\u003eDoes 10 damage to each Benched Pokemon (both yours and your opponent's) that has Energy cards attached to it.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89790_200w.jpg",
+      "modifiedOn": "2024-04-01T21:20:58.64",
+      "name": "Team Aqua's Manectric - 4/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89790,
+      "url": "https://www.tcgplayer.com/product/89790/pokemon-team-magma-vs-team-aqua-team-aquas-manectric-4-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Manectric 29 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "29/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1L] Aqua Beam (20)\r\n\u003cbr\u003eIf the Defending Pokemon has Team Magma in its name, the Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2L] Chaos Crush (50) \r\n\u003cbr\u003eIf the Defending Pokemon is Confused, discard an Energy card attached to the Defending Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "M"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89791_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:06.763",
+      "name": "Team Aqua's Manectric - 29/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89791,
+      "url": "https://www.tcgplayer.com/product/89791/pokemon-team-magma-vs-team-aqua-team-aquas-manectric-29-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Mightyena 15 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "15/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1D] Bite (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2W] Mystic Fang (50) \r\n\u003cbr\u003eIf the Defending Pokemon is Pokemon-ex, the Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89792_200w.jpg",
+      "modifiedOn": "2022-11-17T19:02:32.45",
+      "name": "Team Aqua's Mightyena - 15/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89792,
+      "url": "https://www.tcgplayer.com/product/89792/pokemon-team-magma-vs-team-aqua-team-aquas-mightyena-15-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Mightyena 30 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "30/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Aqua Call\r\n\u003cbr\u003eSearch your deck for Pokemon that has Team Aqua in its name, show up to 3 of them to your opponent, and put them into your hand.  Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1W] Wave Splash (30)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89793_200w.jpg",
+      "modifiedOn": "2022-11-17T19:06:41.053",
+      "name": "Team Aqua's Mightyena - 30/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89793,
+      "url": "https://www.tcgplayer.com/product/89793/pokemon-team-magma-vs-team-aqua-team-aquas-mightyena-30-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Poochyena 54 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "54/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Double Scratch (10x) \r\n\u003cbr\u003eFlip 2 coins.  This attack does 10 damage times the number of heads."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Tail Slap (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89794_200w.jpg",
+      "modifiedOn": "2022-11-17T20:08:08.737",
+      "name": "Team Aqua's Poochyena - 54/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89794,
+      "url": "https://www.tcgplayer.com/product/89794/pokemon-team-magma-vs-team-aqua-team-aquas-poochyena-54-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Poochyena 55 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "55/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Roar \r\n\u003cbr\u003eYour opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon, if any."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1W] Aqua Crush (10) \r\n\u003cbr\u003eFlip a coin.  If heads, discard an Energy card attached to the Defending Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89795_200w.jpg",
+      "modifiedOn": "2023-03-08T10:16:07.58",
+      "name": "Team Aqua's Poochyena - 55/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89795,
+      "url": "https://www.tcgplayer.com/product/89795/pokemon-team-magma-vs-team-aqua-team-aquas-poochyena-55-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Sealeo 16 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "16/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Aqua Trance (20) \r\n\u003cbr\u003eAt the end of your opponent's next turn, the Defending Pokemon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1W] Super Hypnoblast (30+) \r\n\u003cbr\u003eIf the Defending Pokemon is Asleep, this attack does 30 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "M"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89796_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:10.033",
+      "name": "Team Aqua's Sealeo - 16/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89796,
+      "url": "https://www.tcgplayer.com/product/89796/pokemon-team-magma-vs-team-aqua-team-aquas-sealeo-16-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Sealeo 31 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "31/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Aurora Beam (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1WW] Knock Over (40) \r\n\u003cbr\u003eYou may discard any Stadium card in play."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "M"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89797_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:10.127",
+      "name": "Team Aqua's Sealeo - 31/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89797,
+      "url": "https://www.tcgplayer.com/product/89797/pokemon-team-magma-vs-team-aqua-team-aquas-sealeo-31-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Seviper",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "17/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Call for Family \r\n\u003cbr\u003eSearch your deck for a Grass Basic Pokemon or Basic Pokemon with Team Aqua in its name and put it onto your Bench.  Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2G] Thick Poison (20)\r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Confused and Poisoned.  If tails, the Defending Pokemon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89798_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:05.28",
+      "name": "Team Aqua's Seviper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89798,
+      "url": "https://www.tcgplayer.com/product/89798/pokemon-team-magma-vs-team-aqua-team-aquas-seviper"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Sharpedo 5 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "5/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Rage (10+) \r\n\u003cbr\u003eDoes 10 damage plus 10 more damage for each damage counter on Team Aqua's Sharpedo."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1WW] Aqua Slash (60) \r\n\u003cbr\u003eTeam Aqua's Sharpedo can't attack during your next turn."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "0"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89799_200w.jpg",
+      "modifiedOn": "2024-04-01T21:20:59.023",
+      "name": "Team Aqua's Sharpedo - 5/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89799,
+      "url": "https://www.tcgplayer.com/product/89799/pokemon-team-magma-vs-team-aqua-team-aquas-sharpedo-5-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Sharpedo 18 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "18/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Slow-Acting Poison (20) \r\n\u003cbr\u003eAt the end of your opponent's next turn, the Defending Pokemon is now Poisoned."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1WW] Aqua Smash (50+) \r\n\u003cbr\u003eIf the Defending Pokemon is affected by a Special Condition, this attack does 50 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "0"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89800_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:10.22",
+      "name": "Team Aqua's Sharpedo - 18/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89800,
+      "url": "https://www.tcgplayer.com/product/89800/pokemon-team-magma-vs-team-aqua-team-aquas-sharpedo-18-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Spheal 56 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "56/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Powder Snow (10) \r\n\u003cbr\u003eThe Defending Pokemon is now Asleep."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "M"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89801_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:10.313",
+      "name": "Team Aqua's Spheal - 56/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89801,
+      "url": "https://www.tcgplayer.com/product/89801/pokemon-team-magma-vs-team-aqua-team-aquas-spheal-56-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Spheal 57 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "57/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Rollout (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1W] Aqua Trance (20) \r\n\u003cbr\u003eAt the end of your opponent's next turn, the Defending Pokemon is now Asleep."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "M"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89802_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:10.443",
+      "name": "Team Aqua's Spheal - 57/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89802,
+      "url": "https://www.tcgplayer.com/product/89802/pokemon-team-magma-vs-team-aqua-team-aquas-spheal-57-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Aquas Walrein",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "6/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "120"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Power Blow (10+)\r\n\u003cbr\u003eDoes 10 damage plus 10 more damage for each Energy attached to Team Aqua's Walrein."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2WW] Hydro Reverse (50+) \r\n\u003cbr\u003eYou may return any number of basic Water Energy cards attached to all of your Pokemon to your hand.  If you do, this attack does 50 damage plus 10 more damage for each Energy you returned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "FM"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89803_200w.jpg",
+      "modifiedOn": "2025-03-02T08:07:16.717",
+      "name": "Team Aqua's Walrein",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89803,
+      "url": "https://www.tcgplayer.com/product/89803/pokemon-team-magma-vs-team-aqua-team-aquas-walrein"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magma Ball",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "80/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer - Item"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Flip a coin.  If heads, search your deck for a Pokemon that has Team Magma in its name, show it to your opponent, and put it into your hand.  If tails, search your deck for a Basic Pokemon that has Team Magma in its name, show it to your opponent and put into your hand.  Shuffle your deck afterward."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89812_200w.jpg",
+      "modifiedOn": "2024-12-26T10:06:30.183",
+      "name": "Team Magma Ball",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89812,
+      "url": "https://www.tcgplayer.com/product/89812/pokemon-team-magma-vs-team-aqua-team-magma-ball"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magma Belt",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "81/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer - Pokemon Tool"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Attach Team Magma Belt to 1 of your Pokémon with Team Magma in its name that doesn't already have a Pokémon Tool attached to it. If that Pokémon is Knocked Out, discard this card.\u003cbr\u003e\nAt any time between turns, if the Pokemon Team Magma Belt is attached to is your Active Pokemon, search your deck for a card that evolves from that Pokemon and put it on that Pokemon.  \u003cem\u003e(This counts as evolving that Pokemon.)\u003c/em\u003e Shuffle your deck afterward, then discard Team Magma Belt."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89813_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:08.453",
+      "name": "Team Magma Belt",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89813,
+      "url": "https://www.tcgplayer.com/product/89813/pokemon-team-magma-vs-team-aqua-team-magma-belt"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magma Conspirator",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "82/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer - Supporter"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.\u003cbr\u003e\nSearch your deck for up to 2 in any combination of Basic Pokemon with Team Magma in its name and basic Energy cards, show them to your opponent, and put them into your hand.  Shuffle your deck afterward."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89814_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:07.963",
+      "name": "Team Magma Conspirator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89814,
+      "url": "https://www.tcgplayer.com/product/89814/pokemon-team-magma-vs-team-aqua-team-magma-conspirator"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magma Hideout",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "83/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer - Stadium"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.\u003cbr\u003e\r\nWhenever any player plays a Basic Pokemon that doesn't have Team Magma in its name from his or her hand, that player puts 1 damage counter on that Pokemon."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89815_200w.jpg",
+      "modifiedOn": "2024-12-27T09:45:13.02",
+      "name": "Team Magma Hideout",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89815,
+      "url": "https://www.tcgplayer.com/product/89815/pokemon-team-magma-vs-team-aqua-team-magma-hideout"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magma Schemer",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "70/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer - Supporter"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.\u003cbr\u003e\r\nDiscard any 1 Pokemon from your hand.  Then draw 3 cards.  If you discarded a Pokemon with Team Magma in its name, draw 4 cards instead."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89816_200w.jpg",
+      "modifiedOn": "2025-03-28T20:50:16.707",
+      "name": "Team Magma Schemer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89816,
+      "url": "https://www.tcgplayer.com/product/89816/pokemon-team-magma-vs-team-aqua-team-magma-schemer"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magma Technical Machine 01",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "84/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer - Technical Machine"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Attach this card to 1 of your Pokemon that has Team Magma in its name.  That Pokemon may use this card's attack instead of its own.  At the end of your turn, discard Team Magma Technical Machine 01."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Crushing Magma (10) \r\n\u003cbr\u003eChoose an Energy card attached to the Defending Pokemon and put that card at the bottom of your opponent's deck."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89817_200w.jpg",
+      "modifiedOn": "2025-05-02T06:07:39.897",
+      "name": "Team Magma Technical Machine 01",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89817,
+      "url": "https://www.tcgplayer.com/product/89817/pokemon-team-magma-vs-team-aqua-team-magma-technical-machine-01"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Aggron",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "7/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "120"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Crush (30x) \r\n\u003cbr\u003eFlip a coin for each Energy attached to Team Magma's Aggron.  This attack does 30 damage times the number of heads."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2FF] Land Stream (50+) \r\n\u003cbr\u003eYou may discard any number of basic Energy cards attached to Team Magma's Aggron.  If you do, this attack does 50 damage plus 20 more damage for each basic Energy card you discarded."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "GW"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89818_200w.jpg",
+      "modifiedOn": "2025-02-21T03:14:04.547",
+      "name": "Team Magma's Aggron",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89818,
+      "url": "https://www.tcgplayer.com/product/89818/pokemon-team-magma-vs-team-aqua-team-magmas-aggron"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Aron 58 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "58/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Mud Slap (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Tackle (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89819_200w.jpg",
+      "modifiedOn": "2024-04-01T21:20:59.567",
+      "name": "Team Magma's Aron - 58/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89819,
+      "url": "https://www.tcgplayer.com/product/89819/pokemon-team-magma-vs-team-aqua-team-magmas-aron-58-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Aron 59 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "59/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Dig Under\r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.  This attack's damage isn't affected by Weakness or Resistance."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89820_200w.jpg",
+      "modifiedOn": "2025-12-01T23:52:10.987",
+      "name": "Team Magma's Aron - 59/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89820,
+      "url": "https://www.tcgplayer.com/product/89820/pokemon-team-magma-vs-team-aqua-team-magmas-aron-59-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Baltoy 32 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "32/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Psymist \r\n\u003cbr\u003eFlip 2 coins.  For each heads, choose 1 of your opponent's Pokemon and put 1 damage counter on that Pokemon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1P] Pain Amplifier \r\n\u003cbr\u003ePut 1 damage counter on each of your opponent's Pokemon that already has damage counters on it."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89821_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:07.127",
+      "name": "Team Magma's Baltoy - 32/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89821,
+      "url": "https://www.tcgplayer.com/product/89821/pokemon-team-magma-vs-team-aqua-team-magmas-baltoy-32-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Baltoy 60 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "60/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Peck (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1F] Double Spin (20x) \r\n\u003cbr\u003eFlip 2 coins.  This attack does 20 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89822_200w.jpg",
+      "modifiedOn": "2024-04-01T21:20:59.87",
+      "name": "Team Magma's Baltoy - 60/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89822,
+      "url": "https://www.tcgplayer.com/product/89822/pokemon-team-magma-vs-team-aqua-team-magmas-baltoy-60-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Baltoy 61 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "61/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Night Attack\r\n\u003cbr\u003ePut 1 damage counter on 1 of your opponent's Pokemon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Spinning Attack (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89823_200w.jpg",
+      "modifiedOn": "2024-04-10T20:58:53.18",
+      "name": "Team Magma's Baltoy - 61/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89823,
+      "url": "https://www.tcgplayer.com/product/89823/pokemon-team-magma-vs-team-aqua-team-magmas-baltoy-61-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Camerupt",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "19/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePoké-POWER\u003c/strong\u003e — Overheat \u003cbr\u003e\nOnce during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may search your discard pile for a basic Energy card and attach it to Team Magma's Camerupt.  Put 2 damage counters on Team Magma's Camerupt.  This power can't be used if Team Magma's Camerupt is affected by a Special Condition."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2R] Flame Ball (50) \r\n\u003cbr\u003eYou may move a R Energy card attached to Team Magma's Camerupt to 1 of your Benched Pokemon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89824_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:04.233",
+      "name": "Team Magma's Camerupt",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89824,
+      "url": "https://www.tcgplayer.com/product/89824/pokemon-team-magma-vs-team-aqua-team-magmas-camerupt"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Claydol 8 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "8/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePoké-POWER\u003c/strong\u003e — Magma Switch  \u003cbr\u003e\r\nOnce during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may move an Energy card attached to your Pokemon with Team Magma in its name to another of your Pokemon.  This power can't be used if Team Magma's Claydol is affected by a Special Condition."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2P] Dark Hand (40+) \r\n\u003cbr\u003eIf you have more cards in your hand than your opponent, this attack does 40 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89825_200w.jpg",
+      "modifiedOn": "2025-03-30T05:28:13.32",
+      "name": "Team Magma's Claydol - 8/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89825,
+      "url": "https://www.tcgplayer.com/product/89825/pokemon-team-magma-vs-team-aqua-team-magmas-claydol-8-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Claydol 33 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "33/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Clay Curse \r\n\u003cbr\u003ePut 2 damage counters on your opponent's Pokemon in any way you like."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1FF] Clay Pulse (50) \r\n\u003cbr\u003eDoes 10 damage to each of your opponent's Benched Pokemon that has any damage counters on it.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89826_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:00.2",
+      "name": "Team Magma's Claydol - 33/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89826,
+      "url": "https://www.tcgplayer.com/product/89826/pokemon-team-magma-vs-team-aqua-team-magmas-claydol-33-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Groudon",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "9/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePoké-BODY\u003c/strong\u003e — Power Saver \u003cbr\u003e\nAs long as the number of Pokemon in play \u003cem\u003e(both yours and your opponent's)\u003c/em\u003e that has Team Magma in its name is 3 or less, Team Magma's Groudon can't attack."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1F] Linear Attack\r\n\u003cbr\u003eChoose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon. \u003ci\u003e (Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1FF] Pulverize (50+) \r\n\u003cbr\u003eIf the Defending Pokemon already has at least 2 damage counters on it, this attack does 50 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89827_200w.jpg",
+      "modifiedOn": "2024-04-01T21:20:57.947",
+      "name": "Team Magma's Groudon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89827,
+      "url": "https://www.tcgplayer.com/product/89827/pokemon-team-magma-vs-team-aqua-team-magmas-groudon"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Houndoom 10 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "10/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1R] Roasting Heat (30+) \r\n\u003cbr\u003eIf the Defending Pokemon is Burned, this attack does 30 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2R] Magma Spurt (30x) \r\n\u003cbr\u003eDiscard the top 5 cards from your deck.  This attack does 30 damage times the number of Fighting and Fire basic Energy cards discarded this way."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89828_200w.jpg",
+      "modifiedOn": "2025-02-19T12:44:45.54",
+      "name": "Team Magma's Houndoom - 10/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89828,
+      "url": "https://www.tcgplayer.com/product/89828/pokemon-team-magma-vs-team-aqua-team-magmas-houndoom-10-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Houndoom 34 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "34/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1R] Target Scorch (30) \r\n\u003cbr\u003eIf the Defending Pokemon has Team Aqua in its name, the Defending Pokemon is now Burned."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2R] Damage Burn (40+) \r\n\u003cbr\u003eIf the Defending Pokemon already has any damage counters on it, this attack does 40 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89829_200w.jpg",
+      "modifiedOn": "2025-11-11T04:22:39.48",
+      "name": "Team Magma's Houndoom - 34/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89829,
+      "url": "https://www.tcgplayer.com/product/89829/pokemon-team-magma-vs-team-aqua-team-magmas-houndoom-34-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Houndour 35 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "35/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[R] Singe \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Burned."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1D] Dark Shock (20) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89830_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:04.45",
+      "name": "Team Magma's Houndour - 35/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89830,
+      "url": "https://www.tcgplayer.com/product/89830/pokemon-team-magma-vs-team-aqua-team-magmas-houndour-35-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Houndour 62 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "62/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[R] Combustion (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1R] Super Singe (10) \r\n\u003cbr\u003eThe Defending Pokemon is now Burned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89831_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:04.573",
+      "name": "Team Magma's Houndour - 62/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89831,
+      "url": "https://www.tcgplayer.com/product/89831/pokemon-team-magma-vs-team-aqua-team-magmas-houndour-62-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Houndour 63 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "63/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Kick Away (10) \r\n\u003cbr\u003eYour opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon, if any."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1R] Steady Firebreathing (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89832_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:04.673",
+      "name": "Team Magma's Houndour - 63/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89832,
+      "url": "https://www.tcgplayer.com/product/89832/pokemon-team-magma-vs-team-aqua-team-magmas-houndour-63-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Lairon 20 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "20/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Body Slam (10) \r\n\u003cbr\u003eFlip a coin.  If heads, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1FF] Tackle (50)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89833_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:00.407",
+      "name": "Team Magma's Lairon - 20/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89833,
+      "url": "https://www.tcgplayer.com/product/89833/pokemon-team-magma-vs-team-aqua-team-magmas-lairon-20-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Lairon 36 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "36/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Gnaw (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1FF] Land Sonic (40) \r\n\u003cbr\u003eIf the Defending Pokemon already has any damage counters on it, the Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89834_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:00.477",
+      "name": "Team Magma's Lairon - 36/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89834,
+      "url": "https://www.tcgplayer.com/product/89834/pokemon-team-magma-vs-team-aqua-team-magmas-lairon-36-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Mightyena 21 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "21/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Overrun (10) \r\n\u003cbr\u003eChoose 1 of your opponent's Benched Pokemon.  This attack does 10 damage to that Pokemon.  \u003ci\u003e(Don't apply Weakness and Resistance for Benched Pokemon.)\u003c/i\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2D] Bite Off (40+) \r\n\u003cbr\u003eIf the Defending Pokemon is Pokemon-ex, this attack does 40 damage plus 40 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89835_200w.jpg",
+      "modifiedOn": "2022-11-17T19:04:30.69",
+      "name": "Team Magma's Mightyena - 21/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89835,
+      "url": "https://www.tcgplayer.com/product/89835/pokemon-team-magma-vs-team-aqua-team-magmas-mightyena-21-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Mightyena 37 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "37/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cb\u003ePoke-POWER\u003c/b\u003e Call for Help\r\n\u003cbr\u003eOnce during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, if Team Magma's Mightyena is your Active Pokemon, you may search your deck for a Pokemon with Team Magma in its name, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.  This power can't be used if Team Magma's Mightyena is affected by a Special Condition."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1F] Lunge (50) \r\n\u003cbr\u003eFlip a coin.  If tails, this attack does nothing."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89836_200w.jpg",
+      "modifiedOn": "2022-11-17T20:03:04.14",
+      "name": "Team Magma's Mightyena - 37/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89836,
+      "url": "https://www.tcgplayer.com/product/89836/pokemon-team-magma-vs-team-aqua-team-magmas-mightyena-37-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Numel",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "64/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Collect \r\n\u003cbr\u003eDraw a card."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1R] Combustion (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89837_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:04.87",
+      "name": "Team Magma's Numel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89837,
+      "url": "https://www.tcgplayer.com/product/89837/pokemon-team-magma-vs-team-aqua-team-magmas-numel"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Poochyena 65 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "65/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Snarl\r\n\u003cbr\u003eFlip a coin.  If heads, this attack does 10 damage to the Defending Pokemon.  If tails, the Defending Pokemon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89838_200w.jpg",
+      "modifiedOn": "2022-11-17T20:51:57.953",
+      "name": "Team Magma's Poochyena - 65/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89838,
+      "url": "https://www.tcgplayer.com/product/89838/pokemon-team-magma-vs-team-aqua-team-magmas-poochyena-65-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Poochyena 66 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "66/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Darkness Call \r\n\u003cbr\u003eYour opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon, if any."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1F] Sharp Fang (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89839_200w.jpg",
+      "modifiedOn": "2022-11-17T20:52:12.333",
+      "name": "Team Magma's Poochyena - 66/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89839,
+      "url": "https://www.tcgplayer.com/product/89839/pokemon-team-magma-vs-team-aqua-team-magmas-poochyena-66-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Rhydon 11 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "11/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1D] Magma Jab (20) \r\n\u003cbr\u003eThis attack's damage is not affected by Resistance."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1FF] Shoot Down (50) \r\n\u003cbr\u003eIf the Defending Pokemon has Team Aqua in its name, the Defending Pokemon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89840_200w.jpg",
+      "modifiedOn": "2024-04-01T21:20:58.017",
+      "name": "Team Magma's Rhydon - 11/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89840,
+      "url": "https://www.tcgplayer.com/product/89840/pokemon-team-magma-vs-team-aqua-team-magmas-rhydon-11-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Rhydon 22 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "22/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Second Strike (20+) \r\n\u003cbr\u003eIf the Defending Pokemon already has at least 2 damage counters on it, this attack does 20 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1FF] Land Crush (60) \r\n\u003cbr\u003eFlip a coin.  If tails, discard an Energy card attached to Team Magma's Rhydon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89841_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:00.567",
+      "name": "Team Magma's Rhydon - 22/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89841,
+      "url": "https://www.tcgplayer.com/product/89841/pokemon-team-magma-vs-team-aqua-team-magmas-rhydon-22-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Rhyhorn 38 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "38/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Double Damage\r\n\u003cbr\u003eDoes 10 damage to each Defending Pokemon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2F] Horn Rush (60) \r\n\u003cbr\u003eFlip a coin.  If tails, this attack does nothing."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89842_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:00.627",
+      "name": "Team Magma's Rhyhorn - 38/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89842,
+      "url": "https://www.tcgplayer.com/product/89842/pokemon-team-magma-vs-team-aqua-team-magmas-rhyhorn-38-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Rhyhorn 67 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "67/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Double Stab (10x) \r\n\u003cbr\u003eFlip 2 coins.  This attack does 10 damage times the number of heads."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Second Strike (10+) \r\n\u003cbr\u003eIf the Defending Pokemon already has at least 2 damage counters on it, this attack does 10 damage plus 20 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89843_200w.jpg",
+      "modifiedOn": "2025-12-01T23:53:04.953",
+      "name": "Team Magma's Rhyhorn - 67/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89843,
+      "url": "https://www.tcgplayer.com/product/89843/pokemon-team-magma-vs-team-aqua-team-magmas-rhyhorn-67-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Rhyhorn 68 95",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "68/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Ram (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1F] Knock Over (10)\r\n\u003cbr\u003eYou may discard any Stadium in play."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89844_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:00.8",
+      "name": "Team Magma's Rhyhorn - 68/95",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89844,
+      "url": "https://www.tcgplayer.com/product/89844/pokemon-team-magma-vs-team-aqua-team-magmas-rhyhorn-68-95"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Torkoal",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "12/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[R] Magma Burn (10) \r\n\u003cbr\u003eDiscard the top card from your opponent's deck, and flip a coin.  If tails, discard a Fire Energy attached to Team Magma's Torkoal."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1R] Hot Air (30) \r\n\u003cbr\u003eDiscard a Fire Energy attached to Team Magma's Torkoal, and your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon, if any."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89845_200w.jpg",
+      "modifiedOn": "2024-04-01T21:20:58.447",
+      "name": "Team Magma's Torkoal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89845,
+      "url": "https://www.tcgplayer.com/product/89845/pokemon-team-magma-vs-team-aqua-team-magmas-torkoal"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magmas Zangoose",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "23/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Call for Family\r\n\u003cbr\u003eSearch your deck for a Colorless Basic Pokemon or Basic Pokemon with Team Magma in its name and put it onto your Bench.  Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Team Play (10x) \r\n\u003cbr\u003eDoes 10 damage times the number of Pokemon in play with Team Magma in its name."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "None"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89846_200w.jpg",
+      "modifiedOn": "2022-11-17T19:05:02.767",
+      "name": "Team Magma's Zangoose",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89846,
+      "url": "https://www.tcgplayer.com/product/89846/pokemon-team-magma-vs-team-aqua-team-magmas-zangoose"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Warp Point",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "85/95"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer - Item"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Your opponent switches 1 of his or her Defending Pokemon with 1 of his or her Benched Pokemon, if any.  You switch 1 of your Active Pokemon with 1 of your Benched Pokemon, if any."
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90478_200w.jpg",
+      "modifiedOn": "2024-04-01T21:21:05.56",
+      "name": "Warp Point",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90478,
+      "url": "https://www.tcgplayer.com/product/90478/pokemon-team-magma-vs-team-aqua-warp-point"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magma vs Team Aqua Booster Pack",
+      "extendedData": [],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/98550_200w.jpg",
+      "modifiedOn": "2017-07-22T16:55:54.743",
+      "name": "Team Magma vs Team Aqua Booster Pack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 98550,
+      "url": "https://www.tcgplayer.com/product/98550/pokemon-team-magma-vs-team-aqua-team-magma-vs-team-aqua-booster-pack"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magma vs Team Aqua Booster Box",
+      "extendedData": [],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/98551_200w.jpg",
+      "modifiedOn": "2015-05-06T14:02:21.787",
+      "name": "Team Magma vs Team Aqua Booster Box",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 98551,
+      "url": "https://www.tcgplayer.com/product/98551/pokemon-team-magma-vs-team-aqua-team-magma-vs-team-aqua-booster-box"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Team Magma Theme Deck EX Team Magma Groudon",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Get all the fire-power you need with the EX Team Magma Theme Deck. Your game will really start to sizzle when you release the blistering Groudon. For your opponents, this is one deck that's too hot to handle.\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eContents:\u003c/strong\u003e\r\n\u003cbr\u003e• 1 60-card preconstructed deck\r\n\u003cbr\u003e• Damage counters\r\n\u003cbr\u003e• 1 coin"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/488301_200w.jpg",
+      "modifiedOn": "2023-03-15T13:08:39.403",
+      "name": "Team Magma Theme Deck - \"EX Team Magma\" [Groudon]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 488301,
+      "url": "https://www.tcgplayer.com/product/488301/pokemon-team-magma-vs-team-aqua-team-magma-theme-deck-ex-team-magma-groudon"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "EX Ruby and Sapphire Theme Deck Ruby Blaziken",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "You'll burn through the competition with the Fire and Fighting Pokémon in this \"Ruby\" theme deck. Unleash special attacks like Fire Spin and Flamethrower to light your way to the Championship!\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eContents:\u003c/strong\u003e\r\n\u003cbr\u003e• 1 60-card preconstructed deck\r\n\u003cbr\u003e• Damage counters\r\n\u003cbr\u003e• 1 coin"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/488309_200w.jpg",
+      "modifiedOn": "2023-03-15T13:54:12.867",
+      "name": "EX Ruby \u0026 Sapphire Theme Deck - \"Ruby\" [Blaziken]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 488309,
+      "url": "https://www.tcgplayer.com/product/488309/pokemon-team-magma-vs-team-aqua-ex-ruby-and-sapphire-theme-deck-ruby-blaziken"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "EX Ruby and Sapphire Theme Deck Sapphire Swampert",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "The Water and Grass Pokémon in this \"Sapphire\" theme deck gives you the power to soak the competition! Unleash cool attacks like Water Arrow on your opponents before knocking them out of the tournament with Pound or Fury Swipes!\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eContents:\u003c/strong\u003e\r\n\u003cbr\u003e• 1 60-card preconstructed deck\r\n\u003cbr\u003e• Damage counters\r\n\u003cbr\u003e• 1 coin"
+        }
+      ],
+      "groupId": 1377,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/488310_200w.jpg",
+      "modifiedOn": "2023-03-15T13:54:52.347",
+      "name": "EX Ruby \u0026 Sapphire Theme Deck - \"Sapphire\" [Swampert]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 488310,
+      "url": "https://www.tcgplayer.com/product/488310/pokemon-team-magma-vs-team-aqua-ex-ruby-and-sapphire-theme-deck-sapphire-swampert"
+    }
+  ],
+  "success": true,
+  "totalItems": 102
+}

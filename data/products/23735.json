@@ -1,0 +1,3785 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Path of Peril",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "124"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Cleave 4WB \u003cem\u003e(You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)\u003c/em\u003e\r\n\u003cbr\u003eDestroy all creatures [with mana value 2 or less]."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eTo Olivia's guests, a welcome. To everyone else, a warning.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/255235_200w.jpg",
+      "modifiedOn": "2025-02-25T19:38:47.483",
+      "name": "Path of Peril",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 255235,
+      "url": "https://www.tcgplayer.com/product/255235/magic-promo-pack-duskmourn-house-of-horror-path-of-peril"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dollhouse of Horrors",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "255"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1, T, Exile a creature card from your graveyard: Create a token that's a copy of the exiled card, except it's a 0/0 Construct artifact in addition to its other types and it has \"This creature gets +1/+1 for each Construct you control.\" It gains haste until end of turn. Activate only as a sorcery."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/255267_200w.jpg",
+      "modifiedOn": "2025-01-08T16:58:14.207",
+      "name": "Dollhouse of Horrors",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 255267,
+      "url": "https://www.tcgplayer.com/product/255267/magic-promo-pack-duskmourn-house-of-horror-dollhouse-of-horrors"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shardmages Rescue",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "411"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\r\n\u003cbr\u003eEnchant creature you control\r\n\u003cbr\u003eAs long as Shardmage's Rescue entered this turn, enchanted creature has hexproof. \r\n\u003cbr\u003eEnchant creature gets +1/+1."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/575878_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Shardmage's Rescue",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 575878,
+      "url": "https://www.tcgplayer.com/product/575878/magic-promo-pack-duskmourn-house-of-horror-shardmages-rescue"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Valgavoths Faithful",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "412"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "3B, Sacrifice Valgavoth's Faithful: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/575880_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Valgavoth's Faithful",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 575880,
+      "url": "https://www.tcgplayer.com/product/575880/magic-promo-pack-duskmourn-house-of-horror-valgavoths-faithful"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pyroclasm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "413"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Pyroclasm deals 2 damage to each creature."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/575881_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Pyroclasm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 575881,
+      "url": "https://www.tcgplayer.com/product/575881/magic-promo-pack-duskmourn-house-of-horror-pyroclasm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Inquisitive Glimmer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "415"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Fox Glimmer"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchantment spells you cast cost 1 less to cast.\r\n\u003cbr\u003eUnlock costs you pay cost 1 less."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/575883_200w.jpg",
+      "modifiedOn": "2025-11-26T22:54:26.257",
+      "name": "Inquisitive Glimmer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 575883,
+      "url": "https://www.tcgplayer.com/product/575883/magic-promo-pack-duskmourn-house-of-horror-inquisitive-glimmer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Drag to the Roots",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "414"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eDelirium\u003c/em\u003e — This spell costs 2 less to cast as long as there are four or more card types among card in your graveyard.\r\n\u003cbr\u003eDestroy target nonland permanent."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/575884_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Drag to the Roots",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 575884,
+      "url": "https://www.tcgplayer.com/product/575884/magic-promo-pack-duskmourn-house-of-horror-drag-to-the-roots"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Overlord of the Mistmoors",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "23"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Avatar Horror"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Impending 4-2WW \u003cem\u003e(If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)\u003c/em\u003e \u003cbr\u003e\r\u003cbr\u003e\nWhenever Overlord of the Mistmoors enters or attacks, create two 2/1 white Insect creature tokens with flying."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580716_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:04.803",
+      "name": "Overlord of the Mistmoors",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580716,
+      "url": "https://www.tcgplayer.com/product/580716/magic-promo-pack-duskmourn-house-of-horror-overlord-of-the-mistmoors"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Wandering Rescuer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "41"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Samurai Noble"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\u003cbr\u003e\r\u003cbr\u003e\nConvoke \u003cem\u003e(Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature's color.)\u003c/em\u003e\u003cbr\u003e\r\u003cbr\u003e\nDouble strike\u003cbr\u003e\r\u003cbr\u003e\nOther tapped creatures you control have hexproof."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580717_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:04.88",
+      "name": "The Wandering Rescuer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580717,
+      "url": "https://www.tcgplayer.com/product/580717/magic-promo-pack-duskmourn-house-of-horror-the-wandering-rescuer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Abhorrent Oculus",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "42"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Eye"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As an additional cost to cast this spell, exile six cards from your graveyard. \u003cbr\u003e\r\u003cbr\u003e\nFlying \u003cbr\u003e\r\u003cbr\u003e\nAt the beginning of each opponent's upkeep, manifest dread. \u003cem\u003e(Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580718_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:05.037",
+      "name": "Abhorrent Oculus",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580718,
+      "url": "https://www.tcgplayer.com/product/580718/magic-promo-pack-duskmourn-house-of-horror-abhorrent-oculus"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Overlord of the Floodpits",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "68"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Avatar Horror"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Impending 4—1UU \u003cem\u003e(If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)\u003c/em\u003e\u003cbr\u003e\r\u003cbr\u003e\nFlying\u003cbr\u003e\r\u003cbr\u003e\nWhenever Overlord of the Floodpits enters or attacks, draw two cards, then discard a card."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580719_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:05.1",
+      "name": "Overlord of the Floodpits",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580719,
+      "url": "https://www.tcgplayer.com/product/580719/magic-promo-pack-duskmourn-house-of-horror-overlord-of-the-floodpits"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Meathook Massacre II 0108",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "108"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Meathook Massacre II enters, each player sacrifices X creatures.\u003cbr\u003e\r\u003cbr\u003e\nWhenever a creature you control dies, you may pay 3 life. If you do, return that card under your control with a finality control on it.\u003cbr\u003e\r\u003cbr\u003e\nWhenever a creature an opponent control dies, they may pay 3 life. If they don't, return that card under your control with a finality counter on it."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580720_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:05.21",
+      "name": "Meathook Massacre II (0108)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580720,
+      "url": "https://www.tcgplayer.com/product/580720/magic-promo-pack-duskmourn-house-of-horror-meathook-massacre-ii-0108"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Overlord of the Balemurk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "113"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Avatar Horror"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Impending 5—1B \u003cem\u003e(If you cast this spell for its impending cost, it enters with five time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)\u003c/em\u003e\u003cbr\u003e\r\n\u003cbr\u003e\r\nWhenever Overlord of the Balemurk enters or attacks, mill four cards, then you may return a non-Avatar creature card or a planeswalker card from your graveyard to your hand."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580721_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:05.333",
+      "name": "Overlord of the Balemurk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 580721,
+      "url": "https://www.tcgplayer.com/product/580721/magic-promo-pack-duskmourn-house-of-horror-overlord-of-the-balemurk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Valgavoth Terror Eater",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "120"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elder Demon"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, lifelink \u003cbr\u003e\r\u003cbr\u003e\nWard—Sacrifice three nonland permanents. \u003cbr\u003e\r\u003cbr\u003e\nIf a card you didn't control would be put into an opponent's graveyard from anywhere, exile it instead. \u003cbr\u003e\r\u003cbr\u003e\nDuring your turn, you may play cards exiled with Valgavoth. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580722_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:05.49",
+      "name": "Valgavoth, Terror Eater",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580722,
+      "url": "https://www.tcgplayer.com/product/580722/magic-promo-pack-duskmourn-house-of-horror-valgavoth-terror-eater"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Overlord of the Boilerbilges",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "146"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Avatar Horror"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Impending 4—2RR \u003cem\u003e(If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)\u003c/em\u003e \u003cbr\u003e\r\u003cbr\u003e\nWhenever Overlord of the Boilerbilges enters or attacks, it deals 4 4 damage any target."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580723_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:05.633",
+      "name": "Overlord of the Boilerbilges",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580723,
+      "url": "https://www.tcgplayer.com/product/580723/magic-promo-pack-duskmourn-house-of-horror-overlord-of-the-boilerbilges"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Screaming Nemesis",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "157"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spirit"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\u003cbr\u003e\r\n\u003cbr\u003e\r\nWhenever Screaming Nemesis is dealt damage, it deals that much damage to any other target. If a player is dealt damage this way, they can't gain life for the rest of the game."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eShe sees the faces of those who wronged her in everyone she encounters.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580724_200w.jpg",
+      "modifiedOn": "2025-02-14T18:40:02.253",
+      "name": "Screaming Nemesis",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 580724,
+      "url": "https://www.tcgplayer.com/product/580724/magic-promo-pack-duskmourn-house-of-horror-screaming-nemesis"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Rollercrusher Ride 0155",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "155"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eDelirium\u003c/em\u003e — If a source you control would deal noncombat damage to a permanent or player while there are four or more card types among cards in your graveyard, it deals double that damage instead.\u003cbr\u003e\r\u003cbr\u003e\nWhen The Rollercrusher Ride enters, it deals X damage to each of up to X target creatures."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580725_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:05.773",
+      "name": "The Rollercrusher Ride (0155)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580725,
+      "url": "https://www.tcgplayer.com/product/580725/magic-promo-pack-duskmourn-house-of-horror-the-rollercrusher-ride-0155"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hauntwoods Shrieker",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "182"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Beast Mutant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Hauntwoods Shrieker attacks, manifest dread. \u003cem\u003e(Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)\u003c/em\u003e \u003cbr\u003e\r\u003cbr\u003e\n1G: Reveal target face-down permanent. If it's a creature card, you may turn it face up."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580726_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:05.833",
+      "name": "Hauntwoods Shrieker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580726,
+      "url": "https://www.tcgplayer.com/product/580726/magic-promo-pack-duskmourn-house-of-horror-hauntwoods-shrieker"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Overlord of the Hauntwoods",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "194"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Avatar Horror"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Impending 4—1GG \u003cem\u003e(If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)\u003c/em\u003e\r\u003cbr\u003e\n\u003cbr\u003eWhenever Overlord of the Hauntwoods enters or attacks, create a tapped colorless land token named Everywhere that is every basic land type."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580727_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:06.023",
+      "name": "Overlord of the Hauntwoods",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580727,
+      "url": "https://www.tcgplayer.com/product/580727/magic-promo-pack-duskmourn-house-of-horror-overlord-of-the-hauntwoods"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tyvar the Pummeler",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "202"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elf Warrior"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap another untapped creature you control: Tyvar, the Pummeler gains indestructible until end of turn. Tap it. \r\u003cbr\u003e\n\u003cbr\u003e3UU: Creatures you control get +X/+X until end of turn, where X is the greatest power among creatures you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"They just keep coming and coming—perfect for my morning workout!\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580728_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:06.12",
+      "name": "Tyvar, the Pummeler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580728,
+      "url": "https://www.tcgplayer.com/product/580728/magic-promo-pack-duskmourn-house-of-horror-tyvar-the-pummeler"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kaito Bane of Nightmares",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "220"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Kaito"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Ninjutsu 1UB \u003cem\u003e(1UB, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\u003c/em\u003e\u003cbr\u003e\r\n\u003cbr\u003e\r\nDuring your turn, as long as Kaito has one or more loyalty counters on him, he's a 3/4 Ninja creature and has hexproof. \u003cbr\u003e\r\n\u003cbr\u003e\r\n[+1]: You get an emblem with \"Ninjas you control get +1/+1.\" \u003cbr\u003e\r\n\u003cbr\u003e\r\n[0]: Surveil 2. Then draw a card for each opponent who lost life this turn. \u003cbr\u003e\r\n\u003cbr\u003e\r\n[-2]: Tap target creature. Put two stun counters on it."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580729_200w.jpg",
+      "modifiedOn": "2025-11-28T21:50:10.29",
+      "name": "Kaito, Bane of Nightmares",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 580729,
+      "url": "https://www.tcgplayer.com/product/580729/magic-promo-pack-duskmourn-house-of-horror-kaito-bane-of-nightmares"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Niko Light of Hope",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "224"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Wizard"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Niko, Light of Hope enters, create two Shard tokens. \u003cem\u003e(They're enchantments with \"2 Sacrifice this enchantment: Scry 1, then draw a card\")\u003c/em\u003e \u003cbr\u003e\r\u003cbr\u003e\n2, T: Exile target nonlegendary creature you control. Shards you control become copies of it until the beginning of the next end step. Return it to the battlefield under its owner's control at the beginning of the next end step."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580730_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:06.297",
+      "name": "Niko, Light of Hope",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580730,
+      "url": "https://www.tcgplayer.com/product/580730/magic-promo-pack-duskmourn-house-of-horror-niko-light-of-hope"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Enduring Innocence",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Sheep Glimmer"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lifelink \u003cbr\u003e\r\u003cbr\u003e\nWhenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn. \u003cbr\u003e\r\u003cbr\u003e\nWhen Enduring Innocence dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. \u003cem\u003e(It's not a creature.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580731_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:06.373",
+      "name": "Enduring Innocence",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580731,
+      "url": "https://www.tcgplayer.com/product/580731/magic-promo-pack-duskmourn-house-of-horror-enduring-innocence"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ghostly Dancers",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spirit"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\u003cbr\u003e\r\u003cbr\u003e\nWhen Ghostly Dancers enters, return an enchantment card from your graveyard to your hand or unlock a locked door of a Room you control.\u003cbr\u003e\r\u003cbr\u003e\n\u003cem\u003eEerie\u003c/em\u003e — Whenever an enchantment you control enters and whenever you fully unlock a Room, create a 3/1 white Spirit creature token with flying."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580732_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:06.47",
+      "name": "Ghostly Dancers",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580732,
+      "url": "https://www.tcgplayer.com/product/580732/magic-promo-pack-duskmourn-house-of-horror-ghostly-dancers"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Leyline of Hope",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "18"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If Leyline of Hope is in your opening hand, you may begin the game with it on the battlefield.\r\u003cbr\u003e\n\u003cbr\u003eIf you would gain life, you gain that much life plus 1 instead.\r\u003cbr\u003e\n\u003cbr\u003eAs long as you have at least 7 life more than your starting life total, creatures you control get +2/+2."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580733_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:06.703",
+      "name": "Leyline of Hope",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580733,
+      "url": "https://www.tcgplayer.com/product/580733/magic-promo-pack-duskmourn-house-of-horror-leyline-of-hope"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Split Up",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "32"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose one — \u003cbr\u003e\r\n\u003cbr\u003e\r\n• Destroy all tapped creatures. \u003cbr\u003e\r\n\u003cbr\u003e\r\n• Destroy all untapped creatures."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Don't be a wimp. We'll cover more ground this way.\" \u003cbr\u003e\r\n\u003cbr\u003e\r\n—Rian, former survivor\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580734_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:06.797",
+      "name": "Split Up",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 580734,
+      "url": "https://www.tcgplayer.com/product/580734/magic-promo-pack-duskmourn-house-of-horror-split-up"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Toby Beastie Befriender",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "35"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Wizard"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Toby, Beastie Befriender enters, create a 4/4 white Beast creature token with \"This creature can't attack or block alone.\"\u003cbr\u003e\r\u003cbr\u003e\nAs long as you control four or more creature tokens, creature tokens you control have flying."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Sure, I'm pretty small, but Gribble isn't, so I don't get scared.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580735_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:06.913",
+      "name": "Toby, Beastie Befriender",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580735,
+      "url": "https://www.tcgplayer.com/product/580735/magic-promo-pack-duskmourn-house-of-horror-toby-beastie-befriender"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Unidentified Hovership",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "37"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Vehicle"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\u003cbr\u003e\r\u003cbr\u003e\nWhen Unidentified Hovership enters, exile up to one target creature with toughness 5 or less.\u003cbr\u003e\r\u003cbr\u003e\nWhen Unidentified Hovership leaves the battlefield, the exiled card's owner manifests dread.\u003cbr\u003e\r\u003cbr\u003e\nCrew 1"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580736_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:07.01",
+      "name": "Unidentified Hovership",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580736,
+      "url": "https://www.tcgplayer.com/product/580736/magic-promo-pack-duskmourn-house-of-horror-unidentified-hovership"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Enduring Curiosity",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "51"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Cat Glimmer"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash \r\n\u003cbr\u003e\r\n\u003cbr\u003eWhenever a creature you control deals combat damage to a player, draw a card. \r\n\u003cbr\u003e\r\n\u003cbr\u003eWhen Enduring Curiosity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. \u003cem\u003e(It's not a creature.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580737_200w.jpg",
+      "modifiedOn": "2025-12-11T14:05:38.43",
+      "name": "Enduring Curiosity",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 580737,
+      "url": "https://www.tcgplayer.com/product/580737/magic-promo-pack-duskmourn-house-of-horror-enduring-curiosity"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Entity Tracker 0053",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "53"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Scout"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash \u003cbr\u003e\r\u003cbr\u003e\n\u003cem\u003eEerie\u003c/em\u003e — Whenever an enchantment you control enters and whenever you fully unlock a Room, draw a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The readings are off the charts! Whatever it is, it's close.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580738_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:07.18",
+      "name": "Entity Tracker (0053)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580738,
+      "url": "https://www.tcgplayer.com/product/580738/magic-promo-pack-duskmourn-house-of-horror-entity-tracker-0053"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Marina Vendrells Grimoire",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "64"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Marina Vendrell's Grimoire enters, if you cast it, draw five cards.\r\u003cbr\u003e\n\u003cbr\u003eYou have no maximum hand size and don't lose the game for having 0 or less life.\r\u003cbr\u003e\n\u003cbr\u003eWhenever you gain life, draw that many cards.\r\u003cbr\u003e\n\u003cbr\u003eWhenever you lose life, discard that many cards. Then if you have no cards in hand, you lose the game."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580739_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:07.257",
+      "name": "Marina Vendrell's Grimoire",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580739,
+      "url": "https://www.tcgplayer.com/product/580739/magic-promo-pack-duskmourn-house-of-horror-marina-vendrells-grimoire"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Silent Hallcreeper",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "72"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Horror"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Silent Hallcreeper can't be blocked. \u003cbr\u003e\r\u003cbr\u003e\nWhenever Silent Hallcreeper deals combat damage to a player, choose one that hasn't been chosen—\u003cbr\u003e\r\u003cbr\u003e\n• Put two +1/+1 counters on Silent Hallcreeper. \u003cbr\u003e\r\u003cbr\u003e\n• Draw a card. \u003cbr\u003e\r\u003cbr\u003e\n• Silent Hallcreeper becomes a copy of another target creature you control."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580740_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:07.32",
+      "name": "Silent Hallcreeper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580740,
+      "url": "https://www.tcgplayer.com/product/580740/magic-promo-pack-duskmourn-house-of-horror-silent-hallcreeper"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Come Back Wrong 0086",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "86"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target creature. If a creature card is put into a graveyard this way, return it to the battlefield under your control. Sacrifice it at the beginning of your next end step."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"See?! That's why you always burn the bodies.\"\u003cbr\u003e\r\u003cbr\u003e\n—Rip, spawn hunter\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580741_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:07.45",
+      "name": "Come Back Wrong (0086)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580741,
+      "url": "https://www.tcgplayer.com/product/580741/magic-promo-pack-duskmourn-house-of-horror-come-back-wrong-0086"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Demonic Counsel",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "92"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Search your library for a Demon card, reveal it, put it into your hand, then shuffle. \u003cbr\u003e\r\n\u003cbr\u003e\r\n\u003cem\u003eDelirium\u003c/em\u003e — If there are four or more card types among cards in your graveyard, instead search your library for any card, put it into your hand, then shuffle."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eValgavoth whispered into Marina's ear until he was all she could hear.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580742_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:07.527",
+      "name": "Demonic Counsel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 580742,
+      "url": "https://www.tcgplayer.com/product/580742/magic-promo-pack-duskmourn-house-of-horror-demonic-counsel"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Doomsday Excruciator",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "94"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Demon"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\u003cbr\u003e\r\u003cbr\u003e\nWhen Doomsday Excruciator enters, if it was cast, each player exiles all but the bottom six cards of their library face down.\u003cbr\u003e\r\u003cbr\u003e\nAt the beginning of your upkeep, draw a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"All stars grow dark. All worlds come to an end.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580743_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:07.607",
+      "name": "Doomsday Excruciator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580743,
+      "url": "https://www.tcgplayer.com/product/580743/magic-promo-pack-duskmourn-house-of-horror-doomsday-excruciator"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Enduring Tenacity",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "95"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Snake Glimmer"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you gain life, target opponent loses that much life.\u003cbr\u003e\r\u003cbr\u003e\nWhen Enduring Tenacity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. \u003cem\u003e(It's not a creature.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580744_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:07.72",
+      "name": "Enduring Tenacity",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580744,
+      "url": "https://www.tcgplayer.com/product/580744/magic-promo-pack-duskmourn-house-of-horror-enduring-tenacity"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Grievous Wound",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "102"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant player\u003cbr\u003e\r\u003cbr\u003e\nEnchanted player can't gain life.\u003cbr\u003e\r\u003cbr\u003e\nWhenever enchanted player is dealt damage, they lose half their life, rounded up."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eVicki was so tired. The pain began to fade. \"You were so brave,\" said her grandmother's voice form somewhere far away. \"But it's time to rest now.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580745_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:07.813",
+      "name": "Grievous Wound",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580745,
+      "url": "https://www.tcgplayer.com/product/580745/magic-promo-pack-duskmourn-house-of-horror-grievous-wound"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Chainsaw",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "128"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Chainsaw enters, it deals 3 damage to up to one target creature.\u003cbr\u003e\r\u003cbr\u003e\nWhenever one or more creatures die, put a rev counter on Chainsaw.\u003cbr\u003e\r\u003cbr\u003e\nEquipped creature gets +X/+0, where X is the number of rev counters on Chainsaw.\u003cbr\u003e\r\u003cbr\u003e\nEquip 3"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580746_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:07.903",
+      "name": "Chainsaw",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580746,
+      "url": "https://www.tcgplayer.com/product/580746/magic-promo-pack-duskmourn-house-of-horror-chainsaw"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cursed Recording 0131",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "131"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you cast an instant or sorcery spell, put a time counter on Cursed Recording. Then if there are seven or more time counters on it, remove those counters and it deals 20 damage to you.\r\u003cbr\u003e\n\u003cbr\u003eT: When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580747_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:07.997",
+      "name": "Cursed Recording (0131)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580747,
+      "url": "https://www.tcgplayer.com/product/580747/magic-promo-pack-duskmourn-house-of-horror-cursed-recording-0131"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Enduring Courage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "133"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Dog Glimmer"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever another creature you control enters, it gets +2/+0 and gains haste until end of turn. \u003cbr\u003e\r\u003cbr\u003e\nWhen Enduring Courage dies, if it was a creature, return it to the battlefield under its owner's control. \u003cem\u003eIt's an enchantment\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580748_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:08.077",
+      "name": "Enduring Courage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580748,
+      "url": "https://www.tcgplayer.com/product/580748/magic-promo-pack-duskmourn-house-of-horror-enduring-courage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fear of Missing Out",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "136"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Nightmare"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Fear of Missing Out enters, discard a card, then draw a card.\r\u003cbr\u003e\n\u003cbr\u003e\u003cem\u003eDelirium\u003c/em\u003e — Whenever Fear of Missing Out attacks for the first time each turn, if there are four or more card types among cards in your graveyard, untap target creature. After this phase, there is an additional combat phase."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580749_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:08.217",
+      "name": "Fear of Missing Out",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580749,
+      "url": "https://www.tcgplayer.com/product/580749/magic-promo-pack-duskmourn-house-of-horror-fear-of-missing-out"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Leyline of Resonance",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "143"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If Leyline of Resonance is in your opening hand, you may begin the game with it on the battlefield.\u003cbr\u003e\r\u003cbr\u003e\nWhenever you cast an instant or sorcery spell that targets only a single creature you control, copy that spell. You may choose new targets for the copy."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580750_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:08.357",
+      "name": "Leyline of Resonance",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580750,
+      "url": "https://www.tcgplayer.com/product/580750/magic-promo-pack-duskmourn-house-of-horror-leyline-of-resonance"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Balustrade Wurm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "168"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Wurm"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "This spell can't be countered. \u003cbr\u003e\r\u003cbr\u003e\nTrample, haste \u003cbr\u003e\r\u003cbr\u003e\n\u003cem\u003eDelirium\u003c/em\u003e — 2GG: Return Balustrade Wurm from your graveyard to the battlefield with a finality counter on it. Activate only if there are four or more card types among cards in your graveyard and only as a sorcery."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580751_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:08.45",
+      "name": "Balustrade Wurm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580751,
+      "url": "https://www.tcgplayer.com/product/580751/magic-promo-pack-duskmourn-house-of-horror-balustrade-wurm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Enduring Vitality",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "176"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Elk Glimmer"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance\u003cbr\u003e\r\u003cbr\u003e\nCreatures you control have \"T: Add one mana of any color.\"\u003cbr\u003e\r\u003cbr\u003e\nWhen Enduring Vitality dies, if it was a creature, return it to the battlefield under it owner's contorl. It's an enchantment. \u003cem\u003e(It't not a creature.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580752_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:08.933",
+      "name": "Enduring Vitality",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580752,
+      "url": "https://www.tcgplayer.com/product/580752/magic-promo-pack-duskmourn-house-of-horror-enduring-vitality"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hedge Shredder",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "183"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Vehicle"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Hedge Shredder attacks, you may mill two cards. \u003cbr\u003e\r\u003cbr\u003e\nWhenever one or more land cards are put into your graveyard from your library, put them onto the battlefield tapped. \u003cbr\u003e\r\u003cbr\u003e\nCrew 1 \u003cem\u003e(Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580753_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:09.417",
+      "name": "Hedge Shredder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580753,
+      "url": "https://www.tcgplayer.com/product/580753/magic-promo-pack-duskmourn-house-of-horror-hedge-shredder"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kona Rescue Beastie 0187",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "187"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Beast Survivor"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eSurvival\u003c/em\u003e — At the beginning of your second main phase, if Kona, Rescue Beastie is tapped, you may put a permanent card from your hand onto the battlefield."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eShe's got a heart of gold, a nose for danger, and jaws that can pulverize a cellarspawn with a single snap.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580754_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:09.527",
+      "name": "Kona, Rescue Beastie (0187)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580754,
+      "url": "https://www.tcgplayer.com/product/580754/magic-promo-pack-duskmourn-house-of-horror-kona-rescue-beastie-0187"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Leyline of Mutation",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "188"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If Leyline of Mutation is in your opening hand, you may begin the game with it on the battlefield.\r\u003cbr\u003e\n\u003cbr\u003eYou may pay WUBRG rather than pay the mana cost for spells that you cast."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eLife thrives in the Hauntwoods, but it follows its own laws, unbound from the natural order.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580755_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:09.62",
+      "name": "Leyline of Mutation",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580755,
+      "url": "https://www.tcgplayer.com/product/580755/magic-promo-pack-duskmourn-house-of-horror-leyline-of-mutation"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Omnivorous Flytrap",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "192"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Plant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eDelirium\u003c/em\u003e — Whenever Omnivorous Flytrap enters or attacks, if there are four or more card types among cards in your graveyard, distribute two +1/+1 counters among one or two target creatures. Then if there are six or more card types among cards in your graveyard, double the number of +1/+1 counters on those creatures."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580756_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:09.713",
+      "name": "Omnivorous Flytrap",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580756,
+      "url": "https://www.tcgplayer.com/product/580756/magic-promo-pack-duskmourn-house-of-horror-omnivorous-flytrap"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Marina Vendrell",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "221"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Warlock"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Marina Vendrell enters, reveal the top seven cards of your library. Put all enchantment cards from among them into your hand and the rest on the bottom of your library in a random order.\r\u003cbr\u003e\n\u003cbr\u003eT: Lock or unlock a door of target Room you control. Activate only as a sorcery."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580757_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:09.807",
+      "name": "Marina Vendrell",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580757,
+      "url": "https://www.tcgplayer.com/product/580757/magic-promo-pack-duskmourn-house-of-horror-marina-vendrell"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nashi Searcher in the Dark",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "223"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Rat Ninja Wizard"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace \u003cbr\u003e\r\u003cbr\u003e\nWhenever Nashi, Searcher in the Dark deals combat damage to a player, you mill that many cards. You may put any number of legendary and/or enchantment cards from among them into your hand. If you put no cards into your hand this way, put a +1/+1 counter on Nashi."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580758_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:09.9",
+      "name": "Nashi, Searcher in the Dark",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580758,
+      "url": "https://www.tcgplayer.com/product/580758/magic-promo-pack-duskmourn-house-of-horror-nashi-searcher-in-the-dark"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Peer Past the Veil",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "226"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Discard your hand. Then draw X cards, where X is the number of card types among cards in your graveyard."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThose who glimpse the House's true nature firsthand are cursed to never again look away.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580759_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:09.993",
+      "name": "Peer Past the Veil",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580759,
+      "url": "https://www.tcgplayer.com/product/580759/magic-promo-pack-duskmourn-house-of-horror-peer-past-the-veil"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rip Spawn Hunter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "228"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Survivor"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eSurvival\u003c/em\u003e — At the beginning of your second main phase, if Rip, Spawn Hunter is tapped, reveal the top X cards of your library, where X is its power. Put any number of creature and/or Vehicle cards with different powers from among them into your hand. Put the rest on the bottom of your library in a random order."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580760_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:10.087",
+      "name": "Rip, Spawn Hunter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580760,
+      "url": "https://www.tcgplayer.com/product/580760/magic-promo-pack-duskmourn-house-of-horror-rip-spawn-hunter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dissection Tools",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "245"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Dissection Tools enters, manifest dread, then attach Dissection Tools to that creature. \u003cbr\u003e\r\u003cbr\u003e\nEquipped creature gets +2/+2 and has deathtouch and lifelink. \u003cbr\u003e\r\u003cbr\u003e\nEquip—Sacrifice a creature."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580761_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:10.227",
+      "name": "Dissection Tools",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580761,
+      "url": "https://www.tcgplayer.com/product/580761/magic-promo-pack-duskmourn-house-of-horror-dissection-tools"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ghost Vacuum",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "248"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Exile target card from a graveyard.\u003cbr\u003e\r\u003cbr\u003e\n6, T, Sacrifice Ghost Vaccum: Put each creature card exiled with Ghost Vaccum onto the battlefield under your control with a flying counter on it. Each of them is a 1/1 Spirit in addition to its other types. Activate only as a sorcery"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580762_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:10.337",
+      "name": "Ghost Vacuum",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580762,
+      "url": "https://www.tcgplayer.com/product/580762/magic-promo-pack-duskmourn-house-of-horror-ghost-vacuum"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Marvin Murderous Mimic",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "253"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact Creature — Toy"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Marvin, Murderous Mimic has all activated abilities of creatures you control that don't have the same name as this creature."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIn a moment of bloodthirsty whimsy, a razorkin once picked up a ventriloquist's puppet and used it to terrorize a survivor. Now it hunts on its own, with no one pulling its strings.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580763_200w.jpg",
+      "modifiedOn": "2026-01-19T16:31:40.987",
+      "name": "Marvin, Murderous Mimic",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 580763,
+      "url": "https://www.tcgplayer.com/product/580763/magic-promo-pack-duskmourn-house-of-horror-marvin-murderous-mimic"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Blazemire Verge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "256"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T:Add B. \u003cbr\u003e\r\u003cbr\u003e\nT: Add R. Activate only if you control a Swamp or a Mountain."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eHere, the Balemurk spits and boils, the oppressive darkness pierced by scorching spears of fire.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580764_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:10.557",
+      "name": "Blazemire Verge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580764,
+      "url": "https://www.tcgplayer.com/product/580764/magic-promo-pack-duskmourn-house-of-horror-blazemire-verge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Floodfarm Verge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "259"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add W.\u003cbr\u003e\r\n\u003cbr\u003e\r\nT:Add U. Activate only if you control a Plains or an Island."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eHere, the Mistmoors slump like a grieving parent, the once-thriving fields drowned by the relentless deluge.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580765_200w.jpg",
+      "modifiedOn": "2025-10-22T20:17:35.733",
+      "name": "Floodfarm Verge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 580765,
+      "url": "https://www.tcgplayer.com/product/580765/magic-promo-pack-duskmourn-house-of-horror-floodfarm-verge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gloomlake Verge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "260"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T:Add U. \u003cbr\u003e\r\u003cbr\u003e\nT: Add B. Activate only if you control an Island or a Swamp."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eHere, the Floodpits languish like a corpse, the clear waters choked by the filthy hands of the bog.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580766_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:10.793",
+      "name": "Gloomlake Verge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580766,
+      "url": "https://www.tcgplayer.com/product/580766/magic-promo-pack-duskmourn-house-of-horror-gloomlake-verge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hushwood Verge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "261"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add G. \u003cbr\u003e\r\u003cbr\u003e\nT: Add W. Activate only if you control a Forest or a Plains."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eHere, the Hauntwoods churn like a viper's nest, as monstrous creatures prowl hungrily toward the ghostly light.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580767_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:11.023",
+      "name": "Hushwood Verge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580767,
+      "url": "https://www.tcgplayer.com/product/580767/magic-promo-pack-duskmourn-house-of-horror-hushwood-verge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thornspire Verge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "270"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add R. \u003cbr\u003e\r\u003cbr\u003e\nT: Add G. Activate only if you control a Mountain or a Forest."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eHere, the Boilerbilges twitch like a trapped animal, peaks straining against the grasping roots and vines.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580768_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:11.153",
+      "name": "Thornspire Verge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580768,
+      "url": "https://www.tcgplayer.com/product/580768/magic-promo-pack-duskmourn-house-of-horror-thornspire-verge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Valgavoths Lair",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "271"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Hexproof \u003cbr\u003e\r\u003cbr\u003e\nValgavoth's Lair enters tapped. As it enters, choose a color. \u003cbr\u003e\r\u003cbr\u003e\nT: Add one mana of the chosen color."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIt is the one chamber whose location never changes, the rotten, rancorous heart of Duskmourn itself.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/580769_200w.jpg",
+      "modifiedOn": "2025-02-12T21:03:11.31",
+      "name": "Valgavoth's Lair",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 580769,
+      "url": "https://www.tcgplayer.com/product/580769/magic-promo-pack-duskmourn-house-of-horror-valgavoths-lair"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Central Elevator Promising Stairs",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "44"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Room"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cstrong\u003eCentral Elevator\u003c/strong\u003cbr\u003e\r\nWhen you unlock this door, search your library for a Room card that doesn't have the same name as a Room you control, reveal it, put it into your hand, then shuffle.\u003cbr\u003e\r\n/\u003cbr\u003e\r\n\u003cstrong\u003ePromising Stairs\u003c/strong\u003e\u003cbr\u003e\r\nAt the beginning of your upkeep, surveil 1. You win the game if there are eight or more different names among unlocked doors of Rooms you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(You may card either half. That door unlocks on the battlefield. As a sorcery, you may pay the mana cost of a locked door to unlock it.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583654_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Central Elevator // Promising Stairs",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583654,
+      "url": "https://www.tcgplayer.com/product/583654/magic-promo-pack-duskmourn-house-of-horror-central-elevator-promising-stairs"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Charred Foyer Warped Space",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "129"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Room"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cstrong\u003eCharred Foyer\u003c/strong\u003e\u003cbr\u003e\r\nAt the beginning of your card of your upkeep, exile the top card of your library. You may play it this turn\u003cbr\u003e\r\n/\u003cbr\u003e\r\n\u003cstrong\u003eWarped Space\u003c/strong\u003e\u003cbr\u003e\r\nOnce each turn, you may pay 0 rather than pay the mana cost for a spell you cast from exile."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(You may cast either half. That door unlocks on the battlefield. As a sorcery, you may pay the mana cost of a locked door to unlock it)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583655_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Charred Foyer // Warped Space",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583655,
+      "url": "https://www.tcgplayer.com/product/583655/magic-promo-pack-duskmourn-house-of-horror-charred-foyer-warped-space"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dazzling Theater Prop Room",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Room"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003e(You may cast either half. That door unlocks on the battlefield. As a sorcery, you may pay the mana cost of a locked door to unlock it.)\u003c/em\u003e \r\n\u003cbr\u003e\u003cstrong\u003eDazzling Theater\u003c/strong\u003e\r\n\u003cbr\u003eCreature spells you cast have convoke. \u003cem\u003eYour creatures can help cost those spells. Each creature you tap while casting a creature spell pays for 1 or one mana of that creature's color.)\u003c/em\u003e\r\n\u003cbr\u003e\u003cstrong\u003eProp Room\u003c/strong\u003e\r\n\u003cbr\u003eUntap each creature you control during each other player's untap step."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583656_200w.jpg",
+      "modifiedOn": "2025-10-15T15:52:44.97",
+      "name": "Dazzling Theater // Prop Room",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 583656,
+      "url": "https://www.tcgplayer.com/product/583656/magic-promo-pack-duskmourn-house-of-horror-dazzling-theater-prop-room"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mirror Room Fractured Realm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "67"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Room"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cstrong\u003eMirror Room\u003c/strong\u003e\r\n\u003cbr\u003eWhen you unlock this door, create a token that's a copy of target creature you control, except it's a Reflection in addition to its other creature types.\r\n\u003cbr\u003e/\u003cbr\u003e\u003cstrong\u003eFractured Realm\u003c/strong\u003e\r\n\u003cbr\u003eIf a triggered ability of a permanent you control triggers, that ability triggers an additional time"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(You may east either half. That door unlocks on the battlefield. As a sorcery, you may pay the mana cost of a locked door to unlock it.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583657_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Mirror Room // Fractured Realm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583657,
+      "url": "https://www.tcgplayer.com/product/583657/magic-promo-pack-duskmourn-house-of-horror-mirror-room-fractured-realm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Restricted Office Lecture Hall",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "227"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Room"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cstrong\u003eRestricted Office\u003c/strong\u003e\u003cbr\u003e\r\nWhen you unlock this door, destroy all creatures with power 3 or greater.\u003cbr\u003e\r\n/\u003cbr\u003e\r\n\u003cstrong\u003eLecture Hall\u003c/strong\u003e\u003cbr\u003e\r\nOther permanents you control have hexproof."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(You may cast either half. That door unlocks on the battlefield. As a sorcery, you may pay the mana cost of a locked door to unlock it)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583658_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Restricted Office // Lecture Hall",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583658,
+      "url": "https://www.tcgplayer.com/product/583658/magic-promo-pack-duskmourn-house-of-horror-restricted-office-lecture-hall"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dollmakers Shop Porcelain Gallery",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Room"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cstrong\u003eDollmaker's shop\u003c/strong\u003e\u003cbr\u003e\r\nWhenever one or more non-Toy creatures you control attack a player, create a 1/1 white Toy artifact creature token. \u003cbr\u003e\r\n/\u003cbr\u003e\r\n\u003cstrong\u003ePorcelain Gallery\u003c/strong\u003e\u003cbr\u003e\r\nCreatures you control have base power and toughness each equal to the number of creatures you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(You may cast either half. That door unlocks on the battlefield. As a sorcery, you may pay the mana cost of a locked door to unlock it.)\u003cem\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583659_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Dollmaker's Shop // Porcelain Gallery",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583659,
+      "url": "https://www.tcgplayer.com/product/583659/magic-promo-pack-duskmourn-house-of-horror-dollmakers-shop-porcelain-gallery"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Funeral Room Awakening Hall",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "100"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Room"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cstrong\u003eFuneral Room\u003c/strong\u003e\u003cbr\u003e\r\nWhenever a creature you control dies, each opponent loses 1 life and you gain 1 life.\u003cbr\u003e\r\n/\u003cbr\u003e\r\n\u003cstrong\u003eAwakening Hall\u003c/strong\u003e \u003cbr\u003e\r\nWhen you unclock this door, return all creature cards from your graveyard to the battefield."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eYou may cast either half. That door unlocks on the battlefield. As a sorcery you may pay the mana cost of a locked door to unlock it.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583660_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Funeral Room // Awakening Hall",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583660,
+      "url": "https://www.tcgplayer.com/product/583660/magic-promo-pack-duskmourn-house-of-horror-funeral-room-awakening-hall"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Leyline of the Void",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "106"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If Leyline of the Void is in your opening hand, you may begin the game with it on the battlefield.\u003cbr\u003e\r\nIf a card would be put into an opponent's graveyard from anywhere, exile it instead."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eCracks in the faceade of the House lead not to escape bit to oblivion.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583661_200w.jpg",
+      "modifiedOn": "2025-11-26T21:58:17.26",
+      "name": "Leyline of the Void",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 583661,
+      "url": "https://www.tcgplayer.com/product/583661/magic-promo-pack-duskmourn-house-of-horror-leyline-of-the-void"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Leyline of Transformation",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "63"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If Leyline of Transformation is in your opening hand, you may begin the game with it on the battlefield. \u003cbr\u003e\r\nAs Leyline of Transformation enters, choose a creature type. \u003cbr\u003e\r\nCreatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583662_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Leyline of Transformation",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583662,
+      "url": "https://www.tcgplayer.com/product/583662/magic-promo-pack-duskmourn-house-of-horror-leyline-of-transformation"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Razorkin Needlehead",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "153"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Assassin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Razorkin Needlehead has first strike during your turn. \u003cbr\u003e\r\nWhenever an opponent draws a card, Razorkin Needlehead deals 1 damage to them."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Stitch your eyes, stitch your skin, stitch your mouth into a grin.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583663_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Razorkin Needlehead",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583663,
+      "url": "https://www.tcgplayer.com/product/583663/magic-promo-pack-duskmourn-house-of-horror-razorkin-needlehead"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Roaring Furnace Steaming Sauna",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "230"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Room"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003e(You may cast either half. That door unlocks on the battlefield. As a sorcery, you may pay the mana cost of a locked door to unlock it.)\u003c/em\u003e\r\n\u003cbr\u003e\u003cstrong\u003eRoaring Furnace\u003c/strong\u003e\r\n\u003cbr\u003eWhen you unlock this door, this Room deals damage equal to the number of cards in your hand to target creature an opponent controls.\r\n\u003cbr\u003e\u003cstrong\u003eSteaming Sauna\u003c/strong\u003e\r\n\u003cbr\u003eYou have no maximum hand size.\r\n\u003cbr\u003eAt the beginning of your end step, draw a card."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583664_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Roaring Furnace // Steaming Sauna",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583664,
+      "url": "https://www.tcgplayer.com/product/583664/magic-promo-pack-duskmourn-house-of-horror-roaring-furnace-steaming-sauna"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Mindskinner",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "66"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Enchantment Creature — Nightmare"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "10"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "The Mindskinner can't be blocked. \u003cbr\u003e\r\nIf a source you control would deal damage to an opponent, prevent that damage and each opponent mills that many cards."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIt slices away the most precious memories first, then the mundane, until all that remains is blank, formless fear.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583665_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "The Mindskinner",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583665,
+      "url": "https://www.tcgplayer.com/product/583665/magic-promo-pack-duskmourn-house-of-horror-the-mindskinner"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Swarmweaver 0236",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "236"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact Creature — Scarecrow"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When The Swarmweaver enters, create two 1/1 black and green Insect creature tokens with flying.\u003cbr\u003e\r\n\u003cem\u003eDelirium\u003c/em\u003e — As long as there are four or more card types among cards in your graveyard, Insects and Spiders you control get +1/+1 and have deathtouch."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583666_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "The Swarmweaver (0236)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583666,
+      "url": "https://www.tcgplayer.com/product/583666/magic-promo-pack-duskmourn-house-of-horror-the-swarmweaver-0236"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Tale of Tamiyo",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "75"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Enchantment — Saga"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003e(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV)\u003c/em\u003e\u003cbr\u003e\r\n[I] [II] [III] Mill two cards. If two cards that share a card type were milled this way, draw a card and repeat this process.\u003cbr\u003e\r\n[IV] Exile any number of target instant, sorcery, and/or Tamiyo planeswalker cards from your graveyard. Copy them. You may cast any number of the copies."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583667_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "The Tale of Tamiyo",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583667,
+      "url": "https://www.tcgplayer.com/product/583667/magic-promo-pack-duskmourn-house-of-horror-the-tale-of-tamiyo"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Twitching Doll",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "201"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Spider Toy"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add one mana of any color. Put a nest counter on Twitching Doll.\u003cbr\u003e\r\nT, Sacrifice Twitching Doll: Create a 2/2 green Spider creature token with reach for each counter on Twitching Doll. Activate only as a sorcery."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583668_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Twitching Doll",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583668,
+      "url": "https://www.tcgplayer.com/product/583668/magic-promo-pack-duskmourn-house-of-horror-twitching-doll"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Undead Sprinter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "237"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample, haste \r\n\u003cbr\u003eYou may cast Undead Sprinter from your graveyard if a non-Zombie creature died this turn. If you do, Undead Sprinter enters with a +1/+1 counter on it."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eFarley had always been the fastest on the track team. But no one was cheering anymore.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583669_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Undead Sprinter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583669,
+      "url": "https://www.tcgplayer.com/product/583669/magic-promo-pack-duskmourn-house-of-horror-undead-sprinter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Unholy Annex Ritual Chamber",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "118"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Room"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cstrong\u003eUnholy Annex\u003c/strong\u003e\u003cbr\u003e\r\nAt the beginning of your end step, draw a card. If you control a Demon, each opponent loses 2 life and you gain 2 life. Otherwise, you lose 2 life.\u003cbr\u003e\r\n/\u003cbr\u003e\r\n\u003cstrong\u003eRitual Chamber\u003c/strong\u003e\u003cbr\u003e\r\nWhen you unlock this door, create a 6/6 black Demon creature token with flying."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e(You may cast either half. That door unlocks on the battlefield. As a sorcery, you may pay the mana cost of a locked door to unlock it)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583670_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Unholy Annex // Ritual Chamber",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583670,
+      "url": "https://www.tcgplayer.com/product/583670/magic-promo-pack-duskmourn-house-of-horror-unholy-annex-ritual-chamber"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Unstoppable Slasher 0119",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "119"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie Assassin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Deathtouch \u003cbr\u003e\r\nWhenever Unstoppable Slasher deals combat damage to a player, they lose half their life, rounded up. \u003cbr\u003e\r\nWhen Unstoppable Slasher dies, if it had no counters on it, return it to the battlefield tapped under its owner's control with two stun counters on it."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583671_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Unstoppable Slasher (0119)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583671,
+      "url": "https://www.tcgplayer.com/product/583671/magic-promo-pack-duskmourn-house-of-horror-unstoppable-slasher-0119"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Valgavoths Onslaught",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "204"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Manifest dread X times, then put X+1/+1 counters on each of those creatures. \u003cem\u003eTo manifest dread, look at the top two cards of your library, then put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eTyvar and the Wanderer were done running\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583672_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Valgavoth's Onslaught",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583672,
+      "url": "https://www.tcgplayer.com/product/583672/magic-promo-pack-duskmourn-house-of-horror-valgavoths-onslaught"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Victor Valgavoths Seneschal",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "238"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Warlock"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eEerie\u003c/em\u003e — Whenever an enchantment you control enters and whenever you fully unlock a Room, surveil 2 if this is the first time this ability has resolved this turn. If it's the second time, each opponent discards a card. If it's the third time, put a creature card from a graveyard onto the battlefield under your control."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583673_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Victor, Valgavoth's Seneschal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583673,
+      "url": "https://www.tcgplayer.com/product/583673/magic-promo-pack-duskmourn-house-of-horror-victor-valgavoths-seneschal"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Walk In Closet Forgotten Cellar",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "205"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Room"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cstrong\u003eWalk-In Closet\u003c/strong\u003e\u003cbr\u003e\r\nYou may play lands from your graveyard.\u003cbr\u003e\r\n/\u003cbr\u003e\r\n\u003cstrong\u003eForgotten Cellar\u003c/strong\u003e\u003cbr\u003e\r\nWhen you unlock this door, you may cast spells from your graveyard this turn, and if a card would be put into your graveyard from anywhere this turn, exile it instead."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eYou may cast either half. That door unlocks on the battlefield. As a sorcery, you may pay the mana cost of a locked door to unlock it.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583674_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Walk-In Closet // Forgotten Cellar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583674,
+      "url": "https://www.tcgplayer.com/product/583674/magic-promo-pack-duskmourn-house-of-horror-walk-in-closet-forgotten-cellar"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Waltz of Rage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "165"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target creature you control deals damage equal to its power to each other creature. Until end of turn, whenever a creature you control dies, exile the top card of your library. You may play it until the end of your next turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe Melody was all in her head, but she'd always preffered to dance alone.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583675_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Waltz of Rage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583675,
+      "url": "https://www.tcgplayer.com/product/583675/magic-promo-pack-duskmourn-house-of-horror-waltz-of-rage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Winter Misanthropic Guide",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "240"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Warlock"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Ward 2 \u003cbr\u003e\r\nAt the beginning of your upkeep, each player draws two cards. \u003cbr\u003e\r\n\u003cem\u003eDelirium\u003cem\u003e — As long as there are four or more card types among cards in your graveyard, each opponent's maximum hand size is equal to seven minus the number of those card types."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583676_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Winter, Misanthropic Guide",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583676,
+      "url": "https://www.tcgplayer.com/product/583676/magic-promo-pack-duskmourn-house-of-horror-winter-misanthropic-guide"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Zimone All Questioning",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "241"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your end step, if a land entered the battlefield under your control this turn and you control a prime number of lands, create Primo, the Indivisible, a legendary 0/0 green and blue Fractal creature token, then put that many +1/+1 counters on it. \u003cem\u003e(2, 3, 5, 7, 11, 13, 17, 19, 23, 29, and 31 are prime numbers.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583677_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Zimone, All-Questioning",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583677,
+      "url": "https://www.tcgplayer.com/product/583677/magic-promo-pack-duskmourn-house-of-horror-zimone-all-questioning"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Duskmourn House of Horror Promo Pack",
+      "extendedData": [
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each Duskmourn: House of Horror Promo Pack contain 3 card."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583724_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Duskmourn: House of Horror - Promo Pack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583724,
+      "url": "https://www.tcgplayer.com/product/583724/magic-promo-pack-duskmourn-house-of-horror-duskmourn-house-of-horror-promo-pack"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Duskmourn House of Horror Foil Promo Pack",
+      "extendedData": [
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each Duskmourn: House of Horror Foil Promo Pack contain 3 cards."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/583725_200w.jpg",
+      "modifiedOn": "2024-09-27T12:43:39.153",
+      "name": "Duskmourn: House of Horror - Foil Promo Pack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2024-09-27T00:00:00"
+      },
+      "productId": 583725,
+      "url": "https://www.tcgplayer.com/product/583725/magic-promo-pack-duskmourn-house-of-horror-duskmourn-house-of-horror-foil-promo-pack"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Jolly Balloon Man",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "219"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Clown"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\u003cbr\u003e\r\n1, T: Create a token that's a copy of another target creature you control, except it's a 1/1 red Balloon creature in addition to its other colors and types and it has flying and haste. Sacrifice it at the beginning of the next end step. Activate only as a sorcery."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/594379_200w.jpg",
+      "modifiedOn": "2024-11-11T13:41:59.82",
+      "name": "The Jolly Balloon Man",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 594379,
+      "url": "https://www.tcgplayer.com/product/594379/magic-promo-pack-duskmourn-house-of-horror-the-jolly-balloon-man"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Reluctant Role Model",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "26"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Survivor"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eSurvival\u003c/em\u003e — At the beginning of your second main phase, if Reluctant Role Model is tapped, put a flying, lifelink, or +1/+1 counter on it.\r\n\u003cbr\u003e\r\nWhenever Reluctant Role Model or another creature you control dies, if it had counters on it, put those counters on up to one target creature."
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/606615_200w.jpg",
+      "modifiedOn": "2024-12-22T19:03:34.623",
+      "name": "Reluctant Role Model",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 606615,
+      "url": "https://www.tcgplayer.com/product/606615/magic-promo-pack-duskmourn-house-of-horror-reluctant-role-model"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Demonic Bargain",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "103"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exile the top thirteen cards of your library, then search your library for a card. Put that card into your hand, then shuffle."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Do not try to negotiate with me, human. You want power? This is the price.\"\u003cbr\u003e—Ormendahl\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/609718_200w.jpg",
+      "modifiedOn": "2025-01-09T12:50:20.447",
+      "name": "Demonic Bargain",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 609718,
+      "url": "https://www.tcgplayer.com/product/609718/magic-promo-pack-duskmourn-house-of-horror-demonic-bargain"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Niv Mizzet Visionary",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "123"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Dragon Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\u003cbr\u003e\r\nYou have no maximum hand size.\u003cbr\u003e\r\nWhenever a source you control deals noncombat damage to an opponent, you draw that many cards."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eRavnica's sharpest mind and its biggest ego.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 23735,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/622965_200w.jpg",
+      "modifiedOn": "2026-01-15T14:08:18.18",
+      "name": "Niv-Mizzet, Visionary",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 622965,
+      "url": "https://www.tcgplayer.com/product/622965/magic-promo-pack-duskmourn-house-of-horror-niv-mizzet-visionary"
+    }
+  ],
+  "success": true,
+  "totalItems": 91
+}

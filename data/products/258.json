@@ -1,0 +1,6433 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Gladiator Beast Andal",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Earth"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast-Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This one-eyed warrior bear is an aggressive hunter that strikes down its prey with the powerful swipes of its claws. No one can bear the brunt of his tremendously fast and heavy blows."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26602_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Gladiator Beast Andal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26602,
+      "url": "https://www.tcgplayer.com/product/26602/yugioh-phantom-darkness-gladiator-beast-andal"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Atlantean Pikeman",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Sea Serpent"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "The Great Ocean Lord, who reigns over the depths, is served by these lancers. Deep-sea creatures exist in fear of facing the stream of attacks their lances are capable of."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26603_200w.jpg",
+      "modifiedOn": "2018-11-16T15:09:23.303",
+      "name": "Atlantean Pikeman",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26603,
+      "url": "https://www.tcgplayer.com/product/26603/yugioh-phantom-darkness-atlantean-pikeman"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Rainbow Dark Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "4000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 7 DARK monsters with different names from your Graveyard. You can remove from play all other DARK monsters you control and from your Graveyard to have this card gain 500 ATK for each card removed."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26604_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Rainbow Dark Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26604,
+      "url": "https://www.tcgplayer.com/product/26604/yugioh-phantom-darkness-rainbow-dark-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Samsara Lotus",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN004"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Plant"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During your End Phase, if you control no Spell or Trap Cards, you can Special Summon this card from your Graveyard in face-up Attack Position. This card's controller takes 1000 damage during each of their Standby Phases."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26605_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Samsara Lotus",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26605,
+      "url": "https://www.tcgplayer.com/product/26605/yugioh-phantom-darkness-samsara-lotus"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Regenerating Rose",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN005"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Plant"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 2 \"Regenerating Rose Tokens\" (Plant-Type/DARK/Level 3/ATK 1200/DEF 1200)."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26606_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Regenerating Rose",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26606,
+      "url": "https://www.tcgplayer.com/product/26606/yugioh-phantom-darkness-regenerating-rose"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Yubel",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN006"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be destroyed by battle. You take no Battle Damage from battles involving this card. When this face-up Attack Position card is attacked by an opponent's monster, before damage calculation inflict damage to your opponent equal to that monster's ATK. During your End Phase, Tribute 1 monster or destroy this card. When this card is destroyed, except by its own effect, you can Special Summon 1 \"Yubel - Terror Incarnate\" from your hand, Deck, or Graveyard."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26607_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Yubel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26607,
+      "url": "https://www.tcgplayer.com/product/26607/yugioh-phantom-darkness-yubel"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Yubel Terror Incarnate",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN007"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with the effect of \"Yubel\". This card cannot be destroyed by battle. You take no Battle Damage from battles involving this card. When this face-up Attack Position card is attacked by an opponent's monster, before damage calculation inflict damage to your opponent equal to that monster's ATK. During your End Phase, destroy all other monsters on the field. When this face-up card is removed from the field, you can Special Summon 1 \"Yubel - The Ultimate Nightmare\" from your hand, Deck, or Graveyard."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26608_200w.jpg",
+      "modifiedOn": "2019-01-24T20:57:26.913",
+      "name": "Yubel - Terror Incarnate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26608,
+      "url": "https://www.tcgplayer.com/product/26608/yugioh-phantom-darkness-yubel-terror-incarnate"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Yubel The Ultimate Nightmare",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN008"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with the effect of \"Yubel - Terror Incarnate\". This card cannot be destroyed by battle. You take no Battle Damage from battles involving this card. If this face-up Attack Position card battles an opponent's monster, inflict damage equal to its ATK to your opponent and destroy that monster at the end of the Damage Step."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26609_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Yubel - The Ultimate Nightmare",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26609,
+      "url": "https://www.tcgplayer.com/product/26609/yugioh-phantom-darkness-yubel-the-ultimate-nightmare"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Armored Cybern",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN009"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Wind"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Union Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn, you can equip this card to a \"Cyber Dragon\" you control, or to a Fusion Monster you control that lists \"Cyber Dragon\" as a Fusion Material Monster, OR unequip it to Special Summon this card in face-up Attack Position. Once per turn, while equipped to a monster by this effect, you can decrease the equipped monster's ATK by 1000 and destroy 1 face-up monster. (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, destroy this card instead.)"
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26610_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Armored Cybern",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26610,
+      "url": "https://www.tcgplayer.com/product/26610/yugioh-phantom-darkness-armored-cybern"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cyber Valley",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN010"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Light"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\"You can use 1 of the following 3 effects: *When this card is selected as an attack target by an opponent's monster, you can remove this card from play to draw 1 card and end the Battle Phase. *You can remove from play this card and 1 face-up monster you control, and draw 2 cards. *You can remove from play this card and 1 card from your hand, and place 1 card from your Graveyard on top of your Deck.\""
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26611_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Cyber Valley",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26611,
+      "url": "https://www.tcgplayer.com/product/26611/yugioh-phantom-darkness-cyber-valley"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cyber Ouroboros",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN011"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is removed from play, you can send 1 card from your hand to the Graveyard to draw 1 card."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26612_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Cyber Ouroboros",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26612,
+      "url": "https://www.tcgplayer.com/product/26612/yugioh-phantom-darkness-cyber-ouroboros"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Volcanic Counter",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN012"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Fire"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Pyro"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When you take Battle Damage while this card is in your Graveyard, remove it from play. Then, if there is a FIRE monster other than \"Volcanic Counter\" in your Graveyard, inflict damage to your opponent equal to the amount of Battle Damage you took."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26613_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Volcanic Counter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26613,
+      "url": "https://www.tcgplayer.com/product/26613/yugioh-phantom-darkness-volcanic-counter"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Fire Trooper",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN013"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Fire"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Summoned, you can send it to the Graveyard to inflict 1000 damage to your opponent."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26614_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Fire Trooper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26614,
+      "url": "https://www.tcgplayer.com/product/26614/yugioh-phantom-darkness-fire-trooper"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Destiny Hero Dunker",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN014"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1700"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can send 1 \"Destiny Hero\" card from your hand to the Graveyard to inflict 500 damage to your opponent."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26615_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Destiny Hero - Dunker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26615,
+      "url": "https://www.tcgplayer.com/product/26615/yugioh-phantom-darkness-destiny-hero-dunker"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Destiny Hero Departed",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN015"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During your Standby Phase, if this card is in your Graveyard, Special Summon it in face-up Attack Position on your opponent's side of the field. If this card is destroyed by battle, remove it from play instead of sending it to the Graveyard. If a card effect would send this card to the Graveyard from the hand or Deck, remove it from play instead."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26616_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Destiny Hero - Departed",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26616,
+      "url": "https://www.tcgplayer.com/product/26616/yugioh-phantom-darkness-destiny-hero-departed"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Horus",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN016"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn, when a Spell Card is activated during your opponent's Main Phase, you can Special Summon 1 Level 4 DARK monster from your Graveyard."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26617_200w.jpg",
+      "modifiedOn": "2014-03-12T13:27:29.95",
+      "name": "Dark Horus",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26617,
+      "url": "https://www.tcgplayer.com/product/26617/yugioh-phantom-darkness-dark-horus"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Dark Creator",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Thunder"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "3000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned, by having 5 or more DARK monsters in your Graveyard while you control no monsters. Once per turn, you can remove from play 1 DARK monster from your Graveyard to Special Summon 1 DARK monster from your Graveyard."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26618_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "The Dark Creator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26618,
+      "url": "https://www.tcgplayer.com/product/26618/yugioh-phantom-darkness-the-dark-creator"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Nephthys",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN018"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is in your hand and there are 3 or more DARK monsters in your Graveyard, you can remove from play 2 of them to send it to the Graveyard. If this card is sent to the Graveyard by this effect, Special Summon it during your next Standby Phase. When this card is Special Summoned, destroy 1 Spell or Trap Card."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26619_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Dark Nephthys",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26619,
+      "url": "https://www.tcgplayer.com/product/26619/yugioh-phantom-darkness-dark-nephthys"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Armed Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN019"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by having exactly 3 DARK monsters in your Graveyard. You can remove from play 1 DARK monster from your Graveyard to destroy 1 card on the field."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26620_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Dark Armed Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26620,
+      "url": "https://www.tcgplayer.com/product/26620/yugioh-phantom-darkness-dark-armed-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Crusader",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN020"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can send 1 DARK monster from your hand to the Graveyard to have this card gain 400 ATK."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26621_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Dark Crusader",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26621,
+      "url": "https://www.tcgplayer.com/product/26621/yugioh-phantom-darkness-dark-crusader"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Armageddon Knight",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN021"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Summoned, you can send 1 DARK monster from your Deck to the Graveyard."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26622_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Armageddon Knight",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26622,
+      "url": "https://www.tcgplayer.com/product/26622/yugioh-phantom-darkness-armageddon-knight"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Doomsday Horror",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN022"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\"The ATK and DEF of this card are each equal to the number of removed from play DARK monsters x 300. When this card is destroyed and sent to the Graveyard, return all removed from play DARK monsters to their owners' Graveyards.\""
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26623_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Doomsday Horror",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26623,
+      "url": "https://www.tcgplayer.com/product/26623/yugioh-phantom-darkness-doomsday-horror"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Obsidian Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN023"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Rock"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Negate the effects of Spell and Trap Cards that target only 1 face-up DARK monster you control, and destroy them."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26624_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Obsidian Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26624,
+      "url": "https://www.tcgplayer.com/product/26624/yugioh-phantom-darkness-obsidian-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Shadowpriestess of Ohm",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN024"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can Tribute 1 face-up DARK monster you control to inflict 800 damage to your opponent."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26625_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Shadowpriestess of Ohm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26625,
+      "url": "https://www.tcgplayer.com/product/26625/yugioh-phantom-darkness-shadowpriestess-of-ohm"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gemini Lancer",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN025"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Water"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Sea Serpent"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Gemini Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\"This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect: *During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. \""
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26626_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Gemini Lancer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26626,
+      "url": "https://www.tcgplayer.com/product/26626/yugioh-phantom-darkness-gemini-lancer"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gigaplant",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN026"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Plant"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Gemini Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\"This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect: *Once per turn, you can Special Summon 1 Insect-Type or Plant-Type monster from your hand or Graveyard.\""
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26627_200w.jpg",
+      "modifiedOn": "2013-12-09T14:35:32.07",
+      "name": "Gigaplant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26627,
+      "url": "https://www.tcgplayer.com/product/26627/yugioh-phantom-darkness-gigaplant"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Future Samurai",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN027"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Light"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Gemini Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\"This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect: *Once per turn, you can remove from play 1 monster from your Graveyard to destroy 1 face-up monster.\""
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26628_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Future Samurai",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26628,
+      "url": "https://www.tcgplayer.com/product/26628/yugioh-phantom-darkness-future-samurai"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Vengeful Shinobi",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN028"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this face-up Attack Position card is selected as an attack target, draw 1 card."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26629_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Vengeful Shinobi",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26629,
+      "url": "https://www.tcgplayer.com/product/26629/yugioh-phantom-darkness-vengeful-shinobi"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Immortal Bushi",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN029"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Tributed, except for the Tribute Summon of a Warrior-Type monster. During your Standby Phase, if this card is in your Graveyard and you control no monsters, you can Special Summon it. You cannot activate this effect if there are any monsters in your Graveyard that are not Warrior-Type."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26630_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "The Immortal Bushi",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26630,
+      "url": "https://www.tcgplayer.com/product/26630/yugioh-phantom-darkness-the-immortal-bushi"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Field Commander Rahz",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN030"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Earth"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Normal or Special Summoned, select 1 Level 4 or lower Warrior-Type monster from your Deck, except \"Field-Commander Rahz\", and place it on top of your Deck."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26631_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Field-Commander Rahz",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26631,
+      "url": "https://www.tcgplayer.com/product/26631/yugioh-phantom-darkness-field-commander-rahz"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gladiator Beast Darius",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN031"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast-Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Special Summoned by the effect of a \"Gladiator Beast\" monster, you can select 1 \"Gladiator Beast\" monster from your Graveyard and Special Summon it. That monster's effect(s) is negated, and it is returned to your Deck when this card is removed from the field. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Darius\"."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26632_200w.jpg",
+      "modifiedOn": "2018-10-17T19:24:03.63",
+      "name": "Gladiator Beast Darius",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26632,
+      "url": "https://www.tcgplayer.com/product/26632/yugioh-phantom-darkness-gladiator-beast-darius"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Imprisoned Queen Archfiend",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN032"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1700"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card's controller pays 1000 Life Points during each of their Standby Phases (this is not optional). During your Standby Phase, if \"Pandemonium\" is on the field and this card is in your Graveyard, 1 Level 4 or lower Fiend-Type monster gains 1000 ATK until the End Phase."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26633_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Imprisoned Queen Archfiend",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26633,
+      "url": "https://www.tcgplayer.com/product/26633/yugioh-phantom-darkness-imprisoned-queen-archfiend"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Black Veloci",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN033"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Earth"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dinosaur"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card attacks an opponent's monster, this card gains 400 ATK during the Damage Step only. If this card is attacked by an opponent's monster, this card loses 400 ATK during the Damage Step only."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26634_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Black Veloci",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26634,
+      "url": "https://www.tcgplayer.com/product/26634/yugioh-phantom-darkness-black-veloci"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Superancient Deepsea King Coelacanth",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN034"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fish"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn, you can discard 1 card to Special Summon as many Level 4 or lower Fish-Type monsters as possible from your Deck. A monster Special Summoned by this effect cannot declare an attack and its effect(s) is negated while on the field. If this card is targeted by a Spell, Trap, or Effect Monster's effect, you can Tribute 1 other Fish-Type monster to negate the effect and destroy that card."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26635_200w.jpg",
+      "modifiedOn": "2015-03-03T18:15:26.937",
+      "name": "Superancient Deepsea King Coelacanth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26635,
+      "url": "https://www.tcgplayer.com/product/26635/yugioh-phantom-darkness-superancient-deepsea-king-coelacanth"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cannon Soldier MK 2",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN035"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Earth"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can Tribute 2 monsters to inflict 1500 damage to your opponent."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26636_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Cannon Soldier MK-2",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26636,
+      "url": "https://www.tcgplayer.com/product/26636/yugioh-phantom-darkness-cannon-soldier-mk-2"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Calculator",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN036"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Light"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Thunder"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card's ATK is equal to the combined Levels of all monsters you control x 300."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26637_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "The Calculator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26637,
+      "url": "https://www.tcgplayer.com/product/26637/yugioh-phantom-darkness-the-calculator"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Sea Koala",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN037"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Earth"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn, if you control another Beast-Type monster, you can reduce the ATK of 1 monster your opponent controls to 0 until the End Phase."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26638_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Sea Koala",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26638,
+      "url": "https://www.tcgplayer.com/product/26638/yugioh-phantom-darkness-sea-koala"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Blue Thunder T 45",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN038"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card destroys an opponent's monster by battle, Special Summon 1 \"Thunder Option Token\" (Machine-Type/LIGHT/Level 4/ATK 1500/DEF 1500). This Token cannot be Tributed for a Tribute Summon."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26639_200w.jpg",
+      "modifiedOn": "2015-08-19T16:42:04.49",
+      "name": "Blue Thunder T-45",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26639,
+      "url": "https://www.tcgplayer.com/product/26639/yugioh-phantom-darkness-blue-thunder-t-45"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Magnetic Mosquito",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN039"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Light"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Insect"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "FLIP: Destroy all face-up Machine-Type monsters on the field."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26640_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Magnetic Mosquito",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26640,
+      "url": "https://www.tcgplayer.com/product/26640/yugioh-phantom-darkness-magnetic-mosquito"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Earth Effigy",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN040"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Earth"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Rock"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card can be treated as 2 Tributes for the Tribute Summon of an EARTH Normal Monster."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26641_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Earth Effigy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26641,
+      "url": "https://www.tcgplayer.com/product/26641/yugioh-phantom-darkness-earth-effigy"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Wind Effigy",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN041"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Wind"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card can be treated as 2 Tributes for the Tribute Summon of a WIND Normal Monster."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26642_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Wind Effigy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26642,
+      "url": "https://www.tcgplayer.com/product/26642/yugioh-phantom-darkness-wind-effigy"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Neo Spacian Twinkle Moss",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN042"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Light"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Plant"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card's name is also treated as \"Neo-Spacian Glow Moss\". This card cannot be Special Summoned except with \"NEX\". When this card attacks or is attacked, draw 1 card. Reveal that card, and based on its type apply the proper effect: *Monster: End the Battle Phase. *Spell: You can change this card's attack to a direct attack. *Trap: This monster is changed to Defense Position."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26643_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Neo-Spacian Twinkle Moss",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26643,
+      "url": "https://www.tcgplayer.com/product/26643/yugioh-phantom-darkness-neo-spacian-twinkle-moss"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Elemental Hero Storm Neos",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN043"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Wind"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\"\"\"Elemental Hero Neos\"\" + \"\"Neo-Spacian Air Hummingbird\"\" + \"\"Neo-Spacian Aqua Dolphin\"\" This card can only be Special Summoned from your Fusion Deck by returning the above cards you control to the Deck. (You do not use \"\"Polymerization\"\".) Once per turn, you can destroy all Spell and Trap Cards on the field. This card returns to the Fusion Deck during the End Phase. When this card is returned to the Fusion Deck by this effect, return all cards on the field to the Deck.\""
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26644_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Elemental Hero Storm Neos",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26644,
+      "url": "https://www.tcgplayer.com/product/26644/yugioh-phantom-darkness-elemental-hero-storm-neos"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Rainbow Neos",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN044"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "4500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "3000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\"\"\"Elemental Hero Neos\"\" + \"\"Rainbow Dragon\"\" or \"\"Rainbow Dark Dragon\"\" This card cannot be Special Summoned, except by Fusion Summon with the above Fusion Material Monsters. Once per turn, you can activate 1 of the following effects: *Send 1 monster you control to the Graveyard to return all monsters your opponent controls to the Deck. *Send 1 Spell or Trap Card you control to the Graveyard to return all Spell and Trap Cards your opponent controls to the Deck. *Send 1 card from the top of your Deck to the Graveyard to return all cards in your opponent's Graveyard to the Deck.\""
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26645_200w.jpg",
+      "modifiedOn": "2022-06-26T00:04:15.683",
+      "name": "Rainbow Neos",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26645,
+      "url": "https://www.tcgplayer.com/product/26645/yugioh-phantom-darkness-rainbow-neos"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Rainbow Veil",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN045"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If the equipped monster battles an opponent's monster, while that monster is on the field its effect(s) is negated during the Battle Phase only."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26646_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Rainbow Veil",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26646,
+      "url": "https://www.tcgplayer.com/product/26646/yugioh-phantom-darkness-rainbow-veil"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Super Polymerization",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN046"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Discard 1 card. Send, from either side of the field to the Graveyard, Fusion Material Monsters that are listed on a Fusion Monster Card, and Special Summon that Monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon.) Spells, Traps and Effect Monsters' effects cannot be activated in response to this card's activation."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26647_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Super Polymerization",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26647,
+      "url": "https://www.tcgplayer.com/product/26647/yugioh-phantom-darkness-super-polymerization"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Vicious Claw",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN047"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "The equipped monster gains 300 ATK. If the equipped monster would be destroyed by battle, return this card to its owner's hand instead. Then, destroy 1 monster, except the one that battled the equipped monster, and inflict 600 damage to your opponent. After that, Special Summon 1 \"Evil Token\" (Fiend-Type/DARK/Level 7/ATK 2500/DEF 2500) on your opponent's side of the field. During the turn this card is returned to your hand, you cannot use \"Vicious Claw\" from your hand."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26648_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Vicious Claw",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26648,
+      "url": "https://www.tcgplayer.com/product/26648/yugioh-phantom-darkness-vicious-claw"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Instant Neo Space",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN048"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Equip only to a Fusion Monster that lists \"Elemental Hero Neos\" as a Fusion Material Monster. The equipped monster does not have to have its effect activated that returns itself to the Fusion Deck during the End Phase. When the equipped monster is removed from the field, you can Special Summon 1 \"Elemental Hero Neos\" from your hand, Deck or Graveyard."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26649_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Instant Neo Space",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26649,
+      "url": "https://www.tcgplayer.com/product/26649/yugioh-phantom-darkness-instant-neo-space"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Mirage Tube",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN049"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be activated from your hand. Activate only when a face-up monster you control is selected as an attack target. Inflict 1000 damage to your opponent."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26650_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Mirage Tube",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26650,
+      "url": "https://www.tcgplayer.com/product/26650/yugioh-phantom-darkness-mirage-tube"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Spell Chronicle",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN050"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Send all cards in your hand to the Graveyard. Select and remove from play 5 Spell or Trap Cards from your Deck. Each time your opponent activates a Spell Card, place 1 Chronicle Counter on this card. You can remove 2 Chronicle Counters from this card to have your opponent select 1 of the cards removed from play with this card's effect, and add it to your hand. When this card is removed from the field, you take 500 damage for each card that is still removed from play due to this card's effect."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26651_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Spell Chronicle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26651,
+      "url": "https://www.tcgplayer.com/product/26651/yugioh-phantom-darkness-spell-chronicle"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dimension Explosion",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN051"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Quick-Play Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Return 1 face-up Fusion Monster you control to the Fusion Deck. Both players select up to 2 of their monsters that are removed from play, and Special Summon them."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26652_200w.jpg",
+      "modifiedOn": "2024-06-03T11:21:13.187",
+      "name": "Dimension Explosion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26652,
+      "url": "https://www.tcgplayer.com/product/26652/yugioh-phantom-darkness-dimension-explosion"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cybernetic Zone",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN052"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Select 1 face-up Machine-Type Fusion Monster you control and remove it from play until the End Phase of this turn. When that monster is returned to the field, double its ATK. During your next Standby Phase, destroy it."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26653_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Cybernetic Zone",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26653,
+      "url": "https://www.tcgplayer.com/product/26653/yugioh-phantom-darkness-cybernetic-zone"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Beginning of the End",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN053"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate only if there are 7 or more DARK monsters in your Graveyard. Remove from play 5 DARK monsters from your Graveyard to draw 3 cards."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26654_200w.jpg",
+      "modifiedOn": "2014-09-03T03:50:41.347",
+      "name": "The Beginning of the End",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26654,
+      "url": "https://www.tcgplayer.com/product/26654/yugioh-phantom-darkness-the-beginning-of-the-end"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Eruption",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN054"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Add 1 DARK monster with 1500 or less ATK from your Graveyard to your hand."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26655_200w.jpg",
+      "modifiedOn": "2013-12-12T13:45:18.43",
+      "name": "Dark Eruption",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26655,
+      "url": "https://www.tcgplayer.com/product/26655/yugioh-phantom-darkness-dark-eruption"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Fires of Doomsday",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN055"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If you activate this card, you cannot Summon other monsters this turn. Special Summon 2 \"Doomsday Tokens\" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in Defense Position. These tokens cannot be Tributed for a Tribute Summon, unless it is for a DARK monster."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26656_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Fires of Doomsday",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26656,
+      "url": "https://www.tcgplayer.com/product/26656/yugioh-phantom-darkness-fires-of-doomsday"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Unleash Your Power",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN056"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "All Gemini Monsters that were on your side of the field when this card was activated are treated as Effect Monsters, and gain their effect(s). During the End Phase of this turn, Set all monsters affected by this card's effect."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26657_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Unleash Your Power!",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26657,
+      "url": "https://www.tcgplayer.com/product/26657/yugioh-phantom-darkness-unleash-your-power"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Chain Summoning",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN057"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate only as Chain Link 3 or higher. You can Normal Summon or Set up to 3 times this turn. You cannot activate this card if multiple cards/effects with the same name are in that Chain."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26658_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Chain Summoning",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26658,
+      "url": "https://www.tcgplayer.com/product/26658/yugioh-phantom-darkness-chain-summoning"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Acidic Downpour",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN058"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "All EARTH monsters lose 500 ATK and gain 400 DEF."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26659_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Acidic Downpour",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26659,
+      "url": "https://www.tcgplayer.com/product/26659/yugioh-phantom-darkness-acidic-downpour"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Six Samurai United",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN059"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each time a \"Six Samurai\" monster(s) is Normal or Special Summoned, place 1 Bushido Counter on this card (max. 2). You can send this card to the Graveyard to draw 1 card for each Bushido Counter on this card."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26660_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Six Samurai United",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26660,
+      "url": "https://www.tcgplayer.com/product/26660/yugioh-phantom-darkness-six-samurai-united"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gladiator Beasts Battle Archfiend Shield",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN060"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Equip only to a \"Gladiator Beast\" monster. If the equipped monster would be destroyed, this card is destroyed instead. When the equipped monster is returned from your side of the field to the Deck and this card is sent to the Graveyard, return this card to your hand."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26661_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Gladiator Beast's Battle Archfiend Shield",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26661,
+      "url": "https://www.tcgplayer.com/product/26661/yugioh-phantom-darkness-gladiator-beasts-battle-archfiend-shield"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gladiator Proving Ground",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN061"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Add 1 Level 4 or lower \"Gladiator Beast\" monster from your Deck to your hand."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26662_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Gladiator Proving Ground",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26662,
+      "url": "https://www.tcgplayer.com/product/26662/yugioh-phantom-darkness-gladiator-proving-ground"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark World Grimoire",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN062"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During your End Phase, if you discard a Monster Card(s) to the Graveyard because you had more than 6 cards in your hand, you can Special Summon 1 of those monsters."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26663_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Dark World Grimoire",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26663,
+      "url": "https://www.tcgplayer.com/product/26663/yugioh-phantom-darkness-dark-world-grimoire"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Rainbow Path",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN063"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate only by sending 1 \"Crystal Beast\" card from your Spell \u0026 Trap Card Zone to the Graveyard when an opponent's monster declares an attack. Negate the attack, then you can add 1 \"Rainbow Dragon\" or \"Rainbow Dark Dragon\" from your Deck to your hand."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26664_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Rainbow Path",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26664,
+      "url": "https://www.tcgplayer.com/product/26664/yugioh-phantom-darkness-rainbow-path"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Rainbow Life",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN064"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Discard 1 card. Until the end of this turn, whenever you would take damage you gain that amount of Life Points instead."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26665_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Rainbow Life",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26665,
+      "url": "https://www.tcgplayer.com/product/26665/yugioh-phantom-darkness-rainbow-life"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Sinister Seeds",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN065"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate only when a face-up Attack Position monster you control is destroyed by battle. Special Summon 1 \"Sinister Seed Token\" (Plant-Type/DARK/Level 1/ATK 100/DEF 100) for every 500 points of Battle Damage you took from that battle."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26666_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Sinister Seeds",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26666,
+      "url": "https://www.tcgplayer.com/product/26666/yugioh-phantom-darkness-sinister-seeds"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Hate Buster",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN066"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate only when a face-up Fiend-Type monster you control is selected as an attack target. Destroy the attacking monster and the attack target monster, and inflict damage to your opponent equal to the original ATK of the attacking monster."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26667_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Hate Buster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26667,
+      "url": "https://www.tcgplayer.com/product/26667/yugioh-phantom-darkness-hate-buster"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Chain Material",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN067"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Any time you Fusion Summon a monster this turn, you can remove from play, from your side of the field, Deck, hand or Graveyard, Fusion Material Monsters that are listed on the Fusion Monster Card, and use them as Fusion Material Monsters. You cannot attack during the turn this card is activated. If you used this effect for a Fusion Summon, the Summoned Fusion Monster(s) is destroyed during the End Phase."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26668_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Chain Material",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26668,
+      "url": "https://www.tcgplayer.com/product/26668/yugioh-phantom-darkness-chain-material"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Alchemy Cycle",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN068"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "The original ATK of all face-up monsters you control becomes 0, until the End Phase. Each time a monster that had its original ATK reduced to 0 by this effect is destroyed by battle and sent to the Graveyard, draw 1 card."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26669_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Alchemy Cycle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26669,
+      "url": "https://www.tcgplayer.com/product/26669/yugioh-phantom-darkness-alchemy-cycle"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cybernetic Hidden Technology",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN069"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When an opponent's monster declares an attack, you can send 1 \"Cyber Dragon\" you control, or a Fusion Monster you control that lists \"Cyber Dragon\" as a Fusion Material Monster to the Graveyard. Destroy the attacking monster."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26670_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Cybernetic Hidden Technology",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26670,
+      "url": "https://www.tcgplayer.com/product/26670/yugioh-phantom-darkness-cybernetic-hidden-technology"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Spirit Art Greed",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN070"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Tribute 1 DARK monster. Draw 2 cards. Your opponent can negate this effect by revealing 1 Spell Card in their hand."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26671_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Dark Spirit Art - Greed",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26671,
+      "url": "https://www.tcgplayer.com/product/26671/yugioh-phantom-darkness-dark-spirit-art-greed"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Illusion",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN071"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Negate the activation of a Spell Card, Trap Card, or Effect Monster's effect that targets a face-up DARK monster, and destroy that card."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26672_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Dark Illusion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26672,
+      "url": "https://www.tcgplayer.com/product/26672/yugioh-phantom-darkness-dark-illusion"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Escape from the Dark Dimension",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN072"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Select 1 of your removed from play DARK monsters and Special Summon it. When this card is removed from the field, destroy and remove from play that monster. When that monster is destroyed, destroy this card."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26673_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Escape from the Dark Dimension",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26673,
+      "url": "https://www.tcgplayer.com/product/26673/yugioh-phantom-darkness-escape-from-the-dark-dimension"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gemini Trap Hole",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN073"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate only when a Gemini Monster that is treated as an Effect Monster is destroyed by battle. Destroy all monsters your opponent controls."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26674_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Gemini Trap Hole",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26674,
+      "url": "https://www.tcgplayer.com/product/26674/yugioh-phantom-darkness-gemini-trap-hole"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Drastic Drop Off",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN074"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate only when your opponent adds a card(s) from their Deck to their hand, including drawing a card(s). Your opponent discards 1 of those cards."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26675_200w.jpg",
+      "modifiedOn": "2019-07-26T13:01:04.49",
+      "name": "Drastic Drop Off",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26675,
+      "url": "https://www.tcgplayer.com/product/26675/yugioh-phantom-darkness-drastic-drop-off"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "All Out Attacks",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN075"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "All monsters that are Special Summoned are changed to face-up Attack Position and must attack, if able, during the turn they are Special Summoned."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26676_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "All-Out Attacks",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26676,
+      "url": "https://www.tcgplayer.com/product/26676/yugioh-phantom-darkness-all-out-attacks"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Double Tag Team",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN076"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate only when you Special Summon a \"Gladiator Beast\" monster. Special Summon 1 Level 4 or lower \"Gladiator Beast\" monster from your hand or Deck."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26677_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Double Tag Team",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26677,
+      "url": "https://www.tcgplayer.com/product/26677/yugioh-phantom-darkness-double-tag-team"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Offering to the Snake Deity",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN077"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Destroy 1 Reptile-Type monster you control and 2 cards your opponent controls."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26678_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Offering to the Snake Deity",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26678,
+      "url": "https://www.tcgplayer.com/product/26678/yugioh-phantom-darkness-offering-to-the-snake-deity"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Cry Havoc",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN078"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can remove from play 1 monster from your Graveyard to Normal Summon or Set 1 Normal Monster from your hand. You can only activate this effect during your Main Phase."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26679_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Cry Havoc!",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26679,
+      "url": "https://www.tcgplayer.com/product/26679/yugioh-phantom-darkness-cry-havoc"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Transmigration Break",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN079"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Any cards that would be returned to the Deck from the Graveyard are removed from play instead."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26680_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Transmigration Break",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26680,
+      "url": "https://www.tcgplayer.com/product/26680/yugioh-phantom-darkness-transmigration-break"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Fine",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN080"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Discard 2 cards."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26681_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Fine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26681,
+      "url": "https://www.tcgplayer.com/product/26681/yugioh-phantom-darkness-fine"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Darklord Zerato",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN081"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Dark"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If there are 4 or more DARK monsters with different names in your Graveyard, you can Tribute Summon this monster by Tributing 1 DARK monster. You can send 1 DARK monster from your hand to the Graveyard to destroy all monsters your opponent controls. If you activate this effect, destroy this card during the End Phase of this turn."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26682_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Darklord Zerato",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26682,
+      "url": "https://www.tcgplayer.com/product/26682/yugioh-phantom-darkness-darklord-zerato"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Darknight Parshath Ultra Rare",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN082"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card destroys an opponent's monster, you can remove from play 1 DARK monster from your Graveyard to draw 1 card. This card gains 100 ATK for each DARK monster in your Graveyard."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26683_200w.jpg",
+      "modifiedOn": "2015-01-07T21:25:08.413",
+      "name": "Darknight Parshath",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26683,
+      "url": "https://www.tcgplayer.com/product/26683/yugioh-phantom-darkness-darknight-parshath-ultra-rare"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Allure of Darkness",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN084"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Draw 2 cards, then remove from play 1 DARK monster from your hand. If you don't have any DARK monsters in your hand to remove, send all cards in your hand to the Graveyard."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26685_200w.jpg",
+      "modifiedOn": "2020-01-10T14:47:43.153",
+      "name": "Allure of Darkness",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26685,
+      "url": "https://www.tcgplayer.com/product/26685/yugioh-phantom-darkness-allure-of-darkness"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Prime Material Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN087"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "light"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Any effect that would inflict damage to a player instead increases their Life Points by the same amount. When a card's effect to destroy a monster(s) on the field is activated, you can send 1 card from your hand to the Graveyard to negate its activation and destroy the card."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26686_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Prime Material Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26686,
+      "url": "https://www.tcgplayer.com/product/26686/yugioh-phantom-darkness-prime-material-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Grepher",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN000"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can discard 1 Level 5 or higher DARK monster to Special Summon this card from your hand. Once per turn, you can discard 1 DARK monster to send 1 DARK monster from your Deck to the Graveyard."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26689_200w.jpg",
+      "modifiedOn": "2014-02-20T19:41:07.127",
+      "name": "Dark Grepher",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26689,
+      "url": "https://www.tcgplayer.com/product/26689/yugioh-phantom-darkness-dark-grepher"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Goblin Zombie",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN098"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Zombie"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1050"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card inflicts Battle Damage to your opponent, send the top card of their Deck to the Graveyard. When this card is sent from the field to the Graveyard, add 1 Zombie-Type monster with 1200 or less DEF from your Deck to your hand."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/26693_200w.jpg",
+      "modifiedOn": "2013-12-16T14:17:22.453",
+      "name": "Goblin Zombie",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 26693,
+      "url": "https://www.tcgplayer.com/product/26693/yugioh-phantom-darkness-goblin-zombie"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Phantom Darkness Booster Pack 1st Edition",
+      "extendedData": [
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "There are 9 cards per pack."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/27407_200w.jpg",
+      "modifiedOn": "2020-06-01T19:10:12.647",
+      "name": "Phantom Darkness - Booster Pack [1st Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 27407,
+      "url": "https://www.tcgplayer.com/product/27407/yugioh-phantom-darkness-phantom-darkness-booster-pack-1st-edition"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Metal Reflect Slime",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN094"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "After activation, Special Summon this card in Defense Position. It is treated as an Efect Monster Card. This card cannot attack."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/27434_200w.jpg",
+      "modifiedOn": "2019-01-24T20:47:58.15",
+      "name": "Metal Reflect Slime",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 27434,
+      "url": "https://www.tcgplayer.com/product/27434/yugioh-phantom-darkness-metal-reflect-slime"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Vampires Curse",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN090"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Zombie"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is destroyed by battle and sent to the Graveyard, you can pay 500 Life Points. If you do, Special Summon it during the next turn's Standby Phase. When this card is Special Summoned this way, it gains 500 ATK."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/27439_200w.jpg",
+      "modifiedOn": "2019-01-24T20:56:12.233",
+      "name": "Vampire's Curse",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 27439,
+      "url": "https://www.tcgplayer.com/product/27439/yugioh-phantom-darkness-vampires-curse"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Allure of Darkness UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN084"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Draw 2 cards, then remove from play 1 DARK monster from your hand. If you don't have any DARK monsters in your hand to remove, send all cards in your hand to the Graveyard."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/27471_200w.jpg",
+      "modifiedOn": "2020-07-30T13:48:18.363",
+      "name": "Allure of Darkness (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 27471,
+      "url": "https://www.tcgplayer.com/product/27471/yugioh-phantom-darkness-allure-of-darkness-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Horus UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN016"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn, when a Spell Card is activated during your opponent's Main Phase, you can Special Summon 1 Level 4 DARK monster from your Graveyard."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/27472_200w.jpg",
+      "modifiedOn": "2015-11-23T21:04:26.217",
+      "name": "Dark Horus (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 27472,
+      "url": "https://www.tcgplayer.com/product/27472/yugioh-phantom-darkness-dark-horus-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Nephthys UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN018"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is in your hand and there are 3 or more DARK monsters in your Graveyard, you can remove from play 2 of them to send it to the Graveyard. If this card is sent to the Graveyard by this effect, Special Summon it during your next Standby Phase. When this card is Special Summoned, destroy 1 Spell or Trap Card."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/27473_200w.jpg",
+      "modifiedOn": "2015-11-23T21:05:04.843",
+      "name": "Dark Nephthys (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 27473,
+      "url": "https://www.tcgplayer.com/product/27473/yugioh-phantom-darkness-dark-nephthys-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Darknight Parshath UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN082"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card destroys an opponent's monster, you can remove from play 1 DARK monster from your Graveyard to draw 1 card. This card gains 100 ATK for each DARK monster in your Graveyard."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/27474_200w.jpg",
+      "modifiedOn": "2015-11-23T21:05:45.497",
+      "name": "Darknight Parshath (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 27474,
+      "url": "https://www.tcgplayer.com/product/27474/yugioh-phantom-darkness-darknight-parshath-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Metal Reflect Slime UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN094"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "After activation, Special Summon this card in Defense Position. It is treated as an Efect Monster Card. This card cannot attack."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/27475_200w.jpg",
+      "modifiedOn": "2019-01-24T20:47:34.197",
+      "name": "Metal Reflect Slime (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 27475,
+      "url": "https://www.tcgplayer.com/product/27475/yugioh-phantom-darkness-metal-reflect-slime-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Rainbow Neos Ghost Rare",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN044"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ghost Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "4500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "3000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\"\"\"Elemental Hero Neos\"\" + \"\"Rainbow Dragon\"\" or \"\"Rainbow Dark Dragon\"\" This card cannot be Special Summoned, except by Fusion Summon with the above Fusion Material Monsters. Once per turn, you can activate 1 of the following effects: *Send 1 monster you control to the Graveyard to return all monsters your opponent controls to the Deck. *Send 1 Spell or Trap Card you control to the Graveyard to return all Spell and Trap Cards your opponent controls to the Deck. *Send 1 card from the top of your Deck to the Graveyard to return all cards in your opponent's Graveyard to the Deck.\""
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/27476_200w.jpg",
+      "modifiedOn": "2022-05-10T13:21:54.813",
+      "name": "Rainbow Neos (Ghost Rare)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 27476,
+      "url": "https://www.tcgplayer.com/product/27476/yugioh-phantom-darkness-rainbow-neos-ghost-rare"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Superancient Deepsea King Coelacanth UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN034"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fish"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn, you can discard 1 card to Special Summon as many Level 4 or lower Fish-Type monsters as possible from your Deck. A monster Special Summoned by this effect cannot declare an attack and its effect(s) is negated while on the field. If this card is targeted by a Spell, Trap, or Effect Monster's effect, you can Tribute 1 other Fish-Type monster to negate the effect and destroy that card."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/27477_200w.jpg",
+      "modifiedOn": "2015-11-02T18:01:09.14",
+      "name": "Superancient Deepsea King Coelacanth (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 27477,
+      "url": "https://www.tcgplayer.com/product/27477/yugioh-phantom-darkness-superancient-deepsea-king-coelacanth-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Beginning of the End UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN053"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate only if there are 7 or more DARK monsters in your Graveyard. Remove from play 5 DARK monsters from your Graveyard to draw 3 cards."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/27478_200w.jpg",
+      "modifiedOn": "2023-08-04T15:50:22.197",
+      "name": "The Beginning of the End (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 27478,
+      "url": "https://www.tcgplayer.com/product/27478/yugioh-phantom-darkness-the-beginning-of-the-end-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Vampires Curse UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN090"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Zombie"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is destroyed by battle and sent to the Graveyard, you can pay 500 Life Points. If you do, Special Summon it during the next turn's Standby Phase. When this card is Special Summoned this way, it gains 500 ATK."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/27479_200w.jpg",
+      "modifiedOn": "2015-11-23T21:09:46.743",
+      "name": "Vampire's Curse (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 27479,
+      "url": "https://www.tcgplayer.com/product/27479/yugioh-phantom-darkness-vampires-curse-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Yubel Terror Incarnate UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN007"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with the effect of \"Yubel\". This card cannot be destroyed by battle. You take no Battle Damage from battles involving this card. When this face-up Attack Position card is attacked by an opponent's monster, before damage calculation inflict damage to your opponent equal to that monster's ATK. During your End Phase, destroy all other monsters on the field. When this face-up card is removed from the field, you can Special Summon 1 \"Yubel - The Ultimate Nightmare\" from your hand, Deck, or Graveyard."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/27480_200w.jpg",
+      "modifiedOn": "2015-11-23T21:11:22.78",
+      "name": "Yubel - Terror Incarnate (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 27480,
+      "url": "https://www.tcgplayer.com/product/27480/yugioh-phantom-darkness-yubel-terror-incarnate-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Lonefire Blossom",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN088"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "Fire"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Plant"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn, you can Tribute 1 face-up Plant-Type monster to Special Summon 1 Plant-Type monster from your Deck."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32813_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Lonefire Blossom",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32813,
+      "url": "https://www.tcgplayer.com/product/32813/yugioh-phantom-darkness-lonefire-blossom"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Zoma the Spirit",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN095"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "After activation, Special Summon this card in Defense Position; it is treated as a Effect Monster Card (Zombie-Type/DARK/Level 4/ATK 1800/DEF 500). If this card is destroyed by battle, inflict damage to your opponent equal to the ATK of the monster that destroyed it. (This card is also still treated as a Trap Card.)"
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32815_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Zoma the Spirit",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32815,
+      "url": "https://www.tcgplayer.com/product/32815/yugioh-phantom-darkness-zoma-the-spirit"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Belial Marquis of Darkness",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN099"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Your opponent cannot select any monster you control, except \"Belial - Marquis of Darkness\", as an attack target, or as a target of a Spell or Trap Card."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32816_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Belial - Marquis of Darkness",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32816,
+      "url": "https://www.tcgplayer.com/product/32816/yugioh-phantom-darkness-belial-marquis-of-darkness"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Red Enchanter",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN097"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Normal Summoned, place 2 Spell Counters on it. Each time a Spell Card is activated, place 1 Spell Counter on this card. It gains 300 ATK for each Spell Counter on it. Once per turn, you can remove 2 Spell Counters from this card to make your opponent discard 1 random card."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32817_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Dark Red Enchanter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32817,
+      "url": "https://www.tcgplayer.com/product/32817/yugioh-phantom-darkness-dark-red-enchanter"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Phantom Darkness Booster Box 1st Edition",
+      "extendedData": [
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each booster box contains 24 booster packs."
+        },
+        {
+          "displayName": "UPC",
+          "name": "UPC",
+          "value": "53334621823"
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57155_200w.jpg",
+      "modifiedOn": "2020-06-01T19:10:45.987",
+      "name": "Phantom Darkness - Booster Box [1st Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57155,
+      "url": "https://www.tcgplayer.com/product/57155/yugioh-phantom-darkness-phantom-darkness-booster-box-1st-edition"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Phantom Darkness Special Edition",
+      "extendedData": [],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57202_200w.jpg",
+      "modifiedOn": "2019-08-12T16:16:33.173",
+      "name": "Phantom Darkness - Special Edition",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57202,
+      "url": "https://www.tcgplayer.com/product/57202/yugioh-phantom-darkness-phantom-darkness-special-edition"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Mutant Mindmaster",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-ENSE1"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card declares an attack, you can take control of 1 face-up Attack Position monster your opponent controls, and attack with it instead of this monster. It cannot attack your opponent directly. Return it to your opponent at the end of the Battle Phase."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/72467_200w.jpg",
+      "modifiedOn": "2021-10-26T17:05:01.637",
+      "name": "Mutant Mindmaster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 72467,
+      "url": "https://www.tcgplayer.com/product/72467/yugioh-phantom-darkness-mutant-mindmaster"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Hannibal Necromancer",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-ENSE2"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Normal Summoned, place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card to destroy 1 face-up Trap Card."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/72468_200w.jpg",
+      "modifiedOn": "2021-10-26T17:05:59.437",
+      "name": "Hannibal Necromancer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 72468,
+      "url": "https://www.tcgplayer.com/product/72468/yugioh-phantom-darkness-hannibal-necromancer"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Drastic Drop Off UTR",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN074"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultimate Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When your opponent adds a card(s) from their Deck to their hand, including drawing: They must discard 1 of those cards."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/78065_200w.jpg",
+      "modifiedOn": "2015-11-23T21:06:12.483",
+      "name": "Drastic Drop Off (UTR)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 78065,
+      "url": "https://www.tcgplayer.com/product/78065/yugioh-phantom-darkness-drastic-drop-off-utr"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Aztekipede the Worm Warrior",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN089"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Insect"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 1 Insect-Type monster from your Graveyard. When this card inflicts Battle Damage to your opponent, send the top card of their Deck to the Graveyard."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79259_200w.jpg",
+      "modifiedOn": "2019-01-24T20:38:42.487",
+      "name": "Aztekipede, the Worm Warrior",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79259,
+      "url": "https://www.tcgplayer.com/product/79259/yugioh-phantom-darkness-aztekipede-the-worm-warrior"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Deepsea Macrotrema",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN083"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fish"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is sent from the field to the Graveyard, all face-up WATER monsters you control gain 500 ATK until the end of this turn."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79260_200w.jpg",
+      "modifiedOn": "2019-01-24T20:44:30.493",
+      "name": "Deepsea Macrotrema",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79260,
+      "url": "https://www.tcgplayer.com/product/79260/yugioh-phantom-darkness-deepsea-macrotrema"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Metabo Globster",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN085"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When you Tribute this card for the Tribute Summon of a DARK monster, Special Summon 3 \"Metabo Tokens\" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79261_200w.jpg",
+      "modifiedOn": "2019-01-24T20:46:45.287",
+      "name": "Metabo Globster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79261,
+      "url": "https://www.tcgplayer.com/product/79261/yugioh-phantom-darkness-metabo-globster"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Golden Flying Fish",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN086"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fish"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can Tribute 1 other Fish-Type monster to destroy 1 card on the field."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79262_200w.jpg",
+      "modifiedOn": "2019-01-24T20:45:19.173",
+      "name": "Golden Flying Fish",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79262,
+      "url": "https://www.tcgplayer.com/product/79262/yugioh-phantom-darkness-golden-flying-fish"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Castle Gate",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN091"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Rock"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be destroyed by battle. Once per turn, if this card is in face-up Attack Position, you can Tribute 1 Level 5 or lower monster to inflict damage to your opponent equal to that monster's original ATK."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79263_200w.jpg",
+      "modifiedOn": "2019-01-24T20:41:10.047",
+      "name": "Castle Gate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79263,
+      "url": "https://www.tcgplayer.com/product/79263/yugioh-phantom-darkness-castle-gate"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Eyes Illusionist",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN092"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "FLIP: Target 1 monster on the field; it cannot attack while this card is face-up on the field."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79264_200w.jpg",
+      "modifiedOn": "2022-09-19T12:22:06.99",
+      "name": "Dark-Eyes Illusionist",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79264,
+      "url": "https://www.tcgplayer.com/product/79264/yugioh-phantom-darkness-dark-eyes-illusionist"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Legendary Fiend",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN093"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During each of your Standby Phases: This card gains 700 ATK."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79265_200w.jpg",
+      "modifiedOn": "2019-01-24T20:46:05.02",
+      "name": "Legendary Fiend",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79265,
+      "url": "https://www.tcgplayer.com/product/79265/yugioh-phantom-darkness-legendary-fiend"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Call of the Earthbound",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-EN096"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate only when an opponent's monster declares an attack. You select the target of the attack."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79266_200w.jpg",
+      "modifiedOn": "2019-01-24T20:40:29.51",
+      "name": "Call of the Earthbound",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79266,
+      "url": "https://www.tcgplayer.com/product/79266/yugioh-phantom-darkness-call-of-the-earthbound"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Grepher PTDN ENSP1",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PTDN-ENSP1"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can discard 1 Level 5 or higher DARK monster to Special Summon this card from your hand. Once per turn, you can discard 1 DARK monster to send 1 DARK monster from your Deck to the Graveyard."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/80072_200w.jpg",
+      "modifiedOn": "2022-08-31T14:26:54.663",
+      "name": "Dark Grepher (PTDN-ENSP1)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 80072,
+      "url": "https://www.tcgplayer.com/product/80072/yugioh-phantom-darkness-dark-grepher-ptdn-ensp1"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Phantom Darkness Booster Pack Unlimited Edition",
+      "extendedData": [
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "There are 9 cards per pack."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/215251_200w.jpg",
+      "modifiedOn": "2020-06-01T19:11:42.817",
+      "name": "Phantom Darkness - Booster Pack [Unlimited Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 215251,
+      "url": "https://www.tcgplayer.com/product/215251/yugioh-phantom-darkness-phantom-darkness-booster-pack-unlimited-edition"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Phantom Darkness Booster Box Unlimited Edition",
+      "extendedData": [
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each booster box contains 24 booster packs."
+        }
+      ],
+      "groupId": 258,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/215252_200w.jpg",
+      "modifiedOn": "2020-06-01T19:12:18.81",
+      "name": "Phantom Darkness - Booster Box [Unlimited Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 215252,
+      "url": "https://www.tcgplayer.com/product/215252/yugioh-phantom-darkness-phantom-darkness-booster-box-unlimited-edition"
+    }
+  ],
+  "success": true,
+  "totalItems": 119
+}

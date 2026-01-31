@@ -1,0 +1,2685 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Spear of the General",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7a"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature gets +2/+0 and has first strike. \r\n\u003cbr\u003e\r\nEquip 2"
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82213_200w.jpg",
+      "modifiedOn": "2025-03-11T13:03:26.663",
+      "name": "Spear of the General",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82213,
+      "url": "https://www.tcgplayer.com/product/82213/magic-heros-path-promos-spear-of-the-general"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cloak of the Philosopher",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7b"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature gets +1/+1.\r\n\u003cbr\u003e\r\n2: Untap equipped creature.\r\n\u003cbr\u003e\r\nEquip 2"
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82214_200w.jpg",
+      "modifiedOn": "2025-03-10T13:31:52.54",
+      "name": "Cloak of the Philosopher",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82214,
+      "url": "https://www.tcgplayer.com/product/82214/magic-heros-path-promos-cloak-of-the-philosopher"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lash of the Tyrant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7c"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature gets +1/+2 and has deathtouch.\r\n\u003cbr\u003e\r\nEquip 2"
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82215_200w.jpg",
+      "modifiedOn": "2025-03-10T15:45:10.387",
+      "name": "Lash of the Tyrant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82215,
+      "url": "https://www.tcgplayer.com/product/82215/magic-heros-path-promos-lash-of-the-tyrant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Axe of the Warmonger",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7d"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature gets +2/+1 and has haste.\r\n\u003cbr\u003e\r\nEquip 2"
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82216_200w.jpg",
+      "modifiedOn": "2025-03-10T13:25:09.993",
+      "name": "Axe of the Warmonger",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82216,
+      "url": "https://www.tcgplayer.com/product/82216/magic-heros-path-promos-axe-of-the-warmonger"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bow of the Hunter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7e"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature has \"T: This creature deals 2 damage to target creature or player.\"\r\n\u003cbr\u003e\r\nEquip 2"
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82217_200w.jpg",
+      "modifiedOn": "2025-03-10T13:27:03.7",
+      "name": "Bow of the Hunter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82217,
+      "url": "https://www.tcgplayer.com/product/82217/magic-heros-path-promos-bow-of-the-hunter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Destined",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Spells that target a creature you control cost 2 less to cast."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/82218_200w.jpg",
+      "modifiedOn": "2025-03-11T13:07:05.62",
+      "name": "The Destined",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 82218,
+      "url": "https://www.tcgplayer.com/product/82218/magic-heros-path-promos-the-destined"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Explorer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may play an additional land on each of your turns."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/96911_200w.jpg",
+      "modifiedOn": "2025-03-11T13:07:39.163",
+      "name": "The Explorer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 96911,
+      "url": "https://www.tcgplayer.com/product/96911/magic-heros-path-promos-the-explorer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Slayer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You start the game with an additional 7 life."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/96912_200w.jpg",
+      "modifiedOn": "2025-03-11T13:23:10.523",
+      "name": "The Slayer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 96912,
+      "url": "https://www.tcgplayer.com/product/96912/magic-heros-path-promos-the-slayer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Champion",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2, T, Exile The Champion: Search your library for a legendary artifact card that isn't a creature, reveal it, and put it onto the battlefield. Then shuffle your library."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/96915_200w.jpg",
+      "modifiedOn": "2025-03-11T13:54:22.937",
+      "name": "The Champion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 96915,
+      "url": "https://www.tcgplayer.com/product/96915/magic-heros-path-promos-the-champion"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Vanquisher",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Your starting hand size is increased by one.\r\n\u003cbr\u003e\r\nYour maximum hand size is increased by one."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/96916_200w.jpg",
+      "modifiedOn": "2025-03-11T13:30:18.273",
+      "name": "The Vanquisher",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 96916,
+      "url": "https://www.tcgplayer.com/product/96916/magic-heros-path-promos-the-vanquisher"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Protector",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1a"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Prevent the next 1 damage that would be dealt to target creature or player this turn."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/96917_200w.jpg",
+      "modifiedOn": "2025-03-11T13:20:28.297",
+      "name": "The Protector",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 96917,
+      "url": "https://www.tcgplayer.com/product/96917/magic-heros-path-promos-the-protector"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Philosopher",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1b"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2, T: Tap target creature."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/96918_200w.jpg",
+      "modifiedOn": "2025-03-11T13:19:27.793",
+      "name": "The Philosopher",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 96918,
+      "url": "https://www.tcgplayer.com/product/96918/magic-heros-path-promos-the-philosopher"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Avenger",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1c"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "3, T: Target creature you control gains deathtouch until end of turn."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/96919_200w.jpg",
+      "modifiedOn": "2025-03-11T13:05:41.457",
+      "name": "The Avenger",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 96919,
+      "url": "https://www.tcgplayer.com/product/96919/magic-heros-path-promos-the-avenger"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Warrior",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1d"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Target creature you control gains haste until end of turn."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/96920_200w.jpg",
+      "modifiedOn": "2025-03-11T13:31:26.373",
+      "name": "The Warrior",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 96920,
+      "url": "https://www.tcgplayer.com/product/96920/magic-heros-path-promos-the-warrior"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Hunter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1e"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Target creature you control gets +1/+1 until end of turn."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/96921_200w.jpg",
+      "modifiedOn": "2025-03-11T13:09:03.513",
+      "name": "The Hunter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 96921,
+      "url": "https://www.tcgplayer.com/product/96921/magic-heros-path-promos-the-hunter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Harvester",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Draw a card, then discard a card."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/96922_200w.jpg",
+      "modifiedOn": "2026-01-21T01:34:29.32",
+      "name": "The Harvester",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 96922,
+      "url": "https://www.tcgplayer.com/product/96922/magic-heros-path-promos-the-harvester"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The General",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4a"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exile The General: Creatures you control get +1/+1 until end of turn. Untap them."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/96923_200w.jpg",
+      "modifiedOn": "2025-03-11T13:08:12.2",
+      "name": "The General",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 96923,
+      "url": "https://www.tcgplayer.com/product/96923/magic-heros-path-promos-the-general"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Savant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4b"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exile The Savant: Tap all creatures your opponents control. Those creatures don't untap during their controller's next untap steps."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/96924_200w.jpg",
+      "modifiedOn": "2025-03-11T13:22:48.857",
+      "name": "The Savant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 96924,
+      "url": "https://www.tcgplayer.com/product/96924/magic-heros-path-promos-the-savant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Tyrant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4c"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exile The Tyrant: Creatures your opponents control get -1/-1 until end of turn."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/96925_200w.jpg",
+      "modifiedOn": "2025-03-11T13:29:06.82",
+      "name": "The Tyrant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 96925,
+      "url": "https://www.tcgplayer.com/product/96925/magic-heros-path-promos-the-tyrant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Warmonger",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4d"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exile The Warmonger: Creatures you control get +2/+0 and gain haste until end of turn."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/96926_200w.jpg",
+      "modifiedOn": "2025-03-11T13:31:01.977",
+      "name": "The Warmonger",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 96926,
+      "url": "https://www.tcgplayer.com/product/96926/magic-heros-path-promos-the-warmonger"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "The Provider",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4e"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Hero"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exile The Provider: Put two +1/+1 counters on target creature you control. You gain life equal to that creature's toughness."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/96927_200w.jpg",
+      "modifiedOn": "2025-03-11T13:22:06.527",
+      "name": "The Provider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 96927,
+      "url": "https://www.tcgplayer.com/product/96927/magic-heros-path-promos-the-provider"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hydra Head",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Head"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eHero’s Reward\u003c/em\u003e — When Hydra Head leaves the battlefield, each player gains 2 life."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 2,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/224156_200w.jpg",
+      "modifiedOn": "2025-03-10T15:34:20.033",
+      "name": "Hydra Head",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 224156,
+      "url": "https://www.tcgplayer.com/product/224156/magic-heros-path-promos-hydra-head"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ravenous Brute Head",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Head"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eHero’s Reward\u003c/em\u003e — When Ravenous Brute Head leaves the battlefield, each player gains 2 life and draws a card."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 2,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/224157_200w.jpg",
+      "modifiedOn": "2025-03-11T12:57:47.147",
+      "name": "Ravenous Brute Head",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 224157,
+      "url": "https://www.tcgplayer.com/product/224157/magic-heros-path-promos-ravenous-brute-head"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Savage Vigor Head",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Head"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "8"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of the Hydra’s end step, reveal the top card of the Hydra’s library and the Hydra casts that card.\r\n\u003cbr\u003e\r\n\u003cem\u003eHero’s Reward\u003c/em\u003e — When Savage Vigor Head leaves the battlefield, each player gains 4 life and draws a card."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 2,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/224158_200w.jpg",
+      "modifiedOn": "2025-03-11T13:01:03.433",
+      "name": "Savage Vigor Head",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 224158,
+      "url": "https://www.tcgplayer.com/product/224158/magic-heros-path-promos-savage-vigor-head"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shrieking Titan Head",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Head"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "8"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of the Hydra’s end step, each player discards a card.\r\n\u003cbr\u003e\r\n\u003cem\u003eHero’s Reward\u003c/em\u003e — When Shrieking Titan Head leaves the battlefield, each player gains 4 life and draws a card."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 2,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/224159_200w.jpg",
+      "modifiedOn": "2025-03-11T13:02:32.56",
+      "name": "Shrieking Titan Head",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 224159,
+      "url": "https://www.tcgplayer.com/product/224159/magic-heros-path-promos-shrieking-titan-head"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Snapping Fang Head",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Head"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "8"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of the Hydra’s end step, Snapping Fang Head deals 1 damage to each player.\r\n\u003cbr\u003e\r\n\u003cem\u003eHero’s Reward\u003c/em\u003e — When Snapping Fang Head leaves the battlefield, each player gains 4 life and draws a card."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 2,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/224160_200w.jpg",
+      "modifiedOn": "2025-03-11T13:02:49.787",
+      "name": "Snapping Fang Head",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 224160,
+      "url": "https://www.tcgplayer.com/product/224160/magic-heros-path-promos-snapping-fang-head"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Xenagos Ascended",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Enchantment Creature — God"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Xenagos Ascended can’t leave the battlefield as long as a Reveler is on the battlefield.\r\n\u003cbr\u003e\r\nWhen Xenagos Ascended leaves the battlefield, each player wins the game."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231420_200w.jpg",
+      "modifiedOn": "2025-03-11T13:51:32.463",
+      "name": "Xenagos Ascended",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231420,
+      "url": "https://www.tcgplayer.com/product/231420/magic-heros-path-promos-xenagos-ascended"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rollicking Throng",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Reveler"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Rollicking Throng enters the battlefield, reveal the top card of Xenagos’s library and Xenagos casts that card. \u003cem\u003e(This ability doesn’t trigger as the game begins.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231421_200w.jpg",
+      "modifiedOn": "2025-03-11T13:00:44.3",
+      "name": "Rollicking Throng",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231421,
+      "url": "https://www.tcgplayer.com/product/231421/magic-heros-path-promos-rollicking-throng"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Impulsive Charge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of combat this turn, all Revelers gain haste until end of turn and attack this combat if able."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231422_200w.jpg",
+      "modifiedOn": "2025-03-10T15:34:56.223",
+      "name": "Impulsive Charge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231422,
+      "url": "https://www.tcgplayer.com/product/231422/magic-heros-path-promos-impulsive-charge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Impulsive Destruction",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each player may sacrifice an artifact or enchantment. Impulsive Destruction deals 3 damage to each player who didn’t sacrifice a permanent this way."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231423_200w.jpg",
+      "modifiedOn": "2025-03-10T15:42:21.933",
+      "name": "Impulsive Destruction",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231423,
+      "url": "https://www.tcgplayer.com/product/231423/magic-heros-path-promos-impulsive-destruction"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Impulsive Return",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Return two cards named Ecstatic Piper from Xenagos’s graveyard to the battlefield. At the beginning of combat this turn, Impulsive Return deals damage to each player equal to the number of Revelers on the battlefield."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231424_200w.jpg",
+      "modifiedOn": "2025-03-10T15:42:57.003",
+      "name": "Impulsive Return",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231424,
+      "url": "https://www.tcgplayer.com/product/231424/magic-heros-path-promos-impulsive-return"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rip to Pieces",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of combat this turn, each Reveler deals 1 damage to each player and each creature those players control."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231425_200w.jpg",
+      "modifiedOn": "2025-03-11T13:00:15.333",
+      "name": "Rip to Pieces",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231425,
+      "url": "https://www.tcgplayer.com/product/231425/magic-heros-path-promos-rip-to-pieces"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Xenagoss Scorn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Xenagos Ascended gains trample until end of turn and attacks this turn if able."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231426_200w.jpg",
+      "modifiedOn": "2025-03-11T13:53:47.917",
+      "name": "Xenagos's Scorn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231426,
+      "url": "https://www.tcgplayer.com/product/231426/magic-heros-path-promos-xenagoss-scorn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Xenagoss Strike",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Xenagos’s Strike deals 4 damage to each player."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231427_200w.jpg",
+      "modifiedOn": "2025-03-11T13:54:02.823",
+      "name": "Xenagos's Strike",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231427,
+      "url": "https://www.tcgplayer.com/product/231427/magic-heros-path-promos-xenagoss-strike"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dance of Flame",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever a Reveler attacks, Dance of Flame deals 1 damage to each player."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231428_200w.jpg",
+      "modifiedOn": "2025-03-10T13:34:47.63",
+      "name": "Dance of Flame",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231428,
+      "url": "https://www.tcgplayer.com/product/231428/magic-heros-path-promos-dance-of-flame"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dance of Panic",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As long as five or more Revelers are on the battlefield, all Revelers have haste and attack each turn if able."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231429_200w.jpg",
+      "modifiedOn": "2025-03-10T13:39:03.03",
+      "name": "Dance of Panic",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231429,
+      "url": "https://www.tcgplayer.com/product/231429/magic-heros-path-promos-dance-of-panic"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ecstatic Piper",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Satyr Reveler"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Ecstatic Piper enters the battlefield, Xenagos Ascended attacks this turn if able.\r\n\u003cbr\u003e\r\n\u003cem\u003eHero’s Reward\u003c/em\u003e — When Ecstatic Piper leaves the battlefield, each player gains 2 life."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231430_200w.jpg",
+      "modifiedOn": "2025-03-10T15:26:54.943",
+      "name": "Ecstatic Piper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231430,
+      "url": "https://www.tcgplayer.com/product/231430/magic-heros-path-promos-ecstatic-piper"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Maddened Oread",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment Creature — Nymph Reveler"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As long as five or more Revelers are on the battlefield, Maddened Oread attacks each turn if able.\r\n\u003cbr\u003e\r\n\u003cem\u003eHero’s Reward\u003c/em\u003e — When Maddened Oread leaves the battlefield, each player gains 3 life."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231431_200w.jpg",
+      "modifiedOn": "2025-03-10T15:46:40.573",
+      "name": "Maddened Oread",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231431,
+      "url": "https://www.tcgplayer.com/product/231431/magic-heros-path-promos-maddened-oread"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pheres Band Revelers",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Centaur Reveler"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eHero’s Reward\u003c/em\u003e — When Pheres-Band Revelers leaves the battlefield, each player draws a card."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231432_200w.jpg",
+      "modifiedOn": "2025-03-11T12:52:33.663",
+      "name": "Pheres-Band Revelers",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231432,
+      "url": "https://www.tcgplayer.com/product/231432/magic-heros-path-promos-pheres-band-revelers"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Serpent Dancers",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Reveler"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Deathtouch\r\n\u003cbr\u003e\r\n\u003cem\u003eHero’s Reward\u003c/em\u003e — When Serpent Dancers leaves the battlefield, each player draws a card."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231433_200w.jpg",
+      "modifiedOn": "2025-03-11T13:02:10.427",
+      "name": "Serpent Dancers",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231433,
+      "url": "https://www.tcgplayer.com/product/231433/magic-heros-path-promos-serpent-dancers"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wild Maenads",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Reveler"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike\r\n\u003cbr\u003e\r\n\u003cem\u003eHero’s Reward\u003c/em\u003e — When Wild Maenads leaves the battlefield, each player gains 3 life."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231434_200w.jpg",
+      "modifiedOn": "2025-03-11T13:47:31.833",
+      "name": "Wild Maenads",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231434,
+      "url": "https://www.tcgplayer.com/product/231434/magic-heros-path-promos-wild-maenads"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Disorienting Glower",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Players can’t cast spells until the Hydra’s next turn."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231482_200w.jpg",
+      "modifiedOn": "2025-03-10T13:47:52.343",
+      "name": "Disorienting Glower",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231482,
+      "url": "https://www.tcgplayer.com/product/231482/magic-heros-path-promos-disorienting-glower"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Distract the Hydra",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each player may sacrifice a creature. Each player who sacrificed a creature this way chooses a Head and taps it. Each player who didn’t sacrifice a creature loses 3 life."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231483_200w.jpg",
+      "modifiedOn": "2025-03-10T13:54:43.887",
+      "name": "Distract the Hydra",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231483,
+      "url": "https://www.tcgplayer.com/product/231483/magic-heros-path-promos-distract-the-hydra"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Grown from the Stump",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Place exactly two cards named Hydra Head onto the battlefield from the Hydra’s graveyard. If you can’t, reveal cards from the top of the Hydra’s library until you reveal a Head card. Put that card onto the battlefield and the rest into the Hydra’s graveyard."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231484_200w.jpg",
+      "modifiedOn": "2025-03-10T15:29:23.647",
+      "name": "Grown from the Stump",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231484,
+      "url": "https://www.tcgplayer.com/product/231484/magic-heros-path-promos-grown-from-the-stump"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hydras Impenetrable Hide",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each head gains indestructible until the end of the Hydra’s next turn."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231485_200w.jpg",
+      "modifiedOn": "2025-03-10T15:34:35.13",
+      "name": "Hydra's Impenetrable Hide",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231485,
+      "url": "https://www.tcgplayer.com/product/231485/magic-heros-path-promos-hydras-impenetrable-hide"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Neck Tangle",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "If there are five or more Heads on the battlefield, tap two of them and they don’t untap during the Hydra’s next untap step. Otherwise, reveal the top card of the Hydra’s library and the Hydra casts that card."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231486_200w.jpg",
+      "modifiedOn": "2025-03-11T12:49:48.957",
+      "name": "Neck Tangle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231486,
+      "url": "https://www.tcgplayer.com/product/231486/magic-heros-path-promos-neck-tangle"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Noxious Hydra Breath",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose one — Noxious Hydra Breath deals 5 damage to each player; or destroy each tapped non-Head creature."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231487_200w.jpg",
+      "modifiedOn": "2025-03-11T12:50:21.62",
+      "name": "Noxious Hydra Breath",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231487,
+      "url": "https://www.tcgplayer.com/product/231487/magic-heros-path-promos-noxious-hydra-breath"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Strike the Weak Spot",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target Head. If that Head was elite, the Hydra takes an extra turn after this one."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231488_200w.jpg",
+      "modifiedOn": "2025-03-11T13:04:03.94",
+      "name": "Strike the Weak Spot",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231488,
+      "url": "https://www.tcgplayer.com/product/231488/magic-heros-path-promos-strike-the-weak-spot"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swallow the Hero Whole",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each player exiles a creature they control. Until the Hydra’s next turn, when a Head leaves the battlefield, return the exiled cards to the battlefield under their owners’ control."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231489_200w.jpg",
+      "modifiedOn": "2025-03-11T13:05:06.25",
+      "name": "Swallow the Hero Whole",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231489,
+      "url": "https://www.tcgplayer.com/product/231489/magic-heros-path-promos-swallow-the-hero-whole"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Torn Between Heads",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tap up to two Heads. They don’t untap during the Hydra’s next untap step. Torn Between Heads deals 5 damage to each player."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231490_200w.jpg",
+      "modifiedOn": "2025-03-11T13:46:19.613",
+      "name": "Torn Between Heads",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231490,
+      "url": "https://www.tcgplayer.com/product/231490/magic-heros-path-promos-torn-between-heads"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Unified Lunge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Unified Lunge deals X damage to each player, where X is the number of Heads on the battlefield."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231491_200w.jpg",
+      "modifiedOn": "2025-03-11T13:46:27.777",
+      "name": "Unified Lunge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231491,
+      "url": "https://www.tcgplayer.com/product/231491/magic-heros-path-promos-unified-lunge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Minotaur Goreseeker",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Minotaur"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003e\r\nMinotaur Goreseeker attacks each turn if able."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231492_200w.jpg",
+      "modifiedOn": "2025-03-10T15:47:38.16",
+      "name": "Minotaur Goreseeker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231492,
+      "url": "https://www.tcgplayer.com/product/231492/magic-heros-path-promos-minotaur-goreseeker"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Minotaur Younghorn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Minotaur"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003e\r\nMinotaur Younghorn attacks each turn if able."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231493_200w.jpg",
+      "modifiedOn": "2025-03-10T15:47:50.507",
+      "name": "Minotaur Younghorn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231493,
+      "url": "https://www.tcgplayer.com/product/231493/magic-heros-path-promos-minotaur-younghorn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mogiss Chosen",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Minotaur"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Mogis’s Chosen enters the battlefield tapped.\r\n\u003cbr\u003e\r\nMogis’s Chosen attacks each turn if able."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231494_200w.jpg",
+      "modifiedOn": "2025-03-10T15:48:05.377",
+      "name": "Mogis's Chosen",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231494,
+      "url": "https://www.tcgplayer.com/product/231494/magic-heros-path-promos-mogiss-chosen"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phoberos Reaver",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Minotaur"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003e\r\nPhoberos Reaver attacks each turn if able."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231495_200w.jpg",
+      "modifiedOn": "2025-03-11T12:53:29.783",
+      "name": "Phoberos Reaver",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231495,
+      "url": "https://www.tcgplayer.com/product/231495/magic-heros-path-promos-phoberos-reaver"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Reckless Minotaur",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Minotaur"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003e\r\nReckless Minotaur attacks each turn if able.\r\n\u003cbr\u003e\r\nAt the beginning of the end step, destroy Reckless Minotaur."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231496_200w.jpg",
+      "modifiedOn": "2025-03-11T12:58:08.63",
+      "name": "Reckless Minotaur",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231496,
+      "url": "https://www.tcgplayer.com/product/231496/magic-heros-path-promos-reckless-minotaur"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Consuming Rage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever a Minotaur attacks this turn, it gets +2/+0 until end of turn. Destroy that creature at end of combat."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231497_200w.jpg",
+      "modifiedOn": "2025-03-10T13:33:33.473",
+      "name": "Consuming Rage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231497,
+      "url": "https://www.tcgplayer.com/product/231497/magic-heros-path-promos-consuming-rage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Descend on the Prey",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever a Minotaur attacks this turn, it gains first strike until end of turn and must be blocked this turn if able."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231498_200w.jpg",
+      "modifiedOn": "2025-03-10T13:46:56.777",
+      "name": "Descend on the Prey",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231498,
+      "url": "https://www.tcgplayer.com/product/231498/magic-heros-path-promos-descend-on-the-prey"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Intervention of Keranos",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of combat this turn, Intervention of Keranos deals 3 damage to each creature."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231499_200w.jpg",
+      "modifiedOn": "2025-03-10T15:43:55.367",
+      "name": "Intervention of Keranos",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231499,
+      "url": "https://www.tcgplayer.com/product/231499/magic-heros-path-promos-intervention-of-keranos"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Touch of the Horned God",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever a Minotaur attacks this turn, it gains deathtouch until end of turn."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231500_200w.jpg",
+      "modifiedOn": "2025-03-11T13:46:22.337",
+      "name": "Touch of the Horned God",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231500,
+      "url": "https://www.tcgplayer.com/product/231500/magic-heros-path-promos-touch-of-the-horned-god"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Unquenchable Fury Battle the Horde",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each Minotaur can’t be blocked this turn except by two or more creatures."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231501_200w.jpg",
+      "modifiedOn": "2025-03-11T13:46:42.643",
+      "name": "Unquenchable Fury (Battle the Horde)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231501,
+      "url": "https://www.tcgplayer.com/product/231501/magic-heros-path-promos-unquenchable-fury-battle-the-horde"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Altar of Mogis",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of the Horde’s precombat main phase, reveal an additional card from the top of the Horde’s library. The Horde casts that card.\r\n\u003cbr\u003e\r\n\u003cem\u003eHero’s Reward\u003c/em\u003e — When Altar of Mogis is put into a graveyard from anywhere, the Horde sacrifices two Minotaurs."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231502_200w.jpg",
+      "modifiedOn": "2025-03-10T13:24:52.073",
+      "name": "Altar of Mogis",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231502,
+      "url": "https://www.tcgplayer.com/product/231502/magic-heros-path-promos-altar-of-mogis"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Massacre Totem",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of the Horde’s precombat main phase, reveal an additional card from the top of the Horde’s library. The Horde casts that card.\r\n\u003cbr\u003e\r\n\u003cem\u003eHero’s Reward\u003c/em\u003e — When Massacre Totem is put into a graveyard from anywhere, put the top seven cards of the Horde’s library into its graveyard."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231503_200w.jpg",
+      "modifiedOn": "2025-03-10T15:47:07.473",
+      "name": "Massacre Totem",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231503,
+      "url": "https://www.tcgplayer.com/product/231503/magic-heros-path-promos-massacre-totem"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plundered Statue",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of the Horde’s precombat main phase, reveal an additional card from the top of the Horde’s library.\r\n\u003cbr\u003e\r\n\u003cem\u003eHero’s Reward\u003c/em\u003e — When Plundered Statue is put into a graveyard from anywhere, each player draws a card."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231504_200w.jpg",
+      "modifiedOn": "2025-03-11T12:57:23.673",
+      "name": "Plundered Statue",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231504,
+      "url": "https://www.tcgplayer.com/product/231504/magic-heros-path-promos-plundered-statue"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Vitality Salve",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of the Horde’s precombat main phase, reveal an additional card from the top of the Horde’s library. The Horde casts that card.\r\n\u003cbr\u003e\r\n\u003cem\u003eHero’s Reward\u003c/em\u003e — When Vitality Salve is put into a graveyard from anywhere, each player returns a creature card from their graveyard to the battlefield."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/231505_200w.jpg",
+      "modifiedOn": "2025-03-11T13:47:07.56",
+      "name": "Vitality Salve",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 231505,
+      "url": "https://www.tcgplayer.com/product/231505/magic-heros-path-promos-vitality-salve"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Refreshing Elixir",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of the Horde’s precombat main phase, reveal an additional card from the top of the Horde’s library. The Horde casts that card.\r\n\u003cbr\u003e\r\n\u003cem\u003eHero’s Reward\u003c/em\u003e — When Refreshing Elixir is put into a graveyard from anywhere, each player gains 5 life."
+        }
+      ],
+      "groupId": 1524,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/239067_200w.jpg",
+      "modifiedOn": "2025-03-11T12:59:25.52",
+      "name": "Refreshing Elixir",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 239067,
+      "url": "https://www.tcgplayer.com/product/239067/magic-heros-path-promos-refreshing-elixir"
+    }
+  ],
+  "success": true,
+  "totalItems": 66
+}

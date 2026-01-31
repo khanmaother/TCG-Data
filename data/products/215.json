@@ -1,0 +1,2856 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Sangan",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is sent from the field to the Graveyard, add 1 monster with 1500 or less ATK from your Deck to your hand."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32074_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.053",
+      "name": "Sangan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32074,
+      "url": "https://www.tcgplayer.com/product/32074/yugioh-gold-series-2009-sangan"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Des Volstgalph",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1700"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each time this card destroys an opponent's monster as a result of battle and sends it to the Graveyard, inflict 500 points of damage to your opponent's Life Points. Also, each time either player activates a Normal or Quick-Play Spell Card, increase the AT"
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32075_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.087",
+      "name": "Des Volstgalph",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32075,
+      "url": "https://www.tcgplayer.com/product/32075/yugioh-gold-series-2009-des-volstgalph"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Lekunga",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Plant"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Remove 2 WATER monsters in your Graveyard from play to Special Summon 1 Lekunga Token (Plant-Type/WATER/2 Stars/ATK 700/DEF 700) in Attack Position on your side of the field."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32076_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.117",
+      "name": "Lekunga",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32076,
+      "url": "https://www.tcgplayer.com/product/32076/yugioh-gold-series-2009-lekunga"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Lord Poison",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN004"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Plant"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is destroyed as a result of battle and sent to the Graveyard, Special Summon 1 Plant-Type monster from your Graveyard to your side of the field except Lord Poison."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32077_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.147",
+      "name": "Lord Poison",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32077,
+      "url": "https://www.tcgplayer.com/product/32077/yugioh-gold-series-2009-lord-poison"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Rigorous Reaver",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN005"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Plant"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "FLIP: Each player discards 1 card. A monster that destroys this card by battle loses 500 ATK and DEF."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32078_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.18",
+      "name": "Rigorous Reaver",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32078,
+      "url": "https://www.tcgplayer.com/product/32078/yugioh-gold-series-2009-rigorous-reaver"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Zaborg the Thunder Monarch",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN006"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Thunder"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Tribute Summoned, destroy 1 monster on the field."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32079_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.227",
+      "name": "Zaborg the Thunder Monarch",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32079,
+      "url": "https://www.tcgplayer.com/product/32079/yugioh-gold-series-2009-zaborg-the-thunder-monarch"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Mobius the Frost Monarch",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN007"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Aqua"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Tribute Summoned, you can destroy up to 2 Spell or Trap Cards on the field."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32080_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.257",
+      "name": "Mobius the Frost Monarch",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32080,
+      "url": "https://www.tcgplayer.com/product/32080/yugioh-gold-series-2009-mobius-the-frost-monarch"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Thestalos the Firestorm Monarch",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN008"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Pyro"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Tribute Summoned, randomly discard 1 card from your opponent's hand to the Graveyard. If the discarded card was a Monster Card, inflict damage to your opponent equal to the Level of the monster x 100."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32081_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.3",
+      "name": "Thestalos the Firestorm Monarch",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32081,
+      "url": "https://www.tcgplayer.com/product/32081/yugioh-gold-series-2009-thestalos-the-firestorm-monarch"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Granmarg the Rock Monarch",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN009"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Rock"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Tribute Summoned, destroy 1 face-down card on the field."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32082_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.347",
+      "name": "Granmarg the Rock Monarch",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32082,
+      "url": "https://www.tcgplayer.com/product/32082/yugioh-gold-series-2009-granmarg-the-rock-monarch"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Treeborn Frog",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN010"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Aqua"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is in your Graveyard during your Standby Phase and you control no Spell or Trap Cards, you can Special Summon it. This effect cannot be activated if you control a face-up Treeborn Frog."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32083_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.38",
+      "name": "Treeborn Frog",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32083,
+      "url": "https://www.tcgplayer.com/product/32083/yugioh-gold-series-2009-treeborn-frog"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Phantom Beast Cross Wing",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN011"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast-Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "While this card is in the Graveyard, Gazelle the King of Mythical Beasts and all Phantom Beast monsters on the field gain 300 ATK."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32084_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.507",
+      "name": "Phantom Beast Cross-Wing",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32084,
+      "url": "https://www.tcgplayer.com/product/32084/yugioh-gold-series-2009-phantom-beast-cross-wing"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Phantom Beast Wild Horn",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN012"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast-Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32085_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.57",
+      "name": "Phantom Beast Wild-Horn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32085,
+      "url": "https://www.tcgplayer.com/product/32085/yugioh-gold-series-2009-phantom-beast-wild-horn"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Phantom Beast Thunder Pegasus",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN013"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast-Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Activate only when your opponent's monster declares an attack. By removing from play this card in your Graveyard, make the Battle Damage taken by 1 Gazelle the King of Mythical Beasts or Phantom Beast monster 0. When this happens, that monster is not dest"
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32086_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.617",
+      "name": "Phantom Beast Thunder-Pegasus",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32086,
+      "url": "https://www.tcgplayer.com/product/32086/yugioh-gold-series-2009-phantom-beast-thunder-pegasus"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Phantom Beast Rock Lizard",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN014"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast-Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If you are Tributing a Phantom Beast monster or Gazelle the King of Mythical Beasts, this card can be Normal Summoned with 1 Tribute. When this card destroys a monster by battle, inflict 500 damage to your opponent. When this card is destroyed and sent to"
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32087_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.663",
+      "name": "Phantom Beast Rock-Lizard",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32087,
+      "url": "https://www.tcgplayer.com/product/32087/yugioh-gold-series-2009-phantom-beast-rock-lizard"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Winged Rhynos",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN015"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast-Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When a Trap Card is activated, you can return this face-up card from the field to its owner's hand."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32088_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.71",
+      "name": "Winged Rhynos",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32088,
+      "url": "https://www.tcgplayer.com/product/32088/yugioh-gold-series-2009-winged-rhynos"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Snipe Hunter",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN016"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can discard 1 card to select 1 card on the field and roll a six-sided die. If the result is not 1 or 6, destroy the selected card."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32089_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.74",
+      "name": "Snipe Hunter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32089,
+      "url": "https://www.tcgplayer.com/product/32089/yugioh-gold-series-2009-snipe-hunter"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Six Samurai Yaichi",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WATER"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn, while you control another Six Samurai monster with a different name, you can destroy 1 Set Spell or Trap Card. This monster cannot declare an attack during the turn this effect is used. If this card would be destroyed, you can destroy anoth"
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32090_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.79",
+      "name": "The Six Samurai - Yaichi",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32090,
+      "url": "https://www.tcgplayer.com/product/32090/yugioh-gold-series-2009-the-six-samurai-yaichi"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Six Samurai Kamon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN018"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn, while you control another Six Samurai monster with a different name, you can destroy 1 face-up Spell or Trap Card. This monster cannot declare an attack during the turn this effect is used. If this card would be destroyed, you can destroy a"
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32091_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.85",
+      "name": "The Six Samurai - Kamon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32091,
+      "url": "https://www.tcgplayer.com/product/32091/yugioh-gold-series-2009-the-six-samurai-kamon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Six Samurai Yariza",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN019"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "While you control another Six Samurai monster with a different name, this card can attack your opponent directly. If this card would be destroyed, you can destroy another Six Samurai monster you control instead."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32092_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.897",
+      "name": "The Six Samurai - Yariza",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32092,
+      "url": "https://www.tcgplayer.com/product/32092/yugioh-gold-series-2009-the-six-samurai-yariza"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Six Samurai Nisashi",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN020"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "700"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "While you control another Six Samurai monster with a different name, this card can attack twice during the same Battle Phase. If this card would be destroyed, you can destroy another Six Samurai monster you control instead."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32093_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:44.943",
+      "name": "The Six Samurai - Nisashi",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32093,
+      "url": "https://www.tcgplayer.com/product/32093/yugioh-gold-series-2009-the-six-samurai-nisashi"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Six Samurai Zanji",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN021"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "While you control another Six Samurai monster with a different name, destroy any monster this card attacks at the end of the Damage Step. If this card would be destroyed, you can destroy another Six Samurai monster you control instead."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32094_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:45.037",
+      "name": "The Six Samurai - Zanji",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32094,
+      "url": "https://www.tcgplayer.com/product/32094/yugioh-gold-series-2009-the-six-samurai-zanji"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Six Samurai Irou",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN022"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "While you control another Six Samurai monster with a different name, if this card attacks a face-down Defense Position monster, destroy the monster immediately with this card's effect without flipping it face-up or applying damage calculation. If this car"
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32095_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:45.11",
+      "name": "The Six Samurai - Irou",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32095,
+      "url": "https://www.tcgplayer.com/product/32095/yugioh-gold-series-2009-the-six-samurai-irou"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Volcanic Rocket",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN023"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Pyro"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Normal Summoned, Flip Summoned, or Special Summoned, you can add 1 Blaze Accelerator card from your Deck or your Graveyard to your hand."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32096_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:45.183",
+      "name": "Volcanic Rocket",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32096,
+      "url": "https://www.tcgplayer.com/product/32096/yugioh-gold-series-2009-volcanic-rocket"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Volcanic Shell",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN024"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Pyro"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn, while this card is in the Graveyard you can pay 500 Life Points to add 1 Volcanic Shell from your Deck to your hand."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32097_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:45.273",
+      "name": "Volcanic Shell",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32097,
+      "url": "https://www.tcgplayer.com/product/32097/yugioh-gold-series-2009-volcanic-shell"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Elemental Hero Captain Gold",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN025"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2100"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can discard this card to the Graveyard to add 1 Skyscraper from your Deck to your hand. If this card is on the field but Skyscraper is not on the field, destroy this card."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32098_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:45.35",
+      "name": "Elemental Hero Captain Gold",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32098,
+      "url": "https://www.tcgplayer.com/product/32098/yugioh-gold-series-2009-elemental-hero-captain-gold"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Raiza the Storm Monarch",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN026"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Tribute Summoned, return 1 card on the field to the top of its owner's Deck."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32099_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:45.397",
+      "name": "Raiza the Storm Monarch",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32099,
+      "url": "https://www.tcgplayer.com/product/32099/yugioh-gold-series-2009-raiza-the-storm-monarch"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Necro Gardna",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN027"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Remove from play this card in your Graveyard to negate 1 attack from a monster your opponent controls."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32100_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:45.48",
+      "name": "Necro Gardna",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32100,
+      "url": "https://www.tcgplayer.com/product/32100/yugioh-gold-series-2009-necro-gardna"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Elemental Hero Neos Alius",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN028"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Gemini Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect: // This face-up card's name is treated"
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32101_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:45.523",
+      "name": "Elemental Hero Neos Alius",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32101,
+      "url": "https://www.tcgplayer.com/product/32101/yugioh-gold-series-2009-elemental-hero-neos-alius"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Test Tiger",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN029"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "600"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If you control a Gladiator Beast monster, you can Special Summon this card. You can Tribute this card to return 1 Gladiator Beast you control to the Deck, and then Special Summon 1 Gladiator Beast from your Deck. The Special Summoned monster is treated as"
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32102_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:45.6",
+      "name": "Test Tiger",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32102,
+      "url": "https://www.tcgplayer.com/product/32102/yugioh-gold-series-2009-test-tiger"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Royal Firestorm Guards",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN030"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "FIRE"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Pyro"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Normal Summoned, select 4 Pyro-Type monsters in your Graveyard. Return those cards to your Deck, then draw 2 cards."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32103_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:45.68",
+      "name": "Royal Firestorm Guards",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32103,
+      "url": "https://www.tcgplayer.com/product/32103/yugioh-gold-series-2009-royal-firestorm-guards"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Armed Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN031"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by having exactly 3 DARK monsters in your Graveyard. You can remove from play 1 DARK monster from your Graveyard to destroy 1 card on the field."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32104_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:46.037",
+      "name": "Dark Armed Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32104,
+      "url": "https://www.tcgplayer.com/product/32104/yugioh-gold-series-2009-dark-armed-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Prime Material Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN032"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Any effect that would inflict damage to a player instead increases their Life Points by the same amount. When a card's effect to destroy a monster(s) on the field is activated, you can send 1 card from your hand to the Graveyard to negate its activation a"
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32105_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:46.11",
+      "name": "Prime Material Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32105,
+      "url": "https://www.tcgplayer.com/product/32105/yugioh-gold-series-2009-prime-material-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Caius the Shadow Monarch",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN033"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When this card is Tribute Summoned, remove from play 1 card on the field. If it was a DARK Monster Card, inflict 1000 damage to your opponent."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32106_200w.jpg",
+      "modifiedOn": "2024-03-28T16:51:46.187",
+      "name": "Caius the Shadow Monarch",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32106,
+      "url": "https://www.tcgplayer.com/product/32106/yugioh-gold-series-2009-caius-the-shadow-monarch"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Exile of the Wicked",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN034"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Destroys all face-up Fiend-Type monsters on the field."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32107_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Exile of the Wicked",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32107,
+      "url": "https://www.tcgplayer.com/product/32107/yugioh-gold-series-2009-exile-of-the-wicked"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Warrior Elimination",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN035"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Destroy all face-up Warrior-Type monsters on the field."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32108_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Warrior Elimination",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32108,
+      "url": "https://www.tcgplayer.com/product/32108/yugioh-gold-series-2009-warrior-elimination"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Giant Trunade",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN036"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Return all Spell and Trap Cards on the field to their owners' hands."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32109_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Giant Trunade",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32109,
+      "url": "https://www.tcgplayer.com/product/32109/yugioh-gold-series-2009-giant-trunade"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Mind Control",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN037"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Take control of 1 monster on your opponent's side of the field until the End Phase. This monster cannot declare an attack or be Tributed."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32110_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Mind Control",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32110,
+      "url": "https://www.tcgplayer.com/product/32110/yugioh-gold-series-2009-mind-control"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Skyscraper",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN038"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When an Elemental Hero monster attacks, if its ATK is lower than the ATK of the attack target, the attacking monster gains 1000 ATK during damage calculation only."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32111_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Skyscraper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32111,
+      "url": "https://www.tcgplayer.com/product/32111/yugioh-gold-series-2009-skyscraper"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Future Fusion",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN039"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Send, from your Deck to the Graveyard, Fusion Material Monsters that are listed on a Fusion Monster Card, and select that 1 Fusion Monster from your Fusion Deck. Special Summon a Fusion Monster from your Fusion Deck with the same name as the selected Fusi"
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32112_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Future Fusion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32112,
+      "url": "https://www.tcgplayer.com/product/32112/yugioh-gold-series-2009-future-fusion"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gold Sarcophagus",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN040"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Gold Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Select and remove from play 1 card in your Deck. During your second Standby Phase after this card's activation, add the removed card to your hand."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32113_200w.jpg",
+      "modifiedOn": "2020-06-10T21:05:03.487",
+      "name": "Gold Sarcophagus",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32113,
+      "url": "https://www.tcgplayer.com/product/32113/yugioh-gold-series-2009-gold-sarcophagus"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Shiens Castle of Mist",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN041"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When a Six Samurai monster is attacked, the attacking monster loses 500 ATK during damage calculation only."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32114_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Shien's Castle of Mist",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32114,
+      "url": "https://www.tcgplayer.com/product/32114/yugioh-gold-series-2009-shiens-castle-of-mist"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Six Samurai United",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN042"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When a Six Samurai monster is Normal Summoned or Special Summoned, place 1 Bushido Counter on this card (max. 2). By sending this card to the Graveyard, draw a number of cards from your Deck equal to the number of Bushido Counters on this card."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32115_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Six Samurai United",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32115,
+      "url": "https://www.tcgplayer.com/product/32115/yugioh-gold-series-2009-six-samurai-united"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Veil of Darkness",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN043"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During your Draw Phase, if you draw a DARK monster, you can reveal it and send it to the Graveyard to draw 1 more card."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32116_200w.jpg",
+      "modifiedOn": "2021-08-23T13:57:52.943",
+      "name": "Veil of Darkness",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32116,
+      "url": "https://www.tcgplayer.com/product/32116/yugioh-gold-series-2009-veil-of-darkness"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Solemn Judgment",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN044"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Pay half your Life Points. Negate the activation of a Spell Card / Trap Card / Normal Summon / Flip Summon / Special Summon and destroy the Spell Card, Trap Card, or Summoned monster."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32117_200w.jpg",
+      "modifiedOn": "2022-08-07T15:37:39.32",
+      "name": "Solemn Judgment",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32117,
+      "url": "https://www.tcgplayer.com/product/32117/yugioh-gold-series-2009-solemn-judgment"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Bottomless Trap Hole",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN045"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When your opponent Summons a monster(s) with 1500 or more ATK, destroy and remove from play the monster(s)."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32118_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Bottomless Trap Hole",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32118,
+      "url": "https://www.tcgplayer.com/product/32118/yugioh-gold-series-2009-bottomless-trap-hole"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Compulsory Evacuation Device",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN046"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Return 1 monster on the field to its owner's hand."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32119_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Compulsory Evacuation Device",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32119,
+      "url": "https://www.tcgplayer.com/product/32119/yugioh-gold-series-2009-compulsory-evacuation-device"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Begone Knave",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN047"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When a monster inflicts Battle Damage to a player, return the monster to its owner's hand."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32120_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Begone, Knave!",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32120,
+      "url": "https://www.tcgplayer.com/product/32120/yugioh-gold-series-2009-begone-knave"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Phoenix Wing Wind Blast",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN048"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Discard 1 card. Return 1 card your opponent controls to the top of its owner's Deck."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32121_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Phoenix Wing Wind Blast",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32121,
+      "url": "https://www.tcgplayer.com/product/32121/yugioh-gold-series-2009-phoenix-wing-wind-blast"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Return of the Six Samurai",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN049"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Special Summon 1 Six Samurai monster from your Graveyard. Destroy it at the end of this turn."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32122_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Return of the Six Samurai",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32122,
+      "url": "https://www.tcgplayer.com/product/32122/yugioh-gold-series-2009-return-of-the-six-samurai"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Double Edged Sword Technique",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "GLD2-EN050"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Select 2 Six Samurai monsters from your Graveyard, and Special Summon them in face-up Attack Position. Destroy them during the End Phase of this turn and take damage equal to the ATK of the destroyed monster(s)."
+        }
+      ],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32123_200w.jpg",
+      "modifiedOn": "2013-05-09T12:13:41.653",
+      "name": "Double-Edged Sword Technique",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32123,
+      "url": "https://www.tcgplayer.com/product/32123/yugioh-gold-series-2009-double-edged-sword-technique"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gold Series 2009 Collector Set",
+      "extendedData": [],
+      "groupId": 215,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32124_200w.jpg",
+      "modifiedOn": "2015-10-23T15:05:33.543",
+      "name": "Gold Series 2009 - Collector Set",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32124,
+      "url": "https://www.tcgplayer.com/product/32124/yugioh-gold-series-2009-gold-series-2009-collector-set"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gold Series 2009 Booster Pack",
+      "extendedData": [],
+      "groupId": 215,
+      "imageCount": 2,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32125_200w.jpg",
+      "modifiedOn": "2024-01-30T16:09:50.897",
+      "name": "Gold Series 2009 - Booster Pack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32125,
+      "url": "https://www.tcgplayer.com/product/32125/yugioh-gold-series-2009-gold-series-2009-booster-pack"
+    }
+  ],
+  "success": true,
+  "totalItems": 52
+}

@@ -1,0 +1,1707 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Emrakul the Aeons Torn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U01"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Eldrazi"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "15"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "15"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "This spell can't be countered.\r\n\u003cbr\u003eWhen you cast this spell, take an extra turn after this one.\r\n\u003cbr\u003eFlying, protection from colored spells, annihilator 6\r\n\u003cbr\u003eWhen Emrakul, the Aeons Torn is put into a graveyard from anywhere, its owner shuffles their graveyard into their library."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179447_200w.jpg",
+      "modifiedOn": "2024-02-16T20:11:08.357",
+      "name": "Emrakul, the Aeons Torn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179447,
+      "url": "https://www.tcgplayer.com/product/179447/magic-ultimate-masters-box-toppers-emrakul-the-aeons-torn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Karn Liberated",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U02"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Karn"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "[+4]: Target player exiles a card from their hand.\r\n\u003cbr\u003e[-3]: Exile target permanent.\r\n\u003cbr\u003e[-14]: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179449_200w.jpg",
+      "modifiedOn": "2018-11-05T21:12:38.683",
+      "name": "Karn Liberated",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2018-12-07T00:00:00"
+      },
+      "productId": 179449,
+      "url": "https://www.tcgplayer.com/product/179449/magic-ultimate-masters-box-toppers-karn-liberated"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kozilek Butcher of Truth",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U03"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Eldrazi"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "12"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "12"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When you cast this spell, draw four cards.\r\n\u003cbr\u003eAnnihilator 4\r\n\u003cbr\u003eWhen Kozilek, Butcher of Truth is put into a graveyard from anywhere, its owner shuffles their graveyard into their library."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179452_200w.jpg",
+      "modifiedOn": "2024-07-02T16:01:02.227",
+      "name": "Kozilek, Butcher of Truth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179452,
+      "url": "https://www.tcgplayer.com/product/179452/magic-ultimate-masters-box-toppers-kozilek-butcher-of-truth"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ulamog the Infinite Gyre",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U04"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Eldrazi"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "10"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "10"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When you cast this spell, destroy target permanent.\r\n\u003cbr\u003eIndestructible, annihilator 4\r\n\u003cbr\u003eWhen Ulamog, the Infinite Gyre is put into a graveyard from anywhere, its owner shuffles their graveyard into their library."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179453_200w.jpg",
+      "modifiedOn": "2022-03-16T19:53:44.947",
+      "name": "Ulamog, the Infinite Gyre",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179453,
+      "url": "https://www.tcgplayer.com/product/179453/magic-ultimate-masters-box-toppers-ulamog-the-infinite-gyre"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Snapcaster Mage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U05"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\r\n\u003cbr\u003eWhen Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179456_200w.jpg",
+      "modifiedOn": "2023-08-17T15:15:43.493",
+      "name": "Snapcaster Mage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179456,
+      "url": "https://www.tcgplayer.com/product/179456/magic-ultimate-masters-box-toppers-snapcaster-mage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Temporal Manipulation",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U06"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Take an extra turn after this one."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179457_200w.jpg",
+      "modifiedOn": "2019-09-09T14:53:19.723",
+      "name": "Temporal Manipulation",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179457,
+      "url": "https://www.tcgplayer.com/product/179457/magic-ultimate-masters-box-toppers-temporal-manipulation"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bitterblossom",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U07"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Tribal Enchantment — Faerie"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie Rogue creature token with flying."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179460_200w.jpg",
+      "modifiedOn": "2023-04-22T18:43:15.62",
+      "name": "Bitterblossom",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179460,
+      "url": "https://www.tcgplayer.com/product/179460/magic-ultimate-masters-box-toppers-bitterblossom"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Demonic Tutor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U08"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Search your library for a card, put that card into your hand, then shuffle your library."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179461_200w.jpg",
+      "modifiedOn": "2024-06-30T19:09:18.473",
+      "name": "Demonic Tutor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179461,
+      "url": "https://www.tcgplayer.com/product/179461/magic-ultimate-masters-box-toppers-demonic-tutor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goryos Vengeance",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U09"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant — Arcane"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Return target legendary creature card from your graveyard to the battlefield. That creature gains haste. Exile it at the beginning of the next end step.\r\n\u003cbr\u003eSplice onto Arcane 2B"
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179464_200w.jpg",
+      "modifiedOn": "2024-07-01T17:53:22.7",
+      "name": "Goryo's Vengeance",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179464,
+      "url": "https://www.tcgplayer.com/product/179464/magic-ultimate-masters-box-toppers-goryos-vengeance"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kitchen Finks",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U27"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Ouphe"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Kitchen Finks enters the battlefield, you gain 2 life.\r\n\u003cbr\u003ePersist"
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179465_200w.jpg",
+      "modifiedOn": "2023-02-19T08:23:28.143",
+      "name": "Kitchen Finks",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179465,
+      "url": "https://www.tcgplayer.com/product/179465/magic-ultimate-masters-box-toppers-kitchen-finks"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Liliana of the Veil",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Liliana"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "[+1]: Each player discards a card.\r\n\u003cbr\u003e[-2]: Target player sacrifices a creature.\r\n\u003cbr\u003e[-6]: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179466_200w.jpg",
+      "modifiedOn": "2020-12-16T20:07:47.15",
+      "name": "Liliana of the Veil",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179466,
+      "url": "https://www.tcgplayer.com/product/179466/magic-ultimate-masters-box-toppers-liliana-of-the-veil"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mikaeus the Unhallowed",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Zombie Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Intimidate\r\n\u003cbr\u003eWhenever a Human deals damage to you, destroy it.\r\n\u003cbr\u003eOther non-Human creatures you control get +1/+1 and have undying."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179469_200w.jpg",
+      "modifiedOn": "2025-12-03T21:13:07.1",
+      "name": "Mikaeus, the Unhallowed",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179469,
+      "url": "https://www.tcgplayer.com/product/179469/magic-ultimate-masters-box-toppers-mikaeus-the-unhallowed"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Reanimate",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179471_200w.jpg",
+      "modifiedOn": "2024-07-02T19:21:29.573",
+      "name": "Reanimate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179471,
+      "url": "https://www.tcgplayer.com/product/179471/magic-ultimate-masters-box-toppers-reanimate"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ancient Tomb",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U31"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add CC. Ancient Tomb deals 2 damage to you."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179474_200w.jpg",
+      "modifiedOn": "2023-07-08T17:39:34.02",
+      "name": "Ancient Tomb",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179474,
+      "url": "https://www.tcgplayer.com/product/179474/magic-ultimate-masters-box-toppers-ancient-tomb"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tasigur the Golden Fang",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Human Shaman"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Delve \u003cem\u003e(Each card you exile from your graveyard while casting this spell pays for 1.)\u003c/em\u003e\r\n\u003cbr\u003e\r\n2(G/U)(G/U): Put the top two cards of your library into your graveyard, then return a nonland card of an opponent's choice from your graveyard to your hand."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179476_200w.jpg",
+      "modifiedOn": "2024-07-03T12:48:44.923",
+      "name": "Tasigur, the Golden Fang",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179476,
+      "url": "https://www.tcgplayer.com/product/179476/magic-ultimate-masters-box-toppers-tasigur-the-golden-fang"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Balefire Dragon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eWhenever Balefire Dragon deals combat damage to a player, it deals that much to each creature that player controls."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179477_200w.jpg",
+      "modifiedOn": "2018-11-05T21:15:11.41",
+      "name": "Balefire Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2018-12-07T00:00:00"
+      },
+      "productId": 179477,
+      "url": "https://www.tcgplayer.com/product/179477/magic-ultimate-masters-box-toppers-balefire-dragon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cavern of Souls",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U32"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As Cavern of Souls enters the battlefield, choose a creature type.\r\n\u003cbr\u003eT: Add C.\r\n\u003cbr\u003eT: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179479_200w.jpg",
+      "modifiedOn": "2023-08-25T01:38:39.067",
+      "name": "Cavern of Souls",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179479,
+      "url": "https://www.tcgplayer.com/product/179479/magic-ultimate-masters-box-toppers-cavern-of-souls"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Through the Breach",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant — Arcane"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice that creature at the beginning of the next end step.\r\n\u003cbr\u003eSplice into Arcane 2RR"
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179482_200w.jpg",
+      "modifiedOn": "2020-12-20T20:01:05.957",
+      "name": "Through the Breach",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179482,
+      "url": "https://www.tcgplayer.com/product/179482/magic-ultimate-masters-box-toppers-through-the-breach"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Eternal Witness",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Shaman"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179483_200w.jpg",
+      "modifiedOn": "2021-01-24T18:31:03.933",
+      "name": "Eternal Witness",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179483,
+      "url": "https://www.tcgplayer.com/product/179483/magic-ultimate-masters-box-toppers-eternal-witness"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Celestial Colonnade",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U33"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Celestial Colonnade enters the battlefield tapped.\r\n\u003cbr\u003eT: Add W or U. \r\n\u003cbr\u003e3WU: until end of turn, Celestial Colonnade becomes a 4/4 white and blue Elemental creature with flying and vigilance. It's still a land."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179486_200w.jpg",
+      "modifiedOn": "2021-09-01T16:40:53.12",
+      "name": "Celestial Colonnade",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179486,
+      "url": "https://www.tcgplayer.com/product/179486/magic-ultimate-masters-box-toppers-celestial-colonnade"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Life from the Loam",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U17"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Return up to three target land cards from your graveyard to your hand.\r\n\u003cbr\u003eDredge 3"
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179488_200w.jpg",
+      "modifiedOn": "2021-01-24T18:31:25.593",
+      "name": "Life from the Loam",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179488,
+      "url": "https://www.tcgplayer.com/product/179488/magic-ultimate-masters-box-toppers-life-from-the-loam"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Noble Hierarch",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U18"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Druid"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exalted\r\n\u003cbr\u003eT: Add G, W, or U."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179489_200w.jpg",
+      "modifiedOn": "2023-06-25T14:37:55.23",
+      "name": "Noble Hierarch",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179489,
+      "url": "https://www.tcgplayer.com/product/179489/magic-ultimate-masters-box-toppers-noble-hierarch"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tarmogoyf",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U19"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Lhurgoyf"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "*"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1+*"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179492_200w.jpg",
+      "modifiedOn": "2024-07-03T12:47:16.31",
+      "name": "Tarmogoyf",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179492,
+      "url": "https://www.tcgplayer.com/product/179492/magic-ultimate-masters-box-toppers-tarmogoyf"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Vengevine",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U20"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Haste\r\n\u003cbr\u003e\r\nWhenever you cast a spell, if it's the second creature spell you cast this turn, you may return Vengevine from your graveyard to the battlefield."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179493_200w.jpg",
+      "modifiedOn": "2025-02-27T14:37:19.83",
+      "name": "Vengevine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179493,
+      "url": "https://www.tcgplayer.com/product/179493/magic-ultimate-masters-box-toppers-vengevine"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Creeping Tar Pit",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U34"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Creeping Tar Pit enters the battlefield tapped.\r\n\u003cbr\u003eT: Add U or B.\r\n\u003cbr\u003e1UB: Creeping Tar Pit becomes a 3/2 blue and black Elemental creature until end of turn and can't be blocked this turn. It's still a land."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179495_200w.jpg",
+      "modifiedOn": "2020-12-20T20:00:03.393",
+      "name": "Creeping Tar Pit",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179495,
+      "url": "https://www.tcgplayer.com/product/179495/magic-ultimate-masters-box-toppers-creeping-tar-pit"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gaddock Teeg",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U21"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Kithkin Advisor"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Noncreature spells with converted mana cost 4 or greater can't be cast.\r\n\u003cbr\u003eNoncreature spells with X in their mana costs can't be cast."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179497_200w.jpg",
+      "modifiedOn": "2021-06-18T12:40:43.043",
+      "name": "Gaddock Teeg",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179497,
+      "url": "https://www.tcgplayer.com/product/179497/magic-ultimate-masters-box-toppers-gaddock-teeg"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Leovold Emissary of Trest",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U22"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Elf Advisor"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each opponent can't draw more than one card each turn.\r\n\u003cbr\u003eWhenever you or a permanent you control becomes the target of a spell or ability an opponent controls, you may draw a card."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179499_200w.jpg",
+      "modifiedOn": "2021-05-18T16:33:20.753",
+      "name": "Leovold, Emissary of Trest",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179499,
+      "url": "https://www.tcgplayer.com/product/179499/magic-ultimate-masters-box-toppers-leovold-emissary-of-trest"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lord of Extinction",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U23"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "*"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "*"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lord of Extinction's power and toughness are each equal to the number of cards in all graveyards."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179503_200w.jpg",
+      "modifiedOn": "2019-11-27T18:24:43.663",
+      "name": "Lord of Extinction",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179503,
+      "url": "https://www.tcgplayer.com/product/179503/magic-ultimate-masters-box-toppers-lord-of-extinction"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dark Depths",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U35"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Snow Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Dark Depths enters the battlefield with ten ice counters on it.\r\n\u003cbr\u003e3: Remove an ice counter from Dark Depths. \r\n\u003cbr\u003eWhen Dark Depths has no ice counters on it, sacrifice it. If you do, create Marit Lage, a legendary 20/20 black Avatar creature token with flying and indestructible."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179504_200w.jpg",
+      "modifiedOn": "2020-12-16T20:09:13.13",
+      "name": "Dark Depths",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179504,
+      "url": "https://www.tcgplayer.com/product/179504/magic-ultimate-masters-box-toppers-dark-depths"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Maelstrom Pulse",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U24"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target nonland permanent and all other permanents with the same name as that permanent."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179505_200w.jpg",
+      "modifiedOn": "2021-10-06T04:11:08.293",
+      "name": "Maelstrom Pulse",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179505,
+      "url": "https://www.tcgplayer.com/product/179505/magic-ultimate-masters-box-toppers-maelstrom-pulse"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sigarda Host of Herons",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U25"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Angel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, hexproof\r\n\u003cbr\u003eSpells and abilities your opponents control can't cause you to sacrifice permanents."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179508_200w.jpg",
+      "modifiedOn": "2021-02-20T20:19:33.62",
+      "name": "Sigarda, Host of Herons",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179508,
+      "url": "https://www.tcgplayer.com/product/179508/magic-ultimate-masters-box-toppers-sigarda-host-of-herons"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fulminator Mage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U26"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental Shaman"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Sacrifice Fulminator Mage: Destroy target nonbasic land."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179509_200w.jpg",
+      "modifiedOn": "2021-06-18T12:38:34.633",
+      "name": "Fulminator Mage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179509,
+      "url": "https://www.tcgplayer.com/product/179509/magic-ultimate-masters-box-toppers-fulminator-mage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Engineered Explosives",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U28"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Sunburst\r\n\u003cbr\u003e2, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179511_200w.jpg",
+      "modifiedOn": "2024-06-30T19:21:58.043",
+      "name": "Engineered Explosives",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179511,
+      "url": "https://www.tcgplayer.com/product/179511/magic-ultimate-masters-box-toppers-engineered-explosives"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Karakas",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U36"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add W.\r\n\u003cbr\u003eT: Return target legendary creature to its owner's hand."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179514_200w.jpg",
+      "modifiedOn": "2018-11-05T21:25:00.043",
+      "name": "Karakas",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2018-12-07T00:00:00"
+      },
+      "productId": 179514,
+      "url": "https://www.tcgplayer.com/product/179514/magic-ultimate-masters-box-toppers-karakas"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lavaclaw Reaches",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U37"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lavaclaw Reaches enters the battlefield tapped.\r\n\u003cbr\u003eT: Add B or R.\r\n\u003cbr\u003e1BR: Until end of turn, Lavaclaw Reaches becomes a 2/2 black and red Elemental creature with \"X: This creature gets +X/+0 until end of turn.\" It's still a land."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179515_200w.jpg",
+      "modifiedOn": "2024-07-02T16:20:17.867",
+      "name": "Lavaclaw Reaches",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179515,
+      "url": "https://www.tcgplayer.com/product/179515/magic-ultimate-masters-box-toppers-lavaclaw-reaches"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mana Vault",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U29"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Mana Vault doesn't untap during your untap step.\r\n\u003cbr\u003eAt the beginning of your upkeep, you may pay 4. If you do, untap Mana Vault.\r\n\u003cbr\u003eAt the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you.\r\n\u003cbr\u003eT: Add CCC."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179518_200w.jpg",
+      "modifiedOn": "2024-07-02T16:38:10.637",
+      "name": "Mana Vault",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179518,
+      "url": "https://www.tcgplayer.com/product/179518/magic-ultimate-masters-box-toppers-mana-vault"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Platinum Emperion",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U30"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Golem"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "8"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "8"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Your life total can't change."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179519_200w.jpg",
+      "modifiedOn": "2024-07-02T17:22:05.887",
+      "name": "Platinum Emperion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179519,
+      "url": "https://www.tcgplayer.com/product/179519/magic-ultimate-masters-box-toppers-platinum-emperion"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Raging Ravine",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U38"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Raging Ravine enters the battlefield tapped.\r\n\u003cbr\u003eT: Add R or G.\r\n\u003cbr\u003e2RG: Until end of turn, Raging Ravine becomes a 3/3 red Elemental creature with \"Whenever this creature attacks, put a +1/+1 counter on it.\" It's still a land."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179524_200w.jpg",
+      "modifiedOn": "2021-02-20T20:19:12.047",
+      "name": "Raging Ravine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179524,
+      "url": "https://www.tcgplayer.com/product/179524/magic-ultimate-masters-box-toppers-raging-ravine"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Stirring Wildwood",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U39"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Stirring Wildwood enters the battlefield tapped.\r\n\u003cbr\u003eT: Add G or W.\r\n\u003cbr\u003e1GW: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It's still a land."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179531_200w.jpg",
+      "modifiedOn": "2020-12-30T20:16:22.94",
+      "name": "Stirring Wildwood",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179531,
+      "url": "https://www.tcgplayer.com/product/179531/magic-ultimate-masters-box-toppers-stirring-wildwood"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Urborg Tomb of Yawgmoth",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "S"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "U40"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each land is a Swamp in addition to its other land types."
+        }
+      ],
+      "groupId": 2361,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/179537_200w.jpg",
+      "modifiedOn": "2026-01-19T20:31:36.627",
+      "name": "Urborg, Tomb of Yawgmoth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 179537,
+      "url": "https://www.tcgplayer.com/product/179537/magic-ultimate-masters-box-toppers-urborg-tomb-of-yawgmoth"
+    }
+  ],
+  "success": true,
+  "totalItems": 40
+}

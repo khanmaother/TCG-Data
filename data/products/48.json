@@ -1,0 +1,680 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Balance",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way."
+        }
+      ],
+      "groupId": 48,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32774_200w.jpg",
+      "modifiedOn": "2025-05-01T14:36:22.897",
+      "name": "Balance",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32774,
+      "url": "https://www.tcgplayer.com/product/32774/magic-from-the-vault-exiled-balance"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Berserk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Cast Berserk only before the combat damage step.\r\n\u003cbr\u003e\r\nTarget creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the end step, destroy that creature if it attacked this turn."
+        }
+      ],
+      "groupId": 48,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32775_200w.jpg",
+      "modifiedOn": "2025-05-01T14:37:12.033",
+      "name": "Berserk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32775,
+      "url": "https://www.tcgplayer.com/product/32775/magic-from-the-vault-exiled-berserk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Channel",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add 1 to your mana pool."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eTo some mages, the meaning of life is less important than how much is left.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 48,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32776_200w.jpg",
+      "modifiedOn": "2025-05-01T14:39:15.147",
+      "name": "Channel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32776,
+      "url": "https://www.tcgplayer.com/product/32776/magic-from-the-vault-exiled-channel"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gifts Ungiven",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Search your library for four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library."
+        }
+      ],
+      "groupId": 48,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32777_200w.jpg",
+      "modifiedOn": "2025-05-01T14:40:11.663",
+      "name": "Gifts Ungiven",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32777,
+      "url": "https://www.tcgplayer.com/product/32777/magic-from-the-vault-exiled-gifts-ungiven"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Lackey",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Goblin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Goblin Lackey successfully deals damage to a player, you may choose a Goblin card in your hand and put that Goblin into play."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eAt the first sign of enemy scouts, Jula grinned and strapped on his diplomacy helmet.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 48,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32778_200w.jpg",
+      "modifiedOn": "2025-05-01T14:42:35.663",
+      "name": "Goblin Lackey",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32778,
+      "url": "https://www.tcgplayer.com/product/32778/magic-from-the-vault-exiled-goblin-lackey"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Kird Ape",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Ape"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Kird Ape gets +1/+2 as long as you control a Forest."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eApes can be gentle, contemplative beasts—but context is everything.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 48,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32779_200w.jpg",
+      "modifiedOn": "2025-05-01T14:43:44.357",
+      "name": "Kird Ape",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32779,
+      "url": "https://www.tcgplayer.com/product/32779/magic-from-the-vault-exiled-kird-ape"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lotus Petal",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T, Sacrifice Lotus Petal: Add one mana of any color to your mana pool."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Hard to imagine,\" mused Hanna, stroking the petal, \"such a lovely flower inspiring such greed.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 48,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32780_200w.jpg",
+      "modifiedOn": "2025-05-01T14:44:22.593",
+      "name": "Lotus Petal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32780,
+      "url": "https://www.tcgplayer.com/product/32780/magic-from-the-vault-exiled-lotus-petal"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mystical Tutor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe student searches the world for meaning. The master finds worlds of meaning in the search.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 48,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32781_200w.jpg",
+      "modifiedOn": "2025-12-06T01:07:05.757",
+      "name": "Mystical Tutor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32781,
+      "url": "https://www.tcgplayer.com/product/32781/magic-from-the-vault-exiled-mystical-tutor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Necropotence",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Skip your draw step.\r\n\u003cbr\u003e\r\nWhenever you discard a card, exile that card from your graveyard.\r\n\u003cbr\u003e\r\nPay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step."
+        }
+      ],
+      "groupId": 48,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32782_200w.jpg",
+      "modifiedOn": "2025-05-01T14:57:23.053",
+      "name": "Necropotence",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32782,
+      "url": "https://www.tcgplayer.com/product/32782/magic-from-the-vault-exiled-necropotence"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Senseis Divining Top",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1: Look at the top three cards of your library, then put them back in any order.\r\n\u003cbr\u003e\r\nT: Draw a card, then put Sensei's Divining Top on top of its owner's library."
+        }
+      ],
+      "groupId": 48,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32783_200w.jpg",
+      "modifiedOn": "2025-11-28T15:56:20.157",
+      "name": "Sensei's Divining Top",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32783,
+      "url": "https://www.tcgplayer.com/product/32783/magic-from-the-vault-exiled-senseis-divining-top"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Serendib Efreet",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Efreet"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nAt the beginning of your upkeep, Serendib Efreet deals 1 damage to you."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eSummoners of efreeti remember only the power of command, never the sting of regret.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 48,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32784_200w.jpg",
+      "modifiedOn": "2025-05-01T15:16:05.91",
+      "name": "Serendib Efreet",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32784,
+      "url": "https://www.tcgplayer.com/product/32784/magic-from-the-vault-exiled-serendib-efreet"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Skullclamp",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature gets +1/-1.\r\n\u003cbr\u003e\r\nWhen equipped creature is put into a graveyard, draw two cards.\r\n\u003cbr\u003e\r\nEquip 1"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe mind is a beautiful bounty encased in an annoying bone container.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 48,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32785_200w.jpg",
+      "modifiedOn": "2025-05-01T15:17:45.243",
+      "name": "Skullclamp",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32785,
+      "url": "https://www.tcgplayer.com/product/32785/magic-from-the-vault-exiled-skullclamp"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Strip Mine",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add 1 to your mana pool.\r\n\u003cbr\u003e\r\nT, Sacrifice Strip Mine: Destroy target land."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eUnlike previous conflicts, the war between Urza and Mishra made Dominaria itself a casualty of war.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 48,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32786_200w.jpg",
+      "modifiedOn": "2025-05-01T15:18:39.55",
+      "name": "Strip Mine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32786,
+      "url": "https://www.tcgplayer.com/product/32786/magic-from-the-vault-exiled-strip-mine"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tinker",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As an additional cost to cast Tinker, sacrifice an artifact.\r\n\u003cbr\u003e\r\nSearch your library for an artifact card and put that card onto the battlefield. Then shuffle your library."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"What separates us from mere beasts is the capacity for self-improvement.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 48,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32787_200w.jpg",
+      "modifiedOn": "2025-05-01T15:19:27.937",
+      "name": "Tinker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32787,
+      "url": "https://www.tcgplayer.com/product/32787/magic-from-the-vault-exiled-tinker"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Trinisphere",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As long as Trinisphere is untapped, each spell that would cost less than three mana to cast costs three mana to cast."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eDesigned to restrain petty thoughts, but used to repress entire empires.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 48,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32788_200w.jpg",
+      "modifiedOn": "2025-05-01T15:20:45.527",
+      "name": "Trinisphere",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32788,
+      "url": "https://www.tcgplayer.com/product/32788/magic-from-the-vault-exiled-trinisphere"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "From the Vault Exiled Box Set",
+      "extendedData": [
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each From the Vault: Exiled - Box Set contains 15 premium cards."
+        }
+      ],
+      "groupId": 48,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/32809_200w.jpg",
+      "modifiedOn": "2020-01-06T21:50:25.673",
+      "name": "From the Vault: Exiled - Box Set",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 32809,
+      "url": "https://www.tcgplayer.com/product/32809/magic-from-the-vault-exiled-from-the-vault-exiled-box-set"
+    }
+  ],
+  "success": true,
+  "totalItems": 16
+}

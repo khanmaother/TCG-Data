@@ -1,0 +1,6306 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 3,
+      "cleanName": "Aipom",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "026/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Pilfer\r\n\u003cbr\u003eShuffle Aipom and all cards attached to it into your deck. Flip a coin. If heads, shuffle a card from your discard pile into your deck."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1] Tail Rap (10x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83485_200w.jpg",
+      "modifiedOn": "2025-11-25T22:27:50.527",
+      "name": "Aipom",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83485,
+      "url": "https://www.tcgplayer.com/product/83485/pokemon-neo-genesis-aipom"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ampharos",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "001/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[LLL] Gigaspark (40)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed and this attack does 10 damage to each of your opponent's Benched Pokémon. \u003cem\u003e(Don't apply Weakness and Resistance for Benched Pokémon.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83534_200w.jpg",
+      "modifiedOn": "2025-11-11T06:27:28.12",
+      "name": "Ampharos",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83534,
+      "url": "https://www.tcgplayer.com/product/83534/pokemon-neo-genesis-ampharos"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Arcade Game Goldenrod Game Corner",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "083/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Shuffle your deck, then reveal the top 3 cards of it. If at least 2 of those cards share the same name, put all of the ones with that name into your hand and shuffle the rest into your deck. If none of them do, shuffle all 3 into your deck."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83573_200w.jpg",
+      "modifiedOn": "2025-11-25T22:29:09.93",
+      "name": "Arcade Game (Goldenrod Game Corner)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83573,
+      "url": "https://www.tcgplayer.com/product/83573/pokemon-neo-genesis-arcade-game-goldenrod-game-corner"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ariados",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "027/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Spider Web\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon can't retreat. \u003cem\u003e(Benching or evolving that Pokémon ends this effect.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[GGG] Poison Bite (20)\r\n\u003cbr\u003eIf this attack damages the Defending Pokémon, the Defending Pokémon is now Poisoned and you remove a number of damage counters from Ariados equal to half that damage \u003cem\u003e(rounded up to the nearest 10)\u003c/em\u003e. If Ariados has fewer damage counters than that, remove all of them."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83615_200w.jpg",
+      "modifiedOn": "2025-11-25T22:30:50.813",
+      "name": "Ariados",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83615,
+      "url": "https://www.tcgplayer.com/product/83615/pokemon-neo-genesis-ariados"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Azumarill",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "002/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Tackle (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[WWW] Bubble Shower (30)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed and this attack does 10 damage to each of your opponent's Benched Pokémon. \u003cem\u003e(Don't apply Weakness and Resistance for Benched Pokémon.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83678_200w.jpg",
+      "modifiedOn": "2022-11-22T14:43:02.553",
+      "name": "Azumarill",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83678,
+      "url": "https://www.tcgplayer.com/product/83678/pokemon-neo-genesis-azumarill"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Bayleef 28",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "028/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1G] Poisonpowder (20)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1GG] Pollen Shield (30)\r\n\u003cbr\u003eDuring your opponent's next turn, Bayleef can't become Asleep, Confused, Paralyzed, or Poisoned. \u003cem\u003e(All other effects of attacks, Pokémon Powers, and Trainer cards still happen.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83743_200w.jpg",
+      "modifiedOn": "2024-02-02T11:02:28.477",
+      "name": "Bayleef (28)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83743,
+      "url": "https://www.tcgplayer.com/product/83743/pokemon-neo-genesis-bayleef-28"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Bayleef 29",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "029/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Sweet Scent\r\n\u003cbr\u003eFlip a coin. If heads and if any of your Pokémon have any damage counters on them, then remove 2 damage counters from 1 of them (or 1 if it only has 1). If tails and if any of your opponent's Pokémon have any damage counters on them, choose 1 of them and remove 2 damage counters from it (or 1 if it only has 1)."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[GGG] Double Razor Leaf (40x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 40 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83744_200w.jpg",
+      "modifiedOn": "2025-11-25T22:34:18.103",
+      "name": "Bayleef (29)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83744,
+      "url": "https://www.tcgplayer.com/product/83744/pokemon-neo-genesis-bayleef-29"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Bellossom",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "003/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Sweet Nectar\r\n\u003cbr\u003eFlip a coin. If heads, remove all damage counters from 1 of your Pokémon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1GG] Flower Dance (30x)\r\n\u003cbr\u003eDoes 30 damage times the number of cards with Bellossom in their names that you have in play \u003cem\u003e(including this one)\u003c/em\u003e."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83795_200w.jpg",
+      "modifiedOn": "2025-11-11T07:03:57.397",
+      "name": "Bellossom",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83795,
+      "url": "https://www.tcgplayer.com/product/83795/pokemon-neo-genesis-bellossom"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Berry",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "099/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Tool"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Attach Berry to 1 of your Pokémon that doesn't have a Pokémon Tool attached to it.\r\n\u003cbr\u003e\r\nAt any time between turns, if there are at least 2 damage counters on the Pokémon Berry is attached to, you may remove 2 of them and discard Berry. At the start of each turn, if there are at least 2 damage counters on the Pokémon Berry is attached to, remove 2 of them and discard Berry."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83812_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:28.75",
+      "name": "Berry",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83812,
+      "url": "https://www.tcgplayer.com/product/83812/pokemon-neo-genesis-berry"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Bills Teleporter",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "091/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Item"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Flip a coin. If heads, draw 4 cards."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/83841_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:28.797",
+      "name": "Bill's Teleporter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 83841,
+      "url": "https://www.tcgplayer.com/product/83841/pokemon-neo-genesis-bills-teleporter"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Card Flip Game Goldenrod Game Corner",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "092/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Item"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Choose 1 of your opponent's face-down Prizes. Guess whether it is an Energy card, a Trainer card, or a Pokémon (Basic or Evolution) card. Flip the card face up \u003cem\u003e(and leave it face up)\u003c/em\u003e. If you guessed right, draw 2 cards."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84098_200w.jpg",
+      "modifiedOn": "2025-10-30T02:28:01.917",
+      "name": "Card-Flip Game (Goldenrod Game Corner)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84098,
+      "url": "https://www.tcgplayer.com/product/84098/pokemon-neo-genesis-card-flip-game-goldenrod-game-corner"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Chikorita 53",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "053/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Tackle (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[G] Deflector\r\n\u003cbr\u003eDuring your opponent's next turn, whenever Chikorita takes damage, divide that damage in half (rounded down to the nearest 10). \u003cem\u003e(Any other effects still happen.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84272_200w.jpg",
+      "modifiedOn": "2025-02-03T11:42:14.92",
+      "name": "Chikorita (53)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84272,
+      "url": "https://www.tcgplayer.com/product/84272/pokemon-neo-genesis-chikorita-53"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Chikorita 54",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "054/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Growl\r\n\u003cbr\u003eIf the Defending Pokémon attacks Chikorita during your opponent's next turn, any damage done to Chikorita is reduced by 10 \u003cem\u003e(before applying Weakness and Resistance)\u003c/em\u003e. \u003cem\u003e(Benching or evolving either Pokemon ends this effect.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1G] Razor Leaf (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84273_200w.jpg",
+      "modifiedOn": "2025-11-25T22:35:06.267",
+      "name": "Chikorita (54)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84273,
+      "url": "https://www.tcgplayer.com/product/84273/pokemon-neo-genesis-chikorita-54"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Chinchou",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "055/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[L] Supersonic\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[W] Flail (10x)\r\n\u003cbr\u003eDoes 10 damage times the number of damage counters on Chinchou."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84300_200w.jpg",
+      "modifiedOn": "2025-11-25T22:36:51.343",
+      "name": "Chinchou",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84300,
+      "url": "https://www.tcgplayer.com/product/84300/pokemon-neo-genesis-chinchou"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Clefairy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "030/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Doubleslap (10x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Squaredance\r\n\u003cbr\u003eFlip a number of coins equal to the total number of Pokémon in play. For each heads, you may search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84352_200w.jpg",
+      "modifiedOn": "2023-06-09T14:35:32.86",
+      "name": "Clefairy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84352,
+      "url": "https://www.tcgplayer.com/product/84352/pokemon-neo-genesis-clefairy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Cleffa",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "020/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cem\u003eIf this Baby Pokémon is your Active Pokémon and your opponent tries to attack, your opponent flips a coin (before doing anything required in order to use that attack). If tails, your opponent's turn ends without an attack.\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Eeeeeeek\r\n\u003cbr\u003eShuffle your hand into your deck, then draw 7 cards."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84362_200w.jpg",
+      "modifiedOn": "2023-02-10T20:01:10.84",
+      "name": "Cleffa",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84362,
+      "url": "https://www.tcgplayer.com/product/84362/pokemon-neo-genesis-cleffa"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Croconaw 31",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "031/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Screech\r\n\u003cbr\u003eUntil the end of your next turn, if an attack damages the Defending Pokémon \u003cem\u003e(after applying Weakness and Resistance)\u003c/em\u003e, that attack does 20 more damage to the Defending Pokémon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1WW] Jaw Clamp (30)\r\n\u003cbr\u003eUntil the end of your opponent's next turn, as long as Croconaw is your Active Pokémon, the Defending Pokémon can't retreat, and if the effect of an attack, Pokémon Power, or Trainer card would change that player's Active Pokémon, that part of the effect does nothing."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84495_200w.jpg",
+      "modifiedOn": "2026-01-15T12:40:24.593",
+      "name": "Croconaw (31)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84495,
+      "url": "https://www.tcgplayer.com/product/84495/pokemon-neo-genesis-croconaw-31"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Croconaw 32",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "032/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Tackle (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1WW] Sweep Away (50)\r\n\u003cbr\u003eDiscard the top 3 cards from your deck."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84496_200w.jpg",
+      "modifiedOn": "2026-01-15T12:41:04.227",
+      "name": "Croconaw (32)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84496,
+      "url": "https://www.tcgplayer.com/product/84496/pokemon-neo-genesis-croconaw-32"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Cyndaquil 56",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "056/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Leer\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon can't attack Cyndaquil during your opponent's next turn. \u003cem\u003e(Benching or evolving either Pokémon ends this effect.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1R] Swift (20)\r\n\u003cbr\u003eThis attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84543_200w.jpg",
+      "modifiedOn": "2025-11-25T22:40:38.263",
+      "name": "Cyndaquil (56)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84543,
+      "url": "https://www.tcgplayer.com/product/84543/pokemon-neo-genesis-cyndaquil-56"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Cyndaquil 57",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "057/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[R] Fireworks (20)\r\n\u003cbr\u003eFlip a coin. If tails, discard 1 Energy card attached to Cyndaquil."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Quick Attack (10+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84544_200w.jpg",
+      "modifiedOn": "2025-11-25T22:41:35.783",
+      "name": "Cyndaquil (57)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84544,
+      "url": "https://www.tcgplayer.com/product/84544/pokemon-neo-genesis-cyndaquil-57"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Darkness Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "104/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Special Energy"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "If the Pokémon Darkness Energy is attached to damages the Defending Pokémon \u003cem\u003e(after applying Weakness and Resistance)\u003c/em\u003e, the attack does 10 more damage to the Defending Pokémon. At the end of every turn, put 1 damage counter on the Pokémon Darkness Energy is attached to, unless it's Darkness or has Dark in its name. Darkness Energy provides Darkness Energy. \u003cem\u003e(Doesn't count as a basic Energy card.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84695_200w.jpg",
+      "modifiedOn": "2025-11-25T23:04:12.5",
+      "name": "Darkness Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84695,
+      "url": "https://www.tcgplayer.com/product/84695/pokemon-neo-genesis-darkness-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Donphan",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "021/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Flail (10x)\r\n\u003cbr\u003eDoes 10 damage times the number of damage counters on Donphan."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[FFF] Rapid Spin (50)\r\n\u003cbr\u003eIf your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with his or her Active Pokémon, then, if you have any Benched Pokémon, you switch 1 of them with your Active Pokémon. \u003cem\u003e(Do the damage before switching the Pokémon.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "L-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84872_200w.jpg",
+      "modifiedOn": "2023-06-26T10:00:24.657",
+      "name": "Donphan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84872,
+      "url": "https://www.tcgplayer.com/product/84872/pokemon-neo-genesis-donphan"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Double Gust",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "100/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "If you have any Benched Pokémon, your opponent chooses 1 of them and switches it with your Active Pokémon. Then, if your opponent has any Benched Pokémon, choose 1 of them and switch it with his or her Active Pokémon."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/84891_200w.jpg",
+      "modifiedOn": "2025-11-25T22:42:52.023",
+      "name": "Double Gust",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 84891,
+      "url": "https://www.tcgplayer.com/product/84891/pokemon-neo-genesis-double-gust"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ecogym",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "084/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Stadium"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.\r\n\u003cbr\u003e\r\nWhenever an attack, Pokémon Power, or Trainer card discards another player's non-Colorless Energy card from a Pokémon, return that Energy card to its owner's hand. \u003cem\u003e(Energy cards that are discarded when that Pokémon is Knocked Out don't count.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85066_200w.jpg",
+      "modifiedOn": "2025-11-25T22:44:59.773",
+      "name": "Ecogym",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85066,
+      "url": "https://www.tcgplayer.com/product/85066/pokemon-neo-genesis-ecogym"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Electabuzz",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "033/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Punch (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[LLL] Swift (30)\r\n\u003cbr\u003eThis attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85109_200w.jpg",
+      "modifiedOn": "2026-01-15T12:42:12.583",
+      "name": "Electabuzz",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85109,
+      "url": "https://www.tcgplayer.com/product/85109/pokemon-neo-genesis-electabuzz"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Elekid",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "022/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Baby"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Playful Punch\u003c/strong\u003e Once during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may flip a coin. If heads, do 20 damage to your opponent's Active Pokémon. \u003cem\u003e(Apply Weakness and Resistance.)\u003c/em\u003e Either way, this ends your turn. This power can't be used if Elekid is Asleep, Confused, or Paralyzed.\r\n\u003cbr\u003e\u003cbr\u003e\r\n\u003cem\u003eIf this Baby Pokémon is your Active Pokémon and your opponent tries to attack, your opponent flips a coin (before doing anything required in order to use that attack). If tails, your opponent's turn ends without an attack.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85168_200w.jpg",
+      "modifiedOn": "2024-12-20T20:09:04.97",
+      "name": "Elekid",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85168,
+      "url": "https://www.tcgplayer.com/product/85168/pokemon-neo-genesis-elekid"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Energy Charge",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "085/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Item"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Flip a coin. If heads, shuffle up to 2 Energy cards from your discard pile into your deck."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85210_200w.jpg",
+      "modifiedOn": "2025-11-25T22:46:10.6",
+      "name": "Energy Charge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85210,
+      "url": "https://www.tcgplayer.com/product/85210/pokemon-neo-genesis-energy-charge"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Feraligatr 4",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "004/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Berserk\u003c/strong\u003e When you play Feraligatr from your hand, flip a coin. If heads, discard the top 5 cards from your opponent's deck. If tails, discard the top 5 cards from your deck."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[WWWW] Chomp (50+)\r\n\u003cbr\u003eFlip a number of coins equal to the number of damage counters on Feraligatr. This attack does 50 damage plus 10 more damage for each heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85412_200w.jpg",
+      "modifiedOn": "2025-11-11T07:31:00.687",
+      "name": "Feraligatr (4)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85412,
+      "url": "https://www.tcgplayer.com/product/85412/pokemon-neo-genesis-feraligatr-4"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Feraligatr 5",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "005/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "120"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Downpour\u003c/strong\u003e As often as you like during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may discard a Water Energy card from your hand. This power can't be used if Feraligatr is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[WWW] Riptide (10+)\r\n\u003cbr\u003eDoes 10 damage plus 10 damage times the number of Water Energy cards in your discard pile. Then, shuffle all Water Energy cards from your discard pile into your deck."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85413_200w.jpg",
+      "modifiedOn": "2024-12-01T10:42:25.187",
+      "name": "Feraligatr (5)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85413,
+      "url": "https://www.tcgplayer.com/product/85413/pokemon-neo-genesis-feraligatr-5"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Fighting Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "106/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Basic Energy"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85434_200w.jpg",
+      "modifiedOn": "2025-11-25T23:08:27.46",
+      "name": "Fighting Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85434,
+      "url": "https://www.tcgplayer.com/product/85434/pokemon-neo-genesis-fighting-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Fire Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "107/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Basic Energy"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85453_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:29.05",
+      "name": "Fire Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85453,
+      "url": "https://www.tcgplayer.com/product/85453/pokemon-neo-genesis-fire-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Flaaffy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "034/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[L] Discharge (30x)\r\n\u003cbr\u003eDiscard all Lightning Energy cards attached to Flaaffy in order to use this attack. Flip a number of coins equal to the number of Lightning Energy cards you discarded. This attack does 30 damage times the number of heads."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[LL] Electric Current (20)\r\n\u003cbr\u003eTake 1 Lightning Energy card attached to Flaaffy and attach it to 1 of your Benched Pokémon. If you have no Benched Pokémon, discard that Energy card."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85474_200w.jpg",
+      "modifiedOn": "2023-06-07T10:24:17.577",
+      "name": "Flaaffy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85474,
+      "url": "https://www.tcgplayer.com/product/85474/pokemon-neo-genesis-flaaffy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Focus Band",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "086/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Tool"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Attach Focus Band to 1 of your Pokémon that doesn't have a Pokémon Tool attached to it.\r\n\u003cbr\u003e\r\nIf the Pokémon Focus Band is attached to would be Knocked Out by your opponent's attack, flip a coin. If heads, that Pokémon is not Knocked Out and its remaining HP become 10 instead. Then, discard Focus Band."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85536_200w.jpg",
+      "modifiedOn": "2022-11-22T15:21:13.457",
+      "name": "Focus Band",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85536,
+      "url": "https://www.tcgplayer.com/product/85536/pokemon-neo-genesis-focus-band"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Furret",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "035/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Quick Attack (20+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Slam (30x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85589_200w.jpg",
+      "modifiedOn": "2026-01-15T12:44:07.953",
+      "name": "Furret",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85589,
+      "url": "https://www.tcgplayer.com/product/85589/pokemon-neo-genesis-furret"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Girafarig",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "058/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Agility (10)\r\n\u003cbr\u003eFlip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Girafarig."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[PP] Psybeam (20)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85726_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:29.097",
+      "name": "Girafarig",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85726,
+      "url": "https://www.tcgplayer.com/product/85726/pokemon-neo-genesis-girafarig"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Gligar",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "059/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Poison Sting (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Slash (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85764_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:29.143",
+      "name": "Gligar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85764,
+      "url": "https://www.tcgplayer.com/product/85764/pokemon-neo-genesis-gligar"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Gloom",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "036/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1G] Strange Powder (20)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Confused; if tails, the Defending Pokémon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1GG] Sticky Nectar (20+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 20 damage plus 10 more damage and, until the end of your opponent's next turn, as long as Gloom is your Active Pokémon, the Defending Pokémon can't retreat, and if the effect of an attack, Pokémon Power, or Trainer card would change that player's Active Pokémon, that part of the effect does nothing. If tails, this attack does 20 damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85778_200w.jpg",
+      "modifiedOn": "2025-11-25T22:47:43.013",
+      "name": "Gloom",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85778,
+      "url": "https://www.tcgplayer.com/product/85778/pokemon-neo-genesis-gloom"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Gold Berry",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "093/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Tool"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Attach Gold Berry to 1 of your Pokémon that doesn't have a Pokémon Tool attached to it.\r\n\u003cbr\u003e\r\nAt any time between turns, if there are at least 4 damage counters on the Pokémon Gold Berry is attached to, you may remove 4 of them and discard Gold Berry. At the start of each turn, if there are at least 4 damage counters on the Pokémon Gold Berry is attached to, remove 4 of them and discard Gold Berry."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85799_200w.jpg",
+      "modifiedOn": "2023-07-11T13:22:45.4",
+      "name": "Gold Berry",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85799,
+      "url": "https://www.tcgplayer.com/product/85799/pokemon-neo-genesis-gold-berry"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Granbull",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "037/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Tackle (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Raging Charge (10+)\r\n\u003cbr\u003eThis attack does 10 damage plus 10 damage for each damage counter on Granbull. Then, Granbull does 20 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85861_200w.jpg",
+      "modifiedOn": "2026-01-15T12:46:11.54",
+      "name": "Granbull",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85861,
+      "url": "https://www.tcgplayer.com/product/85861/pokemon-neo-genesis-granbull"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Grass Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "108/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Basic Energy"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/85870_200w.jpg",
+      "modifiedOn": "2025-11-25T23:09:56.377",
+      "name": "Grass Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 85870,
+      "url": "https://www.tcgplayer.com/product/85870/pokemon-neo-genesis-grass-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Heracross",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "006/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Final Blow\u003c/strong\u003e\r\n\u003cbr\u003e\r\nIf Heracross's remaining HP are 20 or less, you may make its Megahorn attack's base damage 120 instead of 60. This power can't be used if Heracross is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[GGG] Megahorn (60)\r\n\u003cbr\u003eFlip a coin. If tails, this attack does nothing."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86059_200w.jpg",
+      "modifiedOn": "2022-11-22T15:30:44.587",
+      "name": "Heracross",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86059,
+      "url": "https://www.tcgplayer.com/product/86059/pokemon-neo-genesis-heracross"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Hoothoot",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "060/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Hypnosis\r\n\u003cbr\u003eThe Defending Pokémon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Peck (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86169_200w.jpg",
+      "modifiedOn": "2026-01-15T12:47:23.237",
+      "name": "Hoothoot",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86169,
+      "url": "https://www.tcgplayer.com/product/86169/pokemon-neo-genesis-hoothoot"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Hoppip",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "061/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Hop (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[G] Sprout\r\n\u003cbr\u003eSearch your deck for a Basic Pokémon named Hoppip and put it onto your Bench. Shuffle your deck afterward. \u003cem\u003e(You can't use this attack if your Bench is full.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86177_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:29.25",
+      "name": "Hoppip",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86177,
+      "url": "https://www.tcgplayer.com/product/86177/pokemon-neo-genesis-hoppip"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Horsea",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "062/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[WW] Fin Slap (20+)\r\n\u003cbr\u003eIf an attack damaged Horsea during your opponent's last turn, this attack does 20 damage plus 10 more damage. If not, this attack does 20 damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86185_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:29.313",
+      "name": "Horsea",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86185,
+      "url": "https://www.tcgplayer.com/product/86185/pokemon-neo-genesis-horsea"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Jumpluff",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "007/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Sleep Powder (20)\r\n\u003cbr\u003eThe Defending Pokémon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[G] Leech Seed (20)\r\n\u003cbr\u003eIf this attack damages the Defending Pokémon \u003cem\u003e(after applying Weakness and Resistance)\u003c/em\u003e, remove 1 damage counter from Jumpluff, if it has any."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86361_200w.jpg",
+      "modifiedOn": "2023-04-13T10:30:49.687",
+      "name": "Jumpluff",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86361,
+      "url": "https://www.tcgplayer.com/product/86361/pokemon-neo-genesis-jumpluff"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Kingdra",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "008/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1WW] Agility (30)\r\n\u003cbr\u003eFlip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Kingdra."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[WWWW] Dragon Tornado (50)\r\n\u003cbr\u003eIf this attack doesn't Knock Out the Defending Pokémon, and if there are any Pokémon on your opponent's Bench, choose 1 of them and switch it with the Defending Pokémon."
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86440_200w.jpg",
+      "modifiedOn": "2025-12-16T05:20:20.343",
+      "name": "Kingdra",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86440,
+      "url": "https://www.tcgplayer.com/product/86440/pokemon-neo-genesis-kingdra"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Lanturn",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "038/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Hydroelectric Power\u003c/strong\u003e You. may make Floodlight do 10 more damage for each Water Energy attached to Lanturn but not used to pay for Floodlight's Energy cost. This power can't be used if Lanturn is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[LL] Floodlight (20)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86603_200w.jpg",
+      "modifiedOn": "2022-11-22T15:38:29.29",
+      "name": "Lanturn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86603,
+      "url": "https://www.tcgplayer.com/product/86603/pokemon-neo-genesis-lanturn"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ledian",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "039/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[GG] Baton Pass (30)\r\n\u003cbr\u003eIf you have any Grass Pokémon on your Bench, remove all Grass Energy cards from Ledian and attach them to 1 of those Pokémon, then switch Ledian with that Pokémon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86692_200w.jpg",
+      "modifiedOn": "2022-11-22T15:39:27.08",
+      "name": "Ledian",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86692,
+      "url": "https://www.tcgplayer.com/product/86692/pokemon-neo-genesis-ledian"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ledyba",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "063/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Supersonic\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[GG] Comet Punch (10x)\r\n\u003cbr\u003eFlip 4 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86699_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:29.36",
+      "name": "Ledyba",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86699,
+      "url": "https://www.tcgplayer.com/product/86699/pokemon-neo-genesis-ledyba"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Lightning Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "109/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Basic Energy"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86756_200w.jpg",
+      "modifiedOn": "2023-03-20T11:16:07.123",
+      "name": "Lightning Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86756,
+      "url": "https://www.tcgplayer.com/product/86756/pokemon-neo-genesis-lightning-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Lugia",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "009/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[RWL] Elemental Blast (90)\r\n\u003cbr\u003eDiscard a Fire Energy card, a Water Energy card, and a Lightning Energy card attached to Lugia in order to use this attack."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/86903_200w.jpg",
+      "modifiedOn": "2022-11-22T15:42:13",
+      "name": "Lugia",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 86903,
+      "url": "https://www.tcgplayer.com/product/86903/pokemon-neo-genesis-lugia"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magby",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "023/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cem\u003eIf this Baby Pokémon is your Active Pokémon and your opponent tries to attack, your opponent flips a coin (before doing anything required in order to use that attack). If tails, your opponent's turn ends without an attack.\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Sputter (10)\r\n\u003cbr\u003eAll Pokémon Powers stop working until the end of your next turn."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87001_200w.jpg",
+      "modifiedOn": "2022-11-22T15:43:55.903",
+      "name": "Magby",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87001,
+      "url": "https://www.tcgplayer.com/product/87001/pokemon-neo-genesis-magby"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magmar",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "040/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Tail Slap (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1RR] Magma Punch (40)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87042_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:29.413",
+      "name": "Magmar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87042,
+      "url": "https://www.tcgplayer.com/product/87042/pokemon-neo-genesis-magmar"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Mantine",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "064/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[WW] Undulate (20)\r\n\u003cbr\u003eFlip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Mantine."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87179_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:29.46",
+      "name": "Mantine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87179,
+      "url": "https://www.tcgplayer.com/product/87179/pokemon-neo-genesis-mantine"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Mareep",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "065/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[L] Static Electricity\r\n\u003cbr\u003eFor each Mareep in play, you may search your deck for a Lightning Energy card and attach it to Mareep. Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[LL] Thundershock (20)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87193_200w.jpg",
+      "modifiedOn": "2022-11-22T15:48:47.207",
+      "name": "Mareep",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87193,
+      "url": "https://www.tcgplayer.com/product/87193/pokemon-neo-genesis-mareep"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Marill",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "066/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Defense Curl\r\n\u003cbr\u003eFlip a coin. If heads, prevent all damage done to Marill during your opponent's next turn. \u003cem\u003e(Any other effects of attacks still happen.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[WW] Bubble Bomb (30)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, Marill does 10 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87213_200w.jpg",
+      "modifiedOn": "2025-11-20T01:30:00.887",
+      "name": "Marill",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87213,
+      "url": "https://www.tcgplayer.com/product/87213/pokemon-neo-genesis-marill"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Mary",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "087/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Draw 2 cards. Then, shuffle 2 cards from your hand into your deck."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87241_200w.jpg",
+      "modifiedOn": "2022-11-22T15:50:52.727",
+      "name": "Mary",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87241,
+      "url": "https://www.tcgplayer.com/product/87241/pokemon-neo-genesis-mary"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Meganium 10",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "010/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Herbal Scent\u003c/strong\u003e When you play Meganium from your hand, you may flip a coin. If heads, remove all damage counters from all Grass Pokémon in play."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2GG] Body Slam (40)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87286_200w.jpg",
+      "modifiedOn": "2022-11-22T15:52:07.987",
+      "name": "Meganium (10)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87286,
+      "url": "https://www.tcgplayer.com/product/87286/pokemon-neo-genesis-meganium-10"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Meganium 11",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "011/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Wild Growth\u003c/strong\u003e As long as Meganium is in play, each Grass Energy card attached to your Grass Pokémon instead provides 2 Grass. This power stops working while Meganium is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[GGGG] Soothing Scent (40)\r\n\u003cbr\u003eThe Defending Pokémon is now Asleep."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87287_200w.jpg",
+      "modifiedOn": "2024-09-22T08:09:02.16",
+      "name": "Meganium (11)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87287,
+      "url": "https://www.tcgplayer.com/product/87287/pokemon-neo-genesis-meganium-11"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Metal Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "019/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Special Energy"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Damage done to the Pokémon Metal Energy is attached to is reduced by 10 \u003cem\u003e(after applying Weakness and Resistance)\u003c/em\u003e. If the Pokémon Metal Energy is attached to isn't Metal, whenever it damages a Pokémon, reduce that damage by 10 \u003cem\u003e(before applying Weakness and Resistance)\u003c/em\u003e. Metal Energy provides Metal Energy. \u003cem\u003e(Doesn't count as a basic Energy card.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87368_200w.jpg",
+      "modifiedOn": "2022-11-22T15:55:48.02",
+      "name": "Metal Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87368,
+      "url": "https://www.tcgplayer.com/product/87368/pokemon-neo-genesis-metal-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Miltank",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "041/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Milk Drink\r\n\u003cbr\u003eFlip 2 coins. Remove 2 damage counters times the number of heads from Miltank. If it has fewer damage counters than that, remove all of them."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Body Slam (20)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87461_200w.jpg",
+      "modifiedOn": "2022-11-22T15:57:23.123",
+      "name": "Miltank",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87461,
+      "url": "https://www.tcgplayer.com/product/87461/pokemon-neo-genesis-miltank"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Miracle Berry",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "094/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Tool"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Attach Miracle Berry to 1 of your Pokémon that doesn't have a Pokémon Tool attached to it.\r\n\u003cbr\u003e\r\nAt any time between turns, if the Pokémon Miracle Berry is attached to is Asleep, Confused, Paralyzed, or Poisoned, you may remove all of those effects from that Pokémon and discard Miracle Berry. At the start of each turn, if the Pokémon Miracle Berry is attached to is Asleep, Confused, Paralyzed, or Poisoned, remove all of those effects from that Pokémon and discard Miracle Berry."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87495_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:29.507",
+      "name": "Miracle Berry",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87495,
+      "url": "https://www.tcgplayer.com/product/87495/pokemon-neo-genesis-miracle-berry"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Moo Moo Milk",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "101/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Choose 1 of your Pokémon. Flip 2 coins. Remove 2 damage counters times the number of heads from that Pokémon. If the Pokémon has fewer damage counters than that, remove all of them."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87574_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:29.57",
+      "name": "Moo-Moo Milk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87574,
+      "url": "https://www.tcgplayer.com/product/87574/pokemon-neo-genesis-moo-moo-milk"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Murkrow",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "024/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[D] Mean Look\r\n\u003cbr\u003eThe Defending Pokémon can't retreat as long as Murkrow remains your Active Pokémon. \u003cem\u003e(Benching or evolving either Pokémon ends this effect.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1D] Feint Attack\r\n\u003cbr\u003eChoose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon."
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87646_200w.jpg",
+      "modifiedOn": "2022-11-22T16:00:16.637",
+      "name": "Murkrow",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87646,
+      "url": "https://www.tcgplayer.com/product/87646/pokemon-neo-genesis-murkrow"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Natu",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "067/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Peck (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[PP] Telekinesis\r\n\u003cbr\u003eChoose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. Don't apply Weakness and Resistance for this attack. \u003cem\u003e(Any other effects that would happen after applying Weakness and Resistance still happen.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87681_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:29.617",
+      "name": "Natu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87681,
+      "url": "https://www.tcgplayer.com/product/87681/pokemon-neo-genesis-natu"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "New Pokedex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "095/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Shuffle your deck. Then, look at up to 5 cards from the top of your deck and rearrange them as you like."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87690_200w.jpg",
+      "modifiedOn": "2022-11-23T15:02:09.807",
+      "name": "New Pokedex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87690,
+      "url": "https://www.tcgplayer.com/product/87690/pokemon-neo-genesis-new-pokedex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Noctowl",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "042/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Glaring Gaze\u003c/strong\u003e Once during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may flip a coin. If heads, look at your opponent's hand. If your opponent has any Trainer cards there, choose 1 of them. Your opponent shuffles that card into his or her deck. This power can't be used if Noctowl is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[3] Wing Attack (30)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87791_200w.jpg",
+      "modifiedOn": "2023-07-17T16:14:27.74",
+      "name": "Noctowl",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87791,
+      "url": "https://www.tcgplayer.com/product/87791/pokemon-neo-genesis-noctowl"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Oddish",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "068/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Hide\r\n\u003cbr\u003eFlip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Oddish."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[GG] Absorb (20)\r\n\u003cbr\u003eRemove a number of damage counters from Oddish equal to half the damage done to the Defending Pokémon \u003cem\u003e(after applying Weakness and Resistance)\u003c/em\u003e (rounded up to the nearest 10). If Oddish has fewer damage counters than that, remove all of them."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87838_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:29.757",
+      "name": "Oddish",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87838,
+      "url": "https://www.tcgplayer.com/product/87838/pokemon-neo-genesis-oddish"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Onix",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "069/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Screech\r\n\u003cbr\u003eUntil the end of your next turn, if an attack damages the Defending Pokémon \u003cem\u003e(after applying Weakness and Resistance)\u003c/em\u003e, that attack does 20 more damage to the Defending Pokémon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[FF] Rage (10+)\r\n\u003cbr\u003eDoes 10 damage plus 10 more damage for each damage counter on Onix."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87875_200w.jpg",
+      "modifiedOn": "2025-07-24T20:16:58.62",
+      "name": "Onix",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87875,
+      "url": "https://www.tcgplayer.com/product/87875/pokemon-neo-genesis-onix"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Phanpy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "043/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Tackle (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[F] Endure\r\n\u003cbr\u003eFlip a coin. If heads, then if, during your opponent's next turn, Phanpy would be Knocked Out by an attack, Phanpy isn't Knocked Out and its remaining HP become 10 instead."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "L-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/87995_200w.jpg",
+      "modifiedOn": "2026-01-15T12:47:59.743",
+      "name": "Phanpy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 87995,
+      "url": "https://www.tcgplayer.com/product/87995/pokemon-neo-genesis-phanpy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pichu",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "012/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Zzzap\r\n\u003cbr\u003eDoes 20 damage to each Pokémon in play that has a Pokémon Power. Don't apply Weakness and Resistance."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88011_200w.jpg",
+      "modifiedOn": "2025-11-11T07:39:51.337",
+      "name": "Pichu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88011,
+      "url": "https://www.tcgplayer.com/product/88011/pokemon-neo-genesis-pichu"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pikachu",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "070/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Quick Attack (10+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1LL] Agility (20)\r\n\u003cbr\u003eFlip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Pikachu."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88072_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:29.877",
+      "name": "Pikachu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88072,
+      "url": "https://www.tcgplayer.com/product/88072/pokemon-neo-genesis-pikachu"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Piloswine",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "044/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[WW] Freeze (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon can't attack. \u003cem\u003e(Benching or evolving the Defending Pokémon ends this effect.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[WWW] Blizzard (30)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your own Benched Pokémon. \u003cem\u003e(Don't apply Weakness and Resistance for Benched Pokémon.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "L-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88116_200w.jpg",
+      "modifiedOn": "2022-11-23T15:15:21.91",
+      "name": "Piloswine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88116,
+      "url": "https://www.tcgplayer.com/product/88116/pokemon-neo-genesis-piloswine"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "PokeGear",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "088/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Look at the top 7 cards of your deck. If any of them are Trainer cards, you may show 1 of them to your opponent and put it into your hand. Shuffle your deck afterward. You can't play any more Trainer cards this turn."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88204_200w.jpg",
+      "modifiedOn": "2022-12-20T20:15:11.997",
+      "name": "PokeGear",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88204,
+      "url": "https://www.tcgplayer.com/product/88204/pokemon-neo-genesis-pokegear"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pokemon March",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "102/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Your opponent may search his or her deck for 1 Basic Pokémon card and put it onto his or her Bench. Then, you may search your deck for 1 Basic Pokémon card and put it onto your Bench. Then, each player shuffles his or her deck. \u003cem\u003e(A player can't do any of this if his or her Bench is full.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88228_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:29.923",
+      "name": "Pokemon March",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88228,
+      "url": "https://www.tcgplayer.com/product/88228/pokemon-neo-genesis-pokemon-march"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Professor Elm",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "096/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Shuffle your hand into your deck. Then, draw 7 cards. You can't play any more Trainer cards this turn."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88388_200w.jpg",
+      "modifiedOn": "2025-11-29T03:14:10.233",
+      "name": "Professor Elm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88388,
+      "url": "https://www.tcgplayer.com/product/88388/pokemon-neo-genesis-professor-elm"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Psychic Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "110/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Basic Energy"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88414_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:29.97",
+      "name": "Psychic Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88414,
+      "url": "https://www.tcgplayer.com/product/88414/pokemon-neo-genesis-psychic-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Quagsire",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "045/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[WW] Surf (30)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2FF] Earthquake (60)\r\n\u003cbr\u003eDoes 10 damage to each of your own Benched Pokémon. \u003cem\u003e(Don't apply Weakness and Resistance for Benched Pokémon.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "L-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88468_200w.jpg",
+      "modifiedOn": "2023-08-22T13:43:57.92",
+      "name": "Quagsire",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88468,
+      "url": "https://www.tcgplayer.com/product/88468/pokemon-neo-genesis-quagsire"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Quilava 46",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "046/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1R] Ember (30)\r\n\u003cbr\u003eDiscard 1 Fire Energy card attached to Quilava in order to use this attack."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[RR] Fire Wind (20)\r\n\u003cbr\u003eIf your opponent has any Benched Pokémon, choose 1 of them. Flip 2 coins. For each heads, this attack does 10 damage to that Pokémon. \u003cem\u003e(Don't apply Weakness and Resistance.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88480_200w.jpg",
+      "modifiedOn": "2026-01-15T12:49:08.193",
+      "name": "Quilava (46)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88480,
+      "url": "https://www.tcgplayer.com/product/88480/pokemon-neo-genesis-quilava-46"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Quilava 47",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "047/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[RR] Smokescreen (20)\r\n\u003cbr\u003eIf the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[RRR] Char (30)\r\n\u003cbr\u003eIf the Defending Pokémon doesn't have a Char counter on it, flip a coin. If heads, put a Char counter on it. A Char counter requires your opponent to flip a coin after every turn. If tails, put 2 damage counters on the Pokémon with that Char counter. \u003cem\u003e(Char counters stay on the Pokemon as long as it's in play.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88481_200w.jpg",
+      "modifiedOn": "2026-01-15T12:49:46.11",
+      "name": "Quilava (47)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88481,
+      "url": "https://www.tcgplayer.com/product/88481/pokemon-neo-genesis-quilava-47"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Recycle Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "105/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Special Energy"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Recycle Energy provides 1 Colorless Energy. \u003cem\u003e(Doesn't count as a basic Energy card.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nIf this card is put into your discard pile from play, return it to your hand."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/88654_200w.jpg",
+      "modifiedOn": "2022-12-24T06:34:05.67",
+      "name": "Recycle Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 88654,
+      "url": "https://www.tcgplayer.com/product/88654/pokemon-neo-genesis-recycle-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Seadra",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "048/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Bubble (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[WW] Mud Splash (30)\r\n\u003cbr\u003eIf your opponent has any Benched Pokémon, choose 1 of them and flip a coin. If heads, this attack does 10 damage to that Pokémon. \u003cem\u003e(Don't apply Weakness and Resistance for Benched Pokémon.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89009_200w.jpg",
+      "modifiedOn": "2024-04-16T10:17:44.92",
+      "name": "Seadra",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89009,
+      "url": "https://www.tcgplayer.com/product/89009/pokemon-neo-genesis-seadra"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Sentret",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "071/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Fury Swipes (10x)\r\n\u003cbr\u003eFlip 3 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89062_200w.jpg",
+      "modifiedOn": "2022-12-02T15:20:38.463",
+      "name": "Sentret",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89062,
+      "url": "https://www.tcgplayer.com/product/89062/pokemon-neo-genesis-sentret"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Shuckle",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "072/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Withdraw\r\n\u003cbr\u003eFlip a coin. If heads, prevent all damage done to Shuckle during your opponent's next turn. \u003cem\u003e(Any other effects of attacks still happen.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[GG] Wrap (20)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89188_200w.jpg",
+      "modifiedOn": "2025-01-31T19:10:01.257",
+      "name": "Shuckle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89188,
+      "url": "https://www.tcgplayer.com/product/89188/pokemon-neo-genesis-shuckle"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Skarmory",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "013/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Metal"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Claw (20)\r\n\u003cbr\u003eFlip a coin. If tails, this attack does nothing."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2M] Steel Wing (30)\r\n\u003cbr\u003eFlip a coin. If heads, all damage done by attacks to Skarmory during your opponent's next turn is reduced by 20 \u003cem\u003e(after applying Weakness and Resistance)\u003c/em\u003e."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "G-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89232_200w.jpg",
+      "modifiedOn": "2022-11-23T15:47:42.533",
+      "name": "Skarmory",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89232,
+      "url": "https://www.tcgplayer.com/product/89232/pokemon-neo-genesis-skarmory"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Skiploom",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "049/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Poisonpowder (10)\r\n\u003cbr\u003eThe Defending Pokémon is now Poisoned."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[G] Stun Spore (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89252_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:30.03",
+      "name": "Skiploom",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89252,
+      "url": "https://www.tcgplayer.com/product/89252/pokemon-neo-genesis-skiploom"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Slowking",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "014/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Mind Games\u003c/strong\u003e Whenever your opponent plays a Trainer card, you may flip a coin. If heads, that card does nothing. Put it on top of your opponent's deck. This power can't be used if Slowking is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[PPP] Mind Blast (20+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 20 damage plus 10 more damage and the Defending Pokémon is now Confused. If tails, this attack does 20 damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89311_200w.jpg",
+      "modifiedOn": "2025-11-11T07:43:23.913",
+      "name": "Slowking",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89311,
+      "url": "https://www.tcgplayer.com/product/89311/pokemon-neo-genesis-slowking"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Slowpoke",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "073/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Psyshock (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[W] Water Gun (10+)\r\n\u003cbr\u003eDoes 10 damage plus 10 more damage for each Water Energy attached to Slowpoke but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89323_200w.jpg",
+      "modifiedOn": "2022-11-23T15:51:36.513",
+      "name": "Slowpoke",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89323,
+      "url": "https://www.tcgplayer.com/product/89323/pokemon-neo-genesis-slowpoke"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Sneasel",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "025/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Fury Swipes (10x)\r\n\u003cbr\u003eFlip 3 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[DD] Beat Up (20x)\r\n\u003cbr\u003eFlip a coin for each of your Pokémon in play (including this one). This attack does 20 damage times the number of heads."
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89367_200w.jpg",
+      "modifiedOn": "2023-01-15T17:34:03.153",
+      "name": "Sneasel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89367,
+      "url": "https://www.tcgplayer.com/product/89367/pokemon-neo-genesis-sneasel"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Snubbull",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "074/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Roar\r\n\u003cbr\u003eFlip a coin. If heads and if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. \u003cem\u003e(Do the damage before switching the Pokémon.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Lick (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89412_200w.jpg",
+      "modifiedOn": "2022-11-23T15:54:20.79",
+      "name": "Snubbull",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89412,
+      "url": "https://www.tcgplayer.com/product/89412/pokemon-neo-genesis-snubbull"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Spinarak",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "075/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Scary Face\r\n\u003cbr\u003eFlip a coin. If heads, until the end of your opponent's next turn the Defending Pokémon can't attack or retreat."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[G] String Shot (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89453_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:30.077",
+      "name": "Spinarak",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89453,
+      "url": "https://www.tcgplayer.com/product/89453/pokemon-neo-genesis-spinarak"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Sprout Tower",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "097/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Stadium"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.\r\n\u003cbr\u003e\r\nAll damage done by Colorless Pokémon's attacks is reduced by 30 \u003cem\u003e(after applying Weakness and Resistance)\u003c/em\u003e."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89482_200w.jpg",
+      "modifiedOn": "2025-04-13T05:05:08.917",
+      "name": "Sprout Tower",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89482,
+      "url": "https://www.tcgplayer.com/product/89482/pokemon-neo-genesis-sprout-tower"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Stantler",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "076/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Stomp (20+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Mystifying Horns (20)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89501_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:30.14",
+      "name": "Stantler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89501,
+      "url": "https://www.tcgplayer.com/product/89501/pokemon-neo-genesis-stantler"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Steelix",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "015/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Metal"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "110"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Tackle (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2M] Tail Crush (30+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 30 damage plus 20 more damage; if tails, this attack does 30 damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "G-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "4"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89555_200w.jpg",
+      "modifiedOn": "2023-04-29T10:08:59.357",
+      "name": "Steelix",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89555,
+      "url": "https://www.tcgplayer.com/product/89555/pokemon-neo-genesis-steelix"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Sudowoodo",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "077/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Flail (10x)\r\n\u003cbr\u003eDoes 10 damage times the number of damage counters on Sudowoodo."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1F] Rock Throw (30)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89592_200w.jpg",
+      "modifiedOn": "2023-09-22T08:36:17.58",
+      "name": "Sudowoodo",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89592,
+      "url": "https://www.tcgplayer.com/product/89592/pokemon-neo-genesis-sudowoodo"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Sunflora",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "050/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[GGG] Petal Dance (30x)\r\n\u003cbr\u003eFlip 3 coins.  This attack does 30 damage times the number of heads. Sunflora is now Confused \u003cem\u003e(after doing damage)\u003c/em\u003e."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89612_200w.jpg",
+      "modifiedOn": "2022-11-23T16:02:52.93",
+      "name": "Sunflora",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89612,
+      "url": "https://www.tcgplayer.com/product/89612/pokemon-neo-genesis-sunflora"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Sunkern",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "078/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Growth\r\n\u003cbr\u003eFlip a coin. If heads, you may attach up to 2 Grass Energy cards from your hand to Sunkern."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[GGG] Mega Drain (30)\r\n\u003cbr\u003eRemove a number of damage counters from Sunkern equal to half the damage done to the Defending Pokémon \u003cem\u003e(after applying Weakness and Resistance)\u003c/em\u003e (rounded up to the nearest 10). If Sunkern has fewer damage counters than that, remove all of them."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89617_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:30.203",
+      "name": "Sunkern",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89617,
+      "url": "https://www.tcgplayer.com/product/89617/pokemon-neo-genesis-sunkern"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Super Energy Retrieval",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "089/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Trade 2 of the other cards in your hand for 4 basic Energy cards from your discard pile. If you have fewer than 4 basic Energy cards there, take all of them."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89628_200w.jpg",
+      "modifiedOn": "2022-11-23T16:04:22.933",
+      "name": "Super Energy Retrieval",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89628,
+      "url": "https://www.tcgplayer.com/product/89628/pokemon-neo-genesis-super-energy-retrieval"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Super Rod",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "103/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Flip a coin. If heads, put an Evolution card from your discard pile, if any, into your hand. If tails, put a Basic Pokémon card from your discard pile, if any, into your hand."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89633_200w.jpg",
+      "modifiedOn": "2024-07-29T04:55:20.073",
+      "name": "Super Rod",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89633,
+      "url": "https://www.tcgplayer.com/product/89633/pokemon-neo-genesis-super-rod"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Super Scoop Up",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "098/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Flip a coin. If heads, return 1 of your Pokémon and all cards attached to it to your hand."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89634_200w.jpg",
+      "modifiedOn": "2022-11-23T16:05:55.783",
+      "name": "Super Scoop Up",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89634,
+      "url": "https://www.tcgplayer.com/product/89634/pokemon-neo-genesis-super-scoop-up"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Swinub",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "079/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Powder Snow (10)\r\n\u003cbr\u003eThe Defending Pokémon is now Asleep."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "L-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89698_200w.jpg",
+      "modifiedOn": "2023-08-09T13:52:44.567",
+      "name": "Swinub",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89698,
+      "url": "https://www.tcgplayer.com/product/89698/pokemon-neo-genesis-swinub"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Time Capsule",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "090/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Your opponent may choose 5 Basic Pokémon, Evolution, and/or basic Energy cards in his or her discard pile. \u003cem\u003e(If your opponent doesn't have that many, he or she chooses all or none of them.)\u003c/em\u003e If your opponent chooses any cards, he or she shuffles them into his or her deck. Either way, you may do the same, and you can't play any more Trainer cards this turn."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89918_200w.jpg",
+      "modifiedOn": "2023-02-23T20:49:58.887",
+      "name": "Time Capsule",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89918,
+      "url": "https://www.tcgplayer.com/product/89918/pokemon-neo-genesis-time-capsule"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Togepi",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "051/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Poison Barb (10)\r\n\u003cbr\u003eThe Defending Pokémon is now Poisoned."
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89929_200w.jpg",
+      "modifiedOn": "2025-11-20T01:29:23.12",
+      "name": "Togepi",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89929,
+      "url": "https://www.tcgplayer.com/product/89929/pokemon-neo-genesis-togepi"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Togetic",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "016/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Super Metronome\r\n\u003cbr\u003eFlip a coin. If heads, choose an attack of 1 of your opponent's Pokémon. Super Metronome copies that attack except for its Energy cost. \u003cem\u003e(You must still do anything else in order to use that attack.) (No matter what type the Defending Pokémon is, Togetic's type is still Colorless.)\u003c/em\u003e Togetic performs that attack. (Togetic can make that attack even if it does not have the appropriate number or type of Energy attached to it necessary to make the attack.)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Fly (30)\r\n\u003cbr\u003eFlip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Togetic; if tails, this attack does nothing \u003cem\u003e(not even damage)\u003c/em\u003e."
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89939_200w.jpg",
+      "modifiedOn": "2022-11-23T16:10:22.41",
+      "name": "Togetic",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89939,
+      "url": "https://www.tcgplayer.com/product/89939/pokemon-neo-genesis-togetic"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Totodile 80",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "080/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Bite (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1W] Rage (10+)\r\n\u003cbr\u003eDoes 10 damage plus 10 more damage for each damage counter on Totodile."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89991_200w.jpg",
+      "modifiedOn": "2026-01-15T12:50:55.127",
+      "name": "Totodile (80)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89991,
+      "url": "https://www.tcgplayer.com/product/89991/pokemon-neo-genesis-totodile-80"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Totodile 81",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "081/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Leer\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon can't attack Totodile during your opponent's next turn. \u003cem\u003e(Benching or evolving either Pokémon ends this effect.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[W] Fury Swipes (10x)\r\n\u003cbr\u003eFlip 3 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/89992_200w.jpg",
+      "modifiedOn": "2025-02-05T21:05:30.267",
+      "name": "Totodile (81)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 89992,
+      "url": "https://www.tcgplayer.com/product/89992/pokemon-neo-genesis-totodile-81"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Typhlosion 17",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "017/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Fire Recharge\u003c/strong\u003e Once during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may flip a coin. If heads, attach a Fire Energy card from your discard pile to 1 of your Fire Pokémon. This power can't be used if Typhlosion is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[RRRR] Flame Burst (60+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 60 damage plus 20 more damage and does 20 damage to Typhlosion. If tails, this attack does 60 damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90098_200w.jpg",
+      "modifiedOn": "2022-11-23T16:16:14.82",
+      "name": "Typhlosion (17)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90098,
+      "url": "https://www.tcgplayer.com/product/90098/pokemon-neo-genesis-typhlosion-17"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Typhlosion 18",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "018/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Fire Boost\u003c/strong\u003e When you play Typhlosion from your hand, you may flip a coin. If heads, search your deck for up to 4 Fire Energy cards and attach them to Typhlosion. Shuffle your deck afterward."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[RRRR] Flame Wheel (80)\r\n\u003cbr\u003eDiscard 3 Fire Energy cards attached to Typhlosion in order to use this attack. Do 20 damage to each Benched Pokémon \u003cem\u003e(yours and your opponent's)\u003c/em\u003e. \u003cem\u003e(Don't apply Weakness and Resistance for Benched Pokémon.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90099_200w.jpg",
+      "modifiedOn": "2022-11-29T04:32:58.143",
+      "name": "Typhlosion (18)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90099,
+      "url": "https://www.tcgplayer.com/product/90099/pokemon-neo-genesis-typhlosion-18"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Water Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "111/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Basic Energy"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90502_200w.jpg",
+      "modifiedOn": "2025-11-21T23:35:36.823",
+      "name": "Water Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90502,
+      "url": "https://www.tcgplayer.com/product/90502/pokemon-neo-genesis-water-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Wooper",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "082/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Amnesia\r\n\u003cbr\u003eChoose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Slam (20x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 20 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "L-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90632_200w.jpg",
+      "modifiedOn": "2025-01-22T05:16:05.343",
+      "name": "Wooper",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90632,
+      "url": "https://www.tcgplayer.com/product/90632/pokemon-neo-genesis-wooper"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Xatu",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "052/111"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Prophecy\r\n\u003cbr\u003eLook at the top 3 cards of either player's deck and rearrange them as you like."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[PPP] Confuse Ray (30)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/90661_200w.jpg",
+      "modifiedOn": "2022-11-25T20:07:01.7",
+      "name": "Xatu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 90661,
+      "url": "https://www.tcgplayer.com/product/90661/pokemon-neo-genesis-xatu"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Neo Genesis Booster Pack 1st Edition",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "This booster pack contains 11 cards for Wizards of the Coast printed Neo Genesis set."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/138141_200w.jpg",
+      "modifiedOn": "2022-12-07T14:50:12.88",
+      "name": "Neo Genesis Booster Pack [1st Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 138141,
+      "url": "https://www.tcgplayer.com/product/138141/pokemon-neo-genesis-neo-genesis-booster-pack-1st-edition"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Neo Genesis Booster Pack Unlimited Edition",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "This booster pack contains 11 cards for Wizards of the Coast printed Neo Genesis set."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/138142_200w.jpg",
+      "modifiedOn": "2017-07-22T16:16:46.563",
+      "name": "Neo Genesis Booster Pack [Unlimited Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 138142,
+      "url": "https://www.tcgplayer.com/product/138142/pokemon-neo-genesis-neo-genesis-booster-pack-unlimited-edition"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Neo Genesis Booster Box 1st Edition",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Contains 36 1st Edition Booster Packs."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/193334_200w.jpg",
+      "modifiedOn": "2019-06-28T17:48:50.267",
+      "name": "Neo Genesis Booster Box [1st Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 193334,
+      "url": "https://www.tcgplayer.com/product/193334/pokemon-neo-genesis-neo-genesis-booster-box-1st-edition"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Neo Genesis Booster Box Unlimited Edition",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Contains 36 Unlimited Edition Booster Packs."
+        }
+      ],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/193335_200w.jpg",
+      "modifiedOn": "2019-06-28T17:49:31.217",
+      "name": "Neo Genesis Booster Box [Unlimited Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 193335,
+      "url": "https://www.tcgplayer.com/product/193335/pokemon-neo-genesis-neo-genesis-booster-box-unlimited-edition"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Neo Genesis Theme Deck Cold Fusion",
+      "extendedData": [],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/234505_200w.jpg",
+      "modifiedOn": "2021-03-15T17:58:54.75",
+      "name": "Neo Genesis Theme Deck - \"Cold Fusion\"",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 234505,
+      "url": "https://www.tcgplayer.com/product/234505/pokemon-neo-genesis-neo-genesis-theme-deck-cold-fusion"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Neo Genesis Theme Deck Hotfoot",
+      "extendedData": [],
+      "groupId": 1396,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/451098_200w.jpg",
+      "modifiedOn": "2022-10-21T17:57:06.523",
+      "name": "Neo Genesis Theme Deck - \"Hotfoot\"",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 451098,
+      "url": "https://www.tcgplayer.com/product/451098/pokemon-neo-genesis-neo-genesis-theme-deck-hotfoot"
+    }
+  ],
+  "success": true,
+  "totalItems": 117
+}

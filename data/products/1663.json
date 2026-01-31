@@ -1,0 +1,5725 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 3,
+      "cleanName": "Alakazam",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "001/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Damage Swap\u003c/strong\u003e As often as you like during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may move 1 damage counter from 1 of your Pokémon to another as long as you don't Knock Out that Pokémon. This power can't be used if Alakazam is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[PPP] Confuse Ray (30)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/106996_200w.jpg",
+      "modifiedOn": "2024-02-15T14:59:12.013",
+      "name": "Alakazam",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 106996,
+      "url": "https://www.tcgplayer.com/product/106996/pokemon-base-set-shadowless-alakazam"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Blastoise",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "002/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Rain Dance\u003c/strong\u003e As often as you like during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may attach 1 Water Energy card to 1 of your Water Pokémon. \u003cem\u003e(This doesn't use up your 1 Energy card attachment for the turn.)\u003c/em\u003e This power can't be used if Blastoise is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[WWW] Hydro Pump (40+)\r\n\u003cbr\u003eDoes 40 damage plus 10 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/106997_200w.jpg",
+      "modifiedOn": "2022-11-15T15:52:45.847",
+      "name": "Blastoise",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 106997,
+      "url": "https://www.tcgplayer.com/product/106997/pokemon-base-set-shadowless-blastoise"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Chansey",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "003/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "120"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Scrunch\r\n\u003cbr\u003eFlip a coin. If heads, prevent all damage done to Chansey during your opponent's next turn. \u003cem\u003e(Any other effects of attacks still happen.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[4] Double-edge (80)\r\n\u003cbr\u003eChansey does 80 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/106998_200w.jpg",
+      "modifiedOn": "2022-11-15T15:54:57.7",
+      "name": "Chansey",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 106998,
+      "url": "https://www.tcgplayer.com/product/106998/pokemon-base-set-shadowless-chansey"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Charizard",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "004/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "120"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Energy Burn\u003c/strong\u003e As often as you like during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[RRRR] Fire Spin (100)\r\n\u003cbr\u003eDiscard 2 Energy cards attached to Charizard in order to use this attack."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/106999_200w.jpg",
+      "modifiedOn": "2023-01-13T23:32:40.3",
+      "name": "Charizard",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 106999,
+      "url": "https://www.tcgplayer.com/product/106999/pokemon-base-set-shadowless-charizard"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Gyarados",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "006/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[WWW] Dragon Rage (50)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[WWWW] Bubblebeam (40)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107000_200w.jpg",
+      "modifiedOn": "2022-11-15T16:11:24.51",
+      "name": "Gyarados",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107000,
+      "url": "https://www.tcgplayer.com/product/107000/pokemon-base-set-shadowless-gyarados"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Clefairy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "005/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Sing\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Metronome\r\n\u003cbr\u003eChoose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required to use that attack, such as discarding Energy cards. \u003cem\u003e(No matter what type the Defending Pokémon is, Clefairy's type is still Colorless.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107001_200w.jpg",
+      "modifiedOn": "2025-11-28T22:35:01.187",
+      "name": "Clefairy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107001,
+      "url": "https://www.tcgplayer.com/product/107001/pokemon-base-set-shadowless-clefairy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Hitmonchan",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "007/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Jab (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1FF] Special Punch (40)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107002_200w.jpg",
+      "modifiedOn": "2022-11-15T17:50:16.91",
+      "name": "Hitmonchan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107002,
+      "url": "https://www.tcgplayer.com/product/107002/pokemon-base-set-shadowless-hitmonchan"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magneton",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "009/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1LL] Thunder Wave (30)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2LL] Selfdestruct (80)\r\n\u003cbr\u003eDoes 20 damage to each Pokémon on each player's Bench. \u003cem\u003e(Don't apply Weakness and Resistance for Benched Pokémon.)\u003c/em\u003e Magneton does 80 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107003_200w.jpg",
+      "modifiedOn": "2022-11-15T19:23:07.577",
+      "name": "Magneton",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107003,
+      "url": "https://www.tcgplayer.com/product/107003/pokemon-base-set-shadowless-magneton"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Mewtwo",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "010/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1P] Psychic (10+)\r\n\u003cbr\u003eDoes 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[PP] Barrier\r\n\u003cbr\u003eDiscard 1 Psychic Energy card attached to Mewtwo in order to prevent all effects of attacks, including damage, done to Mewtwo during your opponent's next turn."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107005_200w.jpg",
+      "modifiedOn": "2022-11-15T19:51:36.27",
+      "name": "Mewtwo",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107005,
+      "url": "https://www.tcgplayer.com/product/107005/pokemon-base-set-shadowless-mewtwo"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Nidoking",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "011/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2G] Thrash (30+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage plus Nidoking does 10 damage to itself."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[GGG] Toxic (20)\r\n\u003cbr\u003eThe Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn \u003cem\u003e(even if it was already Poisoned)\u003c/em\u003e."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107006_200w.jpg",
+      "modifiedOn": "2023-12-17T01:54:54.837",
+      "name": "Nidoking",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107006,
+      "url": "https://www.tcgplayer.com/product/107006/pokemon-base-set-shadowless-nidoking"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Poliwrath",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "013/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2W] Water Gun (30+)\r\n\u003cbr\u003eDoes 30 damage plus 10 more damage for each Water Energy attached to Poliwrath but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2WW] Whirlpool (40)\r\n\u003cbr\u003eIf the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107007_200w.jpg",
+      "modifiedOn": "2025-12-11T04:21:14.177",
+      "name": "Poliwrath",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107007,
+      "url": "https://www.tcgplayer.com/product/107007/pokemon-base-set-shadowless-poliwrath"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ninetales",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "012/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Lure\r\n\u003cbr\u003eIf your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[RRRR] Fire Blast (80)\r\n\u003cbr\u003eDiscard 1 Fire Energy card attached to Ninetales in order to use this attack."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107008_200w.jpg",
+      "modifiedOn": "2022-11-15T20:20:38.887",
+      "name": "Ninetales",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107008,
+      "url": "https://www.tcgplayer.com/product/107008/pokemon-base-set-shadowless-ninetales"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Raichu",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "014/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2L] Agility (20)\r\n\u003cbr\u003eFlip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Raichu."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1LLL] Thunder (60)\r\n\u003cbr\u003eFlip a coin. If tails, Raichu does 30 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107009_200w.jpg",
+      "modifiedOn": "2023-05-03T16:15:22.65",
+      "name": "Raichu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107009,
+      "url": "https://www.tcgplayer.com/product/107009/pokemon-base-set-shadowless-raichu"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Venusaur",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "015/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Energy Trans\u003c/strong\u003e As often as you like during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may take 1 Grass Energy card attached to 1 of your Pokémon and attach it to a different one. This power can't be used if Venusaur is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[GGGG] Solarbeam (60)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107010_200w.jpg",
+      "modifiedOn": "2022-11-16T19:02:44.657",
+      "name": "Venusaur",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107010,
+      "url": "https://www.tcgplayer.com/product/107010/pokemon-base-set-shadowless-venusaur"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Zapdos",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "016/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1LLL] Thunder (60)\r\n\u003cbr\u003eFlip a coin. If tails, Zapdos does 30 damage to itself."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[LLLL] Thunderbolt (100)\r\n\u003cbr\u003eDiscard all Energy cards attached to Zapdos in order to use this attack."
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107011_200w.jpg",
+      "modifiedOn": "2022-11-16T19:19:42.303",
+      "name": "Zapdos",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107011,
+      "url": "https://www.tcgplayer.com/product/107011/pokemon-base-set-shadowless-zapdos"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Beedrill",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "017/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[3] Twineedle (30x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[GGG] Poison Sting (40)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "0"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107012_200w.jpg",
+      "modifiedOn": "2023-07-09T08:48:12.71",
+      "name": "Beedrill",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107012,
+      "url": "https://www.tcgplayer.com/product/107012/pokemon-base-set-shadowless-beedrill"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Dragonair",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "018/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[3] Slam (30x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[4] Hyper Beam (20)\r\n\u003cbr\u003eIf the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107013_200w.jpg",
+      "modifiedOn": "2025-04-05T04:54:06.93",
+      "name": "Dragonair",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107013,
+      "url": "https://www.tcgplayer.com/product/107013/pokemon-base-set-shadowless-dragonair"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Dugtrio",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "019/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1FF] Slash (40)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[FFFF] Earthquake (70)\r\n\u003cbr\u003eDoes 10 damage to each of your own Benched Pokémon. \u003cem\u003e(Don't apply Weakness and Resistance for Benched Pokémon.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "L-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107014_200w.jpg",
+      "modifiedOn": "2022-11-15T17:13:12.837",
+      "name": "Dugtrio",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107014,
+      "url": "https://www.tcgplayer.com/product/107014/pokemon-base-set-shadowless-dugtrio"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Electabuzz",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "020/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[L] Thundershock (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1L] Thunderpunch (30+)\r\n\u003cbr\u003eFlip a coin. If heads, this attack does 30 more damage; if tails, this attack does 30 damage plus Electabuzz does 10 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107015_200w.jpg",
+      "modifiedOn": "2022-11-15T17:15:24.153",
+      "name": "Electabuzz",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107015,
+      "url": "https://www.tcgplayer.com/product/107015/pokemon-base-set-shadowless-electabuzz"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Electrode",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "021/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003ePokémon Power: Buzzap\u003c/strong\u003e At any time during your turn \u003cem\u003e(before your attack)\u003c/em\u003e, you may Knock Out Electrode and attach it to 1 of your other Pokémon. If you do, choose a type of Energy. Electrode is now an Energy card of that type (instead of a Pokémon) that provides 2 Energy. This power can't be used if Electrode is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[LLL] Electric Shock (50)\r\n\u003cbr\u003eFlip a coin. If tails, Electrode does 10 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107016_200w.jpg",
+      "modifiedOn": "2022-11-15T17:18:41.653",
+      "name": "Electrode",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107016,
+      "url": "https://www.tcgplayer.com/product/107016/pokemon-base-set-shadowless-electrode"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pidgeotto",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "022/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Whirlwind (20)\r\n\u003cbr\u003eIf your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. \u003cem\u003e(Do the damage before switching the Pokémon.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Mirror Move\r\n\u003cbr\u003eIf PIdgeotto was attacked last turn, do the final result of that attack on Pidgeotto to the Defending Pokémon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107017_200w.jpg",
+      "modifiedOn": "2022-11-15T20:55:30.367",
+      "name": "Pidgeotto",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107017,
+      "url": "https://www.tcgplayer.com/product/107017/pokemon-base-set-shadowless-pidgeotto"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Arcanine",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "023/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "100"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1RR] Flamethrower (50)\r\n\u003cbr\u003eDiscard 1 Fire Energy card attached to Arcanine in order to use this attack."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2RR] Take Down (80)\r\n\u003cbr\u003eArcanine does 30 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107018_200w.jpg",
+      "modifiedOn": "2024-04-12T03:37:48.037",
+      "name": "Arcanine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107018,
+      "url": "https://www.tcgplayer.com/product/107018/pokemon-base-set-shadowless-arcanine"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Charmeleon",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "024/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[3] Slash (30)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1RR] Flamethrower (50)\r\n\u003cbr\u003eDiscard 1 Fire Energy card attached to Charmeleon in order to use this attack."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107021_200w.jpg",
+      "modifiedOn": "2023-01-24T05:54:22.107",
+      "name": "Charmeleon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107021,
+      "url": "https://www.tcgplayer.com/product/107021/pokemon-base-set-shadowless-charmeleon"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Dewgong",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "025/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1WW] Aurora Beam (50)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2WW] Ice Beam (30)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107022_200w.jpg",
+      "modifiedOn": "2023-06-07T10:25:09.7",
+      "name": "Dewgong",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107022,
+      "url": "https://www.tcgplayer.com/product/107022/pokemon-base-set-shadowless-dewgong"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Dratini",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "026/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Pound (10)"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107023_200w.jpg",
+      "modifiedOn": "2022-11-15T17:09:14.263",
+      "name": "Dratini",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107023,
+      "url": "https://www.tcgplayer.com/product/107023/pokemon-base-set-shadowless-dratini"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Farfetchd",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "027/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Leek Slap (30)\r\n\u003cbr\u003e\r\nFlip a coin. If tails, this attack does nothing. Either way, you can't use this attack again as long as Farfetch'd stays in play (even putting Farfetch'd on the Bench won't let you use it again)."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Pot Smash (30)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107024_200w.jpg",
+      "modifiedOn": "2023-01-30T11:09:16.063",
+      "name": "Farfetch'd",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107024,
+      "url": "https://www.tcgplayer.com/product/107024/pokemon-base-set-shadowless-farfetchd"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Growlithe",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "028/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1R] Flare (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107025_200w.jpg",
+      "modifiedOn": "2024-08-07T12:37:49.83",
+      "name": "Growlithe",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107025,
+      "url": "https://www.tcgplayer.com/product/107025/pokemon-base-set-shadowless-growlithe"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Haunter",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "029/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Hypnosis\r\n\u003cbr\u003eThe Defending Pokémon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[PP] Dream Eater (50)\r\n\u003cbr\u003eYou can't use this attack unless the Defending Pokémon is Asleep."
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107026_200w.jpg",
+      "modifiedOn": "2022-11-15T17:48:03.863",
+      "name": "Haunter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107026,
+      "url": "https://www.tcgplayer.com/product/107026/pokemon-base-set-shadowless-haunter"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ivysaur",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "030/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2G] Vine Whip (30)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[GGG] Poisonpowder (20)\r\n\u003cbr\u003eThe Defending Pokémon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107027_200w.jpg",
+      "modifiedOn": "2022-11-15T18:50:29.357",
+      "name": "Ivysaur",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107027,
+      "url": "https://www.tcgplayer.com/product/107027/pokemon-base-set-shadowless-ivysaur"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Jynx",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "031/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Doubleslap (10x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 10 times the number of heads."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1PP] Meditate (20+)\r\n\u003cbr\u003eDoes 20 damage plus 10 more damage for each damage counter on the Defending Pokémon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107028_200w.jpg",
+      "modifiedOn": "2023-11-20T05:05:29.493",
+      "name": "Jynx",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107028,
+      "url": "https://www.tcgplayer.com/product/107028/pokemon-base-set-shadowless-jynx"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Kadabra",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "032/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[PP] Recover\r\n\u003cbr\u003eDiscard 1 Psychic Energy card attached to Kadabra in order to use this attack. Remove all damage counters from Kadabra."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1PP] Super Psy (50)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107029_200w.jpg",
+      "modifiedOn": "2023-01-30T06:39:12.487",
+      "name": "Kadabra",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107029,
+      "url": "https://www.tcgplayer.com/product/107029/pokemon-base-set-shadowless-kadabra"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Kakuna",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "033/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Stiffen\r\n\u003cbr\u003eFlip a coin. If heads, prevent all damage done to Kakuna during your opponent's next turn. \u003cem\u003e(Any other effects of attacks still happen.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[GG] Poisonpowder (20)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107030_200w.jpg",
+      "modifiedOn": "2023-04-04T15:06:55.467",
+      "name": "Kakuna",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107030,
+      "url": "https://www.tcgplayer.com/product/107030/pokemon-base-set-shadowless-kakuna"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Machoke",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "034/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1FF] Karate Chop (50-)\r\n\u003cbr\u003eDoes 50 damage minus 10 damage for each damage counter on Machoke."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2FF] Submission (60)\r\n\u003cbr\u003eMachoke does 20 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107031_200w.jpg",
+      "modifiedOn": "2023-10-13T12:10:48.083",
+      "name": "Machoke",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107031,
+      "url": "https://www.tcgplayer.com/product/107031/pokemon-base-set-shadowless-machoke"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magikarp",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "035/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Tackle (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[W] Flail (10x)\r\n\u003cbr\u003eDoes 10 damage times the number of damage counters on Magikarp."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107032_200w.jpg",
+      "modifiedOn": "2023-01-10T05:03:59.027",
+      "name": "Magikarp",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107032,
+      "url": "https://www.tcgplayer.com/product/107032/pokemon-base-set-shadowless-magikarp"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magmar",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "036/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[RR] Fire Punch (30)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1RR] Flamethrower (50)\r\n\u003cbr\u003eDiscard 1 Fire Energy card attached to Magmar in order to use this attack."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107033_200w.jpg",
+      "modifiedOn": "2023-03-13T05:01:40.453",
+      "name": "Magmar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107033,
+      "url": "https://www.tcgplayer.com/product/107033/pokemon-base-set-shadowless-magmar"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Nidorino",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "037/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1GG] Double Kick (30x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2GG] Horn Drill (50)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107034_200w.jpg",
+      "modifiedOn": "2022-11-15T20:14:29.72",
+      "name": "Nidorino",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107034,
+      "url": "https://www.tcgplayer.com/product/107034/pokemon-base-set-shadowless-nidorino"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Poliwhirl",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "038/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[WW] Amnesia\r\n\u003cbr\u003eChoose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1WW] Doubleslap (30x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107035_200w.jpg",
+      "modifiedOn": "2023-07-15T12:13:04.867",
+      "name": "Poliwhirl",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107035,
+      "url": "https://www.tcgplayer.com/product/107035/pokemon-base-set-shadowless-poliwhirl"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Porygon",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "039/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Conversion 1\r\n\u003cbr\u003eIf the Defending Pokémon has a Weakness, you may change it to a type of your choice other than Colorless."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2] Conversion 2\r\n\u003cbr\u003eChange Porygon's Resistance to a type of your choice other than Colorless."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107036_200w.jpg",
+      "modifiedOn": "2022-11-16T17:28:36.82",
+      "name": "Porygon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107036,
+      "url": "https://www.tcgplayer.com/product/107036/pokemon-base-set-shadowless-porygon"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Raticate",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "040/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Bite (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Super Fang (?)\r\n\u003cbr\u003eDoes damage to the Defending Pokémon equal to half the Defending Pokémon's remaining HP (rounded up to the nearest 10)."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107037_200w.jpg",
+      "modifiedOn": "2022-11-16T17:38:15.95",
+      "name": "Raticate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107037,
+      "url": "https://www.tcgplayer.com/product/107037/pokemon-base-set-shadowless-raticate"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Seel",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "041/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Headbutt (10)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107038_200w.jpg",
+      "modifiedOn": "2022-11-16T17:56:05.673",
+      "name": "Seel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107038,
+      "url": "https://www.tcgplayer.com/product/107038/pokemon-base-set-shadowless-seel"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Wartortle",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "042/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1W] WIthdraw\r\n\u003cbr\u003eFlip a coin. If heads, prevent all damage done to Wartortle during your opponent's next turn. \u003cem\u003e(Any other effects of attacks still happen.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2W] Bite (40)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107039_200w.jpg",
+      "modifiedOn": "2025-04-04T18:53:22.207",
+      "name": "Wartortle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107039,
+      "url": "https://www.tcgplayer.com/product/107039/pokemon-base-set-shadowless-wartortle"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Abra",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "043/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Psyshock (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "0"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107040_200w.jpg",
+      "modifiedOn": "2025-12-08T23:34:54.257",
+      "name": "Abra",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107040,
+      "url": "https://www.tcgplayer.com/product/107040/pokemon-base-set-shadowless-abra"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Bulbasaur",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "044/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[GG] Leech Seed (20)\r\n\u003cbr\u003eUnless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107041_200w.jpg",
+      "modifiedOn": "2025-10-16T00:04:36.997",
+      "name": "Bulbasaur",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107041,
+      "url": "https://www.tcgplayer.com/product/107041/pokemon-base-set-shadowless-bulbasaur"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Caterpie",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "045/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] String Shot (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107042_200w.jpg",
+      "modifiedOn": "2022-11-15T16:38:05.293",
+      "name": "Caterpie",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107042,
+      "url": "https://www.tcgplayer.com/product/107042/pokemon-base-set-shadowless-caterpie"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Charmander",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "046/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Scratch (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1R] Ember (30)\r\n\u003cbr\u003eDiscard 1 Fire Energy card attached to Charmander in order to use this attack."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107043_200w.jpg",
+      "modifiedOn": "2022-11-15T16:41:19.263",
+      "name": "Charmander",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107043,
+      "url": "https://www.tcgplayer.com/product/107043/pokemon-base-set-shadowless-charmander"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Diglett",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "047/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Dig (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[FF] Mud Slap (30)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "L-30"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107044_200w.jpg",
+      "modifiedOn": "2024-08-04T14:35:15.857",
+      "name": "Diglett",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107044,
+      "url": "https://www.tcgplayer.com/product/107044/pokemon-base-set-shadowless-diglett"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Doduo",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "048/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Fury Attack (10x)\r\n\u003cbr\u003eFlip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107045_200w.jpg",
+      "modifiedOn": "2023-10-23T13:47:02.787",
+      "name": "Doduo",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107045,
+      "url": "https://www.tcgplayer.com/product/107045/pokemon-base-set-shadowless-doduo"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Drowzee",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "049/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Pound (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[PP] Confuse Ray (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107046_200w.jpg",
+      "modifiedOn": "2023-12-09T15:40:56.423",
+      "name": "Drowzee",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107046,
+      "url": "https://www.tcgplayer.com/product/107046/pokemon-base-set-shadowless-drowzee"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Gastly",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "050/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Sleeping Gas\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Asleep."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1P] Destiny Bond\r\n\u003cbr\u003eDiscard 1 Psychic Energy card attached to Gastly in order to use this attack. If a Pokémon Knocks Out Gastly during your opponent's next turn, Knock Out that Pokémon."
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107047_200w.jpg",
+      "modifiedOn": "2024-11-13T17:36:49.277",
+      "name": "Gastly",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107047,
+      "url": "https://www.tcgplayer.com/product/107047/pokemon-base-set-shadowless-gastly"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Koffing",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "051/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[GG] Foul Gas (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Poisoned; if tails, it is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107048_200w.jpg",
+      "modifiedOn": "2023-05-11T05:59:04.827",
+      "name": "Koffing",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107048,
+      "url": "https://www.tcgplayer.com/product/107048/pokemon-base-set-shadowless-koffing"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Machop",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "052/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Low Kick (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107049_200w.jpg",
+      "modifiedOn": "2022-12-17T16:53:28.307",
+      "name": "Machop",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107049,
+      "url": "https://www.tcgplayer.com/product/107049/pokemon-base-set-shadowless-machop"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Magnemite",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "053/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[L] Thunder Wave (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1L] Selfdestruct (40)\r\n\u003cbr\u003eDoes 10 damage to each Pokémon on each player's Bench. \u003cem\u003e(Don't apply Weakness and Resistance for Benched Pokémon.)\u003c/em\u003e Magnemite does 40 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107050_200w.jpg",
+      "modifiedOn": "2024-07-31T04:31:40.827",
+      "name": "Magnemite",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107050,
+      "url": "https://www.tcgplayer.com/product/107050/pokemon-base-set-shadowless-magnemite"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Metapod",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "054/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "70"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Stiffen\r\n\u003cbr\u003eFlip a coin. If heads, prevent all damage done to Metapod during your opponent's next turn. \u003cem\u003e(Any other effects of attacks still happen.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[GG] Stun Spore (20)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107051_200w.jpg",
+      "modifiedOn": "2022-11-15T19:46:37.01",
+      "name": "Metapod",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107051,
+      "url": "https://www.tcgplayer.com/product/107051/pokemon-base-set-shadowless-metapod"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Nidoran M",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "055/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Horn Hazard (30)\r\n\u003cbr\u003eFlip a coin. If tails, this attack does nothing."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "P"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107052_200w.jpg",
+      "modifiedOn": "2024-07-26T16:11:18.66",
+      "name": "Nidoran M",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107052,
+      "url": "https://www.tcgplayer.com/product/107052/pokemon-base-set-shadowless-nidoran-m"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Onix",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "056/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Rock Throw (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[FF] Harden\r\n\u003cbr\u003e\r\nDuring your opponent's next turn, whenever 30 or less damage is done to Onix \u003cem\u003e(after applying Weakness and Resistance)\u003c/em\u003e, prevent that damage. \u003cem\u003e(Any other effects of attacks still happen.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107053_200w.jpg",
+      "modifiedOn": "2022-11-15T20:26:03.81",
+      "name": "Onix",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107053,
+      "url": "https://www.tcgplayer.com/product/107053/pokemon-base-set-shadowless-onix"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pidgey",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "057/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Whirlwind (10)\r\n\u003cbr\u003eIf your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. \u003cem\u003e(Do the damage before switching the Pokémon.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107054_200w.jpg",
+      "modifiedOn": "2022-12-30T04:40:06.307",
+      "name": "Pidgey",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107054,
+      "url": "https://www.tcgplayer.com/product/107054/pokemon-base-set-shadowless-pidgey"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pikachu",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "058/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Gnaw (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1L] Thunder Jolt (30)\r\n\u003cbr\u003eFlip a coin. If tails, Pikachu does 10 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107055_200w.jpg",
+      "modifiedOn": "2022-11-16T16:59:46.32",
+      "name": "Pikachu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107055,
+      "url": "https://www.tcgplayer.com/product/107055/pokemon-base-set-shadowless-pikachu"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Poliwag",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "059/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Water Gun (10+)\r\n\u003cbr\u003eDoes 10 damage plus 10 more damage for each Water Energy attached to Poliwag but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107056_200w.jpg",
+      "modifiedOn": "2022-11-16T17:12:38.083",
+      "name": "Poliwag",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107056,
+      "url": "https://www.tcgplayer.com/product/107056/pokemon-base-set-shadowless-poliwag"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ponyta",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "060/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Smash Kick (20)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[RR] Flame Tail (30)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107057_200w.jpg",
+      "modifiedOn": "2022-11-16T17:25:09.393",
+      "name": "Ponyta",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107057,
+      "url": "https://www.tcgplayer.com/product/107057/pokemon-base-set-shadowless-ponyta"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Rattata",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "061/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "30"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Bite (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "P-30"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107058_200w.jpg",
+      "modifiedOn": "2025-11-29T03:24:36.73",
+      "name": "Rattata",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107058,
+      "url": "https://www.tcgplayer.com/product/107058/pokemon-base-set-shadowless-rattata"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Sandshrew",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "062/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[F] Sand-attack (10)\r\n\u003cbr\u003eIf the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, this attack does nothing."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "G"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "L-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107059_200w.jpg",
+      "modifiedOn": "2022-11-16T17:49:26.56",
+      "name": "Sandshrew",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107059,
+      "url": "https://www.tcgplayer.com/product/107059/pokemon-base-set-shadowless-sandshrew"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Squirtle",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "063/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Bubble (10)\r\n\u003cbr\u003e Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1W] Withdraw\r\n\u003cbr\u003eFlip a coin. If heads, prevent all damage done to Squirtle during your opponent's next turn. \u003cem\u003e(Any other effects of attacks still happen.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107060_200w.jpg",
+      "modifiedOn": "2024-01-31T10:57:58.34",
+      "name": "Squirtle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107060,
+      "url": "https://www.tcgplayer.com/product/107060/pokemon-base-set-shadowless-squirtle"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Starmie",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "064/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "60"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[WW] Recover\r\n\u003cbr\u003eDiscard 1 Water Energy card attached to Starmie in order to use this attack. Remove all damage counters from Starmie."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[2W] Star Freeze (20)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107061_200w.jpg",
+      "modifiedOn": "2025-11-29T03:25:32.267",
+      "name": "Starmie",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107061,
+      "url": "https://www.tcgplayer.com/product/107061/pokemon-base-set-shadowless-starmie"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Staryu",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "065/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Slap (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "L"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107062_200w.jpg",
+      "modifiedOn": "2024-07-26T16:11:18.727",
+      "name": "Staryu",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107062,
+      "url": "https://www.tcgplayer.com/product/107062/pokemon-base-set-shadowless-staryu"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Tangela",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "066/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1G] Bind (20)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[GGG] Poisonpowder (20)\r\n\u003cbr\u003eThe Defending Pokémon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107063_200w.jpg",
+      "modifiedOn": "2023-02-05T19:58:55.897",
+      "name": "Tangela",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107063,
+      "url": "https://www.tcgplayer.com/product/107063/pokemon-base-set-shadowless-tangela"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Voltorb",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "067/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Tackle (10)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107064_200w.jpg",
+      "modifiedOn": "2022-11-16T19:06:00.473",
+      "name": "Voltorb",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107064,
+      "url": "https://www.tcgplayer.com/product/107064/pokemon-base-set-shadowless-voltorb"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Vulpix",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "068/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[RR] Confuse Ray (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "W"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107065_200w.jpg",
+      "modifiedOn": "2023-10-18T12:20:48.43",
+      "name": "Vulpix",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107065,
+      "url": "https://www.tcgplayer.com/product/107065/pokemon-base-set-shadowless-vulpix"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Weedle",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "069/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[G] Poison Sting (10)\r\n\u003cbr\u003eFlip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "R"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107066_200w.jpg",
+      "modifiedOn": "2024-07-26T16:11:18.773",
+      "name": "Weedle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107066,
+      "url": "https://www.tcgplayer.com/product/107066/pokemon-base-set-shadowless-weedle"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Clefairy Doll",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "070/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "10"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Play Clefairy Doll as if it were a Basic Pokémon. While in play, Clefairy Doll counts as a Pokémon (instead of a Trainer card). Clefairy Doll has no attacks, can't retreat, and can't be Asleep, Confused, Paralyzed, or Poisoned. If Clefairy Doll is Knocked Out, it doesn't count as a Knocked Out Pokémon. At any time during your turn before your attack, you may discard Clefairy Doll."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107067_200w.jpg",
+      "modifiedOn": "2022-11-30T12:05:33.427",
+      "name": "Clefairy Doll",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107067,
+      "url": "https://www.tcgplayer.com/product/107067/pokemon-base-set-shadowless-clefairy-doll"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Computer Search",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "071/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Discard 2 of the other cards from your hand in order to search your deck for any card and put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107068_200w.jpg",
+      "modifiedOn": "2024-12-30T10:11:48.773",
+      "name": "Computer Search",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107068,
+      "url": "https://www.tcgplayer.com/product/107068/pokemon-base-set-shadowless-computer-search"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Devolution Spray",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "072/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Choose 1 of your own Pokémon in play and a Stage of Evolution. Discard all Evolution cards of that Stage or higher attached to that Pokémon. That Pokémon is no longer Asleep, Confused, Paralyzed, Poisoned or anything else that might be the result of an attack (just as if you had evolved it)."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107069_200w.jpg",
+      "modifiedOn": "2022-11-15T16:52:37.2",
+      "name": "Devolution Spray",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107069,
+      "url": "https://www.tcgplayer.com/product/107069/pokemon-base-set-shadowless-devolution-spray"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Impostor Professor Oak",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "073/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Your opponent shuffles his or her hand into his or her deck, then draws 7 cards."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107070_200w.jpg",
+      "modifiedOn": "2022-11-15T17:52:39.56",
+      "name": "Impostor Professor Oak",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107070,
+      "url": "https://www.tcgplayer.com/product/107070/pokemon-base-set-shadowless-impostor-professor-oak"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Lass",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "075/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "You and your opponent show each other your hands, then shuffle all the Trainer cards from your hands into your decks."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107071_200w.jpg",
+      "modifiedOn": "2025-11-06T01:01:45.773",
+      "name": "Lass",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107071,
+      "url": "https://www.tcgplayer.com/product/107071/pokemon-base-set-shadowless-lass"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Item Finder",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "074/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Discard 2 of the other cards from your hand in order to put a Trainer card from your discard pile into your hand."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107072_200w.jpg",
+      "modifiedOn": "2022-11-15T17:53:18.487",
+      "name": "Item Finder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107072,
+      "url": "https://www.tcgplayer.com/product/107072/pokemon-base-set-shadowless-item-finder"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pokemon Trader",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "077/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Trade 1 of the Basic Pokémon or Evolution cards in your hand for 1 of the Basic Pokémon or Evolution cards from your deck. Show both cards to your opponent. Shuffle your deck afterward."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107073_200w.jpg",
+      "modifiedOn": "2025-11-24T15:10:26.373",
+      "name": "Pokemon Trader",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107073,
+      "url": "https://www.tcgplayer.com/product/107073/pokemon-base-set-shadowless-pokemon-trader"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pokemon Breeder",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "076/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Put a Stage 2 Evolution card from your hand on the matching Basic Pokémon. You can only play this card when you would be allowed to evolve that Pokémon anyway."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107074_200w.jpg",
+      "modifiedOn": "2024-09-06T05:43:29.68",
+      "name": "Pokemon Breeder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107074,
+      "url": "https://www.tcgplayer.com/product/107074/pokemon-base-set-shadowless-pokemon-breeder"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Scoop Up",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "078/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Choose 1 of your Pokémon in play and return its Basic Pokémon card to your hand. \u003cem\u003e(Discard all cards attached to that card.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107075_200w.jpg",
+      "modifiedOn": "2025-03-20T02:31:33.123",
+      "name": "Scoop Up",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107075,
+      "url": "https://www.tcgplayer.com/product/107075/pokemon-base-set-shadowless-scoop-up"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Super Energy Removal",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "079/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Discard 1 Energy card attached to 1 of your own Pokémon in order to choose 1 of your opponent's Pokémon and up to 2 Energy cards attached to it. Discard those Energy cards."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107076_200w.jpg",
+      "modifiedOn": "2025-11-24T19:12:42.15",
+      "name": "Super Energy Removal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107076,
+      "url": "https://www.tcgplayer.com/product/107076/pokemon-base-set-shadowless-super-energy-removal"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Defender",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "080/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Attach Defender to 1 of your Pokémon. At the end of your opponent's next turn, discard Defender. Damage done to that Pokémon by attacks is reduced by 20 \u003cem\u003e(after applying Weakness and Resistance)\u003c/em\u003e."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107077_200w.jpg",
+      "modifiedOn": "2025-11-06T01:00:36.177",
+      "name": "Defender",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107077,
+      "url": "https://www.tcgplayer.com/product/107077/pokemon-base-set-shadowless-defender"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Energy Retrieval",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "081/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Trade 1 of the other cards in your hand for up to 2 basic Energy cards from your discard pile."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107078_200w.jpg",
+      "modifiedOn": "2025-11-24T19:08:34.243",
+      "name": "Energy Retrieval",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107078,
+      "url": "https://www.tcgplayer.com/product/107078/pokemon-base-set-shadowless-energy-retrieval"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Full Heal",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "082/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Your Active Pokémon is no longer Asleep, Confused, Paralyzed, or Poisoned."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107079_200w.jpg",
+      "modifiedOn": "2025-11-24T19:00:36.627",
+      "name": "Full Heal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107079,
+      "url": "https://www.tcgplayer.com/product/107079/pokemon-base-set-shadowless-full-heal"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Maintenance",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "083/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Shuffle 2 of the other cards from your hand into your deck in order to draw a card."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107080_200w.jpg",
+      "modifiedOn": "2022-11-15T19:26:41.403",
+      "name": "Maintenance",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107080,
+      "url": "https://www.tcgplayer.com/product/107080/pokemon-base-set-shadowless-maintenance"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "PlusPower",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "084/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Attach PlusPower to your Active Pokémon. At the end of your turn, discard PlusPower. If this Pokémon's attack does damage to the Defending Pokémon \u003cem\u003e(after applying Weakness and Resistance)\u003c/em\u003e, the attack does 10 more damage to the Defending Pokémon."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107081_200w.jpg",
+      "modifiedOn": "2024-09-01T18:09:14.173",
+      "name": "PlusPower",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107081,
+      "url": "https://www.tcgplayer.com/product/107081/pokemon-base-set-shadowless-pluspower"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pokemon Center",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "085/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Remove all damage counters from all of your own Pokémon with damage counters on them, then discard all Energy cards attached to those Pokémon."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107082_200w.jpg",
+      "modifiedOn": "2023-10-13T12:12:01.077",
+      "name": "Pokemon Center",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107082,
+      "url": "https://www.tcgplayer.com/product/107082/pokemon-base-set-shadowless-pokemon-center"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pokemon Flute",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "086/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Choose 1 Basic Pokémon card from your opponent's discard pile and put it onto his or her Bench. \u003cem\u003e(You can't play Pokémon Flute if your opponent's Bench is full.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107083_200w.jpg",
+      "modifiedOn": "2024-12-04T06:09:13.633",
+      "name": "Pokemon Flute",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107083,
+      "url": "https://www.tcgplayer.com/product/107083/pokemon-base-set-shadowless-pokemon-flute"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pokedex",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "087/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Look at up to 5 cards from the top of your deck and rearrange them as you like."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107084_200w.jpg",
+      "modifiedOn": "2023-08-12T15:42:22.097",
+      "name": "Pokedex",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107084,
+      "url": "https://www.tcgplayer.com/product/107084/pokemon-base-set-shadowless-pokedex"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Professor Oak",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "088/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Discard your hand, then draw 7 cards."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107085_200w.jpg",
+      "modifiedOn": "2023-07-08T14:47:11.863",
+      "name": "Professor Oak",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107085,
+      "url": "https://www.tcgplayer.com/product/107085/pokemon-base-set-shadowless-professor-oak"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Revive",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "089/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Put 1 Basic Pokémon card from your discard pile onto your Bench. Put damage counters on that Pokémon equal to half its HP (rounded down to the nearest 10). \u003cem\u003e(You can't play Revive if your Bench is full.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107086_200w.jpg",
+      "modifiedOn": "2024-03-04T20:52:35.733",
+      "name": "Revive",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107086,
+      "url": "https://www.tcgplayer.com/product/107086/pokemon-base-set-shadowless-revive"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Super Potion",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "090/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Discard 1 Energy card attached to 1 of your own Pokémon in order to remove up to 4 damage counters from that Pokémon."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107087_200w.jpg",
+      "modifiedOn": "2025-11-24T14:52:17.87",
+      "name": "Super Potion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107087,
+      "url": "https://www.tcgplayer.com/product/107087/pokemon-base-set-shadowless-super-potion"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Bill",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "091/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Draw 2 cards."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107088_200w.jpg",
+      "modifiedOn": "2025-11-24T18:52:52.973",
+      "name": "Bill",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107088,
+      "url": "https://www.tcgplayer.com/product/107088/pokemon-base-set-shadowless-bill"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Energy Removal",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "092/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Choose 1 Energy card attached to 1 of your opponent's Pokémon and discard it."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107089_200w.jpg",
+      "modifiedOn": "2024-01-27T05:47:34.54",
+      "name": "Energy Removal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107089,
+      "url": "https://www.tcgplayer.com/product/107089/pokemon-base-set-shadowless-energy-removal"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Gust of Wind",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "093/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Choose 1 of your opponent's Benched Pokémon and switch it with his or her Active Pokémon."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107090_200w.jpg",
+      "modifiedOn": "2024-07-26T16:11:18.873",
+      "name": "Gust of Wind",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107090,
+      "url": "https://www.tcgplayer.com/product/107090/pokemon-base-set-shadowless-gust-of-wind"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Potion",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "094/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Remove up to 2 damage counters from 1 of your Pokémon."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107091_200w.jpg",
+      "modifiedOn": "2025-11-24T15:14:57.673",
+      "name": "Potion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107091,
+      "url": "https://www.tcgplayer.com/product/107091/pokemon-base-set-shadowless-potion"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Switch",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "095/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Trainer"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Switch 1 of your Benched Pokémon with your Active Pokémon."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107092_200w.jpg",
+      "modifiedOn": "2025-11-24T14:57:28.297",
+      "name": "Switch",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107092,
+      "url": "https://www.tcgplayer.com/product/107092/pokemon-base-set-shadowless-switch"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Fighting Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "097/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Basic Energy"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107093_200w.jpg",
+      "modifiedOn": "2023-02-27T12:14:25.697",
+      "name": "Fighting Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107093,
+      "url": "https://www.tcgplayer.com/product/107093/pokemon-base-set-shadowless-fighting-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Fire Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "098/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Basic Energy"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107094_200w.jpg",
+      "modifiedOn": "2025-02-16T11:38:40.553",
+      "name": "Fire Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107094,
+      "url": "https://www.tcgplayer.com/product/107094/pokemon-base-set-shadowless-fire-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Grass Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "099/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Basic Energy"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107095_200w.jpg",
+      "modifiedOn": "2026-01-05T14:35:12.933",
+      "name": "Grass Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107095,
+      "url": "https://www.tcgplayer.com/product/107095/pokemon-base-set-shadowless-grass-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Psychic Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "101/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Basic Energy"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107096_200w.jpg",
+      "modifiedOn": "2025-11-25T16:06:56.573",
+      "name": "Psychic Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107096,
+      "url": "https://www.tcgplayer.com/product/107096/pokemon-base-set-shadowless-psychic-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Lightning Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "100/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Basic Energy"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107097_200w.jpg",
+      "modifiedOn": "2024-10-28T10:05:12.317",
+      "name": "Lightning Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107097,
+      "url": "https://www.tcgplayer.com/product/107097/pokemon-base-set-shadowless-lightning-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Water Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "102/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Basic Energy"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107098_200w.jpg",
+      "modifiedOn": "2024-07-26T16:11:19.043",
+      "name": "Water Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107098,
+      "url": "https://www.tcgplayer.com/product/107098/pokemon-base-set-shadowless-water-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Double Colorless Energy",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "096/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Special Energy"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Provides 2 Colorless energy.\r\n\u003cbr\u003eDoesn't count as a basic Energy card."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107099_200w.jpg",
+      "modifiedOn": "2024-12-27T08:17:40.717",
+      "name": "Double Colorless Energy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107099,
+      "url": "https://www.tcgplayer.com/product/107099/pokemon-base-set-shadowless-double-colorless-energy"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pokemon Base Set Shadowless 1st Edition Booster Box",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Put the power in your hand with the Pokémon trading card game!\r\n\r\n\u003cbr\u003eThe hugely successful Pokémon Game Boy game was just the beginning of the Pokémon phenomenon. Now, with the trading card game, you can train your favorite Pokémon to pit them against a rival's Pokémon in a fight to the finish! Increase their powers with Energy, and your Pokémon will launch the special attacks you've seen in the popular Pokémon animated TV show!\r\n\r\n\u003cbr\u003eChoose your favorite Pokémon from the random cards in this booster pack to customize a Pokémon theme deck or starter set. Or design your own undefeatable deck by combining prized Pokémon and trainers. The possibilities are endless!\r\n\r\n\u003cbr\u003eDo you have the skills to become the world's number-one Pokémon Master? Master the Pokémon trading card game and find out!\r\n\u003cbr\u003eEach Base Set - Booster Box (1st Edition) contains 36 Booster Packs \r\n\u003cbr\u003e• Each Base Set - Booster Pack (1st Edition) contains 11 randomly inserted game cards.\r\n\r\n\u003cbr\u003e\u003cbr\u003eCards vary by pack. Booster pack packaging varies by product."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107596_200w.jpg",
+      "modifiedOn": "2024-02-12T20:18:51.093",
+      "name": "Pokemon Base Set (Shadowless) [1st Edition] Booster Box",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107596,
+      "url": "https://www.tcgplayer.com/product/107596/pokemon-base-set-shadowless-pokemon-base-set-shadowless-1st-edition-booster-box"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pokemon Base Set Shadowless Unlimited Edition Booster Box",
+      "extendedData": [],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107597_200w.jpg",
+      "modifiedOn": "2024-02-12T20:21:13.663",
+      "name": "Pokemon Base Set (Shadowless) [Unlimited Edition] Booster Box",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107597,
+      "url": "https://www.tcgplayer.com/product/107597/pokemon-base-set-shadowless-pokemon-base-set-shadowless-unlimited-edition-booster-box"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pokemon 2 Player Starter Set",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Start a new Pokémon adventure with the Pokémon trading card game!\r\n\r\n\u003cbr\u003eJust like in the bestselling Pokémon Game Boy game, only those who train hard will become great Pokémon Masters. In the Pokémon trading card game, you collect and train your favorite Pokémon to challenge rival Pokémon trainers using the special attacks you've seen in the popular Pokémon animated TV Show!\r\n\u003cbr\u003e\r\n\u003cbr\u003eDo you have the skills to be the very best? Challenge a friend to the Pokémon trading card game and find out!\r\n\u003cbr\u003e\r\n\u003cbr\u003eThis starter set contains everything you need for you and a friend to play:\r\n\u003cbr\u003e\r\n\u003cbr\u003eEach Base Set - 2-Player Starter Set includes:\r\n\u003cbr\u003e• Two 30-Card theme decks\r\n\u003cbr\u003e• 1 Holographic card\r\n\u003cbr\u003e• 10 Damage Counters\r\n\u003cbr\u003e• 1 Rulebook\r\n\u003cbr\u003e• 1 Starter game guide\r\n\u003cbr\u003e\r\n\u003cbr\u003e\r\n\u003cbr\u003eDeck List:\r\n\u003cbr\u003e\r\n\u003cbr\u003ePokémon (24)\r\n\u003cbr\u003e• 3 Diglett\r\n\u003cbr\u003e• 4 Machop\r\n\u003cbr\u003e• 2 Machoke\r\n\u003cbr\u003e• 1 Machamp\r\n\u003cbr\u003e• 4 Ponyta\r\n\u003cbr\u003e• 4 Charmander\r\n\u003cbr\u003e• 2 Charmeleon\r\n\u003cbr\u003e• 1 Growlithe\r\n\u003cbr\u003e• 2 Rattata\r\n\u003cbr\u003e• 1 Dratini\r\n\u003cbr\u003e\r\n\u003cbr\u003eTrainer Card (9)\r\n\u003cbr\u003e• 1 Bill\r\n\u003cbr\u003e• 1 Energy Removal\r\n\u003cbr\u003e• 1 Energy Retrieval\r\n\u003cbr\u003e• 1 Gust of Wind\r\n\u003cbr\u003e• 1 Pokédex\r\n\u003cbr\u003e• 2 Potion\r\n\u003cbr\u003e• 2 Switch\r\n\u003cbr\u003e\r\n\u003cbr\u003eEnergy Card (28)\r\n\u003cbr\u003e• 14 Fighting Energy\r\n\u003cbr\u003e• 14 Fire Energy"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 3,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107602_200w.jpg",
+      "modifiedOn": "2024-02-12T20:31:46.743",
+      "name": "Pokemon 2-Player Starter Set",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107602,
+      "url": "https://www.tcgplayer.com/product/107602/pokemon-base-set-shadowless-pokemon-2-player-starter-set"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Base Set Theme Deck Blackout",
+      "extendedData": [],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107603_200w.jpg",
+      "modifiedOn": "2018-10-03T13:12:46.967",
+      "name": "Base Set Theme Deck - \"Blackout\"",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107603,
+      "url": "https://www.tcgplayer.com/product/107603/pokemon-base-set-shadowless-base-set-theme-deck-blackout"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Base Set Theme Deck Brushfire",
+      "extendedData": [],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107604_200w.jpg",
+      "modifiedOn": "2018-10-03T13:12:53.387",
+      "name": "Base Set Theme Deck - \"Brushfire\"",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107604,
+      "url": "https://www.tcgplayer.com/product/107604/pokemon-base-set-shadowless-base-set-theme-deck-brushfire"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Base Set Theme Deck Overgrowth",
+      "extendedData": [],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107605_200w.jpg",
+      "modifiedOn": "2018-10-03T13:13:01.647",
+      "name": "Base Set Theme Deck - \"Overgrowth\"",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107605,
+      "url": "https://www.tcgplayer.com/product/107605/pokemon-base-set-shadowless-base-set-theme-deck-overgrowth"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Base Set Theme Deck Zap",
+      "extendedData": [],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/107606_200w.jpg",
+      "modifiedOn": "2018-10-03T13:13:07.467",
+      "name": "Base Set Theme Deck - \"Zap!\"",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 107606,
+      "url": "https://www.tcgplayer.com/product/107606/pokemon-base-set-shadowless-base-set-theme-deck-zap"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pokemon Base Set Shadowless Unlimited Edition Booster Pack",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "This Base Set Booster pack features the unlimited print run of the original shadowless Base Set."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/138131_200w.jpg",
+      "modifiedOn": "2022-11-21T14:59:46.787",
+      "name": "Pokemon Base Set (Shadowless) [Unlimited Edition] Booster Pack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 138131,
+      "url": "https://www.tcgplayer.com/product/138131/pokemon-base-set-shadowless-pokemon-base-set-shadowless-unlimited-edition-booster-pack"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pokemon Base Set Shadowless 1st Edition Booster Pack",
+      "extendedData": [
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "This Base Set Booster pack features the first print run of the original shadowless Base Set."
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/138132_200w.jpg",
+      "modifiedOn": "2024-04-22T12:30:45.717",
+      "name": "Pokemon Base Set (Shadowless) [1st Edition] Booster Pack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 138132,
+      "url": "https://www.tcgplayer.com/product/138132/pokemon-base-set-shadowless-pokemon-base-set-shadowless-1st-edition-booster-pack"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Pikachu Red Cheeks",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "058/102"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Lightning"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "40"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1] Gnaw (10)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1L] Thunder Jolt (30)\r\n\u003cbr\u003eFlip a coin. If tails, Pikachu does 10 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "F"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 1663,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/147229_200w.jpg",
+      "modifiedOn": "2024-12-23T11:05:41.79",
+      "name": "Pikachu (Red Cheeks)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 147229,
+      "url": "https://www.tcgplayer.com/product/147229/pokemon-base-set-shadowless-pikachu-red-cheeks"
+    }
+  ],
+  "success": true,
+  "totalItems": 111
+}

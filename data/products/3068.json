@@ -1,0 +1,1792 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 3,
+      "cleanName": "Abomasnow",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG01/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "140"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003eAbility — Toughness Boost\u003c/strong\u003e\r\n\u003cbr\u003eYour Single Strike Pokémon in play, except any Abomasnow, get +50 HP. You can't apply more than 1 Toughness Boost Ability at a time."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2G] Mega Punch (90)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Rx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272472_200w.jpg",
+      "modifiedOn": "2025-02-07T20:19:00.16",
+      "name": "Abomasnow",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-05-27T00:00:00"
+      },
+      "productId": 272472,
+      "url": "https://www.tcgplayer.com/product/272472/pokemon-swsh10-astral-radiance-trainer-gallery-abomasnow"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Flapple",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG02/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "80"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003eAbility — Apple Drop\u003c/strong\u003e\r\n\u003cbr\u003eOnce during your turn, you may put 2 damage counters on I of your opponent's Pokémon. If you placed any damage counters in this way, shuffle this Pokémon and all attached cards into your deck."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Acid Spray (60)\r\n\u003cbr\u003eFlip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Rx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272473_200w.jpg",
+      "modifiedOn": "2025-10-10T20:40:53.143",
+      "name": "Flapple",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272473,
+      "url": "https://www.tcgplayer.com/product/272473/pokemon-swsh10-astral-radiance-trainer-gallery-flapple"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Kingdra",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG03/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "150"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003eAbility — Deep Sea King\u003c/strong\u003e\r\n\u003cbr\u003eWhen your Active Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, you may move any amount of Water Energy from that Pokémon to this Pokémon:"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Aqua Burst (40x)\r\n\u003cbr\u003eThis attack does 40 damage for each Energy attached to this Pokémon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Lx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272474_200w.jpg",
+      "modifiedOn": "2026-01-13T20:07:24.423",
+      "name": "Kingdra",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272474,
+      "url": "https://www.tcgplayer.com/product/272474/pokemon-swsh10-astral-radiance-trainer-gallery-kingdra"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Frosmoth",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG04/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "90"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003eAbility — Ice Dance\u003c/strong\u003e\r\n\u003cbr\u003eAs often as you like during your turn, you may attach a Energy card from your hand to of your Benched Pokémon."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1W] Aurora Beam (30)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Mx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272475_200w.jpg",
+      "modifiedOn": "2025-02-07T20:19:00.26",
+      "name": "Frosmoth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-05-27T00:00:00"
+      },
+      "productId": 272475,
+      "url": "https://www.tcgplayer.com/product/272475/pokemon-swsh10-astral-radiance-trainer-gallery-frosmoth"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Gardevoir",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG05/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "140"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003eAbility — Shining Arcana\u003c/strong\u003e\r\n\u003cbr\u003eOnce during your turn, you may look at the top 2 cards of your deck and attach any number of basic Energy cards you find there to your Pokémon in any way you like. Put the other cards into your hand."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[3] Brainwave (60+)\r\n\u003cbr\u003eThis attack does 30 more damage for each Psychic Energy attached to this Pokémon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Mx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272476_200w.jpg",
+      "modifiedOn": "2026-01-05T19:11:37.463",
+      "name": "Gardevoir",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272476,
+      "url": "https://www.tcgplayer.com/product/272476/pokemon-swsh10-astral-radiance-trainer-gallery-gardevoir"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Wyrdeer",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG06/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "140"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003eAbility — Hurried Gait\u003c/strong\u003e\r\n\u003cbr\u003eOnce during your turn, you may draw a card."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Extrasensory (40+)\r\n\u003cbr\u003eIf you have the same number of cards in your hand as your opponent, this attack does 80 more damage."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Dx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272477_200w.jpg",
+      "modifiedOn": "2022-05-27T04:03:19.25",
+      "name": "Wyrdeer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-05-27T00:00:00"
+      },
+      "productId": 272477,
+      "url": "https://www.tcgplayer.com/product/272477/pokemon-swsh10-astral-radiance-trainer-gallery-wyrdeer"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Falinks",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG07/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "110"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1F] Rapid Strike Squad (20x)\r\n\u003cbr\u003eThis attack does 20 damage for each of your Rapid Strike Pokémon in play"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Px2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272478_200w.jpg",
+      "modifiedOn": "2022-05-27T04:03:19.25",
+      "name": "Falinks",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-05-27T00:00:00"
+      },
+      "productId": 272478,
+      "url": "https://www.tcgplayer.com/product/272478/pokemon-swsh10-astral-radiance-trainer-gallery-falinks"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Kleavor",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG08/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "140"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Timbercleave\r\n\u003cbr\u003eFlip 2 coins. If both of them are heads, your opponent's Active Pokémon is Knocked Out."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[FF] Berserker Tackle (120)\r\n\u003cbr\u003eThis Pokémon also does 30 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Gx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272479_200w.jpg",
+      "modifiedOn": "2024-07-04T07:16:04.093",
+      "name": "Kleavor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272479,
+      "url": "https://www.tcgplayer.com/product/272479/pokemon-swsh10-astral-radiance-trainer-gallery-kleavor"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Mightyena",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG09/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "110"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003eAbility — Hustle Bark\u003c/strong\u003e\r\n\u003cbr\u003eIf your opponent has any Pokémon-VMAX in play, this Pokémon's attacks cost less."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[3] Wild Tackle (160)\r\n\u003cbr\u003eThis Pokémon also does 50 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Gx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272480_200w.jpg",
+      "modifiedOn": "2025-10-24T04:29:22.05",
+      "name": "Mightyena",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272480,
+      "url": "https://www.tcgplayer.com/product/272480/pokemon-swsh10-astral-radiance-trainer-gallery-mightyena"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Galarian Obstagoon",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG10/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "160"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003eAbility — Untamed Shout\u003c/strong\u003e\r\n\u003cbr\u003eWhen you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 3 damage counters on I of your opponent's Pokémon."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1D] Obstruct (90)\r\n\u003cbr\u003eDuring your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon. weakness"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Gx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272481_200w.jpg",
+      "modifiedOn": "2025-02-07T20:19:00.353",
+      "name": "Galarian Obstagoon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-05-27T00:00:00"
+      },
+      "productId": 272481,
+      "url": "https://www.tcgplayer.com/product/272481/pokemon-swsh10-astral-radiance-trainer-gallery-galarian-obstagoon"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Bronzong",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG11/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Metal"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "110"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003eAbility — Metal Transfer\u003c/strong\u003e\r\n\u003cbr\u003eAs often as you like during your turn, you may move a Metal Energy from 1 of your Pokémon to another of your Pokémon."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2M] Zen Headbutt (70"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Rx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "G-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "3"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272482_200w.jpg",
+      "modifiedOn": "2025-11-14T14:04:59.343",
+      "name": "Bronzong",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272482,
+      "url": "https://www.tcgplayer.com/product/272482/pokemon-swsh10-astral-radiance-trainer-gallery-bronzong"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Hoothoot",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG12/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Colorless"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "50"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003eAbility — Stand Sentry\u003c/strong\u003e\r\n\u003cbr\u003eBasic Energy attached to your Benched Pokémon can't be discarded by an effect of your opponent's Item or Supporter cards."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Flap (20)"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Lx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272483_200w.jpg",
+      "modifiedOn": "2024-11-01T13:04:41.013",
+      "name": "Hoothoot",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272483,
+      "url": "https://www.tcgplayer.com/product/272483/pokemon-swsh10-astral-radiance-trainer-gallery-hoothoot"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Starmie V",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG13/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "190"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Swift (5)\r\n\u003cbr\u003eThis attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[WW] Energy Spiral (50)\r\n\u003cBr\u003eThis attack does 50 damage for each Energy attached to"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Lx2"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272484_200w.jpg",
+      "modifiedOn": "2025-11-21T18:34:28.477",
+      "name": "Starmie V",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272484,
+      "url": "https://www.tcgplayer.com/product/272484/pokemon-swsh10-astral-radiance-trainer-gallery-starmie-v"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ice Rider Calyrex V",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG14/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "210"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[W] Pierce (40)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1WW] Glacial Lance (200)\r\n\u003cbr\u003eDiscard 2 Energy from this Pokémon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Mx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272485_200w.jpg",
+      "modifiedOn": "2025-12-04T15:12:34.687",
+      "name": "Ice Rider Calyrex V",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272485,
+      "url": "https://www.tcgplayer.com/product/272485/pokemon-swsh10-astral-radiance-trainer-gallery-ice-rider-calyrex-v"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ice Rider Calyrex VMAX",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG15/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "320"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "VMAX"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Ride of the High King (10+)\r\n\u003cBr\u003eThis attack does 30 more damage for each of your opponent's Benched Pokémon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[WW] Max Lance (10+)\r\n\u003cbr\u003eYou may discard up to 2 Energy from this Pokémon. If you do, this attack does 120-more damage for each card discarded you in this way"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Mx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272486_200w.jpg",
+      "modifiedOn": "2026-01-13T20:04:32.877",
+      "name": "Ice Rider Calyrex VMAX",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272486,
+      "url": "https://www.tcgplayer.com/product/272486/pokemon-swsh10-astral-radiance-trainer-gallery-ice-rider-calyrex-vmax"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Galarian Articuno V",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG16/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "210"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003eAbility — Reconstitute\u003c/strong\u003e\r\n\u003cbr\u003eYou must discard 2 cards from your hand in order to use this Ability. Once during your turn, you may draw a card."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2P] Psyray (11)\r\n\u003cbr\u003eYour opponent's Active Pokémon is now Confused."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Dx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272487_200w.jpg",
+      "modifiedOn": "2022-05-27T04:03:19.25",
+      "name": "Galarian Articuno V",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-05-27T00:00:00"
+      },
+      "productId": 272487,
+      "url": "https://www.tcgplayer.com/product/272487/pokemon-swsh10-astral-radiance-trainer-gallery-galarian-articuno-v"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Shadow Rider Calyrex V",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG17/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "210"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[P] Shadow Mist (10)\r\n\u003cbr\u003eDuring your opponent's next turn, they can't play any Special Energy or Stadium cards from their hand."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[3] Astral Barrage\r\n\u003cbr\u003eChoose 2 of your opponent's Pokémon and put 5 damage counters on each of them."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Dx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272488_200w.jpg",
+      "modifiedOn": "2023-12-11T20:56:20.65",
+      "name": "Shadow Rider Calyrex V",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272488,
+      "url": "https://www.tcgplayer.com/product/272488/pokemon-swsh10-astral-radiance-trainer-gallery-shadow-rider-calyrex-v"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Shadow Rider Calyrex VMAX",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG18/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "320"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "VMAX"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003eAbility — Underworld Door\u003c/strong\u003e\r\n\u003cbr\u003eOnce during your turn, you may attach a Psychic Energy card from your hand to 1 of your Benched Psychic Pokémon. If you attached Energy to a Pokémon in this way, draw 2 cards."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[3] Max Geist (10+)\r\n\u003cbr\u003eThis attack does 30 more damage for each Psychic Energy attached to all of your Pokémon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Dx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "F-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272489_200w.jpg",
+      "modifiedOn": "2026-01-05T19:16:37.353",
+      "name": "Shadow Rider Calyrex VMAX",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272489,
+      "url": "https://www.tcgplayer.com/product/272489/pokemon-swsh10-astral-radiance-trainer-gallery-shadow-rider-calyrex-vmax"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Galarian Zapdos V",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG19/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fighting"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "200"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003eAbility — Fighting Instinct\u003c/strong\u003e\r\n\u003cbr\u003eThis Pokémon's attacks cost less for each of opponent's Pokémon V in play."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[3F] Thunderous Kick (170)\r\n\u003cbr\u003eBefore doing damage, discard a Special Energy from your opponent's Active Pokémon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Px2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "1"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272491_200w.jpg",
+      "modifiedOn": "2026-01-05T19:06:04.733",
+      "name": "Galarian Zapdos V",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272491,
+      "url": "https://www.tcgplayer.com/product/272491/pokemon-swsh10-astral-radiance-trainer-gallery-galarian-zapdos-v"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Galarian Moltres V",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG20/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "220"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003eAbility — Direflame Wings\u003c/strong\u003e\r\n\u003cbr\u003eOnce during your turn, you may attach a Darkness Energy card from your discard pile to this Pokémon. You can't use more than 1 Direflame Wings Ability each turn."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1DD] Aura Burn (190)\r\n\u003cbr\u003eThis Pokémon also does 30 damage to itself."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Gx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272492_200w.jpg",
+      "modifiedOn": "2025-11-29T22:50:16.76",
+      "name": "Galarian Moltres V",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272492,
+      "url": "https://www.tcgplayer.com/product/272492/pokemon-swsh10-astral-radiance-trainer-gallery-galarian-moltres-v"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Zacian V",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG21/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Metal"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "220"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003eAbility — Intrepid Sword\u003c/strong\u003e\r\n\u003cbr\u003eOnce during your turn, you may look at the top 3 cards of your deck and attach any number of Metal Energy cards you find there to this Pokémon. Put the other cards into your hand. If you use this Ability, your turn ends."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[MMM] Brave Blade (230)\r\n\u003cbr\u003eDuring your next turn, this Pokémon can't attack."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Rx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "G-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272493_200w.jpg",
+      "modifiedOn": "2022-05-27T04:03:19.25",
+      "name": "Zacian V",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-05-27T00:00:00"
+      },
+      "productId": 272493,
+      "url": "https://www.tcgplayer.com/product/272493/pokemon-swsh10-astral-radiance-trainer-gallery-zacian-v"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Zamazenta V",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG22/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Metal"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "230"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003eAbility — Dauntless Shield\u003c/strong\u003e\r\n\u003cbr\u003ePrevent all damage done to this Pokémon by attacks from your opponent's Pokémon VMAX"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1MM] Assault Tackle (130)\r\n\u003cbr\u003eDiscard a Special Energy from your opponent's Active Pokémon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Rx2"
+        },
+        {
+          "displayName": "Resistance",
+          "name": "Resistance",
+          "value": "G-30"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272494_200w.jpg",
+      "modifiedOn": "2026-01-13T20:08:10.01",
+      "name": "Zamazenta V",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272494,
+      "url": "https://www.tcgplayer.com/product/272494/pokemon-swsh10-astral-radiance-trainer-gallery-zamazenta-v"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Garchomp V",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG23/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "200"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "Basic"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[1WF] Dragon Claw (120)"
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[1WFF] Sonic Strike\r\n\u003cbr\u003eDiscard 3 Energy from this Pokémon. This attack does 220 damage to 1 of your opponent's Pokémon. \u003cem\u003c(Don't apply Weakness and Resistance for Benched Pokémon.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272495_200w.jpg",
+      "modifiedOn": "2026-01-05T19:09:59.84",
+      "name": "Garchomp V",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272495,
+      "url": "https://www.tcgplayer.com/product/272495/pokemon-swsh10-astral-radiance-trainer-gallery-garchomp-v"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Allister",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG24/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Supporter"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Draw 3 cards. If you drew any cards in this way, discard up to 3 cards from your hand. \u003cem\u003e(You must discard at least 1 card.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272496_200w.jpg",
+      "modifiedOn": "2024-02-08T14:02:24.24",
+      "name": "Allister",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272496,
+      "url": "https://www.tcgplayer.com/product/272496/pokemon-swsh10-astral-radiance-trainer-gallery-allister"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Bea",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG25/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Supporter"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Discard the top 5 cards of your deck, and attach any Energy cards you discarded in this way to your Benched Fighting Pokémon in any way you like."
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272497_200w.jpg",
+      "modifiedOn": "2022-05-27T04:03:19.25",
+      "name": "Bea",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-05-27T00:00:00"
+      },
+      "productId": 272497,
+      "url": "https://www.tcgplayer.com/product/272497/pokemon-swsh10-astral-radiance-trainer-gallery-bea"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Melony",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG26/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Supporter"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Attach a Water Energy card from your discard pile to 1 of your Pokémon V. If you do, draw 3 cards"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272498_200w.jpg",
+      "modifiedOn": "2026-01-05T19:12:32.827",
+      "name": "Melony",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272498,
+      "url": "https://www.tcgplayer.com/product/272498/pokemon-swsh10-astral-radiance-trainer-gallery-melony"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Milo",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG27/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Supporter"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Discard up to 2 cards from your hand, and draw 2 cards for each card you discarded in this way"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272499_200w.jpg",
+      "modifiedOn": "2023-06-27T14:31:15.54",
+      "name": "Milo",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272499,
+      "url": "https://www.tcgplayer.com/product/272499/pokemon-swsh10-astral-radiance-trainer-gallery-milo"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Piers",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG28/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Supporter"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "Search your deck for an Energy card and a Darkness Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272500_200w.jpg",
+      "modifiedOn": "2025-04-30T18:00:24.323",
+      "name": "Piers",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272500,
+      "url": "https://www.tcgplayer.com/product/272500/pokemon-swsh10-astral-radiance-trainer-gallery-piers"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Ice Rider Calyrex VMAX Secret",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG29/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Water"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "320"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "VMAX"
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[2] Ride of the High King (10+)\r\n\u003cBr\u003eThis attack does 30 more damage for each of your opponent's Benched Pokémon."
+        },
+        {
+          "displayName": "Attack 2",
+          "name": "Attack 2",
+          "value": "[WW] Max Lance (10+)\r\n\u003cbr\u003eYou may discard up to 2 Energy from this Pokémon. If you do, this attack does 120-more damage for each card discarded you in this way"
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Mx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272501_200w.jpg",
+      "modifiedOn": "2025-12-04T15:13:22.523",
+      "name": "Ice Rider Calyrex VMAX (Secret)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272501,
+      "url": "https://www.tcgplayer.com/product/272501/pokemon-swsh10-astral-radiance-trainer-gallery-ice-rider-calyrex-vmax-secret"
+    },
+    {
+      "categoryId": 3,
+      "cleanName": "Shadow Rider Calyrex VMAX Secret",
+      "extendedData": [
+        {
+          "displayName": "Card Number",
+          "name": "Number",
+          "value": "TG30/TG30"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "HP",
+          "name": "HP",
+          "value": "320"
+        },
+        {
+          "displayName": "Stage",
+          "name": "Stage",
+          "value": "VMAX"
+        },
+        {
+          "displayName": "Card Text",
+          "name": "CardText",
+          "value": "\u003cstrong\u003eAbility — Underworld Door\u003c/strong\u003e\r\n\u003cbr\u003eOnce during your turn, you may attach a Psychic Energy card from your hand to 1 of your Benched Psychic Pokémon. If you attached Energy to a Pokémon in this way, draw 2 cards."
+        },
+        {
+          "displayName": "Attack 1",
+          "name": "Attack 1",
+          "value": "[3] Max Geist (10+)\r\n\u003cbr\u003eThis attack does 30 more damage for each Psychic Energy attached to all of your Pokémon."
+        },
+        {
+          "displayName": "Weakness",
+          "name": "Weakness",
+          "value": "Mx2"
+        },
+        {
+          "displayName": "Retreat Cost",
+          "name": "RetreatCost",
+          "value": "2"
+        }
+      ],
+      "groupId": 3068,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/272502_200w.jpg",
+      "modifiedOn": "2025-12-04T15:14:32.553",
+      "name": "Shadow Rider Calyrex VMAX (Secret)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 272502,
+      "url": "https://www.tcgplayer.com/product/272502/pokemon-swsh10-astral-radiance-trainer-gallery-shadow-rider-calyrex-vmax-secret"
+    }
+  ],
+  "success": true,
+  "totalItems": 30
+}

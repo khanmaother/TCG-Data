@@ -1,0 +1,359 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Jace Beleren",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Planeswalker — Jace"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "[+2]: Each player draws a card.\r\n\u003cbr\u003e[-1]: Target player draws a card.\r\n\u003cbr\u003e[-10]: Target player puts the top twenty cards of their library into their graveyard."
+        }
+      ],
+      "groupId": 2220,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/162747_200w.jpg",
+      "modifiedOn": "2025-12-05T00:49:20.677",
+      "name": "Jace Beleren",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 162747,
+      "url": "https://www.tcgplayer.com/product/162747/magic-signature-spellbook-jace-jace-beleren"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Blue Elemental Blast",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Choose one —\r\n\u003cbr\u003e• Counter target red spell.\r\n\u003cbr\u003e• Destroy target red spell."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Contrary to popular wisdom, I find it's best to fight fire with its opposite.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2220,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/162748_200w.jpg",
+      "modifiedOn": "2022-03-28T07:24:25.033",
+      "name": "Blue Elemental Blast",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 162748,
+      "url": "https://www.tcgplayer.com/product/162748/magic-signature-spellbook-jace-blue-elemental-blast"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Brainstorm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Draw three cards, then put two cards from your hand on top of your library in any order."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I have a plan. Actually, I have three.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2220,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/162749_200w.jpg",
+      "modifiedOn": "2026-01-05T18:30:11.467",
+      "name": "Brainstorm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 162749,
+      "url": "https://www.tcgplayer.com/product/162749/magic-signature-spellbook-jace-brainstorm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Counterspell",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Counter target spell."
+        }
+      ],
+      "groupId": 2220,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/162750_200w.jpg",
+      "modifiedOn": "2025-11-12T22:17:49.857",
+      "name": "Counterspell",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 162750,
+      "url": "https://www.tcgplayer.com/product/162750/magic-signature-spellbook-jace-counterspell"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gifts Ungiven",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library."
+        }
+      ],
+      "groupId": 2220,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/162751_200w.jpg",
+      "modifiedOn": "2025-12-15T20:09:11.413",
+      "name": "Gifts Ungiven",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 162751,
+      "url": "https://www.tcgplayer.com/product/162751/magic-signature-spellbook-jace-gifts-ungiven"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mystical Tutor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"It's not just what you know. It's knowing where to find what you don't.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2220,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/162752_200w.jpg",
+      "modifiedOn": "2025-12-05T00:50:02.053",
+      "name": "Mystical Tutor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 162752,
+      "url": "https://www.tcgplayer.com/product/162752/magic-signature-spellbook-jace-mystical-tutor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Negate",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Counter target noncreature spell."
+        }
+      ],
+      "groupId": 2220,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/162753_200w.jpg",
+      "modifiedOn": "2022-08-27T10:05:44.163",
+      "name": "Negate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 162753,
+      "url": "https://www.tcgplayer.com/product/162753/magic-signature-spellbook-jace-negate"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Threads of Disloyalty",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant creature with converted mana cost 2 or less.\r\n\u003cbr\u003eYou control enchanted creature."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Every thought is a string. You just have to find the right ones to pull.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2220,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/162754_200w.jpg",
+      "modifiedOn": "2022-07-19T03:45:39.157",
+      "name": "Threads of Disloyalty",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 162754,
+      "url": "https://www.tcgplayer.com/product/162754/magic-signature-spellbook-jace-threads-of-disloyalty"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Signature Spellbook Jace Box Set",
+      "extendedData": [
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Signature Spellbook: Jace is a collection of eight cards plus one random premium foil version of one of those eight cards for the serious blue mage. Each card has Jace-flavored art and special frames just for this set."
+        },
+        {
+          "displayName": "UPC",
+          "name": "UPC",
+          "value": "630509685073"
+        }
+      ],
+      "groupId": 2220,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/162755_200w.jpg",
+      "modifiedOn": "2019-07-23T17:39:47.05",
+      "name": "Signature Spellbook: Jace - Box Set",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 162755,
+      "url": "https://www.tcgplayer.com/product/162755/magic-signature-spellbook-jace-signature-spellbook-jace-box-set"
+    }
+  ],
+  "success": true,
+  "totalItems": 9
+}

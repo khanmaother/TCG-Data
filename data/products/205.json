@@ -1,0 +1,204 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Blue Eyes White Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "FL1-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cem\u003eThis legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale."
+        }
+      ],
+      "groupId": 205,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/25360_200w.jpg",
+      "modifiedOn": "2024-03-28T16:47:32.497",
+      "name": "Blue-Eyes White Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 25360,
+      "url": "https://www.tcgplayer.com/product/25360/yugioh-forbidden-legacy-blue-eyes-white-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Magician",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "FL1-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "The ultimate wizard in terms of attack and defense."
+        }
+      ],
+      "groupId": 205,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/25361_200w.jpg",
+      "modifiedOn": "2024-03-28T16:47:32.543",
+      "name": "Dark Magician",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 25361,
+      "url": "https://www.tcgplayer.com/product/25361/yugioh-forbidden-legacy-dark-magician"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Kuriboh",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "FL1-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "200"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Discard this card from your hand. Make the Battle Damage inflicted to your Life Points by 1 of your opponent''s monsters 0. You can only use this effect during your opponent''s Battle Phase."
+        }
+      ],
+      "groupId": 205,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/25362_200w.jpg",
+      "modifiedOn": "2024-03-28T16:47:32.607",
+      "name": "Kuriboh",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 25362,
+      "url": "https://www.tcgplayer.com/product/25362/yugioh-forbidden-legacy-kuriboh"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Forbidden Legacy Blister Pack",
+      "extendedData": [
+        {
+          "displayName": "UPC",
+          "name": "UPC",
+          "value": "53334443647"
+        }
+      ],
+      "groupId": 205,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/57176_200w.jpg",
+      "modifiedOn": "2019-08-12T16:15:32.15",
+      "name": "Forbidden Legacy - Blister Pack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 57176,
+      "url": "https://www.tcgplayer.com/product/57176/yugioh-forbidden-legacy-forbidden-legacy-blister-pack"
+    }
+  ],
+  "success": true,
+  "totalItems": 4
+}

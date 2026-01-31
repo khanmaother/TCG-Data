@@ -1,0 +1,2329 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Gauntlet of Power",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As Gauntlet of Power enters the battlefield, choose a color.\r\n\u003cbr\u003eCreatures of the chosen color get +1/+1.\r\n\u003cbr\u003eWhenever a basic land is tapped for mana of the chosen color, its controller adds one mana of that color to his or her mana pool."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122769_200w.jpg",
+      "modifiedOn": "2022-09-20T08:38:51.103",
+      "name": "Gauntlet of Power",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122769,
+      "url": "https://www.tcgplayer.com/product/122769/magic-masterpiece-series-kaladesh-inventions-gauntlet-of-power"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hangarback Walker",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Construct"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "0"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Hangarback Walker enters the battlefield with X +1/+1 counters on it.\r\n\u003cbr\u003eWhen Hangarback Walker dies, create a 1/1 colorless Thopter artifact creature token with flying for each +1/+1 counter on Hangarback Walker.\r\n\u003cbr\u003e1, T: Put a +1/+1 counter on Hangarback Walker."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122770_200w.jpg",
+      "modifiedOn": "2020-01-21T16:09:04.033",
+      "name": "Hangarback Walker",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122770,
+      "url": "https://www.tcgplayer.com/product/122770/magic-masterpiece-series-kaladesh-inventions-hangarback-walker"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mana Crypt",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.\r\n\u003cbr\u003eT: Add CC t o your mana pool."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eAn utterly silent chamber, submitted by an artificer who wished to remain anonymous.\u003c?em\u003e"
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122771_200w.jpg",
+      "modifiedOn": "2023-09-06T14:13:44.863",
+      "name": "Mana Crypt",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122771,
+      "url": "https://www.tcgplayer.com/product/122771/magic-masterpiece-series-kaladesh-inventions-mana-crypt"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Verdurous Gearhulk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\r\n\u003cbr\u003eWhen Verdurous Gearhulk enters the battlefield, distribute four +1/+1 counters among any number of target creatures you control."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122772_200w.jpg",
+      "modifiedOn": "2021-02-17T20:59:32.083",
+      "name": "Verdurous Gearhulk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122772,
+      "url": "https://www.tcgplayer.com/product/122772/magic-masterpiece-series-kaladesh-inventions-verdurous-gearhulk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Aether Vial",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "At the beginning of your upkeep, you may put a charge counter  on Aether Vial.\r\n\u003cbr\u003eT: You may put a creature card with converted mana cost equal to the number of charge counters on Aether Vial from your hand onto the battlefield."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122843_200w.jpg",
+      "modifiedOn": "2021-10-04T05:25:23.637",
+      "name": "Aether Vial",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122843,
+      "url": "https://www.tcgplayer.com/product/122843/magic-masterpiece-series-kaladesh-inventions-aether-vial"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cataclysmic Gearhulk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Construct"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Vigilance\r\n\u003cbr\u003eWhen Cataclysmic Gearhulk enters the battlefield, each player chooses an artifact, a creature, an enchantment, and a planeswalker from among the nonland permanents he or she controls, then sacrifices the rest."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122844_200w.jpg",
+      "modifiedOn": "2025-12-10T03:18:03.243",
+      "name": "Cataclysmic Gearhulk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122844,
+      "url": "https://www.tcgplayer.com/product/122844/magic-masterpiece-series-kaladesh-inventions-cataclysmic-gearhulk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Champions Helm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature gets +2/+2.\r\n\u003cbr\u003eAs long as equipped creature is legendary, it has hexproof.\r\n\u003cbr\u003eEquip 1"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003eAdi Thandray designed this helm as a tribute to his mentor, the great Daljit Gavaskar."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122845_200w.jpg",
+      "modifiedOn": "2024-03-23T04:30:13.123",
+      "name": "Champion's Helm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122845,
+      "url": "https://www.tcgplayer.com/product/122845/magic-masterpiece-series-kaladesh-inventions-champions-helm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Chromatic Lantern",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lands you control have \"T: Add one mana of any color to your mana pool.\"\r\n\u003cbr\u003eT: Add one mana of any color to your mana pool."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003eIt exemplifies the motto of the Luminary League: \"Innovation requires insatiable curiosity and a good source of light.\""
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122846_200w.jpg",
+      "modifiedOn": "2025-12-10T03:18:49.133",
+      "name": "Chromatic Lantern",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122846,
+      "url": "https://www.tcgplayer.com/product/122846/magic-masterpiece-series-kaladesh-inventions-chromatic-lantern"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Chrome Mox",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eImprint\u003c/em\u003e — When Chrome Mox enters the battlefield, you may exile a nonartifact, nonland card from your hand.\r\n\u003cbr\u003eT: Add one mana of any of the exiled card's colors to your mana pool."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122847_200w.jpg",
+      "modifiedOn": "2022-07-05T20:02:09.14",
+      "name": "Chrome Mox",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122847,
+      "url": "https://www.tcgplayer.com/product/122847/magic-masterpiece-series-kaladesh-inventions-chrome-mox"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cloudstone Curio",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever a nonartifact permanent enters the battlefield under your control, you may return another permanent you control that shares a permanent type with it to its owner's hand."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003eWith innovative stabilizing techniques, Suja Pavani brings this piece of the sky itself to the Inventors' Fair."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122848_200w.jpg",
+      "modifiedOn": "2022-09-19T16:41:12.473",
+      "name": "Cloudstone Curio",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122848,
+      "url": "https://www.tcgplayer.com/product/122848/magic-masterpiece-series-kaladesh-inventions-cloudstone-curio"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Combustible Gearhulk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Construct"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike\r\n\u003cbr\u003eWhen Combustible Gearhulk enters the battlefield, target opponent may have you draw three cards. If the player doesn't, put the top three cards of your library into your graveyard, then Combustible Gearhulk deals damage to that player equal to the total converted mana cost of those cards."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122849_200w.jpg",
+      "modifiedOn": "2019-10-11T12:54:34.683",
+      "name": "Combustible Gearhulk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122849,
+      "url": "https://www.tcgplayer.com/product/122849/magic-masterpiece-series-kaladesh-inventions-combustible-gearhulk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Crucible of Worlds",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may play land cards from your graveyard."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eBy isolating liquid aether at room temperature, foundry hand Jitya Reyath has given us a glimpse of raw aetheric matter—the very stuff of the cosmos.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122850_200w.jpg",
+      "modifiedOn": "2022-09-20T12:12:49.517",
+      "name": "Crucible of Worlds",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122850,
+      "url": "https://www.tcgplayer.com/product/122850/magic-masterpiece-series-kaladesh-inventions-crucible-of-worlds"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lightning Greaves",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature has haste and shroud.\r\n\u003cbr\u003eEquip 0"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003eThis matched set incorporates aetheric accelerators and deflection matrices in an elegant, wearable design."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122851_200w.jpg",
+      "modifiedOn": "2024-01-20T06:11:37.073",
+      "name": "Lightning Greaves",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122851,
+      "url": "https://www.tcgplayer.com/product/122851/magic-masterpiece-series-kaladesh-inventions-lightning-greaves"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lotus Petal",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T, Sacrifice Lotus Petal: Add one mana of any color to your mana pool."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003eEach of these intricate mechanical petals stores enough power to supply all of Ghirapur, if only for a fleeting moment."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122852_200w.jpg",
+      "modifiedOn": "2022-04-07T19:46:31.227",
+      "name": "Lotus Petal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122852,
+      "url": "https://www.tcgplayer.com/product/122852/magic-masterpiece-series-kaladesh-inventions-lotus-petal"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mana Vault",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "17"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Mana Vault doesn't untap during your untap step.\r\n\u003cbr\u003eAt the beginning of your upkeep, you may pay 4. If you do, untap Mana Vault.\r\n\u003cbr\u003eAt the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you.\r\n\u003cbr\u003eT: Add CCC to your mana pool."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122853_200w.jpg",
+      "modifiedOn": "2023-01-20T06:32:48.227",
+      "name": "Mana Vault",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122853,
+      "url": "https://www.tcgplayer.com/product/122853/magic-masterpiece-series-kaladesh-inventions-mana-vault"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Minds Eye",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "18"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever an opponent draws a card, you may pay 1. If you do, draw a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003eDeveloped and tested by researchers at the Consulate's House of Knowledge, these devices allow anyone to see with a visionary's eye."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122854_200w.jpg",
+      "modifiedOn": "2026-01-14T20:38:24.01",
+      "name": "Mind's Eye",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122854,
+      "url": "https://www.tcgplayer.com/product/122854/magic-masterpiece-series-kaladesh-inventions-minds-eye"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mox Opal",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "19"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eMetalcraft\u003c/em\u003e — T: Add one mana of any color of your mana pool. Activate this ability only if you control three or more artifacts."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003eOn loan from a private collection, this unique mechanism extracts power from a carefully prepared gemstone."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122855_200w.jpg",
+      "modifiedOn": "2023-03-19T19:28:12.227",
+      "name": "Mox Opal",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122855,
+      "url": "https://www.tcgplayer.com/product/122855/magic-masterpiece-series-kaladesh-inventions-mox-opal"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Noxious Gearhulk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Construct"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Menace\r\n\u003cbr\u003eWhen Noxious Gearhulk enters the battlefield, you may destroy another target creature. If a creature is destroyed this way, you gain life equal to its toughness."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122856_200w.jpg",
+      "modifiedOn": "2022-08-29T14:00:40.06",
+      "name": "Noxious Gearhulk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122856,
+      "url": "https://www.tcgplayer.com/product/122856/magic-masterpiece-series-kaladesh-inventions-noxious-gearhulk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Painters Servant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "20"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Scarecrow"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As Painter's Servant enters the battlefield, choose a color.\r\n\u003cbr\u003eAll cards that aren't on the battlefield, spells, and permanents are the chosen color in addition to their other colors."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThis whimsical automaton helps create beautiful murals, then stands guard as they dry.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122857_200w.jpg",
+      "modifiedOn": "2020-12-15T16:58:07.773",
+      "name": "Painter's Servant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122857,
+      "url": "https://www.tcgplayer.com/product/122857/magic-masterpiece-series-kaladesh-inventions-painters-servant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rings of Brighthearth",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "21"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you activate an ability, if it isn't a mana ability, you may pay 2. If you do, copy that ability. you may choose new targets for the copy."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cI\u003eCrafted in emulation of dwarven hearth decorations, these devices doubled the output of Amrit Vatyam's forges."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122858_200w.jpg",
+      "modifiedOn": "2020-12-17T19:48:04.017",
+      "name": "Rings of Brighthearth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122858,
+      "url": "https://www.tcgplayer.com/product/122858/magic-masterpiece-series-kaladesh-inventions-rings-of-brighthearth"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Scroll Rack",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "22"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1, T: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them back on top of your library in any order."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122859_200w.jpg",
+      "modifiedOn": "2021-12-30T19:45:37.333",
+      "name": "Scroll Rack",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122859,
+      "url": "https://www.tcgplayer.com/product/122859/magic-masterpiece-series-kaladesh-inventions-scroll-rack"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sculpting Steel",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "23"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may have Sculpting Steel enter the battlefield as a copy of any artifact on the battlefield."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003ePerfected by the kinetic sculptor Shanti Makam, these self-assembling metal strands can be coaxed into any shape imaginable."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122860_200w.jpg",
+      "modifiedOn": "2021-02-17T20:58:14.4",
+      "name": "Sculpting Steel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122860,
+      "url": "https://www.tcgplayer.com/product/122860/magic-masterpiece-series-kaladesh-inventions-sculpting-steel"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Solemn Simulacrum",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "25"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Golem"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.\r\n\u003cbr\u003eWhen Solemn Simulacrum dies, you may draw a card."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122861_200w.jpg",
+      "modifiedOn": "2021-10-10T12:22:07.733",
+      "name": "Solemn Simulacrum",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122861,
+      "url": "https://www.tcgplayer.com/product/122861/magic-masterpiece-series-kaladesh-inventions-solemn-simulacrum"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sol Ring",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "24"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add CC to your mana pool."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003eIt took the reclusive Venya Sangmi a lifetime to realize her childhood vision: a band of sunlight made solid."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122862_200w.jpg",
+      "modifiedOn": "2025-02-26T20:18:49.88",
+      "name": "Sol Ring",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122862,
+      "url": "https://www.tcgplayer.com/product/122862/magic-masterpiece-series-kaladesh-inventions-sol-ring"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Static Orb",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "26"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As long as Static Orb is untapped, players can't untap more than two permanents during their untap steps."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003eReduction of energy and motion within the stasis field creates the illusion of slowed time."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122863_200w.jpg",
+      "modifiedOn": "2023-01-19T15:26:41.727",
+      "name": "Static Orb",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122863,
+      "url": "https://www.tcgplayer.com/product/122863/magic-masterpiece-series-kaladesh-inventions-static-orb"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Steel Overseer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "27"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Put a +1/+1 counter on each artifact creature you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003eIn an unusual foray into the humanoid form, Venand Kapur—known as the Gearherder—built this automaton to keep watch over his clockwork herds."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122864_200w.jpg",
+      "modifiedOn": "2020-12-20T21:49:01.757",
+      "name": "Steel Overseer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122864,
+      "url": "https://www.tcgplayer.com/product/122864/magic-masterpiece-series-kaladesh-inventions-steel-overseer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sword of Feast and Famine",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "28"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature gets +2/+2 and has protection from black and from green.\r\n\u003cbr\u003eWhenever equipped creature deals combat damage to a player, that player discards a card you untap all lands you control.\r\n\u003cbr\u003eEquip 2"
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122865_200w.jpg",
+      "modifiedOn": "2023-03-18T13:50:46.957",
+      "name": "Sword of Feast and Famine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122865,
+      "url": "https://www.tcgplayer.com/product/122865/magic-masterpiece-series-kaladesh-inventions-sword-of-feast-and-famine"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sword of Fire and Ice",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "29"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature gets +2/+2 and has protection from red and from blue.\r\n\u003cbr\u003eWhenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to target creature or player and you draw a card.\r\n\u003cbr\u003eEquip 2"
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122866_200w.jpg",
+      "modifiedOn": "2023-05-10T10:12:54.52",
+      "name": "Sword of Fire and Ice",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122866,
+      "url": "https://www.tcgplayer.com/product/122866/magic-masterpiece-series-kaladesh-inventions-sword-of-fire-and-ice"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sword of Light and Shadow",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "30"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature gets +2/+2 and has protection from white and from black.\r\n\u003cbr\u003eWhenever equipped creature deals combat damage to a player, you gain 3 life and you may return up to one target creature card from your graveyard to your hand.\r\n\u003cbr\u003eEquip 2"
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122867_200w.jpg",
+      "modifiedOn": "2023-02-25T10:05:21.223",
+      "name": "Sword of Light and Shadow",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122867,
+      "url": "https://www.tcgplayer.com/product/122867/magic-masterpiece-series-kaladesh-inventions-sword-of-light-and-shadow"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Torrential Gearhulk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Construct"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash\r\n\u003cbr\u003eWhen Torrential Gearhulk enters the battlefield, you may cast target instant card from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/122868_200w.jpg",
+      "modifiedOn": "2025-12-01T18:12:16.757",
+      "name": "Torrential Gearhulk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 122868,
+      "url": "https://www.tcgplayer.com/product/122868/magic-masterpiece-series-kaladesh-inventions-torrential-gearhulk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Arcbound Ravager",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "31"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Beast"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "0"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.\r\n\u003cbr\u003eModular 1"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003e\"Top-performing automaton combatants are to be seized and modified for service.\" —Confiscation directive"
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126279_200w.jpg",
+      "modifiedOn": "2023-11-20T20:50:56.003",
+      "name": "Arcbound Ravager",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126279,
+      "url": "https://www.tcgplayer.com/product/126279/magic-masterpiece-series-kaladesh-inventions-arcbound-ravager"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Black Vise",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "32"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As Black Vise enters the battlefield, choose an opponent.\r\n\u003cbr\u003eAt the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in his or her hand minus 4."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126280_200w.jpg",
+      "modifiedOn": "2019-10-11T13:00:30.043",
+      "name": "Black Vise",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126280,
+      "url": "https://www.tcgplayer.com/product/126280/magic-masterpiece-series-kaladesh-inventions-black-vise"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Chalice of the Void",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "33"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Chalice of the Void enters the battlefield with X charge counters on it.\r\n\u003cbr\u003eWhenever a player casts a spell with converted mana cost equal to the number of charge counters on Chalice of the Void, counter that spell."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126281_200w.jpg",
+      "modifiedOn": "2024-02-23T20:55:16.667",
+      "name": "Chalice of the Void",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126281,
+      "url": "https://www.tcgplayer.com/product/126281/magic-masterpiece-series-kaladesh-inventions-chalice-of-the-void"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Defense Grid",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "34"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each spell costs 3 more to cast except during its controller's turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003e\"Woven together, strands of aether can form a mesh of surprising stability, though such a network tends to pull power from nearby devices.\" —Consulate engineer's log"
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126282_200w.jpg",
+      "modifiedOn": "2019-10-11T13:00:55.753",
+      "name": "Defense Grid",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126282,
+      "url": "https://www.tcgplayer.com/product/126282/magic-masterpiece-series-kaladesh-inventions-defense-grid"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Duplicant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "35"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Shapeshifter"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eImprint\u003c/em\u003e — When Duplicant enters the battlefield, you may exile target nontoken creature.\r\n\u003cbr\u003eAs long as a card exiled with Duplicant is a creature card, Duplicant has the power, tougnhness, and creature type of the last creature card exiled with Duplicant. It's still a Shapeshifter."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126283_200w.jpg",
+      "modifiedOn": "2020-12-20T19:47:02.15",
+      "name": "Duplicant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126283,
+      "url": "https://www.tcgplayer.com/product/126283/magic-masterpiece-series-kaladesh-inventions-duplicant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Engineered Explosives",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "36"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Sunburst\r\n\u003cbr\u003e2, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126284_200w.jpg",
+      "modifiedOn": "2019-10-11T13:01:25.87",
+      "name": "Engineered Explosives",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126284,
+      "url": "https://www.tcgplayer.com/product/126284/magic-masterpiece-series-kaladesh-inventions-engineered-explosives"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ensnaring Bridge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "37"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Creatures with power greater than the number of cards in your hand can't attack."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003e\"With a few minor adjustments, we were able to convert sky-dock assisters into a defense system for the Aether Spire.\" —Consulate engineer's log"
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126285_200w.jpg",
+      "modifiedOn": "2019-12-31T18:03:51.65",
+      "name": "Ensnaring Bridge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126285,
+      "url": "https://www.tcgplayer.com/product/126285/magic-masterpiece-series-kaladesh-inventions-ensnaring-bridge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Extraplanar Lens",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "38"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003eImprint\u003c/em\u003e — When Extraplanar Lens enters the battlefield, you may exile target land you control.\r\n\u003cbr\u003eWhenever a land with the same name as the exiled card is tapped for mana, its controller adds one mana to his or her mana pool of any type that land produced."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126286_200w.jpg",
+      "modifiedOn": "2025-04-23T15:18:07.397",
+      "name": "Extraplanar Lens",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126286,
+      "url": "https://www.tcgplayer.com/product/126286/magic-masterpiece-series-kaladesh-inventions-extraplanar-lens"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Grindstone",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "39"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "3, T: Target player puts the top two cards of his or her library into his or her graveyard. If both cards share a color, repeat this process."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003e\"All attempts to halt the machine failed. We must find a way to repurpose it.\" —Consulate engineer's log"
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126287_200w.jpg",
+      "modifiedOn": "2023-01-09T19:06:42.243",
+      "name": "Grindstone",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126287,
+      "url": "https://www.tcgplayer.com/product/126287/magic-masterpiece-series-kaladesh-inventions-grindstone"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Meekstone",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "40"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Creatures with power 3 or greater don't untap during their controllers' untap steps."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003e\"When it oscillated above a particular frequency, the stone induced acute listlessness in several researchers.\" —Consulate engineer's log"
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126288_200w.jpg",
+      "modifiedOn": "2023-11-22T20:52:55.157",
+      "name": "Meekstone",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126288,
+      "url": "https://www.tcgplayer.com/product/126288/magic-masterpiece-series-kaladesh-inventions-meekstone"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Oblivion Stone",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "41"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "4, T: Put a fate counter on target permanent.\r\n\u003cbr\u003e5, T, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126289_200w.jpg",
+      "modifiedOn": "2019-10-11T13:04:40.207",
+      "name": "Oblivion Stone",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126289,
+      "url": "https://www.tcgplayer.com/product/126289/magic-masterpiece-series-kaladesh-inventions-oblivion-stone"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ornithopter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "42"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Thopter"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Consider all confiscated items hostile until proven otherwise.\"—Confiscation directive\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126290_200w.jpg",
+      "modifiedOn": "2021-08-06T11:52:32.753",
+      "name": "Ornithopter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126290,
+      "url": "https://www.tcgplayer.com/product/126290/magic-masterpiece-series-kaladesh-inventions-ornithopter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Platinum Angel",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "46"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Angel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eYou can't lose the game and your opponents can't win the game."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003e\"Adi Thandray's angel is a Priority One confiscation from the Fair. Once you see it, you'll understand why.\" —Confiscation directive"
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126291_200w.jpg",
+      "modifiedOn": "2023-04-08T19:28:43.72",
+      "name": "Platinum Angel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126291,
+      "url": "https://www.tcgplayer.com/product/126291/magic-masterpiece-series-kaladesh-inventions-platinum-angel"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pithing Needle",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "44"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As Pithing Needle enters the battlefield, name a card.\r\n\u003cbr\u003eActivated abilities of sources with the chosen name can't be activated unless they're mana abilities."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126292_200w.jpg",
+      "modifiedOn": "2019-10-11T13:05:09.88",
+      "name": "Pithing Needle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126292,
+      "url": "https://www.tcgplayer.com/product/126292/magic-masterpiece-series-kaladesh-inventions-pithing-needle"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sphere of Resistance",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "47"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Spells cost 1 more to cast."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003e\"At the outset, we weren't aware of Chief Baral's motives for the project. It's now apparent that he intends to use the device to hamper the 'mages' among the ranks of the renegades.\" —Consulate engineer's log\u003c/i\u003e"
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126293_200w.jpg",
+      "modifiedOn": "2020-01-16T20:20:04.67",
+      "name": "Sphere of Resistance",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126293,
+      "url": "https://www.tcgplayer.com/product/126293/magic-masterpiece-series-kaladesh-inventions-sphere-of-resistance"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Staff of Domination",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "48"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1: Untap Staff of Domination.\r\n\u003cbr\u003e2, T: You gain 1 life.\r\n\u003cbr\u003e3, T: Untap target creature.\r\n\u003cbr\u003e4, T: Tap target creature.\r\n\u003cbr\u003e5, T: Draw a card."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126294_200w.jpg",
+      "modifiedOn": "2025-12-10T03:28:31.313",
+      "name": "Staff of Domination",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126294,
+      "url": "https://www.tcgplayer.com/product/126294/magic-masterpiece-series-kaladesh-inventions-staff-of-domination"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sundering Titan",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "49"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Golem"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "7"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "10"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Sundering Titan enters the battlefield or leaves the battlefield, choose a land of each basic land type, then destroy those lands."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003e\"Truth be told, my team had hoped never to see the day it was deployed.\" —Consulate engineer's log"
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126295_200w.jpg",
+      "modifiedOn": "2021-05-18T11:48:16.87",
+      "name": "Sundering Titan",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126295,
+      "url": "https://www.tcgplayer.com/product/126295/magic-masterpiece-series-kaladesh-inventions-sundering-titan"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sword of Body and Mind",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "50"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature gets +2/+2 and has protection from green and from blue.\r\n\u003cbr\u003eWhenever equipped creature deals combat damage to a player, you create a 2/2 green Wolf creature token and that player puts the top ten cards of his or her library into his or her graveyard.\r\n\u003cbr\u003eEquip 2"
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126296_200w.jpg",
+      "modifiedOn": "2019-10-11T13:06:13.303",
+      "name": "Sword of Body and Mind",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126296,
+      "url": "https://www.tcgplayer.com/product/126296/magic-masterpiece-series-kaladesh-inventions-sword-of-body-and-mind"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sword of War and Peace",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "51"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature gets +2/+2 and has protection from red and from white.\r\n\u003cbr\u003eWhenever equipped creature deals combat damage to a player, Sword of War and Peace deals damage to that player equal to the number of cards in his or her hand and you gain 1 life for each card in your hand.\r\n\u003cbr\u003eEquip 2"
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126297_200w.jpg",
+      "modifiedOn": "2019-10-11T13:03:14.887",
+      "name": "Sword of War and Peace",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126297,
+      "url": "https://www.tcgplayer.com/product/126297/magic-masterpiece-series-kaladesh-inventions-sword-of-war-and-peace"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Trinisphere",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "52"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As long as Trinisphere is untapped, each spell that would cost less than three mana to cast costs three mana to cast."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126298_200w.jpg",
+      "modifiedOn": "2019-10-11T13:02:21.047",
+      "name": "Trinisphere",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126298,
+      "url": "https://www.tcgplayer.com/product/126298/magic-masterpiece-series-kaladesh-inventions-trinisphere"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Vedalken Shackles",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "53"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may choose not to untap Vedalken Shackles during your untap step.\r\n\u003cbr\u003e2, T: Gain control of target creature with power less than or equal to the number of Islands you control for as long as Vedalken Shackles remains tapped."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126299_200w.jpg",
+      "modifiedOn": "2021-02-17T20:59:00.147",
+      "name": "Vedalken Shackles",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126299,
+      "url": "https://www.tcgplayer.com/product/126299/magic-masterpiece-series-kaladesh-inventions-vedalken-shackles"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Wurmcoil Engine",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "54"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Wurm"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Deathtouch, lifelink\r\n\u003cbr\u003eWhen Wurmcoil Engine dies, create a 3/3 colorless Wurm artifact creature token with deathtouch and a 3/3 colorless Wurm artifact creature token with lifelink."
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126300_200w.jpg",
+      "modifiedOn": "2019-10-11T13:03:17.107",
+      "name": "Wurmcoil Engine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126300,
+      "url": "https://www.tcgplayer.com/product/126300/magic-masterpiece-series-kaladesh-inventions-wurmcoil-engine"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Paradox Engine",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "43"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever you cast a spell, untap all nonland permanents you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"This device was submitted to the Fair anonymously. It is imperative that its maker be found. We must understand it.\" —Confiscation directive\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126306_200w.jpg",
+      "modifiedOn": "2021-05-18T11:47:02.683",
+      "name": "Paradox Engine",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126306,
+      "url": "https://www.tcgplayer.com/product/126306/magic-masterpiece-series-kaladesh-inventions-paradox-engine"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Planar Bridge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "45"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "8, T: Search your library for a permanent card, put it onto the battlefield, then shuffle your library."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003ci\u003e\"Rashmi's design was just the beginning. We are most eager to see what the High Consul has planned for it.\" —Consulate engineer's log"
+        }
+      ],
+      "groupId": 1837,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/126307_200w.jpg",
+      "modifiedOn": "2019-10-11T13:05:21.633",
+      "name": "Planar Bridge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 126307,
+      "url": "https://www.tcgplayer.com/product/126307/magic-masterpiece-series-kaladesh-inventions-planar-bridge"
+    }
+  ],
+  "success": true,
+  "totalItems": 54
+}

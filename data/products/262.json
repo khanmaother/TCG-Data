@@ -1,0 +1,161 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Red Eyes B Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PCJ-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Prismatic Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cem\u003eA ferocious dragon with a deadly attack.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 262,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/23325_200w.jpg",
+      "modifiedOn": "2024-07-29T20:57:53.637",
+      "name": "Red-Eyes B. Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 23325,
+      "url": "https://www.tcgplayer.com/product/23325/yugioh-power-of-chaos-joey-the-passion-red-eyes-b-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Sebeks Blessing",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PCJ-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Prismatic Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can only activate this card when a monster attacks your opponent's Life Points directly. Increase your Life Points by an amount equal to the Battle Damage that the monster inflicted to your opponent's Life Points."
+        }
+      ],
+      "groupId": 262,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/23326_200w.jpg",
+      "modifiedOn": "2024-07-29T20:58:09.61",
+      "name": "Sebek's Blessing",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 23326,
+      "url": "https://www.tcgplayer.com/product/23326/yugioh-power-of-chaos-joey-the-passion-sebeks-blessing"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Sword of Dragons Soul",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "PCJ-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Prismatic Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card can only be equipped to  Warrior-Type monster. A monster equipped with this card increases its ATK by 700 points. A Dragon-Type monster that battles with the monster equipped with this card is destroyed at the end of the Battle Phase. (Damage Calculation is applied normally.)"
+        }
+      ],
+      "groupId": 262,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/23327_200w.jpg",
+      "modifiedOn": "2024-07-29T20:58:25.34",
+      "name": "Sword of Dragon's Soul",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 23327,
+      "url": "https://www.tcgplayer.com/product/23327/yugioh-power-of-chaos-joey-the-passion-sword-of-dragons-soul"
+    }
+  ],
+  "success": true,
+  "totalItems": 3
+}

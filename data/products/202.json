@@ -1,0 +1,146 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Exchange",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "EDS-001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Both players show their hands to each other. You both select 1 card from each other's hand and add it your own. When the cards are sent to the Graveyard, they are placed in the Graveyard of the original owner."
+        }
+      ],
+      "groupId": 202,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/22946_200w.jpg",
+      "modifiedOn": "2024-10-02T16:15:22.293",
+      "name": "Exchange",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 22946,
+      "url": "https://www.tcgplayer.com/product/22946/yugioh-eternal-duelist-soul-exchange"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Graceful Dice",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "EDS-002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Quick-Play Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Roll 1 six-sided die. The result is multiplied by 100 points and added to the ATK and DEF of all monsters you control until the end of your turn. Monsters summoned after this card's activation are excluded."
+        }
+      ],
+      "groupId": 202,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/22947_200w.jpg",
+      "modifiedOn": "2024-10-02T16:15:48.203",
+      "name": "Graceful Dice",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 22947,
+      "url": "https://www.tcgplayer.com/product/22947/yugioh-eternal-duelist-soul-graceful-dice"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Skull Dice",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "EDS-003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Roll 1 six-sided die. The result is multiplied by 100 points and subtracted from the ATK and DEF of all monsters in your opponent's control until the end of your turn. Monsters summoned after this card's activation are excluded."
+        }
+      ],
+      "groupId": 202,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/22948_200w.jpg",
+      "modifiedOn": "2024-07-29T20:37:51.843",
+      "name": "Skull Dice",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 22948,
+      "url": "https://www.tcgplayer.com/product/22948/yugioh-eternal-duelist-soul-skull-dice"
+    }
+  ],
+  "success": true,
+  "totalItems": 3
+}

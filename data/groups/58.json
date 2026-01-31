@@ -1,0 +1,88 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "abbreviation": "EVO",
+      "categoryId": 58,
+      "groupId": 23022,
+      "isSupplemental": false,
+      "modifiedOn": "2023-06-16T19:46:12.337",
+      "name": "Evolutions",
+      "publishedOn": "2023-02-22T00:00:00"
+    },
+    {
+      "abbreviation": "GR",
+      "categoryId": 58,
+      "groupId": 23021,
+      "isSupplemental": false,
+      "modifiedOn": "2023-03-03T23:00:19.123",
+      "name": "Geogan Rising",
+      "publishedOn": "2023-02-22T00:00:00"
+    },
+    {
+      "abbreviation": "LED",
+      "categoryId": 58,
+      "groupId": 23023,
+      "isSupplemental": false,
+      "modifiedOn": "2023-06-20T19:20:30.28",
+      "name": "Legends",
+      "publishedOn": "2023-02-22T00:00:00"
+    },
+    {
+      "abbreviation": "FF",
+      "categoryId": 58,
+      "groupId": 2920,
+      "isSupplemental": false,
+      "modifiedOn": "2022-08-01T12:37:53.75",
+      "name": "Fusion Force",
+      "publishedOn": "2020-09-25T00:00:00"
+    },
+    {
+      "abbreviation": "AL",
+      "categoryId": 58,
+      "groupId": 2604,
+      "isSupplemental": false,
+      "modifiedOn": "2020-10-09T20:38:57.483",
+      "name": "Armored Alliance",
+      "publishedOn": "2020-01-17T00:00:00"
+    },
+    {
+      "abbreviation": "AV",
+      "categoryId": 58,
+      "groupId": 2650,
+      "isSupplemental": false,
+      "modifiedOn": "2020-08-05T21:04:19.357",
+      "name": "Armored Elite",
+      "publishedOn": "2020-01-17T00:00:00"
+    },
+    {
+      "abbreviation": "AA",
+      "categoryId": 58,
+      "groupId": 2521,
+      "isSupplemental": false,
+      "modifiedOn": "2020-04-09T13:06:17.583",
+      "name": "Age of Aurelus",
+      "publishedOn": "2019-08-31T00:00:00"
+    },
+    {
+      "abbreviation": "BR",
+      "categoryId": 58,
+      "groupId": 2449,
+      "isSupplemental": false,
+      "modifiedOn": "2020-11-16T15:13:56.337",
+      "name": "Resurgence",
+      "publishedOn": "2019-05-13T00:00:00"
+    },
+    {
+      "abbreviation": "BB",
+      "categoryId": 58,
+      "groupId": 2439,
+      "isSupplemental": false,
+      "modifiedOn": "2023-06-20T19:14:41.207",
+      "name": "Battle Brawlers",
+      "publishedOn": "2019-01-01T00:00:00"
+    }
+  ],
+  "success": true,
+  "totalItems": 9
+}

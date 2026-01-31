@@ -1,0 +1,760 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Aegis Angel",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Angel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eWhen Aegis Angel enters the battlefield, another target permanent gains indestructible for as long as you control Aegis Angel.\u003cem\u003e (Effects that say \"destroy\" don't destroy it. A creature with indestructible can't be destroyed by damage.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1765,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/116780_200w.jpg",
+      "modifiedOn": "2024-08-14T20:05:20.983",
+      "name": "Aegis Angel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 116780,
+      "url": "https://www.tcgplayer.com/product/116780/magic-welcome-deck-2016-aegis-angel"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Air Servant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying \u003cem\u003e(This creature can't be blocked by creatures without flying or reach.)\u003c/em\u003e\r\n\u003cbr\u003e2U: Tap target creature with flying."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\"Wind is forceful, yet ephemeral. It can knock a dragon out of the sky, yet pass through the smallest crack unhindered.\" —Jestus Dreya, Of Elements and Eternity"
+        }
+      ],
+      "groupId": 1765,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/116781_200w.jpg",
+      "modifiedOn": "2024-08-14T20:09:38.137",
+      "name": "Air Servant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 116781,
+      "url": "https://www.tcgplayer.com/product/116781/magic-welcome-deck-2016-air-servant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Borderland Marauder",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Warrior"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever Borderland Marauder attacks, it gets +2/+0 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "Though she is rightly feared, there are relatively few tales of her deeds in battle, for few survive her raids."
+        }
+      ],
+      "groupId": 1765,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/116782_200w.jpg",
+      "modifiedOn": "2025-12-09T23:56:37.657",
+      "name": "Borderland Marauder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 116782,
+      "url": "https://www.tcgplayer.com/product/116782/magic-welcome-deck-2016-borderland-marauder"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cone of Flame",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Cone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player."
+        }
+      ],
+      "groupId": 1765,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/116783_200w.jpg",
+      "modifiedOn": "2024-08-14T20:14:29.55",
+      "name": "Cone of Flame",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 116783,
+      "url": "https://www.tcgplayer.com/product/116783/magic-welcome-deck-2016-cone-of-flame"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Disperse",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Return target nonland permanent to its owner's hand."
+        }
+      ],
+      "groupId": 1765,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/116784_200w.jpg",
+      "modifiedOn": "2024-08-14T20:15:37.963",
+      "name": "Disperse",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 116784,
+      "url": "https://www.tcgplayer.com/product/116784/magic-welcome-deck-2016-disperse"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Incremental Growth",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Put a +1/+1 counter on target creature, two +1/+1 counters on another target creature, and three +1/+1 counters on a third target creature."
+        }
+      ],
+      "groupId": 1765,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/116785_200w.jpg",
+      "modifiedOn": "2024-08-14T20:16:37.453",
+      "name": "Incremental Growth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 116785,
+      "url": "https://www.tcgplayer.com/product/116785/magic-welcome-deck-2016-incremental-growth"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Marked by Honor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant creature\u003cbr\u003eEnchanted creatures gets +2/+2 and has vigilance. \u003cem\u003e(attacking doesn't cause it to tap.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "Stand your post for duty. Stand your ground for honor."
+        }
+      ],
+      "groupId": 1765,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/116786_200w.jpg",
+      "modifiedOn": "2025-12-10T00:00:02.873",
+      "name": "Marked by Honor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 116786,
+      "url": "https://www.tcgplayer.com/product/116786/magic-welcome-deck-2016-marked-by-honor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mind Rot",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target player discards two cards."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\"It saddens me to lose a source of inspiration. This one seemed especially promising.\" — Ashiok"
+        }
+      ],
+      "groupId": 1765,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/116787_200w.jpg",
+      "modifiedOn": "2024-08-14T20:26:40.69",
+      "name": "Mind Rot",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 116787,
+      "url": "https://www.tcgplayer.com/product/116787/magic-welcome-deck-2016-mind-rot"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nightmare",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Nightmare Horse"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "*"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "*"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying \u003cem\u003e(This creature can't be blocked except by creatures with flying or reach.)\u003c/em\u003e\r\n\u003cbr\u003eNightmare's power and toughness are each equal to the number of Swamps you control."
+        }
+      ],
+      "groupId": 1765,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/116788_200w.jpg",
+      "modifiedOn": "2024-08-14T20:27:23.22",
+      "name": "Nightmare",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 116788,
+      "url": "https://www.tcgplayer.com/product/116788/magic-welcome-deck-2016-nightmare"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Oakenform",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant creature\r\n\u003cbr\u003eEnchanted creature gets +3/+3."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\"When the beast cloaks itself in the mighty oak, what good is a bow? When the oak wraps itself around the snarling beast, what good is a hatchet?\""
+        }
+      ],
+      "groupId": 1765,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/116789_200w.jpg",
+      "modifiedOn": "2025-12-10T00:01:48.517",
+      "name": "Oakenform",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 116789,
+      "url": "https://www.tcgplayer.com/product/116789/magic-welcome-deck-2016-oakenform"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sengir Vampire",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Vampire"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\u003cem\u003e(This creature can't be blocked except by creature with flying or reach.)\u003c/em\u003e\u003cBR\u003e\r\nWhenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.\u003cbr\u003e\u003cem\u003e(This card is found in the Magic 2015 Sample Deck only.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "Empires rise and fall, but evil is eternal."
+        }
+      ],
+      "groupId": 1765,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/116790_200w.jpg",
+      "modifiedOn": "2024-08-14T20:31:06.877",
+      "name": "Sengir Vampire",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 116790,
+      "url": "https://www.tcgplayer.com/product/116790/magic-welcome-deck-2016-sengir-vampire"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Serra Angel",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Angel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying \u003cem\u003e(This creature can't be blocked except by creatures with flying or reach.)\u003c/em\u003e\u003cbr\u003eVigilance \u003cem\u003e(Attacking doesn't cause this creature to tap.)\u003c/em\u003e\u003cbr\u003e\u003cem\u003e(This card is found in the Magic 2015 Sample Deck only.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "Follow the light.  In its absence, follow her."
+        }
+      ],
+      "groupId": 1765,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/116791_200w.jpg",
+      "modifiedOn": "2024-08-14T20:32:52.75",
+      "name": "Serra Angel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 116791,
+      "url": "https://www.tcgplayer.com/product/116791/magic-welcome-deck-2016-serra-angel"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shivan Dragon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eR: Shivan Dragon gets +1/+0 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe undisputed master of the mountains of Shiv.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1765,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/116792_200w.jpg",
+      "modifiedOn": "2023-10-12T14:59:34.09",
+      "name": "Shivan Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 116792,
+      "url": "https://www.tcgplayer.com/product/116792/magic-welcome-deck-2016-shivan-dragon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Soul of the Harvest",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elemental"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample \u003cem\u003e(This creature can deal excess combat damage to defending player or planeswalker while attacking.)\u003c/em\u003e\r\n\u003cBR\u003eWhenever another nontoken creature enters the battlefield under your control, you may draw a card."
+        }
+      ],
+      "groupId": 1765,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/116793_200w.jpg",
+      "modifiedOn": "2024-10-20T15:29:22.14",
+      "name": "Soul of the Harvest",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 116793,
+      "url": "https://www.tcgplayer.com/product/116793/magic-welcome-deck-2016-soul-of-the-harvest"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sphinx of Magosi",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Sphinx"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "6"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying \u003cem\u003e(This creature can't be blocked except by creatures with flying or reach.)\u003c/em\u003e\r\n\u003cbr\u003e2U : Draw a card, then put a +1/+1 counter on Sphinx of Magosi."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"A riddle is nothing more than a trap for small minds, baited with the promise of understanding.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1765,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/116794_200w.jpg",
+      "modifiedOn": "2024-08-14T20:35:54.19",
+      "name": "Sphinx of Magosi",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 116794,
+      "url": "https://www.tcgplayer.com/product/116794/magic-welcome-deck-2016-sphinx-of-magosi"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Walking Corpse",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\"Feeding a mortal army is a constant burden. With zombies, it's a constant motivation. Feeding is why they fight. Feeding is why they are feared.\" - Jadar, ghoulcaller of Nephalia"
+        }
+      ],
+      "groupId": 1765,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/116795_200w.jpg",
+      "modifiedOn": "2025-12-10T00:04:21.11",
+      "name": "Walking Corpse",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 116795,
+      "url": "https://www.tcgplayer.com/product/116795/magic-welcome-deck-2016-walking-corpse"
+    }
+  ],
+  "success": true,
+  "totalItems": 16
+}

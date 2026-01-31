@@ -1,0 +1,189 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Foe Razer Regent",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "187"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Dragon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\r\n\u003cbr\u003eWhen Foe-Razer Regent enters the battlefield, you may have it fight target creature you don't control.\r\n\u003cbr\u003eWhenever a creature you control fights, put two +1/+1 counters on it at the beginning of the next end step."
+        }
+      ],
+      "groupId": 1520,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/96436_200w.jpg",
+      "modifiedOn": "2025-12-09T01:53:22.987",
+      "name": "Foe-Razer Regent",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 96436,
+      "url": "https://www.tcgplayer.com/product/96436/magic-tarkir-dragonfury-promos-foe-razer-regent"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dragonlords Servant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "138"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature Goblin Shaman"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Dragon spells you cast cost 1 less to cast."
+        }
+      ],
+      "groupId": 1520,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/96437_200w.jpg",
+      "modifiedOn": "2025-02-06T04:27:37.803",
+      "name": "Dragonlord's Servant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 96437,
+      "url": "https://www.tcgplayer.com/product/96437/magic-tarkir-dragonfury-promos-dragonlords-servant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dragon Fodder",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "135"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Put two 1/1 red Goblin creature tokens onto the battlefield."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "Atarka Goblins meet their demise as readily as their Temur counterparts did, but usually under big, winged shadows."
+        }
+      ],
+      "groupId": 1520,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/96438_200w.jpg",
+      "modifiedOn": "2025-05-15T20:32:18.837",
+      "name": "Dragon Fodder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 96438,
+      "url": "https://www.tcgplayer.com/product/96438/magic-tarkir-dragonfury-promos-dragon-fodder"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Evolving Wilds",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "248"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "The land is ever resilient. Should it die, it will be reborn."
+        }
+      ],
+      "groupId": 1520,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/96439_200w.jpg",
+      "modifiedOn": "2023-06-21T11:24:28.5",
+      "name": "Evolving Wilds",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 96439,
+      "url": "https://www.tcgplayer.com/product/96439/magic-tarkir-dragonfury-promos-evolving-wilds"
+    }
+  ],
+  "success": true,
+  "totalItems": 4
+}

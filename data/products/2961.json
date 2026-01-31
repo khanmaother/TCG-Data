@@ -1,0 +1,2606 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Albaz Strike Structure Deck 1st Edition",
+      "extendedData": [
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each Structure Deck: Albaz Strike contains:\r\n\u003cbr\u003e• 1 Preconstructed Deck of 48 cards\r\n\u003cbr\u003e• 1 Double-sided Playmat/Dueling Guide"
+        },
+        {
+          "displayName": "UPC",
+          "name": "UPC",
+          "value": "083717856085"
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/257371_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Albaz Strike Structure Deck [1st Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 257371,
+      "url": "https://www.tcgplayer.com/product/257371/yugioh-structure-deck-albaz-strike-albaz-strike-structure-deck-1st-edition"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Tri Brigade Mercourier",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When your opponent activates a monster effect, while you control a Fusion Monster that mentions \"Fallen of Albaz\" as material (Quick Effect): You can send this card from your hand or face-up field to the GY; negate that effect. If this card is banished: You can add from your Deck to your hand, 1 \"Fallen of Albaz\", or 1 monster that mentions it, except \"Tri-Brigade Mercourier\". You can only use each effect of \"Tri-Brigade Mercourier\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/267993_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Tri-Brigade Mercourier",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 267993,
+      "url": "https://www.tcgplayer.com/product/267993/yugioh-structure-deck-albaz-strike-tri-brigade-mercourier"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Springans Kitt",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If you have a Fusion Monster that mentions \"Fallen of Albaz\" as material on your field or in your GY: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add to your hand, 1 of your \"Branded\" Spells/Traps that is banished or in your Deck or GY, then place 1 card from your hand on the bottom of the Deck. You can only use each effect of \"Springans Kitt\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/267994_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Springans Kitt",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 267994,
+      "url": "https://www.tcgplayer.com/product/267994/yugioh-structure-deck-albaz-strike-springans-kitt"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Golden Swordsoul",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Tuner/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When a monster declares an attack: You can Special Summon this card from your hand, and if you do, negate that attack, then, if you control a Fusion Monster that mentions \"Fallen of Albaz\" as material, you can destroy the monster that declared that attack. If a monster is banished face-up (except during the Damage Step): You can banish this card from your field or GY; Special Summon 1 LIGHT Spellcaster monster from your hand or GY whose ATK equals its own DEF. You can only use this effect of \"The Golden Swordsoul\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/267995_200w.jpg",
+      "modifiedOn": "2026-01-07T20:01:30.37",
+      "name": "The Golden Swordsoul",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 267995,
+      "url": "https://www.tcgplayer.com/product/267995/yugioh-structure-deck-albaz-strike-the-golden-swordsoul"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Fallen of Albaz",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN004"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is Normal or Special Summoned (except during the Damage Step): You can discard 1 card; Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters on either field as Fusion Material, including this card, but you cannot use other monsters you control as Fusion Material. You can only use this effect of \"Fallen of Albaz\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/267996_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Fallen of Albaz",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 267996,
+      "url": "https://www.tcgplayer.com/product/267996/yugioh-structure-deck-albaz-strike-fallen-of-albaz"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Albion the Shrouded Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN005"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card's name becomes \"Fallen of Albaz\" while on the field or in the GY. If this card is in your hand or GY: You can send 1 \"Fallen of Albaz\" or 1 \"Branded\" Spell/Trap from your hand or Deck to the GY; apply the following effect based on where you sent it from.\r\n\u003cbr\u003e• Hand: Special Summon this card.\r\n\u003cbr\u003e• Deck: Place this card on the bottom of the Deck, then, if you placed this card from your hand, draw 1 card.\r\n\u003cbr\u003eYou can only use this effect of \"Albion the Shrouded Dragon\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/267997_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Albion the Shrouded Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 267997,
+      "url": "https://www.tcgplayer.com/product/267997/yugioh-structure-deck-albaz-strike-albion-the-shrouded-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dogmatika Fleurdelis the Knighted",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN006"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During the Main Phase, if a monster Special Summoned from the Extra Deck is on the field (Quick Effect): You can Special Summon this card from your hand, then, if you control another \"Dogmatika\" monster, you can negate the effects of 1 face-up monster on the field, until the end of this turn. When your \"Dogmatika\" monster declares an attack: You can make all \"Dogmatika\" monsters you currently control gain 500 ATK. You can only use each effect of \"Dogmatika Fleurdelis, the Knighted\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/267998_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Dogmatika Fleurdelis, the Knighted",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 267998,
+      "url": "https://www.tcgplayer.com/product/267998/yugioh-structure-deck-albaz-strike-dogmatika-fleurdelis-the-knighted"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Red Eyes Darkness Metal Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN007"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can Special Summon this card (from your hand) by banishing 1 face-up Dragon monster you control. You can only Special Summon \"Red-Eyes Darkness Metal Dragon\" once per turn this way. During your Main Phase: You can Special Summon 1 Dragon monster from your hand or GY, except \"Red-Eyes Darkness Metal Dragon\". You can only use this effect of \"Red-Eyes Darkness Metal Dragon\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/267999_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Red-Eyes Darkness Metal Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 267999,
+      "url": "https://www.tcgplayer.com/product/267999/yugioh-structure-deck-albaz-strike-red-eyes-darkness-metal-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Thunder King the Lightningstrike Kaiju",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN008"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Thunder"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can Special Summon this card (from your hand) to your opponent's side of the field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. Once per turn: You can remove 3 Kaiju Counters from anywhere on the field; your opponent's cards and effects cannot be activated for the rest of this turn, also this card can make up to 3 attacks on monsters during each Battle Phase this turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268000_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Thunder King, the Lightningstrike Kaiju",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268000,
+      "url": "https://www.tcgplayer.com/product/268000/yugioh-structure-deck-albaz-strike-thunder-king-the-lightningstrike-kaiju"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Chaos Dragon Levianeer",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN009"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 LIGHT and/or DARK monsters from your GY. When Summoned this way: You can activate this effect; apply the following effect, based on the Attribute(s) of the monsters banished for the Special Summon, also this card cannot attack for the rest of this turn.\r\n\u003cbr\u003e• Only LIGHT: Special Summon 1 monster from your GY in Defense Position.\r\n\u003cbr\u003e• Only DARK: Shuffle 1 random card from your opponent's hand into the Deck.\r\n\u003cbr\u003e• Both LIGHT and DARK: Destroy up to 2 cards on the field.\r\n\u003cbr\u003eYou can only use this effect of \"Chaos Dragon Levianeer\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268001_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Chaos Dragon Levianeer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268001,
+      "url": "https://www.tcgplayer.com/product/268001/yugioh-structure-deck-albaz-strike-chaos-dragon-levianeer"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Radian the Multidimensional Kaiju",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN010"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fiend"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can Special Summon this card (from your hand) to your opponent's field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. Once per turn: You can remove 2 Kaiju Counters from anywhere on the field; Special Summon 1 \"Radian Token\" (Fiend/DARK/Level 7/ATK 2800/DEF 0), but it cannot be used as Synchro Material."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268002_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Radian, the Multidimensional Kaiju",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268002,
+      "url": "https://www.tcgplayer.com/product/268002/yugioh-structure-deck-albaz-strike-radian-the-multidimensional-kaiju"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Artifact Scythe",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN011"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Fairy"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "900"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can Set this card from your hand to your Spell \u0026 Trap Zone as a Spell. During your opponent's turn, if this Set card in the Spell \u0026 Trap Zone is destroyed and sent to your GY: Special Summon it. If this card is Special Summoned during your opponent's turn: Your opponent cannot Special Summon monsters from the Extra Deck for the rest of this turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268003_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Artifact Scythe",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268003,
+      "url": "https://www.tcgplayer.com/product/268003/yugioh-structure-deck-albaz-strike-artifact-scythe"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "White Dragon Wyverburster",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN012"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1700"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 DARK monster from your GY. You can only Special Summon \"White Dragon Wyverburster\" once per turn this way. If this card is sent from the field to the GY: You can add 1 \"Black Dragon Collapserpent\" from your Deck to your hand."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268004_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "White Dragon Wyverburster",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268004,
+      "url": "https://www.tcgplayer.com/product/268004/yugioh-structure-deck-albaz-strike-white-dragon-wyverburster"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Black Dragon Collapserpent",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN013"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1700"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 LIGHT monster from your GY. You can only Special Summon \"Black Dragon Collapserpent\" once per turn this way. If this card is sent from the field to the GY: You can add 1 \"White Dragon Wyverburster\" from your Deck to your hand."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268005_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Black Dragon Collapserpent",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268005,
+      "url": "https://www.tcgplayer.com/product/268005/yugioh-structure-deck-albaz-strike-black-dragon-collapserpent"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Starliege Seyfert",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN014"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can send any number of Dragon monsters from your hand and/or face-up field to the GY; add 1 Dragon monster from your Deck to your hand, whose Level equals the total original Levels of those monsters sent to the GY. You can banish this card from your GY, then target 1 Level 8 LIGHT or DARK Dragon monster in your GY; add it to your hand. You can only use each effect of \"Starliege Seyfert\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268006_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Starliege Seyfert",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268006,
+      "url": "https://www.tcgplayer.com/product/268006/yugioh-structure-deck-albaz-strike-starliege-seyfert"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Keeper of Dragon Magic",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN015"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1300"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this card is Normal or Special Summoned: You can discard 1 card; add 1 \"Polymerization\" Normal Spell or \"Fusion\" Normal Spell from your Deck to your hand. You can reveal 1 Fusion Monster in your Extra Deck; Special Summon 1 of the Fusion Materials whose name is specifically listed on that monster from your GY, in face-down Defense Position. You can only use each effect of \"Keeper of Dragon Magic\" once per turn. You cannot Special Summon monsters from the Extra Deck, except Fusion Monsters, the turn you activate either of this card's effects."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268007_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Keeper of Dragon Magic",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268007,
+      "url": "https://www.tcgplayer.com/product/268007/yugioh-structure-deck-albaz-strike-keeper-of-dragon-magic"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Summoner Monk",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN016"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "While this card is face-up on the field, it cannot be Tributed. If this card is Normal or Flip Summoned: Change this card to Defense Position. Once per turn: You can discard 1 Spell; Special Summon 1 Level 4 monster from your Deck, but that monster cannot attack this turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268008_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Summoner Monk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268008,
+      "url": "https://www.tcgplayer.com/product/268008/yugioh-structure-deck-albaz-strike-summoner-monk"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ghost Ogre and Snow Rabbit",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Psychic"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Tuner/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1800"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When a monster on the field activates its effect, or when a Spell/Trap that is already face-up on the field activates its effect (Quick Effect): You can send this card from your hand or field to the GY; destroy that card on the field. You can only use this effect of \"Ghost Ogre \u0026 Snow Rabbit\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268009_200w.jpg",
+      "modifiedOn": "2025-10-31T18:50:46.68",
+      "name": "Ghost Ogre \u0026 Snow Rabbit",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268009,
+      "url": "https://www.tcgplayer.com/product/268009/yugioh-structure-deck-albaz-strike-ghost-ogre-and-snow-rabbit"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Effect Veiler",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN018"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Tuner/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During your opponent's Main Phase (Quick Effect): You can send this card from your hand to the GY, then target 1 Effect Monster your opponent controls; negate the effects of that face-up monster your opponent controls, until the end of this turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268010_200w.jpg",
+      "modifiedOn": "2024-10-17T06:02:55.637",
+      "name": "Effect Veiler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 268010,
+      "url": "https://www.tcgplayer.com/product/268010/yugioh-structure-deck-albaz-strike-effect-veiler"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Omni Dragon Brotaur",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN019"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If a monster you control is destroyed by battle or an opponent's card effect: You can Special Summon this card from the GY (if it was there when the monster was destroyed) or hand (even if not), but banish it when it leaves the field. If this card is Special Summoned: You can target 1 face-up monster on the field; discard 1 card, and if you do, add 1 monster from your Deck to your hand, with the same Type and Attribute as that target, but a different name. You can only use each effect of \"Omni Dragon Brotaur\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268011_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Omni Dragon Brotaur",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268011,
+      "url": "https://www.tcgplayer.com/product/268011/yugioh-structure-deck-albaz-strike-omni-dragon-brotaur"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Branded Lost",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN020"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "The activation of your cards and effects that include an effect that Fusion Summons a Fusion Monster cannot be negated, also your opponent cannot activate cards or effects when a monster is Fusion Summoned this way. If you Fusion Summon a Fusion Monster: You can add 1 \"Fallen of Albaz\", or 1 monster that mentions it, from your Deck to your hand. You can only use this effect of \"Branded Lost\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268012_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Branded Lost",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268012,
+      "url": "https://www.tcgplayer.com/product/268012/yugioh-structure-deck-albaz-strike-branded-lost"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Branded Fusion",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN021"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Fusion Summon 1 Fusion Monster that mentions \"Fallen of Albaz\" as material from your Extra Deck, using 2 monsters from your hand, Deck, or field as Fusion Material. You cannot Special Summon monsters from the Extra Deck, except Fusion Monsters, the turn you activate this card. You can only activate 1 \"Branded Fusion\" per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268013_200w.jpg",
+      "modifiedOn": "2025-10-31T18:50:46.807",
+      "name": "Branded Fusion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268013,
+      "url": "https://www.tcgplayer.com/product/268013/yugioh-structure-deck-albaz-strike-branded-fusion"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Branded in White",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN022"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material, including a Dragon monster. You can also banish monsters from your GY as material, if you use \"Fallen of Albaz\" as Fusion Material from your hand, field, or by banishing itself from your GY. During the End Phase, if this card is in the GY because it was sent there to activate the effect of \"Fallen of Albaz\" this turn: You can Set this card. You can only use each effect of \"Branded in White\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268014_200w.jpg",
+      "modifiedOn": "2025-10-23T20:54:47.197",
+      "name": "Branded in White",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 268014,
+      "url": "https://www.tcgplayer.com/product/268014/yugioh-structure-deck-albaz-strike-branded-in-white"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Branded Bond",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN023"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Special Summon 1 of your \"Fallen of Albaz\" that is banished, in your hand, or in your GY. During the End Phase, if this card is in the GY because it was sent there to activate the effect of \"Fallen of Albaz\" this turn: You can Set this card. You can only use each effect of \"Branded Bond\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268015_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Branded Bond",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268015,
+      "url": "https://www.tcgplayer.com/product/268015/yugioh-structure-deck-albaz-strike-branded-bond"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Fusion Gate",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN024"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Field Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "While this card is on the field: The turn player can Fusion Summon 1 Fusion Monster from their Extra Deck, by banishing Fusion Materials listed on it from their hand or field."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268016_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Fusion Gate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268016,
+      "url": "https://www.tcgplayer.com/product/268016/yugioh-structure-deck-albaz-strike-fusion-gate"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Fusion Recycling Plant",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN025"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Field Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn: You can discard 1 card; add 1 \"Polymerization\" from your Deck or GY to your hand. Once per turn, during the End Phase: You can target 1 monster in your GY that was used as a Fusion Material for a Fusion Summon this turn; add it to your hand."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268017_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Fusion Recycling Plant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268017,
+      "url": "https://www.tcgplayer.com/product/268017/yugioh-structure-deck-albaz-strike-fusion-recycling-plant"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Fusion Substitute",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN026"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "(This card's name is always treated as \"Polymerization\".)\r\n\u003cbr\u003eFusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Material. You can banish this card from your GY, then target 1 Fusion Monster in your GY; return it to the Extra Deck, then draw 1 card."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268018_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Fusion Substitute",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268018,
+      "url": "https://www.tcgplayer.com/product/268018/yugioh-structure-deck-albaz-strike-fusion-substitute"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gold Sarcophagus",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN027"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Banish 1 card from your Deck, face-up. During your second Standby Phase after this card's activation, add that card to the hand."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268019_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Gold Sarcophagus",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268019,
+      "url": "https://www.tcgplayer.com/product/268019/yugioh-structure-deck-albaz-strike-gold-sarcophagus"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Pot of Extravagance",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN028"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "At the start of your Main Phase 1: Banish 3 or 6 random face-down cards from your Extra Deck, face-down; draw 1 card for every 3 cards banished. For the rest of this turn after this card resolves, you cannot draw any cards by card effects."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268020_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Pot of Extravagance",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268020,
+      "url": "https://www.tcgplayer.com/product/268020/yugioh-structure-deck-albaz-strike-pot-of-extravagance"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Called by the Grave",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN029"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Quick-Play Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Target 1 monster in your opponent's GY; banish it, and if you do, until the end of the next turn, its effects are negated, as well as the activated effects and effects on the field of monsters with the same original name."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268021_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Called by the Grave",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268021,
+      "url": "https://www.tcgplayer.com/product/268021/yugioh-structure-deck-albaz-strike-called-by-the-grave"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Ruler No More",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN030"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Negate the effects of all face-up monsters your opponent currently controls, until the end of this turn, also, for the rest of this turn after this card resolves, your opponent takes no damage. Neither player can activate monster effects in response to this card's activation."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268022_200w.jpg",
+      "modifiedOn": "2025-10-31T18:50:46.743",
+      "name": "Dark Ruler No More",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268022,
+      "url": "https://www.tcgplayer.com/product/268022/yugioh-structure-deck-albaz-strike-dark-ruler-no-more"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Branded Sword",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN031"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Banish any number of \"Branded\" Spells/Traps from your GY; Special Summon that many \"Iceblade Tokens\" (Dragon/DARK/Level 8/ATK 2500/DEF 2000). You can banish this card from your GY, then target 1 of your banished monsters that is \"Fallen of Albaz\" or mentions it; add that monster to your hand. You can only use 1 \"Branded Sword\" effect per turn, and only once that turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268023_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Branded Sword",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268023,
+      "url": "https://www.tcgplayer.com/product/268023/yugioh-structure-deck-albaz-strike-branded-sword"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Branded Retribution",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN032"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Counter Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When a Spell/Trap Card, or monster effect, is activated that includes an effect that Special Summons a monster(s): Return to the Extra Deck, 1 face-up Fusion Monster you control, or 2 Fusion Monsters in your GY, that mention \"Fallen of Albaz\" as material, and if you do, negate the activation, and if you do that, destroy that card. You can banish this card from your GY, then target 1 \"Branded\" Spell/Trap in your GY, except \"Branded Retribution\"; add it to your hand. You can only use 1 \"Branded Retribution\" effect per turn, and only once that turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268024_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Branded Retribution",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268024,
+      "url": "https://www.tcgplayer.com/product/268024/yugioh-structure-deck-albaz-strike-branded-retribution"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Screams of the Branded",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN033"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If a Fusion Monster is sent to your GY this turn: Special Summon 1 of your Fusion Monsters that is banished or in your GY. During the End Phase, if this card is in the GY because it was sent there to activate the effect of \"Fallen of Albaz\" this turn: You can Set this card. You can only use this effect of \"Screams of the Branded\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268025_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Screams of the Branded",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268025,
+      "url": "https://www.tcgplayer.com/product/268025/yugioh-structure-deck-albaz-strike-screams-of-the-branded"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Judgment of the Branded",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN034"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Target 1 Level 8 or higher Fusion Monster you control; destroy all monsters your opponent controls with an equal or higher ATK than that monster. During the End Phase, if this card is in the GY because it was sent there to activate the effect of \"Fallen of Albaz\" this turn: You can Set this card. You can only use this effect of \"Judgment of the Branded\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268026_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Judgment of the Branded",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268026,
+      "url": "https://www.tcgplayer.com/product/268026/yugioh-structure-deck-albaz-strike-judgment-of-the-branded"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Necro Fusion",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN035"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your GY face-down, but it cannot attack this turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268027_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Necro Fusion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268027,
+      "url": "https://www.tcgplayer.com/product/268027/yugioh-structure-deck-albaz-strike-necro-fusion"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Back to the Front",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN036"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Target 1 monster in your GY; Special Summon it in Defense Position."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268028_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Back to the Front",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268028,
+      "url": "https://www.tcgplayer.com/product/268028/yugioh-structure-deck-albaz-strike-back-to-the-front"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Warning Point",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN037"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "When a monster(s) is Summoned: This turn, that face-up monster(s) cannot attack, its effects are negated, also it cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268029_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Warning Point",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268029,
+      "url": "https://www.tcgplayer.com/product/268029/yugioh-structure-deck-albaz-strike-warning-point"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "There Can Be Only One",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN038"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Continuous Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each player can only control 1 monster of each Type. If a player controls 2 or more monsters of the same Type, they must send some to the GY so they control no more than 1 monster of that Type."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268030_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "There Can Be Only One",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268030,
+      "url": "https://www.tcgplayer.com/product/268030/yugioh-structure-deck-albaz-strike-there-can-be-only-one"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dimensional Barrier",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN039"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Declare 1 monster card type (Ritual, Fusion, Synchro, Xyz, or Pendulum); for the rest of this turn, neither player can Special Summon monsters of the declared type, also negate the effects of all monsters of that type while they are on the field. You can only activate 1 \"Dimensional Barrier\" per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268031_200w.jpg",
+      "modifiedOn": "2023-10-12T12:54:19.037",
+      "name": "Dimensional Barrier",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 268031,
+      "url": "https://www.tcgplayer.com/product/268031/yugioh-structure-deck-albaz-strike-dimensional-barrier"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Waking the Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN040"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "TRAP"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Trap"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If this Set card in its owner's control has left the field because of an opponent's effect, and is now in the GY or banished: You can Special Summon 1 monster from your Deck or Extra Deck."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268032_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Waking the Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268032,
+      "url": "https://www.tcgplayer.com/product/268032/yugioh-structure-deck-albaz-strike-waking-the-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Mirrorjade the Iceblade Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN041"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Wyrm"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\"Fallen of Albaz\" + 1 Fusion, Synchro, Xyz, or Link Monster\r\n\u003cbr\u003eYou can only control 1 \"Mirrorjade the Iceblade Dragon\". Once per turn (Quick Effect): You can send 1 Fusion Monster from your Extra Deck to the GY that mentions \"Fallen of Albaz\" as material; banish 1 monster on the field, also this card cannot use this effect next turn. If this Fusion Summoned card in its owner's control leaves the field because of an opponent's card: You can destroy all monsters your opponent controls during the End Phase of this turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268033_200w.jpg",
+      "modifiedOn": "2025-05-13T13:08:31.257",
+      "name": "Mirrorjade the Iceblade Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 268033,
+      "url": "https://www.tcgplayer.com/product/268033/yugioh-structure-deck-albaz-strike-mirrorjade-the-iceblade-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Lubellion the Searing Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN042"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "3000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "1 DARK monster + \"Fallen of Albaz\"\r\n\u003cbr\u003eIf this card is Fusion Summoned: You can discard 1 card; Fusion Summon 1 Level 8 or lower Fusion Monster from your Extra Deck, except \"Lubellion the Searing Dragon\", by shuffling Fusion Materials mentioned on it into the Deck, from your monsters on the field, GY, and/or face-up banished cards. For the rest of this turn, this card cannot attack, also you cannot Special Summon monsters from the Extra Deck, except Fusion Monsters. You can only use this effect of \"Lubellion the Searing Dragon\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268034_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Lubellion the Searing Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268034,
+      "url": "https://www.tcgplayer.com/product/268034/yugioh-structure-deck-albaz-strike-lubellion-the-searing-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Titaniklad the Ash Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN043"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\"Fallen of Albaz\" + 1 monster with 2500 or more ATK\r\n\u003cbr\u003eGains ATK equal to the combined original Levels of the monsters used for its Fusion Summon x 100. After this card is Fusion Summoned, for the rest of this turn, it is unaffected by the activated effects of any other monsters Special Summoned from the Extra Deck. During the End Phase, if this card is in the GY because it was sent there this turn: You can add to your hand, or Special Summon, 1 \"Fallen of Albaz\" or \"Dogmatika\" monster from your Deck. You can only use this effect of \"Titaniklad the Ash Dragon\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268035_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Titaniklad the Ash Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268035,
+      "url": "https://www.tcgplayer.com/product/268035/yugioh-structure-deck-albaz-strike-titaniklad-the-ash-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Brigrand the Glory Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN044"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\"Fallen of Albaz\" + 1 Level 8 or higher monster\r\n\u003cbr\u003eCannot be destroyed by battle. While you control this Fusion Summoned card, your opponent cannot target other monsters you control with monster effects. During the End Phase, if this card is in the GY because it was sent there this turn: You can add to your hand, or Special Summon, 1 \"Tri-Brigade\" monster or 1 \"Fallen of Albaz\" from your Deck. You can only use this effect of \"Brigrand the Glory Dragon\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268036_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Brigrand the Glory Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268036,
+      "url": "https://www.tcgplayer.com/product/268036/yugioh-structure-deck-albaz-strike-brigrand-the-glory-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Sprind the Irondash Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN045"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Machine"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\"Fallen of Albaz\" + 1 Effect Monster Special Summoned this turn\r\n\u003cbr\u003eDuring your Main Phase: You can move this card you control to another of your Main Monster Zones, then you can destroy all other face-up cards in this card's column. During the End Phase, if this card is in the GY because it was sent there this turn: You can add to your hand, or Special Summon, 1 \"Springans\" monster or 1 \"Fallen of Albaz\" from your Deck. You can only use each effect of \"Sprind the Irondash Dragon\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268037_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Sprind the Irondash Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268037,
+      "url": "https://www.tcgplayer.com/product/268037/yugioh-structure-deck-albaz-strike-sprind-the-irondash-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Albion the Branded Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN046"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\"Fallen of Albaz\" + 1 LIGHT monster\r\n\u003cbr\u003eIf this card is Fusion Summoned: You can Fusion Summon 1 Level 8 or lower Fusion Monster from your Extra Deck, except \"Albion the Branded Dragon\", by banishing Fusion Materials listed on it from your hand, field, and/or GY. During the End Phase, if this card is in the GY because it was sent there this turn: You can add to your hand or Set 1 \"Branded\" Spell/Trap directly from your Deck. You can only use each effect of \"Albion the Branded Dragon\" once per turn."
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268038_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Albion the Branded Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268038,
+      "url": "https://www.tcgplayer.com/product/268038/yugioh-structure-deck-albaz-strike-albion-the-branded-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Albaz the Shrouded",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN047"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Token"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card can be used as any Token or Counter.\r\n\u003cbr\u003e\u003cbr\u003e\u003cem\u003eDoes his name refer to a past, buried in darkness, or to a bright future?\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268039_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Albaz the Shrouded",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268039,
+      "url": "https://www.tcgplayer.com/product/268039/yugioh-structure-deck-albaz-strike-albaz-the-shrouded"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Ecclesia the Exiled",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN048"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Token"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card can be used as any Token or Counter.\r\n\u003cbr\u003e\u003cbr\u003e\u003cem\u003eA pure white heart to be filled with many memories. With thoughts of coming days in mind, the girl gifts a name to the boy.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268040_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Ecclesia the Exiled",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268040,
+      "url": "https://www.tcgplayer.com/product/268040/yugioh-structure-deck-albaz-strike-ecclesia-the-exiled"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Tri Brigade",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN049"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Token"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card can be used as any Token or Counter.\r\n\u003cbr\u003e\u003cbr\u003e\u003cem\u003eReady... Aim...\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268041_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Tri-Brigade",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268041,
+      "url": "https://www.tcgplayer.com/product/268041/yugioh-structure-deck-albaz-strike-tri-brigade"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Virtuous Vestals",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN050"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Token"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card can be used as any Token or Counter.\r\n\u003cbr\u003e\u003cbr\u003e\u003cem\u003eSometimes like a kind sister, sometimes like a strict teacher. The bond is always there, even while far apart.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268042_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "The Virtuous Vestals",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268042,
+      "url": "https://www.tcgplayer.com/product/268042/yugioh-structure-deck-albaz-strike-the-virtuous-vestals"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Aluber the Dogmatic",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "SDAZ-EN051"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Common"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Token"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card can be used as any Token or Counter.\r\n\u003cbr\u003e\u003cbr\u003e\u003cem\u003eA thing separated from the abyss. It mocked the light and deceived the darkness.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/268043_200w.jpg",
+      "modifiedOn": "2022-04-15T04:03:07.897",
+      "name": "Aluber the Dogmatic",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2022-04-15T00:00:00"
+      },
+      "productId": 268043,
+      "url": "https://www.tcgplayer.com/product/268043/yugioh-structure-deck-albaz-strike-aluber-the-dogmatic"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Albaz Strike Structure Deck Display 1st Edition",
+      "extendedData": [
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each display contains 8 Albaz Strike structure decks."
+        },
+        {
+          "displayName": "UPC",
+          "name": "UPC",
+          "value": "083717854500"
+        }
+      ],
+      "groupId": 2961,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/286611_200w.jpg",
+      "modifiedOn": "2022-09-19T16:19:13.167",
+      "name": "Albaz Strike Structure Deck Display [1st Edition]",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 286611,
+      "url": "https://www.tcgplayer.com/product/286611/yugioh-structure-deck-albaz-strike-albaz-strike-structure-deck-display-1st-edition"
+    }
+  ],
+  "success": true,
+  "totalItems": 53
+}

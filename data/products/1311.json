@@ -1,0 +1,2503 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Abyssal Specter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Specter"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003e\r\nWhenever Abyssal Specter deals damage to a player, that player discards a card from his or her hand."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Open the gates, and bid them enter.\"\u003cbr\u003e—Lim-Dûl, the Necromancer\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79614_200w.jpg",
+      "modifiedOn": "2024-05-15T19:05:45.213",
+      "name": "Abyssal Specter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79614,
+      "url": "https://www.tcgplayer.com/product/79614/magic-deckmasters-garfield-vs-finkel-abyssal-specter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Contagion",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may pay 1 life and remove a black card in your hand from the game rather than paying Contagion's mana cost.\r\n\u003cbr\u003e\r\nPut two -2/-1 counters, distributed as you choose, on one or two target creatures."
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79615_200w.jpg",
+      "modifiedOn": "2024-05-15T19:18:10.567",
+      "name": "Contagion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79615,
+      "url": "https://www.tcgplayer.com/product/79615/magic-deckmasters-garfield-vs-finkel-contagion"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dark Banishing",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target nonblack creature. It can't be regenerated."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Will not the mountains quake and hills melt at the coming of the darkness? Share this vision with your enemies, Lim-Dûl, and they shall wither.”\u003cbr\u003e—Leshrac, Walker of Night\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79616_200w.jpg",
+      "modifiedOn": "2024-08-22T20:11:20.18",
+      "name": "Dark Banishing",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79616,
+      "url": "https://www.tcgplayer.com/product/79616/magic-deckmasters-garfield-vs-finkel-dark-banishing"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dark Ritual",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Add BBB to your mana pool."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Leshrac, my liege, grant me the power I am due.”\u003cbr\u003e—Lim-Dûl, the Necromancer\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79617_200w.jpg",
+      "modifiedOn": "2024-05-15T19:25:00.443",
+      "name": "Dark Ritual",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79617,
+      "url": "https://www.tcgplayer.com/product/79617/magic-deckmasters-garfield-vs-finkel-dark-ritual"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Foul Familiar",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spirit"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Foul Familiar can't block.\r\n\u003cbr\u003e\r\nB, Pay 1 life: Return Foul Familiar to its owner’s hand."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Serve me, and live forever.”\u003cbr\u003e—Lim-Dûl, the Necromancer\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79618_200w.jpg",
+      "modifiedOn": "2024-05-15T20:02:59.243",
+      "name": "Foul Familiar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79618,
+      "url": "https://www.tcgplayer.com/product/79618/magic-deckmasters-garfield-vs-finkel-foul-familiar"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lim Duls High Guard 6a",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6a"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Skeleton"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike\r\n\u003cbr\u003e\r\n1B: Regenerate Lim-Dûl's High Guard."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The Guard will forever stand ready. For them, death is merely an inconvenience, not an ending.\"\u003cbr\u003e—Chaeska, Keeper of Tresserhorn\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79619_200w.jpg",
+      "modifiedOn": "2025-12-02T04:14:32.153",
+      "name": "Lim-Dul's High Guard (6a)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79619,
+      "url": "https://www.tcgplayer.com/product/79619/magic-deckmasters-garfield-vs-finkel-lim-duls-high-guard-6a"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Necropotence",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Skip your draw step.\r\n\u003cbr\u003e\r\nIf you would discard a card from your hand, remove that card from the game instead.\r\n\u003cbr\u003e\r\nPay 1 life: Remove the top card of your library from the game face down. At the end of your turn, put that card into your hand."
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79620_200w.jpg",
+      "modifiedOn": "2024-05-15T20:30:02.567",
+      "name": "Necropotence",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79620,
+      "url": "https://www.tcgplayer.com/product/79620/magic-deckmasters-garfield-vs-finkel-necropotence"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phantasmal Fiend 8a",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8a"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Phantasm"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "B: Phantasmal Fiend gets +1/-1 until end of turn.\r\n\u003cbr\u003e\r\n1U: Switch Phantasmal Fiend's power and toughness until end of turn. Effects that would alter Phantasmal Fiend's power this turn alter its toughness instead, and vice versa."
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79621_200w.jpg",
+      "modifiedOn": "2025-01-29T17:52:26.863",
+      "name": "Phantasmal Fiend (8a)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79621,
+      "url": "https://www.tcgplayer.com/product/79621/magic-deckmasters-garfield-vs-finkel-phantasmal-fiend-8a"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Soul Burn",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Spend only black and/or red mana on X.\r\n\u003cbr\u003e\r\nSoul Burn deals X damage to target creature or player. You gain life equal to the damage dealt, but not more than the amount of B spent on X, the player's life total before Soul Burn dealt damage, or the creature's toughness."
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79622_200w.jpg",
+      "modifiedOn": "2024-05-15T20:39:35.233",
+      "name": "Soul Burn",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79622,
+      "url": "https://www.tcgplayer.com/product/79622/magic-deckmasters-garfield-vs-finkel-soul-burn"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Balduvian Horde",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Barbarian"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Balduvian Horde comes into play, sacrifice it unless you discard a card at random from your hand."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Peace will come only when we have taken Varchild’s head.”\u003cbr\u003e—Lovisa Coldeyes, Balduvian Chieftain\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79623_200w.jpg",
+      "modifiedOn": "2024-05-15T19:08:45.903",
+      "name": "Balduvian Horde",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79623,
+      "url": "https://www.tcgplayer.com/product/79623/magic-deckmasters-garfield-vs-finkel-balduvian-horde"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Death Spark",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Death Spark deals 1 damage to target creature or player.\r\n\u003cbr\u003e\r\nAt the beginning of your upkeep, if Death Spark is in your graveyard with a creature card directly above it, you may pay 1. If you do, return Death Spark to your hand."
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79624_200w.jpg",
+      "modifiedOn": "2024-05-15T19:26:07.1",
+      "name": "Death Spark",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79624,
+      "url": "https://www.tcgplayer.com/product/79624/magic-deckmasters-garfield-vs-finkel-death-spark"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goblin Mutant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Goblin"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample\r\n\u003cbr\u003e\r\nGoblin Mutant can't attack if defending player controls an untapped creature with power 3 or greater.\r\n\u003cbr\u003e\r\nGoblin Mutant can't block creatures with power 3 or greater."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIf only it had three brains, too.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79625_200w.jpg",
+      "modifiedOn": "2024-05-15T20:08:48.53",
+      "name": "Goblin Mutant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79625,
+      "url": "https://www.tcgplayer.com/product/79625/magic-deckmasters-garfield-vs-finkel-goblin-mutant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Guerrilla Tactics 13a",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13a"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Guerrilla Tactics deals 2 damage to target creature or player.\r\n\u003cbr\u003e\r\nWhen a spell or ability an opponent controls causes you to discard Guerrilla Tactics from your hand, Guerrilla Tactics deals 4 damage to target creature or player."
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79626_200w.jpg",
+      "modifiedOn": "2024-05-15T20:10:38.263",
+      "name": "Guerrilla Tactics (13a)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79626,
+      "url": "https://www.tcgplayer.com/product/79626/magic-deckmasters-garfield-vs-finkel-guerrilla-tactics-13a"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Incinerate",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Yes, I think ‘toast’ is an appropriate description.”\u003cbr\u003e—Jaya Ballard, Task Mage\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79627_200w.jpg",
+      "modifiedOn": "2024-05-15T20:15:37.593",
+      "name": "Incinerate",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79627,
+      "url": "https://www.tcgplayer.com/product/79627/magic-deckmasters-garfield-vs-finkel-incinerate"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Jokulhaups",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy all artifacts, creatures, and lands. They can't be regenerated."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“I was shocked when I first saw the aftermath of the Yavimaya Valley disaster. The raging waters had swept away trees, bridges, and even houses. My healers had much work to do.”\u003cbr\u003e—Halvor Arenson, Kjeldoran Priest\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79628_200w.jpg",
+      "modifiedOn": "2024-05-15T20:16:28.693",
+      "name": "Jokulhaups",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79628,
+      "url": "https://www.tcgplayer.com/product/79628/magic-deckmasters-garfield-vs-finkel-jokulhaups"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lava Burst",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lava Burst deals X damage to target creature or player. If Lava Burst would deal damage to a creature, that damage can't be prevented or dealt instead to another creature or player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Overkill? This isn’t a game of kick-the-ouphe!”\u003cbr\u003e—Jaya Ballard, Task Mage\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79629_200w.jpg",
+      "modifiedOn": "2024-05-15T20:21:21.72",
+      "name": "Lava Burst",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79629,
+      "url": "https://www.tcgplayer.com/product/79629/magic-deckmasters-garfield-vs-finkel-lava-burst"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Orcish Cannoneers",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "17"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Orc"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Orcish Cannoneers deals 2 damage to target creature or player and 3 damage to you."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“It’s a thankless job, and you’ll probably die in an explosion. But the pay is pretty good.”\u003cbr\u003e—Toothlicker Harj, Orcish Captain\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79630_200w.jpg",
+      "modifiedOn": "2024-05-15T20:30:28.477",
+      "name": "Orcish Cannoneers",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79630,
+      "url": "https://www.tcgplayer.com/product/79630/magic-deckmasters-garfield-vs-finkel-orcish-cannoneers"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pillage",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "18"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target artifact or land. It can't be regenerated."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Were they to reduce us to ash, we would clog their throats and sting their eyes in payment.”\u003cbr\u003e—Lovisa Coldeyes, Balduvian Chieftain\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79631_200w.jpg",
+      "modifiedOn": "2024-05-15T20:36:06.4",
+      "name": "Pillage",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79631,
+      "url": "https://www.tcgplayer.com/product/79631/magic-deckmasters-garfield-vs-finkel-pillage"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pyroclasm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "19"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Pyroclasm deals 2 damage to each creature."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Leaves more room for the big ones to fight in, you know.”\u003cbr\u003e—Jaya Ballard, task mage\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79632_200w.jpg",
+      "modifiedOn": "2024-05-15T20:38:00.707",
+      "name": "Pyroclasm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79632,
+      "url": "https://www.tcgplayer.com/product/79632/magic-deckmasters-garfield-vs-finkel-pyroclasm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shatter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "20"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target artifact."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Let the past be the past. Do not call up that which you cannot put down. Destroy that which destroyed us, so long ago.”\u003cbr\u003e—Sorine Relicbane, Soldevi heretic\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79633_200w.jpg",
+      "modifiedOn": "2024-05-15T20:38:38.46",
+      "name": "Shatter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79633,
+      "url": "https://www.tcgplayer.com/product/79633/magic-deckmasters-garfield-vs-finkel-shatter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Storm Shaman 21a",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "21a"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "R: Storm Shaman gets +1/+0 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Embrace the storm. Its voice shall echo within you, and its fire shall become your touch!\"\u003cbr\u003e—Lovisa Coldeyes, Balduvian chieftain\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79634_200w.jpg",
+      "modifiedOn": "2024-05-15T20:40:35.12",
+      "name": "Storm Shaman (21a)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79634,
+      "url": "https://www.tcgplayer.com/product/79634/magic-deckmasters-garfield-vs-finkel-storm-shaman-21a"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Balduvian Bears",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "22"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Bear"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“They’re a hardy bunch, but I’d still bet that they just slept through the worst of the cold times.”\u003cbr\u003e—Disa the Restless, journal entry\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79635_200w.jpg",
+      "modifiedOn": "2025-10-28T16:26:46.257",
+      "name": "Balduvian Bears",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79635,
+      "url": "https://www.tcgplayer.com/product/79635/magic-deckmasters-garfield-vs-finkel-balduvian-bears"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bounty of the Hunt",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "23"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may remove a green card in your hand from the game rather than paying Bounty of the Hunt's mana cost.\r\n\u003cbr\u003e\r\nChoose one — Target creature gets +3/+3 until end of turn; or target creature gets +2/+2 and another target creature gets +1/+1 until end of turn; or three target creatures each get +1/+1 until end of turn."
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79636_200w.jpg",
+      "modifiedOn": "2024-05-15T19:15:45.6",
+      "name": "Bounty of the Hunt",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79636,
+      "url": "https://www.tcgplayer.com/product/79636/magic-deckmasters-garfield-vs-finkel-bounty-of-the-hunt"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Elvish Bard",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "24"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elf"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "All creatures able to block Elvish Bard do so."
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79637_200w.jpg",
+      "modifiedOn": "2024-05-15T19:30:22.987",
+      "name": "Elvish Bard",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79637,
+      "url": "https://www.tcgplayer.com/product/79637/magic-deckmasters-garfield-vs-finkel-elvish-bard"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Folk of the Pines",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "25"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Dryad"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1G: Folk of the Pines gets +1/+0 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Our friends of the forest take many forms, yet all serve the will of Freyalise.”\u003cbr\u003e—Laina of the Elvish Council\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79638_200w.jpg",
+      "modifiedOn": "2024-05-15T19:33:02.487",
+      "name": "Folk of the Pines",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79638,
+      "url": "https://www.tcgplayer.com/product/79638/magic-deckmasters-garfield-vs-finkel-folk-of-the-pines"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fyndhorn Elves",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "26"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Elf"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add G to your mana pool."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Living side by side with the Elves for so long leaves me with no doubt that we serve the same goddess.”\u003cbr\u003e—Kolbjörn, Elder Druid of the Juniper Order\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79639_200w.jpg",
+      "modifiedOn": "2024-05-15T20:03:21.343",
+      "name": "Fyndhorn Elves",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79639,
+      "url": "https://www.tcgplayer.com/product/79639/magic-deckmasters-garfield-vs-finkel-fyndhorn-elves"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Giant Growth",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "27"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target creature gets +3/+3 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Here in Fyndhorn, the goddess Freyalise is generous to her children.”\u003cbr\u003e—Kolbjörn, elder druid of the Juniper Order\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79640_200w.jpg",
+      "modifiedOn": "2024-05-15T20:05:38.007",
+      "name": "Giant Growth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79640,
+      "url": "https://www.tcgplayer.com/product/79640/magic-deckmasters-garfield-vs-finkel-giant-growth"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Hurricane",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "28"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Hurricane deals X damage to each creature with flying and each player."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“This was quite possibly the least pleasant occurrence on the entire expedition.”\u003cbr\u003e—Disa the Restless, journal entry\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79641_200w.jpg",
+      "modifiedOn": "2024-05-15T20:12:35.543",
+      "name": "Hurricane",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79641,
+      "url": "https://www.tcgplayer.com/product/79641/magic-deckmasters-garfield-vs-finkel-hurricane"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lhurgoyf",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "29"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Lhurgoyf"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "*"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "*"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Lhurgoyf has power equal to the total number of creature cards in all graveyards and its toughness is equal to that number plus 1."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Ach! Hans, run! It’s the Lhurgoyf!”\u003cbr\u003e—Saffi Eriksdotter, last words\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79642_200w.jpg",
+      "modifiedOn": "2024-05-15T20:22:22.32",
+      "name": "Lhurgoyf",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79642,
+      "url": "https://www.tcgplayer.com/product/79642/magic-deckmasters-garfield-vs-finkel-lhurgoyf"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Woolly Spider",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "30"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spider"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Woolly Spider may block as though it had flying.\r\n\u003cbr\u003e\r\nWhenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“We need not fear the forces of the air; I’ve yet to see a Spider without an appetite.”\u003cbr\u003e—Taaveti of Kelsinko, elvish hunter\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79643_200w.jpg",
+      "modifiedOn": "2025-11-11T04:55:51.7",
+      "name": "Woolly Spider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79643,
+      "url": "https://www.tcgplayer.com/product/79643/magic-deckmasters-garfield-vs-finkel-woolly-spider"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Yavimaya Ancients 31a",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "31a"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Treefolk"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "7"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "G: Yavimaya Ancients gets +1/-2 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"We orphans of Fyndhorn have found no welcome in this alien place.\"\u003cbr\u003e—Taaveti of Kelsinko, elvish hunter\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79644_200w.jpg",
+      "modifiedOn": "2024-05-15T20:43:07.063",
+      "name": "Yavimaya Ancients (31a)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79644,
+      "url": "https://www.tcgplayer.com/product/79644/magic-deckmasters-garfield-vs-finkel-yavimaya-ancients-31a"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Yavimaya Ants",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "32"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Swarm"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Trample; haste \u003cem\u003e(This creature may attack and T the turn it comes under your control.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nCumulative Upkeep: GG \u003cem\u003e(At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay GG for each age counter on it.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79645_200w.jpg",
+      "modifiedOn": "2025-01-29T17:53:14.737",
+      "name": "Yavimaya Ants",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79645,
+      "url": "https://www.tcgplayer.com/product/79645/magic-deckmasters-garfield-vs-finkel-yavimaya-ants"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Giant Trap Door Spider",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "33"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spider"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1RG, T: Remove from the game Giant Trap Door Spider and target creature without flying that's attacking you."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“So large and so quiet—a combination best avoided.”\u003cbr\u003e—Disa the Restless, journal entry\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79646_200w.jpg",
+      "modifiedOn": "2024-05-15T20:06:52.513",
+      "name": "Giant Trap Door Spider",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79646,
+      "url": "https://www.tcgplayer.com/product/79646/magic-deckmasters-garfield-vs-finkel-giant-trap-door-spider"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Barbed Sextant",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "34"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1, T: Sacrifice Barbed Sextant: Add one mana of any color to your mana pool. Draw a card at the beginning of the next turn's upkeep."
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79647_200w.jpg",
+      "modifiedOn": "2024-05-15T19:09:26.747",
+      "name": "Barbed Sextant",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79647,
+      "url": "https://www.tcgplayer.com/product/79647/magic-deckmasters-garfield-vs-finkel-barbed-sextant"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Elkin Bottle",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "35"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "3, T: Remove the top card of your library from the game face up. Until the beginning of your next upkeep, you may play that card as though it were in your hand. At the beginning of your next upkeep, if you haven't played the card, put it into your graveyard."
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79648_200w.jpg",
+      "modifiedOn": "2024-05-15T19:29:14.437",
+      "name": "Elkin Bottle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79648,
+      "url": "https://www.tcgplayer.com/product/79648/magic-deckmasters-garfield-vs-finkel-elkin-bottle"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Icy Manipulator",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "36"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "1, T: Tap target artifact, creature, or land."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“The scavengers who first found it called it the ‘Bone Crank.’ Not a bad name, I’d say.”\u003cbr\u003e—Arcum Dagsson, Soldevi Machinist\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79649_200w.jpg",
+      "modifiedOn": "2024-05-15T20:13:30.32",
+      "name": "Icy Manipulator",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79649,
+      "url": "https://www.tcgplayer.com/product/79649/magic-deckmasters-garfield-vs-finkel-icy-manipulator"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phyrexian War Beast 37a",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "37a"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Phyrexian War Beast leaves play, sacrifice a land and Phyrexian War Beast deals 1 damage to you."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Deal with the spawn of Phyrexia cautiously; only with time may we control them.\"\u003cbr\u003e—Arcum Dagsson, Soldevi machinist\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79650_200w.jpg",
+      "modifiedOn": "2024-05-15T20:34:46.373",
+      "name": "Phyrexian War Beast (37a)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79650,
+      "url": "https://www.tcgplayer.com/product/79650/magic-deckmasters-garfield-vs-finkel-phyrexian-war-beast-37a"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Walking Wall",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "38"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature — Wall"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "6"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003e(Walls can't attack.)\u003c/em\u003e\r\n\u003cbr\u003e\r\n3: Walking Wall gets +3/-1 until end of turn and may attack this turn as though it weren't a Wall. Play this ability only once each turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“The fortress is not what it seems.”\u003cbr\u003e—Arcum Dagsson, Soldevi machinist\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79651_200w.jpg",
+      "modifiedOn": "2024-05-15T20:49:10.75",
+      "name": "Walking Wall",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79651,
+      "url": "https://www.tcgplayer.com/product/79651/magic-deckmasters-garfield-vs-finkel-walking-wall"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Karplusan Forest",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "39"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add one colorless mana to your mana pool.\r\n\u003cbr\u003e\r\nT: Add R or G to your mana pool. Karplusan Forest deals 1 damage to you."
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79652_200w.jpg",
+      "modifiedOn": "2024-05-15T20:17:30.347",
+      "name": "Karplusan Forest",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79652,
+      "url": "https://www.tcgplayer.com/product/79652/magic-deckmasters-garfield-vs-finkel-karplusan-forest"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sulfurous Springs",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "40"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add one colorless mana to your mana pool.\r\n\u003cbr\u003e\r\nT: Add B or R to your mana pool. Sulfurous Springs deals 1 damage to you."
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79653_200w.jpg",
+      "modifiedOn": "2024-05-15T20:44:29.907",
+      "name": "Sulfurous Springs",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79653,
+      "url": "https://www.tcgplayer.com/product/79653/magic-deckmasters-garfield-vs-finkel-sulfurous-springs"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Underground River",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "41"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add one colorless mana to your mana pool.\r\n\u003cbr\u003e\r\nT: Add U or B to your mana pool. Underground River deals 1 damage to you."
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79654_200w.jpg",
+      "modifiedOn": "2024-05-15T20:47:12.983",
+      "name": "Underground River",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79654,
+      "url": "https://www.tcgplayer.com/product/79654/magic-deckmasters-garfield-vs-finkel-underground-river"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 42",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "42"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79655_200w.jpg",
+      "modifiedOn": "2024-05-15T20:44:42.187",
+      "name": "Swamp (42)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79655,
+      "url": "https://www.tcgplayer.com/product/79655/magic-deckmasters-garfield-vs-finkel-swamp-42"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 43",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "43"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79656_200w.jpg",
+      "modifiedOn": "2024-05-15T20:44:58.467",
+      "name": "Swamp (43)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79656,
+      "url": "https://www.tcgplayer.com/product/79656/magic-deckmasters-garfield-vs-finkel-swamp-43"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 44",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "44"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79657_200w.jpg",
+      "modifiedOn": "2024-05-15T20:46:21.88",
+      "name": "Swamp (44)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79657,
+      "url": "https://www.tcgplayer.com/product/79657/magic-deckmasters-garfield-vs-finkel-swamp-44"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 45",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "45"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79658_200w.jpg",
+      "modifiedOn": "2025-02-18T11:24:52.4",
+      "name": "Mountain (45)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79658,
+      "url": "https://www.tcgplayer.com/product/79658/magic-deckmasters-garfield-vs-finkel-mountain-45"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 46",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "46"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79659_200w.jpg",
+      "modifiedOn": "2024-05-15T20:28:55.193",
+      "name": "Mountain (46)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79659,
+      "url": "https://www.tcgplayer.com/product/79659/magic-deckmasters-garfield-vs-finkel-mountain-46"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain 47",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "47"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79660_200w.jpg",
+      "modifiedOn": "2024-05-15T20:29:13.1",
+      "name": "Mountain (47)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79660,
+      "url": "https://www.tcgplayer.com/product/79660/magic-deckmasters-garfield-vs-finkel-mountain-47"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 48",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "48"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79661_200w.jpg",
+      "modifiedOn": "2024-05-15T19:59:49.44",
+      "name": "Forest (48)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79661,
+      "url": "https://www.tcgplayer.com/product/79661/magic-deckmasters-garfield-vs-finkel-forest-48"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 49",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "49"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79662_200w.jpg",
+      "modifiedOn": "2024-05-15T20:01:18.547",
+      "name": "Forest (49)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79662,
+      "url": "https://www.tcgplayer.com/product/79662/magic-deckmasters-garfield-vs-finkel-forest-49"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forest 50",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "50"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79663_200w.jpg",
+      "modifiedOn": "2024-05-15T20:01:57.83",
+      "name": "Forest (50)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79663,
+      "url": "https://www.tcgplayer.com/product/79663/magic-deckmasters-garfield-vs-finkel-forest-50"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Lim Duls High Guard 6b",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6b"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Skeleton"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike\r\n\u003cbr\u003e\r\n1B: Regenerate Lim-Dûl's High Guard."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Death does not prevent us from service to our absent master. As long as Tresserhorn stands, so shall we.\"\u003cbr\u003e—Chaeska, keeper of Tresserhorn\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79664_200w.jpg",
+      "modifiedOn": "2024-05-15T20:27:07.38",
+      "name": "Lim-Dul's High Guard (6b)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79664,
+      "url": "https://www.tcgplayer.com/product/79664/magic-deckmasters-garfield-vs-finkel-lim-duls-high-guard-6b"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phantasmal Fiend 8b",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8b"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Phantasm"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "B: Phantasmal Fiend gets +1/-1 until end of turn.\r\n\u003cbr\u003e\r\n1U: Switch Phantasmal Fiend's power and toughness until end of turn. Effects that would alter Phantasmal Fiend's power this turn alter its toughness instead, and vice versa."
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79665_200w.jpg",
+      "modifiedOn": "2025-01-29T17:52:45.337",
+      "name": "Phantasmal Fiend (8b)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79665,
+      "url": "https://www.tcgplayer.com/product/79665/magic-deckmasters-garfield-vs-finkel-phantasmal-fiend-8b"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Guerrilla Tactics 13b",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13b"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Guerrilla Tactics deals 2 damage to target creature or player.\r\n\u003cbr\u003e\r\nWhen a spell or ability an opponent controls causes you to discard Guerrilla Tactics from your hand, Guerrilla Tactics deals 4 damage to target creature or player."
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79666_200w.jpg",
+      "modifiedOn": "2024-05-15T20:11:22.27",
+      "name": "Guerrilla Tactics (13b)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79666,
+      "url": "https://www.tcgplayer.com/product/79666/magic-deckmasters-garfield-vs-finkel-guerrilla-tactics-13b"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Storm Shaman 21b",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "21b"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "R: Storm Shaman gets +1/+0 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e“Let the lightening be your warning, and the thunder your battle cry.”\u003cbr\u003e—Lovisa Coldeyes,Balduvian chieftain\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79667_200w.jpg",
+      "modifiedOn": "2024-05-15T20:41:08.79",
+      "name": "Storm Shaman (21b)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79667,
+      "url": "https://www.tcgplayer.com/product/79667/magic-deckmasters-garfield-vs-finkel-storm-shaman-21b"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Yavimaya Ancients 31b",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "31b"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Treefolk"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "7"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "G: Yavimaya Ancients gets +1/-2 until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The Ancients teach us that if we can but last, we shall prevail.\"\u003cbr\u003e—Kaysa, elder druid of the Juniper Order\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79668_200w.jpg",
+      "modifiedOn": "2024-05-15T20:43:58.217",
+      "name": "Yavimaya Ancients (31b)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79668,
+      "url": "https://www.tcgplayer.com/product/79668/magic-deckmasters-garfield-vs-finkel-yavimaya-ancients-31b"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Phyrexian War Beast 37b",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "37b"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact Creature"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Phyrexian War Beast leaves play, sacrifice a land and Phyrexian War Beast deals 1 damage to you."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Knowing its origins, how could they have thought they could control it?\"\u003cbr\u003e—Sorine Relicbane, Soldevi Heretic\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/79669_200w.jpg",
+      "modifiedOn": "2024-05-15T20:35:19.18",
+      "name": "Phyrexian War Beast (37b)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 79669,
+      "url": "https://www.tcgplayer.com/product/79669/magic-deckmasters-garfield-vs-finkel-phyrexian-war-beast-37b"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Garfield vs Finkel 2001 Deckmasters Tin",
+      "extendedData": [
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "The Deckmasters Garfield vs. Finkel boxed set comes with two 62-card prebuilt decks, each featuring two exclusive premium cards plus other white bordered Ice Age and Alliances cards. The set includes four exclusive black-bordered premium cards:\r\n\u003cbr\u003e\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Icy Manipulator\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Incinerate\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Lhurgoyf\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Necropotence\r\n\u003cbr\u003e\r\n\u003cbr\u003eIn addition to the two 62 card prebuilt decks, you also receive:\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e Two 20-sided SpindownTM life counters, with the Deckmasters symbol in place of the 20.\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e A 10-by-14 inch poster of Lhurgoyf fighting Goblin Mutant\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003e A full-color booklet containing decklists, expert analysis, biographies, behind-the-scenes stories, and more\r\n\u003cbr\u003e\u003cb\u003e-\u003c/b\u003ePlus, you can use the sturdy, embossed metal Deckmasters case as a card box: it can hold over 700 cards in standard sized sleeves or eleven 60 card decks"
+        }
+      ],
+      "groupId": 1311,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/111908_200w.jpg",
+      "modifiedOn": "2016-02-09T18:18:44.34",
+      "name": "Garfield vs Finkel 2001 Deckmasters Tin",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 111908,
+      "url": "https://www.tcgplayer.com/product/111908/magic-deckmasters-garfield-vs-finkel-garfield-vs-finkel-2001-deckmasters-tin"
+    }
+  ],
+  "success": true,
+  "totalItems": 57
+}

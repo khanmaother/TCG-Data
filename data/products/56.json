@@ -1,0 +1,197 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Forest Guru",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add G to your mana pool."
+        }
+      ],
+      "groupId": 56,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/21635_200w.jpg",
+      "modifiedOn": "2019-10-10T20:40:21.23",
+      "name": "Forest - Guru",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 21635,
+      "url": "https://www.tcgplayer.com/product/21635/magic-guru-lands-forest-guru"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island Guru",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add U to your mana pool."
+        }
+      ],
+      "groupId": 56,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/21636_200w.jpg",
+      "modifiedOn": "2021-10-21T17:49:03.043",
+      "name": "Island - Guru",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 21636,
+      "url": "https://www.tcgplayer.com/product/21636/magic-guru-lands-island-guru"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mountain Guru",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add R to your mana pool."
+        }
+      ],
+      "groupId": 56,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/21637_200w.jpg",
+      "modifiedOn": "2019-10-10T20:40:42.07",
+      "name": "Mountain - Guru",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 21637,
+      "url": "https://www.tcgplayer.com/product/21637/magic-guru-lands-mountain-guru"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plains Guru",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add W to your mana pool."
+        }
+      ],
+      "groupId": 56,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/21638_200w.jpg",
+      "modifiedOn": "2019-10-10T20:40:52.99",
+      "name": "Plains - Guru",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 21638,
+      "url": "https://www.tcgplayer.com/product/21638/magic-guru-lands-plains-guru"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp Guru",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "P"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add B to your mana pool."
+        }
+      ],
+      "groupId": 56,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/21639_200w.jpg",
+      "modifiedOn": "2022-03-04T15:00:06.233",
+      "name": "Swamp - Guru",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 21639,
+      "url": "https://www.tcgplayer.com/product/21639/magic-guru-lands-swamp-guru"
+    }
+  ],
+  "success": true,
+  "totalItems": 5
+}

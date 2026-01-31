@@ -1,0 +1,629 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Ancient Tomb",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add 2 to your mana pool. Ancient Tomb deals 2 damage to you."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThere is no glory to be gained in the kingdom of the dead.\r\n\u003cbr\u003e\r\n—Vec tomb inscription\u003c/em\u003e"
+        }
+      ],
+      "groupId": 368,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/60129_200w.jpg",
+      "modifiedOn": "2025-05-01T18:56:19.547",
+      "name": "Ancient Tomb",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 60129,
+      "url": "https://www.tcgplayer.com/product/60129/magic-from-the-vault-realms-ancient-tomb"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Boseiju Who Shelters All",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Boseiju, Who Shelters All enters the battlefield tapped.\r\n\u003cbr\u003e\r\nT, Pay 2 life: Add 1 to your mana pool. If that mana is spent on an instant or sorcery spell, that spell can’t be countered by spells or abilities."
+        }
+      ],
+      "groupId": 368,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/60130_200w.jpg",
+      "modifiedOn": "2025-05-01T18:56:59.407",
+      "name": "Boseiju, Who Shelters All",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 60130,
+      "url": "https://www.tcgplayer.com/product/60130/magic-from-the-vault-realms-boseiju-who-shelters-all"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cephalid Coliseum",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add U to your mana pool. Cephalid Coliseum deals 1 damage to you.\r\n\u003cbr\u003e\r\n\u003cem\u003eThreshold\u003c/em\u003e — U, T, Sacrifice Cephalid Coliseum: Target player draws three cards, then discards three cards. Activate this ability only if seven or more cards are in your graveyard."
+        }
+      ],
+      "groupId": 368,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/60131_200w.jpg",
+      "modifiedOn": "2025-05-01T18:57:43.9",
+      "name": "Cephalid Coliseum",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 60131,
+      "url": "https://www.tcgplayer.com/product/60131/magic-from-the-vault-realms-cephalid-coliseum"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Desert",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land — Desert"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add 1 to your mana pool.\r\n\u003cbr\u003e\r\nT: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step."
+        }
+      ],
+      "groupId": 368,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/60132_200w.jpg",
+      "modifiedOn": "2025-05-01T18:58:43.307",
+      "name": "Desert",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 60132,
+      "url": "https://www.tcgplayer.com/product/60132/magic-from-the-vault-realms-desert"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dryad Arbor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land Creature — Forest Dryad"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        }
+      ],
+      "groupId": 368,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/60133_200w.jpg",
+      "modifiedOn": "2025-12-09T15:26:28.167",
+      "name": "Dryad Arbor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 60133,
+      "url": "https://www.tcgplayer.com/product/60133/magic-from-the-vault-realms-dryad-arbor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forbidden Orchard",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add one mana of any color to your mana pool.\r\n\u003cbr\u003e\r\nWhenever you tap Forbidden Orchard for mana, put a 1/1 colorless Spirit creature token into play under target opponent’s control."
+        }
+      ],
+      "groupId": 368,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/60134_200w.jpg",
+      "modifiedOn": "2025-05-01T19:01:36.147",
+      "name": "Forbidden Orchard",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 60134,
+      "url": "https://www.tcgplayer.com/product/60134/magic-from-the-vault-realms-forbidden-orchard"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Glacial Chasm",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Cumulative Upkeep—Pay 2 life.\r\n\u003cbr\u003e\r\nWhen Glacial Chasm enters the battlefield, sacrifice a land.\r\n\u003cbr\u003e\r\nCreatures you control can't attack.\r\n\u003cbr\u003e\r\nPrevent all damage that would be dealt to you."
+        }
+      ],
+      "groupId": 368,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/60135_200w.jpg",
+      "modifiedOn": "2025-12-08T13:45:37.773",
+      "name": "Glacial Chasm",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 60135,
+      "url": "https://www.tcgplayer.com/product/60135/magic-from-the-vault-realms-glacial-chasm"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Grove of the Burnwillows",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T Add 1 to your mana pool.\r\n\u003cbr\u003e\r\nT Add R or G to your mana pool. Each opponent gains 1 life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eSpring is the most beautiful season in the grove, when the new leaves open from their ember-buds in a race of leaping flames.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 368,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/60136_200w.jpg",
+      "modifiedOn": "2025-05-01T19:07:05.903",
+      "name": "Grove of the Burnwillows",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 60136,
+      "url": "https://www.tcgplayer.com/product/60136/magic-from-the-vault-realms-grove-of-the-burnwillows"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "High Market",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add 1 to your mana pool.\r\n\u003cbr\u003e\r\nT, Sacrifice a creature: You gain 1 life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIf it can’t be had here, it can’t be had on any world.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 368,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/60137_200w.jpg",
+      "modifiedOn": "2025-05-01T19:07:54.333",
+      "name": "High Market",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 60137,
+      "url": "https://www.tcgplayer.com/product/60137/magic-from-the-vault-realms-high-market"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Maze of Ith",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn."
+        }
+      ],
+      "groupId": 368,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/60138_200w.jpg",
+      "modifiedOn": "2025-05-01T19:08:59.057",
+      "name": "Maze of Ith",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 60138,
+      "url": "https://www.tcgplayer.com/product/60138/magic-from-the-vault-realms-maze-of-ith"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Murmuring Bosk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land — Forest"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "\u003cem\u003e(T Add G to your mana pool.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nAs Murmuring Bosk enters the battlefield, you may reveal a Treefolk card from your hand. If you don't, Murmuring Bosk enters the battlefield tapped.\r\n\u003cbr\u003e\r\nT: Add W or B to your mana pool. Murmuring Bosk deals 1 damage to you."
+        }
+      ],
+      "groupId": 368,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/60139_200w.jpg",
+      "modifiedOn": "2025-05-01T19:10:23.347",
+      "name": "Murmuring Bosk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 60139,
+      "url": "https://www.tcgplayer.com/product/60139/magic-from-the-vault-realms-murmuring-bosk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Shivan Gorge",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Add 1 to your mana pool.\r\n\u003cbr\u003e\r\n2R, T: Shivan Gorge deals 1 damage to each opponent."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eBoth forge and pyre.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 368,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/60140_200w.jpg",
+      "modifiedOn": "2025-05-01T19:11:15.377",
+      "name": "Shivan Gorge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 60140,
+      "url": "https://www.tcgplayer.com/product/60140/magic-from-the-vault-realms-shivan-gorge"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Urborg Tomb of Yawgmoth",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each land is a Swamp in addition to its other land types."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Yawgmoth's corpse is a wound in the universe. His foul blood seeps out, infecting the land with his final curse.\"\r\n\u003cbr\u003e\r\n—Lord Windgrace\u003c/em\u003e"
+        }
+      ],
+      "groupId": 368,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/60141_200w.jpg",
+      "modifiedOn": "2025-05-01T19:12:03.303",
+      "name": "Urborg, Tomb of Yawgmoth",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 60141,
+      "url": "https://www.tcgplayer.com/product/60141/magic-from-the-vault-realms-urborg-tomb-of-yawgmoth"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Vesuva",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "You may have Vesuva enter the battlefield tapped as a copy of any land on the battlefield."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIt's everywhere you've ever been.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 368,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/60142_200w.jpg",
+      "modifiedOn": "2025-05-01T19:12:44.847",
+      "name": "Vesuva",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 60142,
+      "url": "https://www.tcgplayer.com/product/60142/magic-from-the-vault-realms-vesuva"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Windbrisk Heights",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Hideaway \u003cem\u003e(This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)\u003c/em\u003e\r\n\u003cbr\u003e\r\nT: Add W to your mana pool.\r\n\u003cbr\u003e\r\nW, T: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn."
+        }
+      ],
+      "groupId": 368,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/60143_200w.jpg",
+      "modifiedOn": "2025-05-01T19:14:15.597",
+      "name": "Windbrisk Heights",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 60143,
+      "url": "https://www.tcgplayer.com/product/60143/magic-from-the-vault-realms-windbrisk-heights"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "From the Vault Realms Box Set",
+      "extendedData": [],
+      "groupId": 368,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/60149_200w.jpg",
+      "modifiedOn": "2017-11-02T12:53:53.567",
+      "name": "From the Vault: Realms - Box Set",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 60149,
+      "url": "https://www.tcgplayer.com/product/60149/magic-from-the-vault-realms-from-the-vault-realms-box-set"
+    }
+  ],
+  "success": true,
+  "totalItems": 16
+}

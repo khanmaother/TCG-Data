@@ -1,0 +1,984 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Magician",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "STP1-EN001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cem\u003eThe ultimate wizard in terms of attack and defense.\u003c/em\u003e\r\n\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eOfficial Tournament Stores must review their Konami OTS agreement before selling this product.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 2446,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/188971_200w.jpg",
+      "modifiedOn": "2023-02-28T16:18:18.467",
+      "name": "Dark Magician",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 188971,
+      "url": "https://www.tcgplayer.com/product/188971/yugioh-speed-duel-tournament-pack-1-dark-magician"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Magician Girl",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "STP1-EN002"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1700"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Gains 300 ATK for every \"Dark Magician\" or \"Magician of Black Chaos\" in the GY.\r\n\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eOfficial Tournament Stores must review their Konami OTS agreement before selling this product.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 2446,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/188972_200w.jpg",
+      "modifiedOn": "2025-10-21T23:03:29.57",
+      "name": "Dark Magician Girl",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 188972,
+      "url": "https://www.tcgplayer.com/product/188972/yugioh-speed-duel-tournament-pack-1-dark-magician-girl"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Wonder Wand",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "STP1-EN003"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Equip Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Equip only to a Spellcaster monster. It gains 500 ATK. If you control the monster and this card: You can send both to the GY; draw 2 cards.\r\n\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eOfficial Tournament Stores must review their Konami OTS agreement before selling this product.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 2446,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/188973_200w.jpg",
+      "modifiedOn": "2023-02-28T16:19:17.483",
+      "name": "Wonder Wand",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 188973,
+      "url": "https://www.tcgplayer.com/product/188973/yugioh-speed-duel-tournament-pack-1-wonder-wand"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Blue Eyes White Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "STP1-EN004"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "3000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cem\u003eThis legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.\u003c/em\u003e\r\n\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eOfficial Tournament Stores must review their Konami OTS agreement before selling this product.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 2446,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/188974_200w.jpg",
+      "modifiedOn": "2023-02-28T16:20:12.88",
+      "name": "Blue-Eyes White Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 188974,
+      "url": "https://www.tcgplayer.com/product/188974/yugioh-speed-duel-tournament-pack-1-blue-eyes-white-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Lord of D",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "STP1-EN005"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1200"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Neither player can target Dragon monsters on the field with card effects.\r\n\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eOfficial Tournament Stores must review their Konami OTS agreement before selling this product.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 2446,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/188975_200w.jpg",
+      "modifiedOn": "2023-02-28T16:20:34.953",
+      "name": "Lord of D.",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 188975,
+      "url": "https://www.tcgplayer.com/product/188975/yugioh-speed-duel-tournament-pack-1-lord-of-d"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "The Flute of Summoning Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "STP1-EN006"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Special Summon up to 2 Dragon monsters from your hand. \"Lord of D.\" must be on the field to activate and to resolve this effect.\r\n\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eOfficial Tournament Stores must review their Konami OTS agreement before selling this product.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 2446,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/188976_200w.jpg",
+      "modifiedOn": "2023-02-28T16:21:39.413",
+      "name": "The Flute of Summoning Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 188976,
+      "url": "https://www.tcgplayer.com/product/188976/yugioh-speed-duel-tournament-pack-1-the-flute-of-summoning-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Red Eyes B Dragon",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "STP1-EN007"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2400"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2000"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "\u003cem\u003eA ferocious dragon with a deadly attack.\u003c/em\u003e\r\n\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eOfficial Tournament Stores must review their Konami OTS agreement before selling this product.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 2446,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/188977_200w.jpg",
+      "modifiedOn": "2023-02-28T16:22:19.42",
+      "name": "Red-Eyes B. Dragon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 188977,
+      "url": "https://www.tcgplayer.com/product/188977/yugioh-speed-duel-tournament-pack-1-red-eyes-b-dragon"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Time Wizard",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "STP1-EN008"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "LIGHT"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "500"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Once per turn: You can toss a coin and call it. If you call it right, destroy all monsters your opponent controls. If you call it wrong, destroy as many monsters you control as possible, and if you do, take damage equal to half the total ATK those destroyed monsters had while face-up on the field.\r\n\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eOfficial Tournament Stores must review their Konami OTS agreement before selling this product.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 2446,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/188978_200w.jpg",
+      "modifiedOn": "2023-02-28T16:22:54.873",
+      "name": "Time Wizard",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 188978,
+      "url": "https://www.tcgplayer.com/product/188978/yugioh-speed-duel-tournament-pack-1-time-wizard"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gearfried the Iron Knight",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "STP1-EN009"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "EARTH"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Warrior"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If either player equips an Equip Card(s) to this card: Destroy that Equip Card(s).\r\n\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eOfficial Tournament Stores must review their Konami OTS agreement before selling this product.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 2446,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/188979_200w.jpg",
+      "modifiedOn": "2023-02-28T16:24:34.89",
+      "name": "Gearfried the Iron Knight",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 188979,
+      "url": "https://www.tcgplayer.com/product/188979/yugioh-speed-duel-tournament-pack-1-gearfried-the-iron-knight"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Relinquished",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "STP1-EN010"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Ritual/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can Ritual Summon this card with \"Black Illusion Ritual\". Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max 1). This card's ATK/DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead. While equipped with that monster, any battle damage you take from battles involving this card inflicts equal effect damage to your opponent.\r\n\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eOfficial Tournament Stores must review their Konami OTS agreement before selling this product.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 2446,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/188980_200w.jpg",
+      "modifiedOn": "2023-02-28T16:25:33.297",
+      "name": "Relinquished",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 188980,
+      "url": "https://www.tcgplayer.com/product/188980/yugioh-speed-duel-tournament-pack-1-relinquished"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Black Illusion Ritual",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "STP1-EN011"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Ritual Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "This card is used to Ritual Summon \"Relinquished\". You must also Tribute a monster from your hand or field whose Level is 1 or more.\r\n\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eOfficial Tournament Stores must review their Konami OTS agreement before selling this product.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 2446,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/188981_200w.jpg",
+      "modifiedOn": "2023-02-28T16:27:33.337",
+      "name": "Black Illusion Ritual",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 188981,
+      "url": "https://www.tcgplayer.com/product/188981/yugioh-speed-duel-tournament-pack-1-black-illusion-ritual"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Toon Table of Contents",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "STP1-EN012"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Add 1 \"Toon\" card from your deck to your hand.\r\n\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eOfficial Tournament Stores must review their Konami OTS agreement before selling this product.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 2446,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/188982_200w.jpg",
+      "modifiedOn": "2023-02-28T16:27:57.407",
+      "name": "Toon Table of Contents",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 188982,
+      "url": "https://www.tcgplayer.com/product/188982/yugioh-speed-duel-tournament-pack-1-toon-table-of-contents"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Harpie Lady Sisters",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "STP1-EN013"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1950"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2100"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Cannot be Normal Summoned/Set. Must first be Special Summoned with \"Elegant Egotist\".\r\n\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eOfficial Tournament Stores must review their Konami OTS agreement before selling this product.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 2446,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/188983_200w.jpg",
+      "modifiedOn": "2023-02-28T16:28:46.753",
+      "name": "Harpie Lady Sisters",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 188983,
+      "url": "https://www.tcgplayer.com/product/188983/yugioh-speed-duel-tournament-pack-1-harpie-lady-sisters"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Harpie Lady 1",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "STP1-EN014"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Winged Beast"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1300"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "(This card's name is always treated as \"Harpie Lady\".)\r\n\u003cbr\u003eAll WIND monsters gain 300 ATK.\r\n\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eOfficial Tournament Stores must review their Konami OTS agreement before selling this product.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 2446,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/188984_200w.jpg",
+      "modifiedOn": "2023-02-28T16:29:06.927",
+      "name": "Harpie Lady 1",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 188984,
+      "url": "https://www.tcgplayer.com/product/188984/yugioh-speed-duel-tournament-pack-1-harpie-lady-1"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Elegant Egotist",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "STP1-EN015"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "If Harpie Lady is on the field: Special Summon 1 \"Harpie Lady\" or \"Harpie Lady Sisters\" from your hand or Deck.\r\n\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eOfficial Tournament Stores must review their Konami OTS agreement before selling this product.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 2446,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/188985_200w.jpg",
+      "modifiedOn": "2023-02-28T16:29:27.137",
+      "name": "Elegant Egotist",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 188985,
+      "url": "https://www.tcgplayer.com/product/188985/yugioh-speed-duel-tournament-pack-1-elegant-egotist"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gravekeepers Oracle",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "STP1-EN016"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Ultra Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "You can Tribute 3 monsters or 1 \"Gravekeeper's\" monster to Tribute Summon (but not Set) this card. When this card is Tribute Summoned: You can activate any of these effects, and resolve in sequence, up to the number of \"Gravekeeper's\" monsters Tributed for its Summon;\r\n\u003cbr\u003e• This card gains ATK equal to the combined Levels that all monsters Tributed for its Tribute Summon had on the field x 100.\r\n\u003cbr\u003e• Destroy all Set monsters your opponent controls.\r\n\u003cbr\u003e• All monsters your opponent currently controls lose 2000 ATK/DEF.\r\n\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eOfficial Tournament Stores must review their Konami OTS agreement before selling this product.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 2446,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/188986_200w.jpg",
+      "modifiedOn": "2023-02-28T16:31:41.05",
+      "name": "Gravekeeper's Oracle",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 188986,
+      "url": "https://www.tcgplayer.com/product/188986/yugioh-speed-duel-tournament-pack-1-gravekeepers-oracle"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gravekeepers Priestess",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "STP1-EN017"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1000"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1500"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "While there is no face-up Field Spell, the field is treated as \"Necrovalley\". All \"Gravekeeper's\" monsters on the field gain 200 ATK/DEF.\r\n\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eOfficial Tournament Stores must review their Konami OTS agreement before selling this product.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 2446,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/188987_200w.jpg",
+      "modifiedOn": "2023-02-28T16:31:59.81",
+      "name": "Gravekeeper's Priestess",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 188987,
+      "url": "https://www.tcgplayer.com/product/188987/yugioh-speed-duel-tournament-pack-1-gravekeepers-priestess"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Gravekeepers Stele",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "STP1-EN018"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Target 2 \"Gravekeeper's\" monsters in your GY; add those targets to your hand. This effect cannot be negated by the effect of \"Necrovalley\".\r\n\r\n\u003cbr\u003e\u003cbr\u003e\u003cstrong\u003eOfficial Tournament Stores must review their Konami OTS agreement before selling this product.\u003c/strong\u003e"
+        }
+      ],
+      "groupId": 2446,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/188988_200w.jpg",
+      "modifiedOn": "2023-02-28T16:32:24.557",
+      "name": "Gravekeeper's Stele",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 188988,
+      "url": "https://www.tcgplayer.com/product/188988/yugioh-speed-duel-tournament-pack-1-gravekeepers-stele"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Speed Duel Tournament Pack 1",
+      "extendedData": [
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Each promotional pack contains 2 random cards."
+        }
+      ],
+      "groupId": 2446,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/244732_200w.jpg",
+      "modifiedOn": "2021-07-19T18:00:28.137",
+      "name": "Speed Duel: Tournament Pack 1",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 244732,
+      "url": "https://www.tcgplayer.com/product/244732/yugioh-speed-duel-tournament-pack-1-speed-duel-tournament-pack-1"
+    }
+  ],
+  "success": true,
+  "totalItems": 19
+}

@@ -1,0 +1,88 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Dark Paladin",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "DMG-001"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Secret Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "DARK"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Spellcaster"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Fusion/Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "2900"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "2400"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Dark Magician + Buster Blader\u003cBR\u003eThis monster cannot be Special Summoned except by Fusion Summon. As long as this card remains face-up on the field, you can discard 1 card from your hand to negate the activation of a Spell Card and destroy it. Increase the ATK of this card by 500 points for each Dragon-Type monster on the field and in either player''s Graveyard."
+        }
+      ],
+      "groupId": 178,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/25366_200w.jpg",
+      "modifiedOn": "2026-01-12T20:01:03.633",
+      "name": "Dark Paladin",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 25366,
+      "url": "https://www.tcgplayer.com/product/25366/yugioh-duel-masters-guide-dark-paladin"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Duel Masters Guide",
+      "extendedData": [
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Contents:\r\n\u003cbr\u003e• 1 Starter Deck: Yugi\r\n\u003cbr\u003e• 1 Starter Deck: Kaiba\r\n\u003cbr\u003e• 1 Duel Master's Guide DVD\r\n\u003cbr\u003e• 1 Secret Rare promotional card, \"Dark Paladin\""
+        }
+      ],
+      "groupId": 178,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/517613_200w.jpg",
+      "modifiedOn": "2023-09-25T15:20:29.403",
+      "name": "Duel Master's Guide",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 517613,
+      "url": "https://www.tcgplayer.com/product/517613/yugioh-duel-masters-guide-duel-masters-guide"
+    }
+  ],
+  "success": true,
+  "totalItems": 2
+}

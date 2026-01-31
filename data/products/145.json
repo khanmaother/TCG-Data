@@ -1,0 +1,118 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 2,
+      "cleanName": "Solar Recharge",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ANPR-ENSE1"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "SPELL"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Normal Spell"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "0"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "0"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "Discard 1 \"Lightsworn\" monster. Draw 2 cards then send the top 2 cards of your Deck to the Graveyard."
+        }
+      ],
+      "groupId": 145,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33483_200w.jpg",
+      "modifiedOn": "2018-04-25T17:52:00.097",
+      "name": "Solar Recharge",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33483,
+      "url": "https://www.tcgplayer.com/product/33483/yugioh-ancient-prophecy-se-solar-recharge"
+    },
+    {
+      "categoryId": 2,
+      "cleanName": "Red Eyes Wyvern",
+      "extendedData": [
+        {
+          "displayName": "Number",
+          "name": "Number",
+          "value": "ANPR-ENSE2"
+        },
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "displayName": "Attribute",
+          "name": "Attribute",
+          "value": "WIND"
+        },
+        {
+          "displayName": "Monster Type",
+          "name": "MonsterType",
+          "value": "Dragon"
+        },
+        {
+          "displayName": "Card Type",
+          "name": "Card Type",
+          "value": "Effect Monster"
+        },
+        {
+          "displayName": "Attack",
+          "name": "Attack",
+          "value": "1800"
+        },
+        {
+          "displayName": "Defense",
+          "name": "Defense",
+          "value": "1600"
+        },
+        {
+          "displayName": "Description",
+          "name": "Description",
+          "value": "During your End Phase, if you did not Normal Summon or Set a monster this turn, you can remove from play this card from your Graveyard to Special Summon 1 \"Red-Eyes\" monster from your Graveyard, except \"Red-Eyes B. Chick\"."
+        }
+      ],
+      "groupId": 145,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/33484_200w.jpg",
+      "modifiedOn": "2024-03-28T16:00:33.863",
+      "name": "Red-Eyes Wyvern",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 33484,
+      "url": "https://www.tcgplayer.com/product/33484/yugioh-ancient-prophecy-se-red-eyes-wyvern"
+    }
+  ],
+  "success": true,
+  "totalItems": 2
+}

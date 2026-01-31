@@ -1,0 +1,3684 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "categoryId": 1,
+      "cleanName": "Duel Decks Blessed vs Cursed Box Set",
+      "extendedData": [],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/112696_200w.jpg",
+      "modifiedOn": "2016-02-19T13:23:21.183",
+      "name": "Duel Decks: Blessed vs. Cursed - Box Set",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": "2016-02-26T00:00:00"
+      },
+      "productId": 112696,
+      "url": "https://www.tcgplayer.com/product/112696/magic-duel-decks-blessed-vs-cursed-duel-decks-blessed-vs-cursed-box-set"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Captain of the Mists",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "24"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever another Human enters the battlefield under your control, untap Captain of the Mists.\r\n\u003cbr\u003e1U, T: You may tap or untap target permanent."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I am no mere ship's captain. The north wind is my accomplice. The tide is my first mate.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113202_200w.jpg",
+      "modifiedOn": "2025-12-03T04:28:22.64",
+      "name": "Captain of the Mists",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113202,
+      "url": "https://www.tcgplayer.com/product/113202/magic-duel-decks-blessed-vs-cursed-captain-of-the-mists"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Compelling Deterrence",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "42"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Return target nonland permanent to its owner's hand. Then that player discards a card if you control a Zombie."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"So much for neighborly hospitality!\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113203_200w.jpg",
+      "modifiedOn": "2023-08-23T20:58:01.243",
+      "name": "Compelling Deterrence",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113203,
+      "url": "https://www.tcgplayer.com/product/113203/magic-duel-decks-blessed-vs-cursed-compelling-deterrence"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Eerie Interlude",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "8"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exile any number of target creatures you control. Return those cards to the battlefield under their owner's control at the beginning of the next end step."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe barrier between existence and oblivion is thinner than you know.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113204_200w.jpg",
+      "modifiedOn": "2025-05-15T19:23:44.527",
+      "name": "Eerie Interlude",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113204,
+      "url": "https://www.tcgplayer.com/product/113204/magic-duel-decks-blessed-vs-cursed-eerie-interlude"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Geist of Saint Traft",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "1"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Legendary Creature — Spirit Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Hexproof \u003cem\u003e(This creature can't be the target of spells or abilities your opponent control.)\u003c/em\u003e\r\n\u003cbr\u003eWhenever Geist of Saint Traft attacks, put a 4/4 white Angel creature token with flying onto the battlefield tapped and attacking. Exile that token at end of combat."
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113205_200w.jpg",
+      "modifiedOn": "2025-01-14T11:10:05.06",
+      "name": "Geist of Saint Traft",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113205,
+      "url": "https://www.tcgplayer.com/product/113205/magic-duel-decks-blessed-vs-cursed-geist-of-saint-traft"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mindwrack Demon",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "M"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "41"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Demon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying, trample\r\n\u003cbr\u003eWhen Mindwrack Demon enters the battlefield, put the top four cards of your library into your graveyard.\r\n\u003cbr\u003e\u003cem\u003eDelirium\u003c/em\u003e — At the beginning of your upkeep, you lose 4 life unless there are four or more card types among cards in your graveyard."
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113206_200w.jpg",
+      "modifiedOn": "2024-08-29T18:45:45.6",
+      "name": "Mindwrack Demon",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113206,
+      "url": "https://www.tcgplayer.com/product/113206/magic-duel-decks-blessed-vs-cursed-mindwrack-demon"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Pore Over the Pages",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "28"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Draw three cards, untap up to two lands, then discard a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I'm certain that the fate of Markov Manor is connected to these cryptoliths...' This Tamiyo was on to something.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113207_200w.jpg",
+      "modifiedOn": "2023-08-24T13:05:48.823",
+      "name": "Pore Over the Pages",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113207,
+      "url": "https://www.tcgplayer.com/product/113207/magic-duel-decks-blessed-vs-cursed-pore-over-the-pages"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tooth Collector",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "64"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Rogue"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Tooth Collector enters the battlefield, target creature an opponent controls gets -1/-1 until end of turn.\r\n\u003cbr\u003e\u003cem\u003eDelirium\u003c/em\u003e — At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, target creature that player controls gets -1/-1 until end of turn."
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113208_200w.jpg",
+      "modifiedOn": "2021-02-09T16:31:03.06",
+      "name": "Tooth Collector",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113208,
+      "url": "https://www.tcgplayer.com/product/113208/magic-duel-decks-blessed-vs-cursed-tooth-collector"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Topplegeist",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "21"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spirit"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eWhen Topplegeist enters the battlefield, tap target creature an opponent controls.\r\n\u003cbr\u003e\u003cem\u003eDelirium\u003c/em\u003e — At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, tap target creature that player controls."
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113209_200w.jpg",
+      "modifiedOn": "2021-02-09T16:31:11.863",
+      "name": "Topplegeist",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113209,
+      "url": "https://www.tcgplayer.com/product/113209/magic-duel-decks-blessed-vs-cursed-topplegeist"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Abattoir Ghoul",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "50"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "First strike\r\n\u003cbr\u003e\r\nWhenever a creature dealt damage by Abattoir Ghoul this turn dies, you gain life equal to that creature's toughness."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eDeath took his humanity but not his skill with the knife.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113217_200w.jpg",
+      "modifiedOn": "2023-08-23T20:48:26.887",
+      "name": "Abattoir Ghoul",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113217,
+      "url": "https://www.tcgplayer.com/product/113217/magic-duel-decks-blessed-vs-cursed-abattoir-ghoul"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Appetite for Brains",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "51"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target opponent reveals his or her hand. You choose a card from it with converted mana cost 4 or greater and exile that card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eJust as with a peach, the first bite is always the juiciest.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113219_200w.jpg",
+      "modifiedOn": "2023-08-23T20:50:20.533",
+      "name": "Appetite for Brains",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113219,
+      "url": "https://www.tcgplayer.com/product/113219/magic-duel-decks-blessed-vs-cursed-appetite-for-brains"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Barter in Blood",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "52"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Each player sacrifices two creatures."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"We must all make sacrifices for the good of Innistrad.\"\u003cbr\u003e—Sorin Markov\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113222_200w.jpg",
+      "modifiedOn": "2024-07-26T17:34:56.417",
+      "name": "Barter in Blood",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113222,
+      "url": "https://www.tcgplayer.com/product/113222/magic-duel-decks-blessed-vs-cursed-barter-in-blood"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Bonds of Faith",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "2"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Enchantment — Aura"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Enchant creature\r\n\u003cbr\u003eEnchanted creature gets +2/+2 as long as it's a Human. Otherwise, it can't attack or block."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"What cannot be destroyed will be bound.\"\u003cbr\u003e—Oath of Avacyn\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113223_200w.jpg",
+      "modifiedOn": "2023-08-23T20:53:18.367",
+      "name": "Bonds of Faith",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113223,
+      "url": "https://www.tcgplayer.com/product/113223/magic-duel-decks-blessed-vs-cursed-bonds-of-faith"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Butcher Ghoul",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "53"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Undying \u003cem\u003e(When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eWithout a mind, it doesn't fear death. Without a soul, it doesn't mind killing.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113225_200w.jpg",
+      "modifiedOn": "2023-08-23T20:53:53.073",
+      "name": "Butcher Ghoul",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113225,
+      "url": "https://www.tcgplayer.com/product/113225/magic-duel-decks-blessed-vs-cursed-butcher-ghoul"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cathedral Sanctifier",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "3"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Cathedral Sanctifier enters the battlefield, you gain 3 life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Evil will soon be vanquished. What Innistrad most needs now is healing.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113227_200w.jpg",
+      "modifiedOn": "2023-08-23T20:55:36.48",
+      "name": "Cathedral Sanctifier",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113227,
+      "url": "https://www.tcgplayer.com/product/113227/magic-duel-decks-blessed-vs-cursed-cathedral-sanctifier"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Champion of the Parish",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "4"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Whenever another Human enters the battlefield under your control, put a +1/+1 counter on Champion of the Parish."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I stand for every cobbler, tanner, and fool in this town—and they stand for me.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113229_200w.jpg",
+      "modifiedOn": "2023-08-23T20:56:13.937",
+      "name": "Champion of the Parish",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113229,
+      "url": "https://www.tcgplayer.com/product/113229/magic-duel-decks-blessed-vs-cursed-champion-of-the-parish"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Chapel Geist",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "5"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spirit"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eDeath has bound it with chains of past regrets. Forever it searches for atonement, each kindness removing a single link.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113231_200w.jpg",
+      "modifiedOn": "2023-08-23T20:56:49.793",
+      "name": "Chapel Geist",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113231,
+      "url": "https://www.tcgplayer.com/product/113231/magic-duel-decks-blessed-vs-cursed-chapel-geist"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Cobbled Wings",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "69"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature has flying.\r\n\u003cbr\u003eEquip 1"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eFor the necro-alchemist, any puzzle can be solved with intelligence and harvested body parts.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113232_200w.jpg",
+      "modifiedOn": "2023-08-23T20:57:33.92",
+      "name": "Cobbled Wings",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113232,
+      "url": "https://www.tcgplayer.com/product/113232/magic-duel-decks-blessed-vs-cursed-cobbled-wings"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dearly Departed",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "6"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spirit"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eAs long as Dearly Departed is in your graveyard, each Human creature you control enters the battlefield with an additional +1/+1 counter on it."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Never forget our ancestors. They have not forgotten us.\"\u003cbr\u003e—Mikaeus, the Lunarch\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113233_200w.jpg",
+      "modifiedOn": "2025-05-10T13:25:25.997",
+      "name": "Dearly Departed",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113233,
+      "url": "https://www.tcgplayer.com/product/113233/magic-duel-decks-blessed-vs-cursed-dearly-departed"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Diregraf Captain",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "68"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Deathtouch\r\n\u003cbr\u003eOther Zombie creatures you control get +1/+1.\r\n\u003cbr\u003eWhenever another Zombie you control dies, target opponent loses 1 life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThough its mind has long since rotted away, it wields a sword with deadly skill.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113234_200w.jpg",
+      "modifiedOn": "2025-12-03T04:29:53.233",
+      "name": "Diregraf Captain",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113234,
+      "url": "https://www.tcgplayer.com/product/113234/magic-duel-decks-blessed-vs-cursed-diregraf-captain"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Diregraf Ghoul",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "54"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Diregraf Ghoul enters the battlefield tapped."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"At least this one still has arms and legs. Well, most of its legs.\"\u003cbr\u003e—Enslow, ghoulcaller of Nephalia\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113237_200w.jpg",
+      "modifiedOn": "2023-08-24T12:39:10.627",
+      "name": "Diregraf Ghoul",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113237,
+      "url": "https://www.tcgplayer.com/product/113237/magic-duel-decks-blessed-vs-cursed-diregraf-ghoul"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dismal Backwater",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "70"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Dismal Backwater enters the battlefield tapped.\r\n\u003cbr\u003eWhen Dismal Backwater enters the battlefield, you gain 1 life.\r\n\u003cbr\u003eT: Add U or B to your mana pool."
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113239_200w.jpg",
+      "modifiedOn": "2021-02-09T16:19:07.323",
+      "name": "Dismal Backwater",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113239,
+      "url": "https://www.tcgplayer.com/product/113239/magic-duel-decks-blessed-vs-cursed-dismal-backwater"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Doomed Traveler",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "7"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eHe vowed he would never rest until he reached his destination. He doesn't know how right he was.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113241_200w.jpg",
+      "modifiedOn": "2023-08-24T12:39:51.32",
+      "name": "Doomed Traveler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113241,
+      "url": "https://www.tcgplayer.com/product/113241/magic-duel-decks-blessed-vs-cursed-doomed-traveler"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Driver of the Dead",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "56"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Vampire"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Driver of the Dead dies, return target creature with converted mana cost 2 or less from your graveyard to the battlefield."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eSome vampires resorted to corpse trading after cathars burned their estates and drove them from their ancestral feeding grounds.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113243_200w.jpg",
+      "modifiedOn": "2023-08-24T12:41:11.887",
+      "name": "Driver of the Dead",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113243,
+      "url": "https://www.tcgplayer.com/product/113243/magic-duel-decks-blessed-vs-cursed-driver-of-the-dead"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Elder Cathar",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "9"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Elder Cathar dies, put a +1/+1 counter on target creature you control. If that creature is a Human, put two +1/+1 counters on it instead."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"My greatest hope is that you will surpass me in every way, consigning my name to some forgotten corner of history.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113246_200w.jpg",
+      "modifiedOn": "2023-08-24T12:42:44.127",
+      "name": "Elder Cathar",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113246,
+      "url": "https://www.tcgplayer.com/product/113246/magic-duel-decks-blessed-vs-cursed-elder-cathar"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Emancipation Angel",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "10"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Angel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eWhen Emancipation Angel enters the battlefield, return a permanent you control to its owner's hand."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"You have done your best. I give you leave to rest.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113248_200w.jpg",
+      "modifiedOn": "2023-08-24T12:43:21.757",
+      "name": "Emancipation Angel",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113248,
+      "url": "https://www.tcgplayer.com/product/113248/magic-duel-decks-blessed-vs-cursed-emancipation-angel"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Falkenrath Noble",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "57"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Vampire"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eWhenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I often think on how excited they must feel to be chosen as my prey.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113249_200w.jpg",
+      "modifiedOn": "2023-08-24T12:43:59.083",
+      "name": "Falkenrath Noble",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113249,
+      "url": "https://www.tcgplayer.com/product/113249/magic-duel-decks-blessed-vs-cursed-falkenrath-noble"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Fiend Hunter",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "11"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Cleric"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Fiend Hunter enters the battlefield, you may exile another target creature.\r\n\u003cbr\u003eWhen Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control."
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113252_200w.jpg",
+      "modifiedOn": "2022-05-12T16:08:24.77",
+      "name": "Fiend Hunter",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113252,
+      "url": "https://www.tcgplayer.com/product/113252/magic-duel-decks-blessed-vs-cursed-fiend-hunter"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Forbidden Alchemy",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "43"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.\r\n\u003cbr\u003eFlashback 6B \u003cem\u003e(You may cast this card from your graveyard for its flashback cost. Then exile it.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113256_200w.jpg",
+      "modifiedOn": "2021-02-09T16:21:40.497",
+      "name": "Forbidden Alchemy",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113256,
+      "url": "https://www.tcgplayer.com/product/113256/magic-duel-decks-blessed-vs-cursed-forbidden-alchemy"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gather the Townsfolk",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "12"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Put two 1/1 white Human creature tokens onto the battlefield.\r\n\u003cbr\u003e\u003cem\u003eFateful hour\u003c/em\u003e — If you have 5 or less life, put five of those tokens onto the battlefield instead."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIn the memories of those they lost lies the strength needed to defend their city.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113258_200w.jpg",
+      "modifiedOn": "2023-08-24T12:51:28.243",
+      "name": "Gather the Townsfolk",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113258,
+      "url": "https://www.tcgplayer.com/product/113258/magic-duel-decks-blessed-vs-cursed-gather-the-townsfolk"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Ghoulraiser",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "58"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Ghoulraiser enters the battlefield, return a Zombie card at random from your graveyard to your hand."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Come. Bring your brothers. Tonight, you feast on living flesh.\"\u003cbr\u003e—Jadar, ghoulcaller of Nephalia\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113260_200w.jpg",
+      "modifiedOn": "2023-08-24T12:52:27.66",
+      "name": "Ghoulraiser",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113260,
+      "url": "https://www.tcgplayer.com/product/113260/magic-duel-decks-blessed-vs-cursed-ghoulraiser"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Goldnight Redeemer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "13"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Angel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eWhen Goldnight Redeemer enters the battlefield, you gain 2 life for each other creature you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe Host sings of Avacyn's return without a single verse about its own suffering.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113261_200w.jpg",
+      "modifiedOn": "2023-08-24T12:53:20.137",
+      "name": "Goldnight Redeemer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113261,
+      "url": "https://www.tcgplayer.com/product/113261/magic-duel-decks-blessed-vs-cursed-goldnight-redeemer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gravecrawler",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "59"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Gravecrawler can't block.\r\n\u003cbr\u003eYou may cast Gravecrawler from your graveyard as long as you control a Zombie."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Innistrad's ghoulcallers are talented enough, but let me show you what someone with real power can create.\"\u003cbr\u003e—Liliana Vess\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113263_200w.jpg",
+      "modifiedOn": "2025-04-26T08:06:27.443",
+      "name": "Gravecrawler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113263,
+      "url": "https://www.tcgplayer.com/product/113263/magic-duel-decks-blessed-vs-cursed-gravecrawler"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Gryff Vanguard",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "25"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Knight"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eWhen Gryff Vanguard enters the battlfield, draw a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Ghouls smashed the door, but I heard the call of the gryffs and knew we were saved.\"\u003cbr\u003e—Ekka, shopkeeper of Hanweir\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113268_200w.jpg",
+      "modifiedOn": "2023-08-24T12:54:43.367",
+      "name": "Gryff Vanguard",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113268,
+      "url": "https://www.tcgplayer.com/product/113268/magic-duel-decks-blessed-vs-cursed-gryff-vanguard"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Harvester of Souls",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "60"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Demon"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "5"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Deathtouch\r\n\u003cbr\u003eWhenever another nontoken creature dies, you may draw a card."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"He is judge, jury, and executioner because he killed them all.\"\u003cbr\u003e—Bishop Cawle of Elgaud\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113271_200w.jpg",
+      "modifiedOn": "2023-08-24T12:55:07.86",
+      "name": "Harvester of Souls",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113271,
+      "url": "https://www.tcgplayer.com/product/113271/magic-duel-decks-blessed-vs-cursed-harvester-of-souls"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Human Frailty",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "61"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target Human creature."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"I have seen a hundred mortal families rise and fall. I shall outlast a thousand more.\"\u003cbr\u003e—Olivia Voldaren\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113273_200w.jpg",
+      "modifiedOn": "2023-08-24T12:56:51.573",
+      "name": "Human Frailty",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113273,
+      "url": "https://www.tcgplayer.com/product/113273/magic-duel-decks-blessed-vs-cursed-human-frailty"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Increasing Devotion",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "14"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Put five 1/1 white Human creature tokens onto the battlefield. If Increasing Devotion was cast from a graveyard, put ten of those tokens onto the battlefield instead.\r\n\u003cbr\u003eFlashback 7WW \u003cem\u003e(You may cast this card from your graveyard for its flashback cost. Then exile it.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113276_200w.jpg",
+      "modifiedOn": "2024-07-26T17:34:56.627",
+      "name": "Increasing Devotion",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113276,
+      "url": "https://www.tcgplayer.com/product/113276/magic-duel-decks-blessed-vs-cursed-increasing-devotion"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 035",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "35"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Island"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113277_200w.jpg",
+      "modifiedOn": "2023-08-24T12:58:22.367",
+      "name": "Island (035)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113277,
+      "url": "https://www.tcgplayer.com/product/113277/magic-duel-decks-blessed-vs-cursed-island-035"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 036",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "36"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Island"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113278_200w.jpg",
+      "modifiedOn": "2023-08-24T12:58:35.233",
+      "name": "Island (036)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113278,
+      "url": "https://www.tcgplayer.com/product/113278/magic-duel-decks-blessed-vs-cursed-island-036"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 037",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "37"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Island"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113279_200w.jpg",
+      "modifiedOn": "2023-08-24T12:58:59.797",
+      "name": "Island (037)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113279,
+      "url": "https://www.tcgplayer.com/product/113279/magic-duel-decks-blessed-vs-cursed-island-037"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 071",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "71"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Island"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113281_200w.jpg",
+      "modifiedOn": "2023-08-24T12:59:11.94",
+      "name": "Island (071)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113281,
+      "url": "https://www.tcgplayer.com/product/113281/magic-duel-decks-blessed-vs-cursed-island-071"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 072",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "72"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Island"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113282_200w.jpg",
+      "modifiedOn": "2023-08-24T12:59:23.32",
+      "name": "Island (072)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113282,
+      "url": "https://www.tcgplayer.com/product/113282/magic-duel-decks-blessed-vs-cursed-island-072"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Island 073",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "73"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Island"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113284_200w.jpg",
+      "modifiedOn": "2023-08-24T12:59:34.667",
+      "name": "Island (073)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113284,
+      "url": "https://www.tcgplayer.com/product/113284/magic-duel-decks-blessed-vs-cursed-island-073"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Makeshift Mauler",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "45"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie Horror"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As an additional cost to cast Makeshift Mauler, exile a creature card from your graveyard."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"It always amazes me what perfectly good things people throw away.\"\u003cbr\u003e—Ludevic, necro-alchemist\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113287_200w.jpg",
+      "modifiedOn": "2023-08-24T13:00:28.3",
+      "name": "Makeshift Mauler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113287,
+      "url": "https://www.tcgplayer.com/product/113287/magic-duel-decks-blessed-vs-cursed-makeshift-mauler"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Mist Raven",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "26"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Bird"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eWhen Mist Raven enters the battlefield, return target creature to its owner's hand."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"When you see a raven, head for the hills. It knows when the ghost-tide is headed in.\"\u003cbr\u003e—Sved, fisherman of Nephalia\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113288_200w.jpg",
+      "modifiedOn": "2023-08-24T13:02:39.073",
+      "name": "Mist Raven",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113288,
+      "url": "https://www.tcgplayer.com/product/113288/magic-duel-decks-blessed-vs-cursed-mist-raven"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Moan of the Unhallowed",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "62"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Put two 2/2 black Zombie creature tokens onto the battlefield.\r\n\u003cbr\u003eFlashback 5BB \u003cem\u003e(You may cast this card from your graveyard for its flashback cost. Then exile it.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eFor a ghoul, every village is a buffet and every disaster is a reunion.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113292_200w.jpg",
+      "modifiedOn": "2024-07-26T17:34:56.697",
+      "name": "Moan of the Unhallowed",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113292,
+      "url": "https://www.tcgplayer.com/product/113292/magic-duel-decks-blessed-vs-cursed-moan-of-the-unhallowed"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Moorland Inquisitor",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "16"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2W: Moorland Inquisitor gains first strike until end of turn."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eInquisitors are taught scripture, philosophy, and the fine art of sharpening an axe.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113299_200w.jpg",
+      "modifiedOn": "2023-08-24T13:03:50.61",
+      "name": "Moorland Inquisitor",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113299,
+      "url": "https://www.tcgplayer.com/product/113299/magic-duel-decks-blessed-vs-cursed-moorland-inquisitor"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Nephalia Smuggler",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "27"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Rogue"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "3U, T: Exile another target creature you control, then return that card to the battlefield under your control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"My drivers are trustworthy. I removed their tongues myself. Any other questions?\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113302_200w.jpg",
+      "modifiedOn": "2023-08-24T13:04:35.957",
+      "name": "Nephalia Smuggler",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113302,
+      "url": "https://www.tcgplayer.com/product/113302/magic-duel-decks-blessed-vs-cursed-nephalia-smuggler"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plains 038",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "38"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Plains"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113303_200w.jpg",
+      "modifiedOn": "2023-08-24T13:04:47.347",
+      "name": "Plains (038)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113303,
+      "url": "https://www.tcgplayer.com/product/113303/magic-duel-decks-blessed-vs-cursed-plains-038"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plains 039",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "39"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Plains"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113304_200w.jpg",
+      "modifiedOn": "2023-08-24T13:04:57.477",
+      "name": "Plains (039)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113304,
+      "url": "https://www.tcgplayer.com/product/113304/magic-duel-decks-blessed-vs-cursed-plains-039"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Plains 040",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "40"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Plains"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113306_200w.jpg",
+      "modifiedOn": "2023-08-24T13:05:09.943",
+      "name": "Plains (040)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113306,
+      "url": "https://www.tcgplayer.com/product/113306/magic-duel-decks-blessed-vs-cursed-plains-040"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Rebuke",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "17"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target attacking creature."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"No one chooses to be stitched together into a skaab. If it could speak, it would beg for its own destruction.\"\u003cbr\u003e—Thalia, Knight-Cathar\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113307_200w.jpg",
+      "modifiedOn": "2023-08-24T13:06:17.557",
+      "name": "Rebuke",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113307,
+      "url": "https://www.tcgplayer.com/product/113307/magic-duel-decks-blessed-vs-cursed-rebuke"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Relentless Skaabs",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "46"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As an additional cost to cast Relentless Skaabs, exile a creature card from your graveyard.\r\n\u003cbr\u003eUndying \u003cem\u003e(When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113310_200w.jpg",
+      "modifiedOn": "2023-08-24T13:07:59.877",
+      "name": "Relentless Skaabs",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113310,
+      "url": "https://www.tcgplayer.com/product/113310/magic-duel-decks-blessed-vs-cursed-relentless-skaabs"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Scrapskin Drake",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "47"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie Drake"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eScrapskin Drake can block only creatures with flying."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The cathars killed my skaabs down below. Let's see how high their swords can reach.\"\u003cbr\u003e—Ludevic, necro-alchemist\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113311_200w.jpg",
+      "modifiedOn": "2023-08-24T13:08:31.167",
+      "name": "Scrapskin Drake",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113311,
+      "url": "https://www.tcgplayer.com/product/113311/magic-duel-decks-blessed-vs-cursed-scrapskin-drake"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Screeching Skaab",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "48"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Screeching Skaab enters the battlefield, put the top two cards of your library into your graveyard."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eIts screeching is the sound of you losing your mind.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113313_200w.jpg",
+      "modifiedOn": "2023-08-24T13:08:51.99",
+      "name": "Screeching Skaab",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113313,
+      "url": "https://www.tcgplayer.com/product/113313/magic-duel-decks-blessed-vs-cursed-screeching-skaab"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Seraph Sanctuary",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "33"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Seraph Sanctuary enters the battlefield, you gain 1 life.\r\n\u003cbr\u003eWhenever an Angel enters the battlefield under your control, you gain 1 life.\r\n\u003cbr\u003eT: Add C to your mana pool."
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113315_200w.jpg",
+      "modifiedOn": "2023-09-27T08:27:55.967",
+      "name": "Seraph Sanctuary",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113315,
+      "url": "https://www.tcgplayer.com/product/113315/magic-duel-decks-blessed-vs-cursed-seraph-sanctuary"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sever the Bloodline",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "63"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exile target creature and all other creatures with the same name as that creature.\r\n\u003cbr\u003eFlashback 5BB \u003cem\u003e(You may cast this card from your graveyard for its flashback cost. Then exile it.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113317_200w.jpg",
+      "modifiedOn": "2023-08-24T13:10:02.533",
+      "name": "Sever the Bloodline",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113317,
+      "url": "https://www.tcgplayer.com/product/113317/magic-duel-decks-blessed-vs-cursed-sever-the-bloodline"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Sharpened Pitchfork",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "32"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipped creature has first strike.\r\n\u003cbr\u003eAs long as equipped creature is a Human, it gets +1/+1.\r\n\u003cbr\u003eEquip 1"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eNot everyone can have a sword of blessed silver. Not everyone needs one, either.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113319_200w.jpg",
+      "modifiedOn": "2023-08-24T13:26:26.543",
+      "name": "Sharpened Pitchfork",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113319,
+      "url": "https://www.tcgplayer.com/product/113319/magic-duel-decks-blessed-vs-cursed-sharpened-pitchfork"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Slayer of the Wicked",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "18"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "When Slayer of the Wicked enters the battlefield, you may destroy target Vampire, Werewolf, or Zombie."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eYou don't want to see his trophy room.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113321_200w.jpg",
+      "modifiedOn": "2023-08-24T13:26:52.013",
+      "name": "Slayer of the Wicked",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113321,
+      "url": "https://www.tcgplayer.com/product/113321/magic-duel-decks-blessed-vs-cursed-slayer-of-the-wicked"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Spectral Gateguards",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "19"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spirit Soldier"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "5"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Soulbond \u003cem\u003e(You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\u003c/em\u003e\r\n\u003cbr\u003eAs long as Spectral Gateguards is paired with another creature, both creatures have vigilance."
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113324_200w.jpg",
+      "modifiedOn": "2023-08-24T13:27:31.893",
+      "name": "Spectral Gateguards",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113324,
+      "url": "https://www.tcgplayer.com/product/113324/magic-duel-decks-blessed-vs-cursed-spectral-gateguards"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Stitched Drake",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "49"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie Drake"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "As an additional cost to cast Stitched Drake, exile a creature card from your graveyard.\r\n\u003cbr\u003eFlying"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"The best skaabs are more powerful and more beautiful than the sum of their parts.\"\u003cbr\u003e—Stitcher Geralf\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113325_200w.jpg",
+      "modifiedOn": "2023-08-24T13:28:48.907",
+      "name": "Stitched Drake",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113325,
+      "url": "https://www.tcgplayer.com/product/113325/magic-duel-decks-blessed-vs-cursed-stitched-drake"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 074",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "74"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Swamp"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113326_200w.jpg",
+      "modifiedOn": "2023-08-24T13:29:00.953",
+      "name": "Swamp (074)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113326,
+      "url": "https://www.tcgplayer.com/product/113326/magic-duel-decks-blessed-vs-cursed-swamp-074"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 075",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "75"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Swamp"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113328_200w.jpg",
+      "modifiedOn": "2023-08-24T13:29:11.847",
+      "name": "Swamp (075)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113328,
+      "url": "https://www.tcgplayer.com/product/113328/magic-duel-decks-blessed-vs-cursed-swamp-075"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Swamp 076",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "L"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "76"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Basic Land — Swamp"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113329_200w.jpg",
+      "modifiedOn": "2023-08-24T13:29:20.29",
+      "name": "Swamp (076)",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113329,
+      "url": "https://www.tcgplayer.com/product/113329/magic-duel-decks-blessed-vs-cursed-swamp-076"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tandem Lookout",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "29"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Scout"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Soulbond \u003cem\u003e(You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\u003c/em\u003e\r\n\u003cbr\u003eAs long as Tandem Lookout is paired with another creature, each of those creatures has \"Whenever this creature deals damage to an opponent, draw a card.\""
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113332_200w.jpg",
+      "modifiedOn": "2023-08-24T13:29:48.15",
+      "name": "Tandem Lookout",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113332,
+      "url": "https://www.tcgplayer.com/product/113332/magic-duel-decks-blessed-vs-cursed-tandem-lookout"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Thraben Heretic",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "20"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "T: Exile target creature card from a graveyard."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Let them decry me for burning the dead. I'm not giving those ghoulcallers any more fuel for their madness.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113334_200w.jpg",
+      "modifiedOn": "2023-08-24T13:30:14.187",
+      "name": "Thraben Heretic",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113334,
+      "url": "https://www.tcgplayer.com/product/113334/magic-duel-decks-blessed-vs-cursed-thraben-heretic"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Angel Token",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "T"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "77"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Token Creature — Angel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "4"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113335_200w.jpg",
+      "modifiedOn": "2023-08-23T20:48:41.663",
+      "name": "Angel Token",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113335,
+      "url": "https://www.tcgplayer.com/product/113335/magic-duel-decks-blessed-vs-cursed-angel-token"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Human Token",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "T"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "78"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Token Creature — Human"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113337_200w.jpg",
+      "modifiedOn": "2023-08-24T12:57:50.383",
+      "name": "Human Token",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113337,
+      "url": "https://www.tcgplayer.com/product/113337/magic-duel-decks-blessed-vs-cursed-human-token"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Spirit Token",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "T"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "79"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Token Creature — Spirit"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "1"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113338_200w.jpg",
+      "modifiedOn": "2023-08-24T13:27:47.097",
+      "name": "Spirit Token",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113338,
+      "url": "https://www.tcgplayer.com/product/113338/magic-duel-decks-blessed-vs-cursed-spirit-token"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Zombie Token",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "T"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "80"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Token Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113339_200w.jpg",
+      "modifiedOn": "2023-08-24T13:33:42.397",
+      "name": "Zombie Token",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113339,
+      "url": "https://www.tcgplayer.com/product/113339/magic-duel-decks-blessed-vs-cursed-zombie-token"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tower Geist",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "30"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Spirit"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eWhen Tower Geist enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eJenrik's tower is served by those who once sought to enter it uninvited.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113343_200w.jpg",
+      "modifiedOn": "2023-08-24T13:31:15.967",
+      "name": "Tower Geist",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113343,
+      "url": "https://www.tcgplayer.com/product/113343/magic-duel-decks-blessed-vs-cursed-tower-geist"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tranquil Cove",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "34"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Land"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Tranquil Cove enters the battlefield tapped.\r\n\u003cbr\u003eWhen Tranquil Cove enters the battlefield, you gain 1 life.\r\n\u003cbr\u003eT: Add W or U to your mana pool."
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113345_200w.jpg",
+      "modifiedOn": "2024-07-26T17:34:56.743",
+      "name": "Tranquil Cove",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113345,
+      "url": "https://www.tcgplayer.com/product/113345/magic-duel-decks-blessed-vs-cursed-tranquil-cove"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Tribute to Hunger",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "65"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Target opponent sacrifices a creature. You gain life equal to that creature's toughness."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eMarella was delighted. The ball had attracted so many suitors for her daughter, including that handsome stranger. She wondered where the two were now . . . .\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113346_200w.jpg",
+      "modifiedOn": "2023-08-24T13:32:01.007",
+      "name": "Tribute to Hunger",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113346,
+      "url": "https://www.tcgplayer.com/product/113346/magic-duel-decks-blessed-vs-cursed-tribute-to-hunger"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Unbreathing Horde",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "66"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Zombie"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "0"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "0"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Unbreathing Horde enters the battlefield with a +1/+1 counter on it for each other Zombie you control and each Zombie card in your graveyard.\r\n\u003cbr\u003eIf Unbreathing Horde would be dealt damage, prevent that damage and remove a +1/+1 counter from it."
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113347_200w.jpg",
+      "modifiedOn": "2022-10-17T15:17:18.96",
+      "name": "Unbreathing Horde",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113347,
+      "url": "https://www.tcgplayer.com/product/113347/magic-duel-decks-blessed-vs-cursed-unbreathing-horde"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Victim of Night",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "67"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Destroy target non-Vampire, non-Werewolf, non-Zombie creature."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Do not touch a drop. Not yet. I want to watch this so-called slayer's last crisis of faith.\"\u003cbr\u003e—Olivia Voldaren\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113348_200w.jpg",
+      "modifiedOn": "2023-08-24T13:32:45.55",
+      "name": "Victim of Night",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113348,
+      "url": "https://www.tcgplayer.com/product/113348/magic-duel-decks-blessed-vs-cursed-victim-of-night"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Voice of the Provinces",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "23"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Angel"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "3"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "3"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flying\r\n\u003cbr\u003eWhen Voice of the Provinces enters the battlefield, put a 1/1 white Human creature token onto the battlefield."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eHer horn is heard across Innistrad, lifting the hearts of the righteous.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113350_200w.jpg",
+      "modifiedOn": "2023-08-24T13:33:30.233",
+      "name": "Voice of the Provinces",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113350,
+      "url": "https://www.tcgplayer.com/product/113350/magic-duel-decks-blessed-vs-cursed-voice-of-the-provinces"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Butchers Cleaver",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "31"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Artifact — Equipment"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Equipeed creature gets +3/+0.\r\n\u003cbr\u003eAs long as equipped creature is a Human, it has lifelink.\r\n\u003cbr\u003eEquip 3"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eOutside of the safety of Thraben, there is little distinction between tool and weapon.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113364_200w.jpg",
+      "modifiedOn": "2023-08-23T20:54:37.2",
+      "name": "Butcher's Cleaver",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113364,
+      "url": "https://www.tcgplayer.com/product/113364/magic-duel-decks-blessed-vs-cursed-butchers-cleaver"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Dread Return",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "U"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "55"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Sorcery"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Return target creature card from your graveyard to the battlefield.\r\n\u003cbr\u003eFlashback—Sacrifice three creatures. \u003cem\u003e(You may cast this card from your graveyard for its flashback cost. Then exile it.)\u003c/em\u003e"
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003eThe will to return can overpower the will to survive.\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113365_200w.jpg",
+      "modifiedOn": "2025-12-03T04:30:36.203",
+      "name": "Dread Return",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113365,
+      "url": "https://www.tcgplayer.com/product/113365/magic-duel-decks-blessed-vs-cursed-dread-return"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Havengul Runebinder",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "R"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "44"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Wizard"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "2"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "2"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "2U, T, Exile a creature card from your graveyard: Put a 2/2 black Zombie creature token onto the battlefield, then put a +1/+1 counter on each Zombie creature you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"So many corpses, so little time.\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113366_200w.jpg",
+      "modifiedOn": "2023-08-24T12:55:56.463",
+      "name": "Havengul Runebinder",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113366,
+      "url": "https://www.tcgplayer.com/product/113366/magic-duel-decks-blessed-vs-cursed-havengul-runebinder"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Village Bell Ringer",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "22"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Creature — Human Scout"
+        },
+        {
+          "displayName": "P",
+          "name": "P",
+          "value": "1"
+        },
+        {
+          "displayName": "T",
+          "name": "T",
+          "value": "4"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Flash \u003cem\u003e(You may cast this spell any time you could cast an instant.)\u003c/em\u003e\r\n\u003cbr\u003eWhen Village Bell-Ringer enters the battlefield, untap all creatures you control."
+        },
+        {
+          "displayName": "Flavor",
+          "name": "FlavorText",
+          "value": "\u003cem\u003e\"Priests, hunters, slayers—to arms! The enemy approaches!\"\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113367_200w.jpg",
+      "modifiedOn": "2023-08-24T13:33:06.313",
+      "name": "Village Bell-Ringer",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113367,
+      "url": "https://www.tcgplayer.com/product/113367/magic-duel-decks-blessed-vs-cursed-village-bell-ringer"
+    },
+    {
+      "categoryId": 1,
+      "cleanName": "Momentary Blink",
+      "extendedData": [
+        {
+          "displayName": "Rarity",
+          "name": "Rarity",
+          "value": "C"
+        },
+        {
+          "displayName": "#",
+          "name": "Number",
+          "value": "15"
+        },
+        {
+          "displayName": "Creature Type or Sub Type",
+          "name": "SubType",
+          "value": "Instant"
+        },
+        {
+          "displayName": "Rules Text Contains",
+          "name": "OracleText",
+          "value": "Exile target creature you control, then return it to the battlefield under its owner's control.\r\n\u003cbr\u003eFlashback 3U \u003cem\u003e(You may cast this card from your graveyard for its flashback cost. Then exile it.)\u003c/em\u003e"
+        }
+      ],
+      "groupId": 1726,
+      "imageCount": 1,
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/113368_200w.jpg",
+      "modifiedOn": "2021-02-09T16:25:13.64",
+      "name": "Momentary Blink",
+      "presaleInfo": {
+        "isPresale": false,
+        "note": null,
+        "releasedOn": null
+      },
+      "productId": 113368,
+      "url": "https://www.tcgplayer.com/product/113368/magic-duel-decks-blessed-vs-cursed-momentary-blink"
+    }
+  ],
+  "success": true,
+  "totalItems": 81
+}
