@@ -3,9 +3,11 @@ package tcg
 import (
 	"encoding/json"
 	"fmt"
+	"strings"
+	"unicode"
 
-	"github.com/khanmaother/TCG/types"
-	"github.com/khanmaother/TCG/utils"
+	"github.com/khanmaother/TCG-Data/types"
+	"github.com/khanmaother/TCG-Data/utils"
 )
 
 func GetCategoriesData(fileName string, fileLocation string) (tcgtypes.CategoriesDataResponse, error) {
@@ -144,4 +146,92 @@ func GetGroupProducts(categoryId int) error {
 	}
 
 	return nil
+}
+
+func GetGroupImages(categoryId int) {
+	fmt.Println("=== Getting Group Images ===")
+
+	// Read groups from file
+	buffer, err := utils.ReadJson(fmt.Sprintf("data/groups/%d.json", categoryId))
+	if err != nil {
+		fmt.Println("Error reading groups file:", err)
+		return
+	}
+
+	var groupsData tcgtypes.GroupsDataResponse
+	err = json.Unmarshal(buffer, &groupsData)
+	if err != nil {
+		fmt.Println("Error unmarshaling groups:", err)
+		return
+	}
+
+	for _, group := range groupsData.Results {
+		fmt.Println("Group:", group.Name, "ID:", group.GroupId)
+		cleaned := cleanString(group.Name)
+		groupUrl := fmt.Sprintf("https://tcgplayer-cdn.tcgplayer.com/set_icon/%s.png", cleaned)
+		imageBytes, err := utils.FetchImage(groupUrl)
+		if err != nil {
+			fmt.Println("Error fetching image:", err)
+			continue
+		}
+		utils.SaveImage(fmt.Sprintf("%d.png", group.GroupId), fmt.Sprintf("images/groups/"), imageBytes)
+	}
+
+}
+
+func GetProductImages(categoryId int) {
+	fmt.Println("=== Getting Product Images ===")
+
+	// Read groups from file
+	buffer, err := utils.ReadJson(fmt.Sprintf("data/groups/%d.json", categoryId))
+	if err != nil {
+		fmt.Println("Error reading groups file:", err)
+		return
+	}
+
+	var groupsData tcgtypes.GroupsDataResponse
+	err = json.Unmarshal(buffer, &groupsData)
+	if err != nil {
+		fmt.Println("Error unmarshaling groups:", err)
+		return
+	}
+
+	for _, group := range groupsData.Results {
+		fmt.Println("Group:", group.Name, "ID:", group.GroupId)
+
+		buffer, err := utils.ReadJson(fmt.Sprintf("data/products/%d.json", group.GroupId))
+		if err != nil {
+			fmt.Println("Error reading products file:", err)
+			continue
+		}
+
+		var productsData tcgtypes.ProductsDataResponse
+		err = json.Unmarshal(buffer, &productsData)
+		if err != nil {
+			fmt.Println("Error unmarshaling products:", err)
+			continue
+		}
+
+		for _, product := range productsData.Results {
+			fmt.Println("Product:", product.Name, "ID:", product.ProductId)
+			imageBytes, err := utils.FetchImage(product.ImageUrl)
+			if err != nil {
+				fmt.Println("Error fetching image:", err)
+				continue
+			}
+			utils.SaveImage(fmt.Sprintf("%d.jpg", product.ProductId), fmt.Sprintf("images/%d/%d/", product.CategoryId, product.GroupId), imageBytes)
+		}
+
+	}
+
+}
+
+func cleanString(input string) string {
+	var builder strings.Builder
+	for _, r := range input {
+		if unicode.IsLetter(r) || unicode.IsDigit(r) {
+			builder.WriteRune(r)
+		}
+	}
+	return builder.String()
 }

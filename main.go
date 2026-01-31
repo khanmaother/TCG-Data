@@ -1,23 +1,25 @@
 package main
 
 import (
-	"encoding/json"
 	"fmt"
 	"io"
 	"net/http"
 	"os"
 	"path/filepath"
 
-	"github.com/khanmaother/TCG/tcg"
-	"github.com/khanmaother/TCG/types"
+	"github.com/khanmaother/TCG-Data/tcg"
 )
 
 func main() {
-    
-    groupIds := []int{89, 80, 68, 3, 2, 1}
-    for _, groupId := range groupIds {
-        tcg.GetGroupProducts(groupId)
-    }
+
+	tcg.GetGroupImages(2)
+
+	// tcg.GetProductImages(68)
+
+	// groupIds := []int{89, 80, 68, 3, 2, 1}
+	// for _, groupId := range groupIds {
+	//     tcg.GetGroupProducts(groupId)
+	// }
 
 }
 
