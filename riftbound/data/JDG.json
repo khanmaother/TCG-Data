@@ -1,0 +1,111 @@
+{
+  "data": {
+    "code": "JDG",
+    "name": "Riftbound Judge Promotional Cards",
+    "groupId": 24552,
+    "release_date": "2025-12-01",
+    "card_count": 3,
+    "source": "tcgcsv",
+    "categoryId": 89,
+    "cards": [
+      {
+        "productId": 668439,
+        "slug": "111-298-heimerdinger-inventor",
+        "card_number": "111/298",
+        "name": "Heimerdinger - Inventor",
+        "clean_name": "Heimerdinger Inventor",
+        "card_type": "Champion Unit",
+        "rarity": "Promo",
+        "domain": [
+          "Mind"
+        ],
+        "tags": [
+          "Heimerdinger",
+          "Piltover",
+          "Yordle"
+        ],
+        "energy_cost": 3,
+        "power_cost": 1,
+        "might": 3,
+        "description": "I have all exhaust abilities of all friendly legends, units and gear.",
+        "flavor_text": "<em>\"I do love a good conundrum.\"</em>",
+        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/668439_400w.jpg",
+        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/668439_200w.jpg",
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668439/riftbound-league-of-legends-trading-card-game-riftbound-judge-promotional-cards-heimerdinger-inventor",
+        "prices": {
+          "Foil": {
+            "lowPrice": 393.95,
+            "midPrice": 394.97,
+            "highPrice": 499.99,
+            "marketPrice": 361.72,
+            "directLowPrice": null
+          }
+        }
+      },
+      {
+        "productId": 692372,
+        "slug": "059-221-svellsongur",
+        "card_number": "059/221",
+        "name": "Svellsongur",
+        "clean_name": "Svellsongur",
+        "card_type": "Gear",
+        "rarity": "Promo",
+        "domain": [
+          "Calm"
+        ],
+        "tags": [
+          "Equipment"
+        ],
+        "energy_cost": 3,
+        "power_cost": 1,
+        "might": 0,
+        "description": "[EQUIP1, Calm]  <em>(1, Calm: Attach this to a unit you control.)</em>\r\n<br>\r\nAs this is attached to a unit, copy that unit's text to this Equipment's effect text for as long as this is attached to it.\r\n<br>\r\nMight +0",
+        "flavor_text": "<em>\"Only the greatest Freljord heroes have weapons made of True Ice!\" — Nunu</em>",
+        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/692372_400w.jpg",
+        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/692372_200w.jpg",
+        "tcgplayer_url": "https://www.tcgplayer.com/product/692372/riftbound-league-of-legends-trading-card-game-riftbound-judge-promotional-cards-svellsongur",
+        "prices": {
+          "Foil": {
+            "lowPrice": 180.94,
+            "midPrice": 190,
+            "highPrice": 199.99,
+            "marketPrice": 191.54,
+            "directLowPrice": null
+          }
+        }
+      },
+      {
+        "productId": 702632,
+        "slug": "087-219-blue-sentinel",
+        "card_number": "087/219",
+        "name": "Blue Sentinel",
+        "clean_name": "Blue Sentinel",
+        "card_type": "Unit",
+        "rarity": "Promo",
+        "domain": [
+          "Mind"
+        ],
+        "tags": [
+          "Mount Targon"
+        ],
+        "energy_cost": 4,
+        "power_cost": 1,
+        "might": 4,
+        "description": "SHIELD 2 <em>(+2 Might while I'm a defender.)</em>\r\n<br>\r\nYour hold effects for holding here trigger an additional time.\r\n<br>\r\nWhen I hold, Add 1 Rune at the start of your next Main Phase. <em>(Abilities that add resources can't be reacted to.)</em>",
+        "flavor_text": null,
+        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/702632_400w.jpg",
+        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/702632_200w.jpg",
+        "tcgplayer_url": "https://www.tcgplayer.com/product/702632/riftbound-league-of-legends-trading-card-game-riftbound-judge-promotional-cards-blue-sentinel",
+        "prices": {
+          "Foil": {
+            "lowPrice": 999,
+            "midPrice": 1000,
+            "highPrice": 1499,
+            "marketPrice": 176.77,
+            "directLowPrice": null
+          }
+        }
+      }
+    ]
+  }
+}

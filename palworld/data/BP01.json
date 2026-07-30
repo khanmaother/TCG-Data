@@ -1,0 +1,3402 @@
+{
+  "data": {
+    "code": "BP01",
+    "name": "Dawn of Palpagos",
+    "release_date": "2026-07-30",
+    "card_count": 100,
+    "key_art_url": "https://en.palworld-official-cardgame.com/wordpress/wp-content/uploads/2026/03/27120827/Palworld_BoosterPack.jpg",
+    "cards": [
+      {
+        "slug": "bp01-001-jormuntide-ignis-savage-lava-dragon",
+        "card_number": "BP01-001",
+        "name": "Jormuntide Ignis – Savage Lava Dragon",
+        "pal_name": "Jormuntide Ignis",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Red"
+        ],
+        "cost": 8,
+        "power": 1700,
+        "strike": 4,
+        "rarity": "RR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-001.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-001-jormuntide-ignis-savage-lava-dragon.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-001-osr-jormuntide-ignis-savage-lava-dragon",
+        "card_number": "BP01-001-OSR",
+        "name": "Jormuntide Ignis – Savage Lava Dragon",
+        "pal_name": "Jormuntide Ignis",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Red"
+        ],
+        "cost": 8,
+        "power": 1700,
+        "strike": 4,
+        "rarity": "OSR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-001-OSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-001-osr-jormuntide-ignis-savage-lava-dragon.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-001-ssp-jormuntide-ignis-savage-lava-dragon",
+        "card_number": "BP01-001-SSP",
+        "name": "Jormuntide Ignis – Savage Lava Dragon",
+        "pal_name": "Jormuntide Ignis",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Red"
+        ],
+        "cost": 8,
+        "power": 1700,
+        "strike": 4,
+        "rarity": "SSP",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-001-SSP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-001-ssp-jormuntide-ignis-savage-lava-dragon.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-002-suzaku-hellfire-wings",
+        "card_number": "BP01-002",
+        "name": "Suzaku – Hellfire Wings",
+        "pal_name": "Suzaku",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Red"
+        ],
+        "cost": 7,
+        "power": 1200,
+        "strike": 3,
+        "rarity": "RR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-002.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-002-suzaku-hellfire-wings.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-002-osr-suzaku-hellfire-wings",
+        "card_number": "BP01-002-OSR",
+        "name": "Suzaku – Hellfire Wings",
+        "pal_name": "Suzaku",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Red"
+        ],
+        "cost": 7,
+        "power": 1200,
+        "strike": 3,
+        "rarity": "OSR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-002-OSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-002-osr-suzaku-hellfire-wings.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-002-sp-suzaku-hellfire-wings",
+        "card_number": "BP01-002-SP",
+        "name": "Suzaku – Hellfire Wings",
+        "pal_name": "Suzaku",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Red"
+        ],
+        "cost": 7,
+        "power": 1200,
+        "strike": 3,
+        "rarity": "SP",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-002-SP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-002-sp-suzaku-hellfire-wings.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-003-gobfin-ignis-blazing-hothead",
+        "card_number": "BP01-003",
+        "name": "Gobfin Ignis – Blazing Hothead",
+        "pal_name": "Gobfin Ignis",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 4,
+        "power": 400,
+        "strike": 2,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-003.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-003-gobfin-ignis-blazing-hothead.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-003-sr-gobfin-ignis-blazing-hothead",
+        "card_number": "BP01-003-SR",
+        "name": "Gobfin Ignis – Blazing Hothead",
+        "pal_name": "Gobfin Ignis",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 4,
+        "power": 400,
+        "strike": 2,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-003-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-003-sr-gobfin-ignis-blazing-hothead.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-004-bushi-ephemeral-blade",
+        "card_number": "BP01-004",
+        "name": "Bushi – Ephemeral Blade",
+        "pal_name": "Bushi",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Red"
+        ],
+        "cost": 5,
+        "power": 800,
+        "strike": 2,
+        "rarity": "R",
+        "keywords": [
+          "Quick",
+          "Interrupt"
+        ],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-004.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-004-bushi-ephemeral-blade.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-004-sr-bushi-ephemeral-blade",
+        "card_number": "BP01-004-SR",
+        "name": "Bushi – Ephemeral Blade",
+        "pal_name": "Bushi",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Red"
+        ],
+        "cost": 5,
+        "power": 800,
+        "strike": 2,
+        "rarity": "SR",
+        "keywords": [
+          "Quick",
+          "Interrupt"
+        ],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-004-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-004-sr-bushi-ephemeral-blade.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-005-reptyro-ore-gorger",
+        "card_number": "BP01-005",
+        "name": "Reptyro – Ore Gorger",
+        "pal_name": "Reptyro",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 8,
+        "power": 1500,
+        "strike": 3,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-005.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-005-reptyro-ore-gorger.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-005-sr-reptyro-ore-gorger",
+        "card_number": "BP01-005-SR",
+        "name": "Reptyro – Ore Gorger",
+        "pal_name": "Reptyro",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 8,
+        "power": 1500,
+        "strike": 3,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-005-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-005-sr-reptyro-ore-gorger.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-006-foxparks-light-of-courage",
+        "card_number": "BP01-006",
+        "name": "Foxparks – Light of Courage",
+        "pal_name": "Foxparks",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 2,
+        "power": 200,
+        "strike": 1,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-006.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-006-foxparks-light-of-courage.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-006-sr-foxparks-light-of-courage",
+        "card_number": "BP01-006-SR",
+        "name": "Foxparks – Light of Courage",
+        "pal_name": "Foxparks",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 2,
+        "power": 200,
+        "strike": 1,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-006-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-006-sr-foxparks-light-of-courage.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-007-kitsun-wyrmbane-fangs",
+        "card_number": "BP01-007",
+        "name": "Kitsun – Wyrmbane Fangs",
+        "pal_name": "Kitsun",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 5,
+        "power": 400,
+        "strike": 2,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-007.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-007-kitsun-wyrmbane-fangs.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-007-sr-kitsun-wyrmbane-fangs",
+        "card_number": "BP01-007-SR",
+        "name": "Kitsun – Wyrmbane Fangs",
+        "pal_name": "Kitsun",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 5,
+        "power": 400,
+        "strike": 2,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-007-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-007-sr-kitsun-wyrmbane-fangs.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-008-sparkit-hazardous-contact",
+        "card_number": "BP01-008",
+        "name": "Sparkit – Hazardous Contact",
+        "pal_name": "Sparkit",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 3,
+        "power": 400,
+        "strike": 1,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-008.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-008-sparkit-hazardous-contact.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-009-univolt-valiant-thunderclap",
+        "card_number": "BP01-009",
+        "name": "Univolt – Valiant Thunderclap",
+        "pal_name": "Univolt",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 4,
+        "power": 600,
+        "strike": 2,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-009.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-009-univolt-valiant-thunderclap.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-010-ragnahawk-emberwing-striker",
+        "card_number": "BP01-010",
+        "name": "Ragnahawk – Emberwing Striker",
+        "pal_name": "Ragnahawk",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Red"
+        ],
+        "cost": 6,
+        "power": 1000,
+        "strike": 2,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-010.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-010-ragnahawk-emberwing-striker.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-011-rooby-brave-sparks",
+        "card_number": "BP01-011",
+        "name": "Rooby – Brave Sparks",
+        "pal_name": "Rooby",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 2,
+        "power": 200,
+        "strike": 1,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-011.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-011-rooby-brave-sparks.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-012-flambelle-scorching-tears",
+        "card_number": "BP01-012",
+        "name": "Flambelle – Scorching Tears",
+        "pal_name": "Flambelle",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 3,
+        "power": 400,
+        "strike": 1,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-012.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-012-flambelle-scorching-tears.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-013-pyrin-cinder-steed",
+        "card_number": "BP01-013",
+        "name": "Pyrin – Cinder Steed",
+        "pal_name": "Pyrin",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 6,
+        "power": 1200,
+        "strike": 2,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-013.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-013-pyrin-cinder-steed.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-014-blazehowl-hellflame-defender",
+        "card_number": "BP01-014",
+        "name": "Blazehowl – Hellflame Defender",
+        "pal_name": "Blazehowl",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 7,
+        "power": 1200,
+        "strike": 3,
+        "rarity": "C",
+        "keywords": [
+          "Quick",
+          "Interrupt"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-014.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-014-blazehowl-hellflame-defender.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-015-mounted-machine-gun",
+        "card_number": "BP01-015",
+        "name": "Mounted Machine Gun",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 4,
+        "power": 1000,
+        "strike": null,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-015.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-015-mounted-machine-gun.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-015-sp-mounted-machine-gun",
+        "card_number": "BP01-015-SP",
+        "name": "Mounted Machine Gun",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 4,
+        "power": 1000,
+        "strike": null,
+        "rarity": "SP",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-015-SP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-015-sp-mounted-machine-gun.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-016-primitive-furnace",
+        "card_number": "BP01-016",
+        "name": "Primitive Furnace",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 2,
+        "power": 800,
+        "strike": null,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-016.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-016-primitive-furnace.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-017-flame-cauldron",
+        "card_number": "BP01-017",
+        "name": "Flame Cauldron",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 2,
+        "power": 900,
+        "strike": null,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-017.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-017-flame-cauldron.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-018-alarm-bell",
+        "card_number": "BP01-018",
+        "name": "Alarm Bell",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 3,
+        "power": 1100,
+        "strike": null,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-018.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-018-alarm-bell.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-019-foxparks-harness",
+        "card_number": "BP01-019",
+        "name": "Foxparks' Harness",
+        "pal_name": null,
+        "card_type": "Gear",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 3,
+        "power": null,
+        "strike": null,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-019.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-019-foxparks-harness.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-019-sr-foxparks-harness",
+        "card_number": "BP01-019-SR",
+        "name": "Foxparks' Harness",
+        "pal_name": null,
+        "card_type": "Gear",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 3,
+        "power": null,
+        "strike": null,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-019-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-019-sr-foxparks-harness.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-020-pump-action-shotgun",
+        "card_number": "BP01-020",
+        "name": "Pump-Action Shotgun",
+        "pal_name": null,
+        "card_type": "Gear",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 7,
+        "power": null,
+        "strike": null,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-020.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-020-pump-action-shotgun.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-020-sr-pump-action-shotgun",
+        "card_number": "BP01-020-SR",
+        "name": "Pump-Action Shotgun",
+        "pal_name": null,
+        "card_type": "Gear",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 7,
+        "power": null,
+        "strike": null,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-020-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-020-sr-pump-action-shotgun.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-021-makeshift-handgun",
+        "card_number": "BP01-021",
+        "name": "Makeshift Handgun",
+        "pal_name": null,
+        "card_type": "Gear",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 2,
+        "power": null,
+        "strike": null,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-021.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-021-makeshift-handgun.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-022-stone-pickaxe",
+        "card_number": "BP01-022",
+        "name": "Stone Pickaxe",
+        "pal_name": null,
+        "card_type": "Gear",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 3,
+        "power": null,
+        "strike": null,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-022.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-022-stone-pickaxe.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-023-axel-s-strategy",
+        "card_number": "BP01-023",
+        "name": "Axel's Strategy",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 4,
+        "power": null,
+        "strike": null,
+        "rarity": "RR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-023.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-023-axel-s-strategy.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-023-osr-axel-s-strategy",
+        "card_number": "BP01-023-OSR",
+        "name": "Axel's Strategy",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 4,
+        "power": null,
+        "strike": null,
+        "rarity": "OSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-023-OSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-023-osr-axel-s-strategy.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-023-sp-axel-s-strategy",
+        "card_number": "BP01-023-SP",
+        "name": "Axel's Strategy",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 4,
+        "power": null,
+        "strike": null,
+        "rarity": "SP",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-023-SP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-023-sp-axel-s-strategy.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-024-treasure-chest-found",
+        "card_number": "BP01-024",
+        "name": "Treasure Chest Found!",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 2,
+        "power": null,
+        "strike": null,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-024.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-024-treasure-chest-found.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-025-chillet-dragon-whisperer",
+        "card_number": "BP01-025",
+        "name": "Chillet – Dragon Whisperer",
+        "pal_name": "Chillet",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Blue"
+        ],
+        "cost": 5,
+        "power": 900,
+        "strike": 2,
+        "rarity": "RR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-025.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-025-chillet-dragon-whisperer.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-025-osr-chillet-dragon-whisperer",
+        "card_number": "BP01-025-OSR",
+        "name": "Chillet – Dragon Whisperer",
+        "pal_name": "Chillet",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Blue"
+        ],
+        "cost": 5,
+        "power": 900,
+        "strike": 2,
+        "rarity": "OSR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-025-OSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-025-osr-chillet-dragon-whisperer.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-025-ssp-chillet-dragon-whisperer",
+        "card_number": "BP01-025-SSP",
+        "name": "Chillet – Dragon Whisperer",
+        "pal_name": "Chillet",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Blue"
+        ],
+        "cost": 5,
+        "power": 900,
+        "strike": 2,
+        "rarity": "SSP",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-025-SSP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-025-ssp-chillet-dragon-whisperer.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-026-relaxaurus-hungry-gunner",
+        "card_number": "BP01-026",
+        "name": "Relaxaurus – Hungry Gunner",
+        "pal_name": "Relaxaurus",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 7,
+        "power": 1200,
+        "strike": 3,
+        "rarity": "RR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-026.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-026-relaxaurus-hungry-gunner.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-026-osr-relaxaurus-hungry-gunner",
+        "card_number": "BP01-026-OSR",
+        "name": "Relaxaurus – Hungry Gunner",
+        "pal_name": "Relaxaurus",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 7,
+        "power": 1200,
+        "strike": 3,
+        "rarity": "OSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-026-OSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-026-osr-relaxaurus-hungry-gunner.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-026-sp-relaxaurus-hungry-gunner",
+        "card_number": "BP01-026-SP",
+        "name": "Relaxaurus – Hungry Gunner",
+        "pal_name": "Relaxaurus",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 7,
+        "power": 1200,
+        "strike": 3,
+        "rarity": "SP",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-026-SP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-026-sp-relaxaurus-hungry-gunner.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-027-jormuntide-surging-sea-serpent",
+        "card_number": "BP01-027",
+        "name": "Jormuntide – Surging Sea Serpent",
+        "pal_name": "Jormuntide",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Blue"
+        ],
+        "cost": 8,
+        "power": 1600,
+        "strike": 3,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-027.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-027-jormuntide-surging-sea-serpent.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-027-osr-jormuntide-surging-sea-serpent",
+        "card_number": "BP01-027-OSR",
+        "name": "Jormuntide – Surging Sea Serpent",
+        "pal_name": "Jormuntide",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Blue"
+        ],
+        "cost": 8,
+        "power": 1600,
+        "strike": 3,
+        "rarity": "OSR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-027-OSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-027-osr-jormuntide-surging-sea-serpent.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-027-sp-jormuntide-surging-sea-serpent",
+        "card_number": "BP01-027-SP",
+        "name": "Jormuntide – Surging Sea Serpent",
+        "pal_name": "Jormuntide",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Blue"
+        ],
+        "cost": 8,
+        "power": 1600,
+        "strike": 3,
+        "rarity": "SP",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-027-SP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-027-sp-jormuntide-surging-sea-serpent.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-028-pengullet-yearning-for-the-sky",
+        "card_number": "BP01-028",
+        "name": "Pengullet – Yearning for the Sky",
+        "pal_name": "Pengullet",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 4,
+        "power": 600,
+        "strike": 2,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-028.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-028-pengullet-yearning-for-the-sky.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-028-sr-pengullet-yearning-for-the-sky",
+        "card_number": "BP01-028-SR",
+        "name": "Pengullet – Yearning for the Sky",
+        "pal_name": "Pengullet",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 4,
+        "power": 600,
+        "strike": 2,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-028-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-028-sr-pengullet-yearning-for-the-sky.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-029-azurobe-water-dragon-waltz",
+        "card_number": "BP01-029",
+        "name": "Azurobe – Water Dragon Waltz",
+        "pal_name": "Azurobe",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Blue"
+        ],
+        "cost": 6,
+        "power": 1200,
+        "strike": 2,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-029.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-029-azurobe-water-dragon-waltz.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-029-sr-azurobe-water-dragon-waltz",
+        "card_number": "BP01-029-SR",
+        "name": "Azurobe – Water Dragon Waltz",
+        "pal_name": "Azurobe",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Blue"
+        ],
+        "cost": 6,
+        "power": 1200,
+        "strike": 2,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-029-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-029-sr-azurobe-water-dragon-waltz.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-030-reptyro-cryst-glacial-devourer",
+        "card_number": "BP01-030",
+        "name": "Reptyro Cryst – Glacial Devourer",
+        "pal_name": "Reptyro Cryst",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 8,
+        "power": 1200,
+        "strike": 3,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-030.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-030-reptyro-cryst-glacial-devourer.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-030-sr-reptyro-cryst-glacial-devourer",
+        "card_number": "BP01-030-SR",
+        "name": "Reptyro Cryst – Glacial Devourer",
+        "pal_name": "Reptyro Cryst",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 8,
+        "power": 1200,
+        "strike": 3,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-030-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-030-sr-reptyro-cryst-glacial-devourer.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-031-penking-mighty-warrior-of-the-deep",
+        "card_number": "BP01-031",
+        "name": "Penking – Mighty Warrior of the Deep",
+        "pal_name": "Penking",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 5,
+        "power": 600,
+        "strike": 2,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-031.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-031-penking-mighty-warrior-of-the-deep.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-031-sr-penking-mighty-warrior-of-the-deep",
+        "card_number": "BP01-031-SR",
+        "name": "Penking – Mighty Warrior of the Deep",
+        "pal_name": "Penking",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 5,
+        "power": 600,
+        "strike": 2,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-031-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-031-sr-penking-mighty-warrior-of-the-deep.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-032-fuack-manic-wave-ripper",
+        "card_number": "BP01-032",
+        "name": "Fuack – Manic Wave Ripper",
+        "pal_name": "Fuack",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 2,
+        "power": 200,
+        "strike": 1,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-032.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-032-fuack-manic-wave-ripper.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-033-wumpo-frostpeak-sentinel",
+        "card_number": "BP01-033",
+        "name": "Wumpo – Frostpeak Sentinel",
+        "pal_name": "Wumpo",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Blue"
+        ],
+        "cost": 7,
+        "power": 1500,
+        "strike": 3,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-033.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-033-wumpo-frostpeak-sentinel.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-034-teafant-fountain-of-cheer",
+        "card_number": "BP01-034",
+        "name": "Teafant – Fountain of Cheer",
+        "pal_name": "Teafant",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 2,
+        "power": 200,
+        "strike": 1,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-034.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-034-teafant-fountain-of-cheer.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-035-mau-cryst-harbinger-of-riches",
+        "card_number": "BP01-035",
+        "name": "Mau Cryst – Harbinger of Riches",
+        "pal_name": "Mau Cryst",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 3,
+        "power": 400,
+        "strike": 1,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-035.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-035-mau-cryst-harbinger-of-riches.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-036-celaray-loop-de-loop",
+        "card_number": "BP01-036",
+        "name": "Celaray – Loop De Loop",
+        "pal_name": "Celaray",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 3,
+        "power": 400,
+        "strike": 1,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-036.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-036-celaray-loop-de-loop.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-037-surfent-swift-swimmer",
+        "card_number": "BP01-037",
+        "name": "Surfent – Swift Swimmer",
+        "pal_name": "Surfent",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 4,
+        "power": 700,
+        "strike": 2,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-037.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-037-surfent-swift-swimmer.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-038-cryolinx-arctic-ordeal",
+        "card_number": "BP01-038",
+        "name": "Cryolinx – Arctic Ordeal",
+        "pal_name": "Cryolinx",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 6,
+        "power": 900,
+        "strike": 2,
+        "rarity": "C",
+        "keywords": [
+          "Quick",
+          "Interrupt"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-038.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-038-cryolinx-arctic-ordeal.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-039-antique-curtain",
+        "card_number": "BP01-039",
+        "name": "Antique Curtain",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 5,
+        "power": 1400,
+        "strike": null,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-039.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-039-antique-curtain.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-039-sr-antique-curtain",
+        "card_number": "BP01-039-SR",
+        "name": "Antique Curtain",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 5,
+        "power": 1400,
+        "strike": null,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-039-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-039-sr-antique-curtain.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-040-antique-dresser",
+        "card_number": "BP01-040",
+        "name": "Antique Dresser",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 4,
+        "power": 1400,
+        "strike": null,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-040.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-040-antique-dresser.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-041-hot-spring",
+        "card_number": "BP01-041",
+        "name": "Hot Spring",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 6,
+        "power": 1000,
+        "strike": null,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-041.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-041-hot-spring.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-042-antique-mirror",
+        "card_number": "BP01-042",
+        "name": "Antique Mirror",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 1,
+        "power": 1000,
+        "strike": null,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-042.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-042-antique-mirror.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-043-sphere-workbench",
+        "card_number": "BP01-043",
+        "name": "Sphere Workbench",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 2,
+        "power": 900,
+        "strike": null,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-043.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-043-sphere-workbench.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-044-pengullet-rocket-launcher",
+        "card_number": "BP01-044",
+        "name": "Pengullet Rocket Launcher",
+        "pal_name": null,
+        "card_type": "Gear",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 4,
+        "power": null,
+        "strike": null,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-044.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-044-pengullet-rocket-launcher.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-044-sr-pengullet-rocket-launcher",
+        "card_number": "BP01-044-SR",
+        "name": "Pengullet Rocket Launcher",
+        "pal_name": null,
+        "card_type": "Gear",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 4,
+        "power": null,
+        "strike": null,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-044-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-044-sr-pengullet-rocket-launcher.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-045-grappling-gun",
+        "card_number": "BP01-045",
+        "name": "Grappling Gun",
+        "pal_name": null,
+        "card_type": "Gear",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 5,
+        "power": null,
+        "strike": null,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-045.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-045-grappling-gun.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-046-victor-s-strategy",
+        "card_number": "BP01-046",
+        "name": "Victor's Strategy",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 3,
+        "power": null,
+        "strike": null,
+        "rarity": "RR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-046.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-046-victor-s-strategy.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-046-osr-victor-s-strategy",
+        "card_number": "BP01-046-OSR",
+        "name": "Victor's Strategy",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 3,
+        "power": null,
+        "strike": null,
+        "rarity": "OSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-046-OSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-046-osr-victor-s-strategy.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-046-sp-victor-s-strategy",
+        "card_number": "BP01-046-SP",
+        "name": "Victor's Strategy",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 3,
+        "power": null,
+        "strike": null,
+        "rarity": "SP",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-046-SP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-046-sp-victor-s-strategy.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-047-pal-sphere",
+        "card_number": "BP01-047",
+        "name": "Pal Sphere",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 4,
+        "power": null,
+        "strike": null,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-047.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-047-pal-sphere.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-047-sr-pal-sphere",
+        "card_number": "BP01-047-SR",
+        "name": "Pal Sphere",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 4,
+        "power": null,
+        "strike": null,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-047-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-047-sr-pal-sphere.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-048-aurora-guide",
+        "card_number": "BP01-048",
+        "name": "Aurora Guide",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 2,
+        "power": null,
+        "strike": null,
+        "rarity": "C",
+        "keywords": [
+          "Quick"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-048.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-048-aurora-guide.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-049-lyleen-blessing-of-the-goddess",
+        "card_number": "BP01-049",
+        "name": "Lyleen – Blessing of the Goddess",
+        "pal_name": "Lyleen",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Green"
+        ],
+        "cost": 7,
+        "power": 900,
+        "strike": 3,
+        "rarity": "RR/SSP",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-049.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-049-lyleen-blessing-of-the-goddess.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-049-osr-lyleen-blessing-of-the-goddess",
+        "card_number": "BP01-049-OSR",
+        "name": "Lyleen – Blessing of the Goddess",
+        "pal_name": "Lyleen",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Green"
+        ],
+        "cost": 7,
+        "power": 900,
+        "strike": 3,
+        "rarity": "OSR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-049-OSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-049-osr-lyleen-blessing-of-the-goddess.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-049-ssp-lyleen-blessing-of-the-goddess",
+        "card_number": "BP01-049-SSP",
+        "name": "Lyleen – Blessing of the Goddess",
+        "pal_name": "Lyleen",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Green"
+        ],
+        "cost": 7,
+        "power": 900,
+        "strike": 3,
+        "rarity": "SSP",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-049-SSP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-049-ssp-lyleen-blessing-of-the-goddess.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-050-digtoise-seismic-drillback",
+        "card_number": "BP01-050",
+        "name": "Digtoise – Seismic Drillback",
+        "pal_name": "Digtoise",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Green"
+        ],
+        "cost": 6,
+        "power": 900,
+        "strike": 2,
+        "rarity": "RR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-050.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-050-digtoise-seismic-drillback.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-050-osr-digtoise-seismic-drillback",
+        "card_number": "BP01-050-OSR",
+        "name": "Digtoise – Seismic Drillback",
+        "pal_name": "Digtoise",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Green"
+        ],
+        "cost": 6,
+        "power": 900,
+        "strike": 2,
+        "rarity": "OSR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-050-OSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-050-osr-digtoise-seismic-drillback.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-050-sp-digtoise-seismic-drillback",
+        "card_number": "BP01-050-SP",
+        "name": "Digtoise – Seismic Drillback",
+        "pal_name": "Digtoise",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Green"
+        ],
+        "cost": 6,
+        "power": 900,
+        "strike": 2,
+        "rarity": "SP",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-050-SP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-050-sp-digtoise-seismic-drillback.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-051-petallia-sweet-blessings",
+        "card_number": "BP01-051",
+        "name": "Petallia – Sweet Blessings",
+        "pal_name": "Petallia",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 6,
+        "power": 700,
+        "strike": 2,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-051.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-051-petallia-sweet-blessings.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-051-osr-petallia-sweet-blessings",
+        "card_number": "BP01-051-OSR",
+        "name": "Petallia – Sweet Blessings",
+        "pal_name": "Petallia",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 6,
+        "power": 700,
+        "strike": 2,
+        "rarity": "OSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-051-OSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-051-osr-petallia-sweet-blessings.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-051-sp-petallia-sweet-blessings",
+        "card_number": "BP01-051-SP",
+        "name": "Petallia – Sweet Blessings",
+        "pal_name": "Petallia",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 6,
+        "power": 700,
+        "strike": 2,
+        "rarity": "SP",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-051-SP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-051-sp-petallia-sweet-blessings.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-052-rushoar-reckless-destruction",
+        "card_number": "BP01-052",
+        "name": "Rushoar – Reckless Destruction",
+        "pal_name": "Rushoar",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 2,
+        "power": 200,
+        "strike": 1,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-052.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-052-rushoar-reckless-destruction.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-052-sr-rushoar-reckless-destruction",
+        "card_number": "BP01-052-SR",
+        "name": "Rushoar – Reckless Destruction",
+        "pal_name": "Rushoar",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 2,
+        "power": 200,
+        "strike": 1,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-052-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-052-sr-rushoar-reckless-destruction.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-053-elizabee-queen-of-the-flower-garden",
+        "card_number": "BP01-053",
+        "name": "Elizabee – Queen of the Flower Garden",
+        "pal_name": "Elizabee",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Green"
+        ],
+        "cost": 5,
+        "power": 700,
+        "strike": 2,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-053.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-053-elizabee-queen-of-the-flower-garden.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-053-sr-elizabee-queen-of-the-flower-garden",
+        "card_number": "BP01-053-SR",
+        "name": "Elizabee – Queen of the Flower Garden",
+        "pal_name": "Elizabee",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Green"
+        ],
+        "cost": 5,
+        "power": 700,
+        "strike": 2,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-053-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-053-sr-elizabee-queen-of-the-flower-garden.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-054-warsect-iron-fortress",
+        "card_number": "BP01-054",
+        "name": "Warsect – Iron Fortress",
+        "pal_name": "Warsect",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 8,
+        "power": 1500,
+        "strike": 3,
+        "rarity": "R",
+        "keywords": [
+          "Taunt"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-054.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-054-warsect-iron-fortress.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-054-sr-warsect-iron-fortress",
+        "card_number": "BP01-054-SR",
+        "name": "Warsect – Iron Fortress",
+        "pal_name": "Warsect",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 8,
+        "power": 1500,
+        "strike": 3,
+        "rarity": "SR",
+        "keywords": [
+          "Taunt"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-054-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-054-sr-warsect-iron-fortress.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-055-vaelet-bewitching-blossom",
+        "card_number": "BP01-055",
+        "name": "Vaelet – Bewitching Blossom",
+        "pal_name": "Vaelet",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Green"
+        ],
+        "cost": 8,
+        "power": 1600,
+        "strike": 3,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-055.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-055-vaelet-bewitching-blossom.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-055-sr-vaelet-bewitching-blossom",
+        "card_number": "BP01-055-SR",
+        "name": "Vaelet – Bewitching Blossom",
+        "pal_name": "Vaelet",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Green"
+        ],
+        "cost": 8,
+        "power": 1600,
+        "strike": 3,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-055-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-055-sr-vaelet-bewitching-blossom.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-056-lifmunk-promising-newbie",
+        "card_number": "BP01-056",
+        "name": "Lifmunk – Promising Newbie",
+        "pal_name": "Lifmunk",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 3,
+        "power": 500,
+        "strike": 1,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-056.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-056-lifmunk-promising-newbie.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-056-sr-lifmunk-promising-newbie",
+        "card_number": "BP01-056-SR",
+        "name": "Lifmunk – Promising Newbie",
+        "pal_name": "Lifmunk",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 3,
+        "power": 500,
+        "strike": 1,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-056-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-056-sr-lifmunk-promising-newbie.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-057-dumud-mellow-bounty",
+        "card_number": "BP01-057",
+        "name": "Dumud – Mellow Bounty",
+        "pal_name": "Dumud",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 4,
+        "power": 500,
+        "strike": 2,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-057.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-057-dumud-mellow-bounty.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-058-gumoss-curious-sprout",
+        "card_number": "BP01-058",
+        "name": "Gumoss – Curious Sprout",
+        "pal_name": "Gumoss",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 4,
+        "power": 600,
+        "strike": 2,
+        "rarity": "U",
+        "keywords": [
+          "Assault"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-058.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-058-gumoss-curious-sprout.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-059-digtoise-keen-needleback",
+        "card_number": "BP01-059",
+        "name": "Digtoise – Keen Needleback",
+        "pal_name": "Digtoise",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 5,
+        "power": 800,
+        "strike": 2,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-059.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-059-digtoise-keen-needleback.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-060-tanzee-cheerful-worker",
+        "card_number": "BP01-060",
+        "name": "Tanzee – Cheerful Worker",
+        "pal_name": "Tanzee",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 2,
+        "power": 200,
+        "strike": 1,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-060.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-060-tanzee-cheerful-worker.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-061-beegarde-knight-of-the-flower-garden",
+        "card_number": "BP01-061",
+        "name": "Beegarde – Knight of the Flower Garden",
+        "pal_name": "Beegarde",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 3,
+        "power": 400,
+        "strike": 1,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-061.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-061-beegarde-knight-of-the-flower-garden.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-062-wumpo-botan-tropical-sentinel",
+        "card_number": "BP01-062",
+        "name": "Wumpo Botan – Tropical Sentinel",
+        "pal_name": "Wumpo Botan",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 7,
+        "power": 1200,
+        "strike": 3,
+        "rarity": "C",
+        "keywords": [
+          "Quick",
+          "Interrupt"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-062.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-062-wumpo-botan-tropical-sentinel.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-063-breeding-farm",
+        "card_number": "BP01-063",
+        "name": "Breeding Farm",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Green"
+        ],
+        "cost": 3,
+        "power": 1100,
+        "strike": null,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-063.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-063-breeding-farm.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-063-sr-breeding-farm",
+        "card_number": "BP01-063-SR",
+        "name": "Breeding Farm",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Green"
+        ],
+        "cost": 3,
+        "power": 1100,
+        "strike": null,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-063-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-063-sr-breeding-farm.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-064-cola-vending-machine",
+        "card_number": "BP01-064",
+        "name": "Cola Vending Machine",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Green"
+        ],
+        "cost": 6,
+        "power": 1500,
+        "strike": null,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-064.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-064-cola-vending-machine.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-064-sr-cola-vending-machine",
+        "card_number": "BP01-064-SR",
+        "name": "Cola Vending Machine",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Green"
+        ],
+        "cost": 6,
+        "power": 1500,
+        "strike": null,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-064-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-064-sr-cola-vending-machine.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-065-feed-box",
+        "card_number": "BP01-065",
+        "name": "Feed Box",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Green"
+        ],
+        "cost": 2,
+        "power": 900,
+        "strike": null,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-065.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-065-feed-box.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-066-ranch",
+        "card_number": "BP01-066",
+        "name": "Ranch",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Green"
+        ],
+        "cost": 2,
+        "power": 800,
+        "strike": null,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-066.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-066-ranch.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-067-no-pals-beyond-sign",
+        "card_number": "BP01-067",
+        "name": "No Pals Beyond Sign",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Green"
+        ],
+        "cost": 5,
+        "power": 1100,
+        "strike": null,
+        "rarity": "C",
+        "keywords": [
+          "Taunt"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-067.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-067-no-pals-beyond-sign.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-068-digtoise-s-headband",
+        "card_number": "BP01-068",
+        "name": "Digtoise's Headband",
+        "pal_name": null,
+        "card_type": "Gear",
+        "subtype": null,
+        "color": [
+          "Green"
+        ],
+        "cost": 3,
+        "power": null,
+        "strike": null,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-068.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-068-digtoise-s-headband.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-069-farming-hat",
+        "card_number": "BP01-069",
+        "name": "Farming Hat",
+        "pal_name": null,
+        "card_type": "Gear",
+        "subtype": null,
+        "color": [
+          "Green"
+        ],
+        "cost": 3,
+        "power": null,
+        "strike": null,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-069.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-069-farming-hat.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-070-lily-s-strategy",
+        "card_number": "BP01-070",
+        "name": "Lily's Strategy",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Green"
+        ],
+        "cost": 3,
+        "power": null,
+        "strike": null,
+        "rarity": "RR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-070.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-070-lily-s-strategy.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-070-osr-lily-s-strategy",
+        "card_number": "BP01-070-OSR",
+        "name": "Lily's Strategy",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Green"
+        ],
+        "cost": 3,
+        "power": null,
+        "strike": null,
+        "rarity": "OSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-070-OSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-070-osr-lily-s-strategy.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-070-sp-lily-s-strategy",
+        "card_number": "BP01-070-SP",
+        "name": "Lily's Strategy",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Green"
+        ],
+        "cost": 3,
+        "power": null,
+        "strike": null,
+        "rarity": "SP",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-070-SP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-070-sp-lily-s-strategy.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-071-found-an-egg",
+        "card_number": "BP01-071",
+        "name": "Found an Egg!",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Green"
+        ],
+        "cost": 2,
+        "power": null,
+        "strike": null,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-071.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-071-found-an-egg.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-072-blessing-of-the-flower-spirit",
+        "card_number": "BP01-072",
+        "name": "Blessing of the Flower Spirit",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Green"
+        ],
+        "cost": 3,
+        "power": null,
+        "strike": null,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-072.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-072-blessing-of-the-flower-spirit.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-073-helzephyr-wings-of-the-moonless-night",
+        "card_number": "BP01-073",
+        "name": "Helzephyr – Wings of the Moonless Night",
+        "pal_name": "Helzephyr",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Purple"
+        ],
+        "cost": 7,
+        "power": 700,
+        "strike": 3,
+        "rarity": "RR",
+        "keywords": [
+          "Nocturnal"
+        ],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-073.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-073-helzephyr-wings-of-the-moonless-night.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-073-osr-helzephyr-wings-of-the-moonless-night",
+        "card_number": "BP01-073-OSR",
+        "name": "Helzephyr – Wings of the Moonless Night",
+        "pal_name": "Helzephyr",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Purple"
+        ],
+        "cost": 7,
+        "power": 700,
+        "strike": 3,
+        "rarity": "OSR",
+        "keywords": [
+          "Nocturnal"
+        ],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-073-OSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-073-osr-helzephyr-wings-of-the-moonless-night.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-073-ssp-helzephyr-wings-of-the-moonless-night",
+        "card_number": "BP01-073-SSP",
+        "name": "Helzephyr – Wings of the Moonless Night",
+        "pal_name": "Helzephyr",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Purple"
+        ],
+        "cost": 7,
+        "power": 700,
+        "strike": 3,
+        "rarity": "SSP",
+        "keywords": [
+          "Nocturnal"
+        ],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-073-SSP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-073-ssp-helzephyr-wings-of-the-moonless-night.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-074-shadowbeak-seed-of-despair",
+        "card_number": "BP01-074",
+        "name": "Shadowbeak – Seed of Despair",
+        "pal_name": "Shadowbeak",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Purple"
+        ],
+        "cost": 8,
+        "power": 1300,
+        "strike": 3,
+        "rarity": "RR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-074.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-074-shadowbeak-seed-of-despair.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-074-osr-shadowbeak-seed-of-despair",
+        "card_number": "BP01-074-OSR",
+        "name": "Shadowbeak – Seed of Despair",
+        "pal_name": "Shadowbeak",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Purple"
+        ],
+        "cost": 8,
+        "power": 1300,
+        "strike": 3,
+        "rarity": "OSR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-074-OSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-074-osr-shadowbeak-seed-of-despair.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-074-sp-shadowbeak-seed-of-despair",
+        "card_number": "BP01-074-SP",
+        "name": "Shadowbeak – Seed of Despair",
+        "pal_name": "Shadowbeak",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Purple"
+        ],
+        "cost": 8,
+        "power": 1300,
+        "strike": 3,
+        "rarity": "SP",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-074-SP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-074-sp-shadowbeak-seed-of-despair.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-075-katress-abyssal-sorcerer",
+        "card_number": "BP01-075",
+        "name": "Katress – Abyssal Sorcerer",
+        "pal_name": "Katress",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Purple"
+        ],
+        "cost": 6,
+        "power": 900,
+        "strike": 2,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-075.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-075-katress-abyssal-sorcerer.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-075-osr-katress-abyssal-sorcerer",
+        "card_number": "BP01-075-OSR",
+        "name": "Katress – Abyssal Sorcerer",
+        "pal_name": "Katress",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Purple"
+        ],
+        "cost": 6,
+        "power": 900,
+        "strike": 2,
+        "rarity": "OSR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-075-OSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-075-osr-katress-abyssal-sorcerer.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-075-sp-katress-abyssal-sorcerer",
+        "card_number": "BP01-075-SP",
+        "name": "Katress – Abyssal Sorcerer",
+        "pal_name": "Katress",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Purple"
+        ],
+        "cost": 6,
+        "power": 900,
+        "strike": 2,
+        "rarity": "SP",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-075-SP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-075-sp-katress-abyssal-sorcerer.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-076-tombat-out-of-nowhere",
+        "card_number": "BP01-076",
+        "name": "Tombat – Out of Nowhere!?",
+        "pal_name": "Tombat",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 5,
+        "power": 600,
+        "strike": 2,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-076.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-076-tombat-out-of-nowhere.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-076-sr-tombat-out-of-nowhere",
+        "card_number": "BP01-076-SR",
+        "name": "Tombat – Out of Nowhere!?",
+        "pal_name": "Tombat",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 5,
+        "power": 600,
+        "strike": 2,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-076-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-076-sr-tombat-out-of-nowhere.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-077-pyrin-noct-steed-of-azure-flames",
+        "card_number": "BP01-077",
+        "name": "Pyrin Noct – Steed of Azure Flames",
+        "pal_name": "Pyrin Noct",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 7,
+        "power": 1100,
+        "strike": 3,
+        "rarity": "R",
+        "keywords": [
+          "Quick",
+          "Nocturnal",
+          "Interrupt"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-077.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-077-pyrin-noct-steed-of-azure-flames.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-077-sr-pyrin-noct-steed-of-azure-flames",
+        "card_number": "BP01-077-SR",
+        "name": "Pyrin Noct – Steed of Azure Flames",
+        "pal_name": "Pyrin Noct",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 7,
+        "power": 1100,
+        "strike": 3,
+        "rarity": "SR",
+        "keywords": [
+          "Quick",
+          "Nocturnal",
+          "Interrupt"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-077-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-077-sr-pyrin-noct-steed-of-azure-flames.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-078-lyleen-noct-providence-of-the-goddess",
+        "card_number": "BP01-078",
+        "name": "Lyleen Noct – Providence of the Goddess",
+        "pal_name": "Lyleen Noct",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 8,
+        "power": 1700,
+        "strike": 3,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-078.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-078-lyleen-noct-providence-of-the-goddess.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-078-sr-lyleen-noct-providence-of-the-goddess",
+        "card_number": "BP01-078-SR",
+        "name": "Lyleen Noct – Providence of the Goddess",
+        "pal_name": "Lyleen Noct",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 8,
+        "power": 1700,
+        "strike": 3,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-078-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-078-sr-lyleen-noct-providence-of-the-goddess.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-079-depresso-late-night-hustler",
+        "card_number": "BP01-079",
+        "name": "Depresso – Late Night Hustler",
+        "pal_name": "Depresso",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 2,
+        "power": 100,
+        "strike": 1,
+        "rarity": "U",
+        "keywords": [
+          "Nocturnal"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-079.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-079-depresso-late-night-hustler.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-079-sr-depresso-late-night-hustler",
+        "card_number": "BP01-079-SR",
+        "name": "Depresso – Late Night Hustler",
+        "pal_name": "Depresso",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 2,
+        "power": 100,
+        "strike": 1,
+        "rarity": "SR",
+        "keywords": [
+          "Nocturnal"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-079-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-079-sr-depresso-late-night-hustler.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-080-daedream-first-slumber",
+        "card_number": "BP01-080",
+        "name": "Daedream – First Slumber",
+        "pal_name": "Daedream",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 2,
+        "power": 200,
+        "strike": 1,
+        "rarity": "C",
+        "keywords": [
+          "Nocturnal"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-080.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-080-daedream-first-slumber.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-080-sr-daedream-first-slumber",
+        "card_number": "BP01-080-SR",
+        "name": "Daedream – First Slumber",
+        "pal_name": "Daedream",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 2,
+        "power": 200,
+        "strike": 1,
+        "rarity": "SR",
+        "keywords": [
+          "Nocturnal"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-080-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-080-sr-daedream-first-slumber.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-081-lovander-heartstealer",
+        "card_number": "BP01-081",
+        "name": "Lovander – Heartstealer",
+        "pal_name": "Lovander",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 5,
+        "power": 800,
+        "strike": 2,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-081.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-081-lovander-heartstealer.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-081-sr-lovander-heartstealer",
+        "card_number": "BP01-081-SR",
+        "name": "Lovander – Heartstealer",
+        "pal_name": "Lovander",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 5,
+        "power": 800,
+        "strike": 2,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-081-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-081-sr-lovander-heartstealer.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-082-daedream-deep-slumber",
+        "card_number": "BP01-082",
+        "name": "Daedream – Deep Slumber",
+        "pal_name": "Daedream",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 3,
+        "power": 400,
+        "strike": 1,
+        "rarity": "U",
+        "keywords": [
+          "Nocturnal"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-082.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-082-daedream-deep-slumber.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-083-vanwyrm-marauder-of-the-skies",
+        "card_number": "BP01-083",
+        "name": "Vanwyrm – Marauder of the Skies",
+        "pal_name": "Vanwyrm",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 4,
+        "power": 600,
+        "strike": 2,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-083.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-083-vanwyrm-marauder-of-the-skies.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-084-menasting-darkness-dwelling-scorpion",
+        "card_number": "BP01-084",
+        "name": "Menasting – Darkness-Dwelling Scorpion",
+        "pal_name": "Menasting",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Purple"
+        ],
+        "cost": 5,
+        "power": 700,
+        "strike": 2,
+        "rarity": "U",
+        "keywords": [
+          "Retaliate"
+        ],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-084.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-084-menasting-darkness-dwelling-scorpion.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-085-maraith-twilight-messenger",
+        "card_number": "BP01-085",
+        "name": "Maraith – Twilight Messenger",
+        "pal_name": "Maraith",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 6,
+        "power": 900,
+        "strike": 2,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-085.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-085-maraith-twilight-messenger.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-086-nox-the-silent-one",
+        "card_number": "BP01-086",
+        "name": "Nox – The Silent One",
+        "pal_name": "Nox",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 3,
+        "power": 500,
+        "strike": 1,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-086.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-086-nox-the-silent-one.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-087-loupmoon-glinting-moonlight",
+        "card_number": "BP01-087",
+        "name": "Loupmoon – Glinting Moonlight",
+        "pal_name": "Loupmoon",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 4,
+        "power": 500,
+        "strike": 2,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-087.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-087-loupmoon-glinting-moonlight.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-088-lamp",
+        "card_number": "BP01-088",
+        "name": "Lamp",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Purple"
+        ],
+        "cost": 4,
+        "power": 1300,
+        "strike": null,
+        "rarity": "R",
+        "keywords": [
+          "Nocturnal"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-088.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-088-lamp.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-088-sr-lamp",
+        "card_number": "BP01-088-SR",
+        "name": "Lamp",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Purple"
+        ],
+        "cost": 4,
+        "power": 1300,
+        "strike": null,
+        "rarity": "SR",
+        "keywords": [
+          "Nocturnal"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-088-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-088-sr-lamp.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-089-shoddy-bed",
+        "card_number": "BP01-089",
+        "name": "Shoddy Bed",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Purple"
+        ],
+        "cost": 2,
+        "power": 700,
+        "strike": null,
+        "rarity": "U",
+        "keywords": [
+          "Nocturnal"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-089.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-089-shoddy-bed.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-090-medieval-medicine-workbench",
+        "card_number": "BP01-090",
+        "name": "Medieval Medicine Workbench",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Purple"
+        ],
+        "cost": 4,
+        "power": 1300,
+        "strike": null,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-090.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-090-medieval-medicine-workbench.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-091-wooden-wall",
+        "card_number": "BP01-091",
+        "name": "Wooden Wall",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Purple"
+        ],
+        "cost": 3,
+        "power": 300,
+        "strike": null,
+        "rarity": "C",
+        "keywords": [
+          "Taunt"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-091.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-091-wooden-wall.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-092-viewing-cage",
+        "card_number": "BP01-092",
+        "name": "Viewing Cage",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Purple"
+        ],
+        "cost": 3,
+        "power": 1300,
+        "strike": null,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-092.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-092-viewing-cage.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-093-meat-cleaver",
+        "card_number": "BP01-093",
+        "name": "Meat Cleaver",
+        "pal_name": null,
+        "card_type": "Gear",
+        "subtype": null,
+        "color": [
+          "Purple"
+        ],
+        "cost": 2,
+        "power": null,
+        "strike": null,
+        "rarity": "R",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-093.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-093-meat-cleaver.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-093-sr-meat-cleaver",
+        "card_number": "BP01-093-SR",
+        "name": "Meat Cleaver",
+        "pal_name": null,
+        "card_type": "Gear",
+        "subtype": null,
+        "color": [
+          "Purple"
+        ],
+        "cost": 2,
+        "power": null,
+        "strike": null,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-093-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-093-sr-meat-cleaver.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-094-daedream-s-necklace",
+        "card_number": "BP01-094",
+        "name": "Daedream's Necklace",
+        "pal_name": null,
+        "card_type": "Gear",
+        "subtype": null,
+        "color": [
+          "Purple"
+        ],
+        "cost": 3,
+        "power": null,
+        "strike": null,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-094.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-094-daedream-s-necklace.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-095-zoe-s-strategy",
+        "card_number": "BP01-095",
+        "name": "Zoe's Strategy",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Purple"
+        ],
+        "cost": 3,
+        "power": null,
+        "strike": null,
+        "rarity": "RR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-095.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-095-zoe-s-strategy.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-095-osr-zoe-s-strategy",
+        "card_number": "BP01-095-OSR",
+        "name": "Zoe's Strategy",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Purple"
+        ],
+        "cost": 3,
+        "power": null,
+        "strike": null,
+        "rarity": "OSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-095-OSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-095-osr-zoe-s-strategy.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-095-sp-zoe-s-strategy",
+        "card_number": "BP01-095-SP",
+        "name": "Zoe's Strategy",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Purple"
+        ],
+        "cost": 3,
+        "power": null,
+        "strike": null,
+        "rarity": "SP",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-095-SP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-095-sp-zoe-s-strategy.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-096-dark-cannon",
+        "card_number": "BP01-096",
+        "name": "Dark Cannon",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Purple"
+        ],
+        "cost": 3,
+        "power": null,
+        "strike": null,
+        "rarity": "C",
+        "keywords": [
+          "Quick"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-096.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-096-dark-cannon.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-097-black-marketeer",
+        "card_number": "BP01-097",
+        "name": "Black Marketeer",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Purple"
+        ],
+        "cost": 5,
+        "power": null,
+        "strike": null,
+        "rarity": "C",
+        "keywords": [
+          "Interrupt"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-097.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-097-black-marketeer.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-098-elphidran-gentle-radiance",
+        "card_number": "BP01-098",
+        "name": "Elphidran – Gentle Radiance",
+        "pal_name": "Elphidran",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Colorless"
+        ],
+        "cost": 4,
+        "power": 600,
+        "strike": 2,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-098.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-098-elphidran-gentle-radiance.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-099-direhowl-proud-fang",
+        "card_number": "BP01-099",
+        "name": "Direhowl – Proud Fang",
+        "pal_name": "Direhowl",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Colorless"
+        ],
+        "cost": 3,
+        "power": 500,
+        "strike": 1,
+        "rarity": "C",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-099.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-099-direhowl-proud-fang.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-100-the-adventure-begins",
+        "card_number": "BP01-100",
+        "name": "The Adventure Begins",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Colorless"
+        ],
+        "cost": 2,
+        "power": null,
+        "strike": null,
+        "rarity": "U",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-100.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-100-the-adventure-begins.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bp01-100-sr-the-adventure-begins",
+        "card_number": "BP01-100-SR",
+        "name": "The Adventure Begins",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Colorless"
+        ],
+        "cost": 2,
+        "power": null,
+        "strike": null,
+        "rarity": "SR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/BP01/BP01-100-SR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/bp01-100-sr-the-adventure-begins.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "bt01-001",
+        "card_number": "BT01-001",
+        "name": "BT01-001",
+        "pal_name": null,
+        "card_type": "Pal",
+        "subtype": null,
+        "color": [],
+        "cost": null,
+        "power": null,
+        "strike": null,
+        "rarity": null,
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://en.palworld-official-cardgame.com/wordpress/wp-content/uploads/2026/03/27120848/BT01-001.png",
+        "thumbnail_url": null,
+        "status": "unrevealed"
+      },
+      {
+        "slug": "bt01-034",
+        "card_number": "BT01-034",
+        "name": "BT01-034",
+        "pal_name": null,
+        "card_type": "Pal",
+        "subtype": null,
+        "color": [],
+        "cost": null,
+        "power": null,
+        "strike": null,
+        "rarity": null,
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://en.palworld-official-cardgame.com/wordpress/wp-content/uploads/2026/03/27120851/BT01-034.jpg",
+        "thumbnail_url": null,
+        "status": "unrevealed"
+      },
+      {
+        "slug": "bt01-073",
+        "card_number": "BT01-073",
+        "name": "BT01-073",
+        "pal_name": null,
+        "card_type": "Pal",
+        "subtype": null,
+        "color": [],
+        "cost": null,
+        "power": null,
+        "strike": null,
+        "rarity": null,
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://en.palworld-official-cardgame.com/wordpress/wp-content/uploads/2026/03/27120854/BT01-073.png",
+        "thumbnail_url": null,
+        "status": "unrevealed"
+      },
+      {
+        "slug": "bt01-082",
+        "card_number": "BT01-082",
+        "name": "BT01-082",
+        "pal_name": null,
+        "card_type": "Pal",
+        "subtype": null,
+        "color": [],
+        "cost": null,
+        "power": null,
+        "strike": null,
+        "rarity": null,
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://en.palworld-official-cardgame.com/wordpress/wp-content/uploads/2026/03/27120837/bt01-082.png",
+        "thumbnail_url": null,
+        "status": "unrevealed"
+      },
+      {
+        "slug": "bt01-086",
+        "card_number": "BT01-086",
+        "name": "BT01-086",
+        "pal_name": null,
+        "card_type": "Pal",
+        "subtype": null,
+        "color": [],
+        "cost": null,
+        "power": null,
+        "strike": null,
+        "rarity": null,
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://en.palworld-official-cardgame.com/wordpress/wp-content/uploads/2026/03/27120839/BT01-086.png",
+        "thumbnail_url": null,
+        "status": "unrevealed"
+      },
+      {
+        "slug": "bp01-chillet",
+        "card_number": null,
+        "name": "Chillet",
+        "pal_name": null,
+        "card_type": "Pal",
+        "subtype": null,
+        "color": [],
+        "cost": null,
+        "power": null,
+        "strike": null,
+        "rarity": null,
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://en.palworld-official-cardgame.com/wordpress/wp-content/uploads/2026/03/27120842/Chillet.jpg",
+        "thumbnail_url": null,
+        "status": "unrevealed"
+      }
+    ]
+  }
+}

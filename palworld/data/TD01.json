@@ -1,0 +1,899 @@
+{
+  "data": {
+    "code": "TD01",
+    "name": "Dawn of Palpagos Red・Blue",
+    "release_date": "2026-07-30",
+    "card_count": null,
+    "key_art_url": "https://en.palworld-official-cardgame.com/wordpress/wp-content/uploads/2026/03/27121046/Palworld_TrialDeck_RedBlue.jpg",
+    "cards": [
+      {
+        "slug": "td01-soul",
+        "card_number": "SOUL-001",
+        "name": "Soul",
+        "pal_name": null,
+        "card_type": "Soul",
+        "subtype": null,
+        "color": [],
+        "cost": null,
+        "power": null,
+        "strike": null,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/SOUL-001.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-soul.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-001-grizzbolt-rumbling-tank",
+        "card_number": "TD01-001",
+        "name": "Grizzbolt – Rumbling Tank",
+        "pal_name": "Grizzbolt",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Red"
+        ],
+        "cost": 7,
+        "power": 1600,
+        "strike": 4,
+        "rarity": "TD",
+        "keywords": [
+          "Assault"
+        ],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-001.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-001-grizzbolt-rumbling-tank.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-001-tsp-grizzbolt-rumbling-tank",
+        "card_number": "TD01-001-TSP",
+        "name": "Grizzbolt – Rumbling Tank",
+        "pal_name": "Grizzbolt",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Red"
+        ],
+        "cost": 7,
+        "power": 1600,
+        "strike": 4,
+        "rarity": "TSP",
+        "keywords": [
+          "Assault"
+        ],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-001-TSP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-001-tsp-grizzbolt-rumbling-tank.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-001-tsr-grizzbolt-rumbling-tank",
+        "card_number": "TD01-001-TSR",
+        "name": "Grizzbolt – Rumbling Tank",
+        "pal_name": "Grizzbolt",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Red"
+        ],
+        "cost": 7,
+        "power": 1600,
+        "strike": 4,
+        "rarity": "TSR",
+        "keywords": [
+          "Assault"
+        ],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-001-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-001-tsr-grizzbolt-rumbling-tank.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-002-jolthog-shocking-yet-innocent",
+        "card_number": "TD01-002",
+        "name": "Jolthog – Shocking Yet Innocent",
+        "pal_name": "Jolthog",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 2,
+        "power": 300,
+        "strike": 1,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-002.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-002-jolthog-shocking-yet-innocent.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-003-kelpsea-ignis-balmy-magma",
+        "card_number": "TD01-003",
+        "name": "Kelpsea Ignis – Balmy Magma",
+        "pal_name": "Kelpsea Ignis",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 3,
+        "power": 500,
+        "strike": 1,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-003.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-003-kelpsea-ignis-balmy-magma.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-004-foxparks-a-toasty-hug",
+        "card_number": "TD01-004",
+        "name": "Foxparks – A Toasty Hug",
+        "pal_name": "Foxparks",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 4,
+        "power": 400,
+        "strike": 2,
+        "rarity": "TD",
+        "keywords": [
+          "Quick",
+          "Interrupt"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-004.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-004-foxparks-a-toasty-hug.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-005-arsox-burning-spoils",
+        "card_number": "TD01-005",
+        "name": "Arsox – Burning Spoils",
+        "pal_name": "Arsox",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 5,
+        "power": 800,
+        "strike": 2,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-005.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-005-arsox-burning-spoils.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-005-tsr-arsox-burning-spoils",
+        "card_number": "TD01-005-TSR",
+        "name": "Arsox – Burning Spoils",
+        "pal_name": "Arsox",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 5,
+        "power": 800,
+        "strike": 2,
+        "rarity": "TSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-005-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-005-tsr-arsox-burning-spoils.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-006-mossanda-lux-vanguard-captain",
+        "card_number": "TD01-006",
+        "name": "Mossanda Lux – Vanguard Captain",
+        "pal_name": "Mossanda Lux",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Red"
+        ],
+        "cost": 6,
+        "power": 1100,
+        "strike": 2,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-006.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-006-mossanda-lux-vanguard-captain.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-007-blazamut-molten-sovereign",
+        "card_number": "TD01-007",
+        "name": "Blazamut – Molten Sovereign",
+        "pal_name": "Blazamut",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Red"
+        ],
+        "cost": 8,
+        "power": 1600,
+        "strike": 3,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-007.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-007-blazamut-molten-sovereign.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-007-tsr-blazamut-molten-sovereign",
+        "card_number": "TD01-007-TSR",
+        "name": "Blazamut – Molten Sovereign",
+        "pal_name": "Blazamut",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Red"
+        ],
+        "cost": 8,
+        "power": 1600,
+        "strike": 3,
+        "rarity": "TSR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-007-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-007-tsr-blazamut-molten-sovereign.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-008-stone-pit",
+        "card_number": "TD01-008",
+        "name": "Stone Pit",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 1,
+        "power": 600,
+        "strike": null,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-008.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-008-stone-pit.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-008-tsr-stone-pit",
+        "card_number": "TD01-008-TSR",
+        "name": "Stone Pit",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 1,
+        "power": 600,
+        "strike": null,
+        "rarity": "TSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-008-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-008-tsr-stone-pit.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-009-weapon-workbench",
+        "card_number": "TD01-009",
+        "name": "Weapon Workbench",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 3,
+        "power": 1100,
+        "strike": null,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-009.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-009-weapon-workbench.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-010-single-shot-rifle",
+        "card_number": "TD01-010",
+        "name": "Single-Shot Rifle",
+        "pal_name": null,
+        "card_type": "Gear",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 4,
+        "power": null,
+        "strike": null,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-010.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-010-single-shot-rifle.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-011-ignis-breath",
+        "card_number": "TD01-011",
+        "name": "Ignis Breath",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 2,
+        "power": null,
+        "strike": null,
+        "rarity": "TD",
+        "keywords": [
+          "Quick"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-011.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-011-ignis-breath.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-011-tsr-ignis-breath",
+        "card_number": "TD01-011-TSR",
+        "name": "Ignis Breath",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Red"
+        ],
+        "cost": 2,
+        "power": null,
+        "strike": null,
+        "rarity": "TSR",
+        "keywords": [
+          "Quick"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-011-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-011-tsr-ignis-breath.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-012-elphidran-aqua-gentle-ripples",
+        "card_number": "TD01-012",
+        "name": "Elphidran Aqua – Gentle Ripples",
+        "pal_name": "Elphidran Aqua",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 6,
+        "power": 900,
+        "strike": 2,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-012.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-012-elphidran-aqua-gentle-ripples.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-012-tsp-elphidran-aqua-gentle-ripples",
+        "card_number": "TD01-012-TSP",
+        "name": "Elphidran Aqua – Gentle Ripples",
+        "pal_name": "Elphidran Aqua",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 6,
+        "power": 900,
+        "strike": 2,
+        "rarity": "TSP",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-012-TSP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-012-tsp-elphidran-aqua-gentle-ripples.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-012-tsr-elphidran-aqua-gentle-ripples",
+        "card_number": "TD01-012-TSR",
+        "name": "Elphidran Aqua – Gentle Ripples",
+        "pal_name": "Elphidran Aqua",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 6,
+        "power": 900,
+        "strike": 2,
+        "rarity": "TSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-012-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-012-tsr-elphidran-aqua-gentle-ripples.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-013-jolthog-cryst-stoic-yet-innocent",
+        "card_number": "TD01-013",
+        "name": "Jolthog Cryst – Stoic Yet Innocent",
+        "pal_name": "Jolthog Cryst",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 2,
+        "power": 300,
+        "strike": 1,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-013.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-013-jolthog-cryst-stoic-yet-innocent.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-014-pengullet-frequent-flyer",
+        "card_number": "TD01-014",
+        "name": "Pengullet – Frequent Flyer",
+        "pal_name": "Pengullet",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 3,
+        "power": 500,
+        "strike": 1,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-014.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-014-pengullet-frequent-flyer.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-014-tsr-pengullet-frequent-flyer",
+        "card_number": "TD01-014-TSR",
+        "name": "Pengullet – Frequent Flyer",
+        "pal_name": "Pengullet",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 3,
+        "power": 500,
+        "strike": 1,
+        "rarity": "TSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-014-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-014-tsr-pengullet-frequent-flyer.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-015-hangyu-cryst-frigid-wanderer",
+        "card_number": "TD01-015",
+        "name": "Hangyu Cryst – Frigid Wanderer",
+        "pal_name": "Hangyu Cryst",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 4,
+        "power": 600,
+        "strike": 2,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-015.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-015-hangyu-cryst-frigid-wanderer.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-016-reindrix-icy-gaze",
+        "card_number": "TD01-016",
+        "name": "Reindrix – Icy Gaze",
+        "pal_name": "Reindrix",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Blue"
+        ],
+        "cost": 5,
+        "power": 600,
+        "strike": 2,
+        "rarity": "TD",
+        "keywords": [
+          "Quick",
+          "Interrupt"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-016.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-016-reindrix-icy-gaze.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-017-suzaku-aqua-way-of-the-current",
+        "card_number": "TD01-017",
+        "name": "Suzaku Aqua – Way of the Current",
+        "pal_name": "Suzaku Aqua",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Blue"
+        ],
+        "cost": 7,
+        "power": 1200,
+        "strike": 3,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-017.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-017-suzaku-aqua-way-of-the-current.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-017-tsr-suzaku-aqua-way-of-the-current",
+        "card_number": "TD01-017-TSR",
+        "name": "Suzaku Aqua – Way of the Current",
+        "pal_name": "Suzaku Aqua",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Blue"
+        ],
+        "cost": 7,
+        "power": 1200,
+        "strike": 3,
+        "rarity": "TSR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-017-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-017-tsr-suzaku-aqua-way-of-the-current.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-018-mammorest-cryst-roar-of-the-tundra",
+        "card_number": "TD01-018",
+        "name": "Mammorest Cryst – Roar of the Tundra",
+        "pal_name": "Mammorest Cryst",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Blue"
+        ],
+        "cost": 8,
+        "power": 1700,
+        "strike": 3,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-018.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-018-mammorest-cryst-roar-of-the-tundra.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-018-tsr-mammorest-cryst-roar-of-the-tundra",
+        "card_number": "TD01-018-TSR",
+        "name": "Mammorest Cryst – Roar of the Tundra",
+        "pal_name": "Mammorest Cryst",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Blue"
+        ],
+        "cost": 8,
+        "power": 1700,
+        "strike": 3,
+        "rarity": "TSR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-018-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-018-tsr-mammorest-cryst-roar-of-the-tundra.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-019-antique-wooden-chair",
+        "card_number": "TD01-019",
+        "name": "Antique Wooden Chair",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 2,
+        "power": 1200,
+        "strike": null,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-019.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-019-antique-wooden-chair.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-020-primitive-workbench",
+        "card_number": "TD01-020",
+        "name": "Primitive Workbench",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 3,
+        "power": 1100,
+        "strike": null,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-020.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-020-primitive-workbench.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-021-single-shot-sphere-launcher",
+        "card_number": "TD01-021",
+        "name": "Single-Shot Sphere Launcher",
+        "pal_name": null,
+        "card_type": "Gear",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 3,
+        "power": null,
+        "strike": null,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-021.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-021-single-shot-sphere-launcher.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-022-crystal-breath",
+        "card_number": "TD01-022",
+        "name": "Crystal Breath",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 2,
+        "power": null,
+        "strike": null,
+        "rarity": "TD",
+        "keywords": [
+          "Quick"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-022.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-022-crystal-breath.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-022-tsr-crystal-breath",
+        "card_number": "TD01-022-TSR",
+        "name": "Crystal Breath",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Blue"
+        ],
+        "cost": 2,
+        "power": null,
+        "strike": null,
+        "rarity": "TSR",
+        "keywords": [
+          "Quick"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-022-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-022-tsr-crystal-breath.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-023-lamball-my-first-pal",
+        "card_number": "TD01-023",
+        "name": "Lamball – My First Pal",
+        "pal_name": "Lamball",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Colorless"
+        ],
+        "cost": 2,
+        "power": 200,
+        "strike": 1,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-023.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-023-lamball-my-first-pal.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-023-tsr-lamball-my-first-pal",
+        "card_number": "TD01-023-TSR",
+        "name": "Lamball – My First Pal",
+        "pal_name": "Lamball",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Colorless"
+        ],
+        "cost": 2,
+        "power": 200,
+        "strike": 1,
+        "rarity": "TSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-023-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-023-tsr-lamball-my-first-pal.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-024-ribbuny-little-princess",
+        "card_number": "TD01-024",
+        "name": "Ribbuny – Little Princess",
+        "pal_name": "Ribbuny",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Colorless"
+        ],
+        "cost": 2,
+        "power": 200,
+        "strike": 1,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-024.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-024-ribbuny-little-princess.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-024",
+        "card_number": "TD01-024",
+        "name": "TD01-024",
+        "pal_name": null,
+        "card_type": "Pal",
+        "subtype": null,
+        "color": [],
+        "cost": null,
+        "power": null,
+        "strike": null,
+        "rarity": null,
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://en.palworld-official-cardgame.com/wordpress/wp-content/uploads/2026/03/25192733/ETD01-024TSR.png",
+        "thumbnail_url": null,
+        "status": "unrevealed"
+      },
+      {
+        "slug": "td01-024-tsr-ribbuny-little-princess",
+        "card_number": "TD01-024-TSR",
+        "name": "Ribbuny – Little Princess",
+        "pal_name": "Ribbuny",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Colorless"
+        ],
+        "cost": 2,
+        "power": 200,
+        "strike": 1,
+        "rarity": "TSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD01/TD01-024-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td01-024-tsr-ribbuny-little-princess.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td01-1920-x-1080px03",
+        "card_number": null,
+        "name": "1920-x-1080px_03",
+        "pal_name": null,
+        "card_type": "Pal",
+        "subtype": null,
+        "color": [],
+        "cost": null,
+        "power": null,
+        "strike": null,
+        "rarity": null,
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://en.palworld-official-cardgame.com/wordpress/wp-content/uploads/2026/04/02215248/1920-x-1080px_03.jpg",
+        "thumbnail_url": null,
+        "status": "unrevealed"
+      },
+      {
+        "slug": "td01-foxparks",
+        "card_number": null,
+        "name": "Foxparks",
+        "pal_name": null,
+        "card_type": "Pal",
+        "subtype": null,
+        "color": [],
+        "cost": null,
+        "power": null,
+        "strike": null,
+        "rarity": null,
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://en.palworld-official-cardgame.com/wordpress/wp-content/uploads/2026/03/27121052/Foxparks.jpg",
+        "thumbnail_url": null,
+        "status": "unrevealed"
+      },
+      {
+        "slug": "td01-lamball",
+        "card_number": null,
+        "name": "Lamball",
+        "pal_name": null,
+        "card_type": "Pal",
+        "subtype": null,
+        "color": [],
+        "cost": null,
+        "power": null,
+        "strike": null,
+        "rarity": null,
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://en.palworld-official-cardgame.com/wordpress/wp-content/uploads/2026/03/27121054/Lamball.jpg",
+        "thumbnail_url": null,
+        "status": "unrevealed"
+      },
+      {
+        "slug": "td01-pengullet",
+        "card_number": null,
+        "name": "Pengullet",
+        "pal_name": null,
+        "card_type": "Pal",
+        "subtype": null,
+        "color": [],
+        "cost": null,
+        "power": null,
+        "strike": null,
+        "rarity": null,
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://en.palworld-official-cardgame.com/wordpress/wp-content/uploads/2026/03/27121055/Pengullet.jpg",
+        "thumbnail_url": null,
+        "status": "unrevealed"
+      }
+    ]
+  }
+}

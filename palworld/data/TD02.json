@@ -1,0 +1,883 @@
+{
+  "data": {
+    "code": "TD02",
+    "name": "Dawn of Palpagos Green・Purple",
+    "release_date": "2026-07-30",
+    "card_count": null,
+    "key_art_url": "https://en.palworld-official-cardgame.com/wordpress/wp-content/uploads/2026/03/27183120/Palworld_TrialDeck_GreenPurple1.jpg",
+    "cards": [
+      {
+        "slug": "td02-soul",
+        "card_number": "SOUL-001",
+        "name": "Soul",
+        "pal_name": null,
+        "card_type": "Soul",
+        "subtype": null,
+        "color": [],
+        "cost": null,
+        "power": null,
+        "strike": null,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/SOUL-001.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-soul.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-001-mossanda-guard-captain",
+        "card_number": "TD02-001",
+        "name": "Mossanda – Guard Captain",
+        "pal_name": "Mossanda",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 5,
+        "power": 900,
+        "strike": 2,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-001.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-001-mossanda-guard-captain.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-001-tsp-mossanda-guard-captain",
+        "card_number": "TD02-001-TSP",
+        "name": "Mossanda – Guard Captain",
+        "pal_name": "Mossanda",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 5,
+        "power": 900,
+        "strike": 2,
+        "rarity": "TSP",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-001-TSP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-001-tsp-mossanda-guard-captain.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-001-tsr-mossanda-guard-captain",
+        "card_number": "TD02-001-TSR",
+        "name": "Mossanda – Guard Captain",
+        "pal_name": "Mossanda",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 5,
+        "power": 900,
+        "strike": 2,
+        "rarity": "TSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-001-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-001-tsr-mossanda-guard-captain.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-002-gumoss-dreamy-seedling",
+        "card_number": "TD02-002",
+        "name": "Gumoss – Dreamy Seedling",
+        "pal_name": "Gumoss",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 2,
+        "power": 300,
+        "strike": 1,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-002.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-002-gumoss-dreamy-seedling.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-003-flopie-snack-lover",
+        "card_number": "TD02-003",
+        "name": "Flopie – Snack Lover",
+        "pal_name": "Flopie",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 3,
+        "power": 400,
+        "strike": 1,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-003.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-003-flopie-snack-lover.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-003-tsr-flopie-snack-lover",
+        "card_number": "TD02-003-TSR",
+        "name": "Flopie – Snack Lover",
+        "pal_name": "Flopie",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 3,
+        "power": 400,
+        "strike": 1,
+        "rarity": "TSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-003-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-003-tsr-flopie-snack-lover.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-004-dinossom-radiant-fragrance",
+        "card_number": "TD02-004",
+        "name": "Dinossom – Radiant Fragrance",
+        "pal_name": "Dinossom",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 4,
+        "power": 400,
+        "strike": 2,
+        "rarity": "TD",
+        "keywords": [
+          "Quick",
+          "Interrupt"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-004.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-004-dinossom-radiant-fragrance.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-005-eikthyrdeer-terra-guardian-of-nature",
+        "card_number": "TD02-005",
+        "name": "Eikthyrdeer Terra – Guardian of Nature",
+        "pal_name": "Eikthyrdeer Terra",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Green"
+        ],
+        "cost": 6,
+        "power": 800,
+        "strike": 2,
+        "rarity": "TD",
+        "keywords": [
+          "Taunt"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-005.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-005-eikthyrdeer-terra-guardian-of-nature.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-006-broncherry-brimming-adoration",
+        "card_number": "TD02-006",
+        "name": "Broncherry – Brimming Adoration",
+        "pal_name": "Broncherry",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Green"
+        ],
+        "cost": 7,
+        "power": 1500,
+        "strike": 3,
+        "rarity": "TD",
+        "keywords": [
+          "Taunt"
+        ],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-006.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-006-broncherry-brimming-adoration.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-006-tsr-broncherry-brimming-adoration",
+        "card_number": "TD02-006-TSR",
+        "name": "Broncherry – Brimming Adoration",
+        "pal_name": "Broncherry",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Green"
+        ],
+        "cost": 7,
+        "power": 1500,
+        "strike": 3,
+        "rarity": "TSR",
+        "keywords": [
+          "Taunt"
+        ],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-006-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-006-tsr-broncherry-brimming-adoration.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-007-mammorest-roar-of-the-wilds",
+        "card_number": "TD02-007",
+        "name": "Mammorest – Roar of the Wilds",
+        "pal_name": "Mammorest",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Green"
+        ],
+        "cost": 8,
+        "power": 2000,
+        "strike": 4,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-007.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-007-mammorest-roar-of-the-wilds.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-007-tsr-mammorest-roar-of-the-wilds",
+        "card_number": "TD02-007-TSR",
+        "name": "Mammorest – Roar of the Wilds",
+        "pal_name": "Mammorest",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Green"
+        ],
+        "cost": 8,
+        "power": 2000,
+        "strike": 4,
+        "rarity": "TSR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-007-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-007-tsr-mammorest-roar-of-the-wilds.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-008-berry-plantation",
+        "card_number": "TD02-008",
+        "name": "Berry Plantation",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Green"
+        ],
+        "cost": 1,
+        "power": 600,
+        "strike": null,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-008.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-008-berry-plantation.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-008-tsr-berry-plantation",
+        "card_number": "TD02-008-TSR",
+        "name": "Berry Plantation",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Green"
+        ],
+        "cost": 1,
+        "power": 600,
+        "strike": null,
+        "rarity": "TSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-008-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-008-tsr-berry-plantation.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-009-campfire",
+        "card_number": "TD02-009",
+        "name": "Campfire",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Green"
+        ],
+        "cost": 3,
+        "power": 1100,
+        "strike": null,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-009.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-009-campfire.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-010-refined-metal-spear",
+        "card_number": "TD02-010",
+        "name": "Refined Metal Spear",
+        "pal_name": null,
+        "card_type": "Gear",
+        "subtype": null,
+        "color": [
+          "Green"
+        ],
+        "cost": 6,
+        "power": null,
+        "strike": null,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-010.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-010-refined-metal-spear.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-011-stone-blast",
+        "card_number": "TD02-011",
+        "name": "Stone Blast",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Green"
+        ],
+        "cost": 2,
+        "power": null,
+        "strike": null,
+        "rarity": "TD",
+        "keywords": [
+          "Quick"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-011.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-011-stone-blast.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-012-astegon-aegis-wyvern-of-death",
+        "card_number": "TD02-012",
+        "name": "Astegon – Aegis Wyvern of Death",
+        "pal_name": "Astegon",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Purple"
+        ],
+        "cost": 8,
+        "power": 1200,
+        "strike": 3,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-012.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-012-astegon-aegis-wyvern-of-death.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-012-tsp-astegon-aegis-wyvern-of-death",
+        "card_number": "TD02-012-TSP",
+        "name": "Astegon – Aegis Wyvern of Death",
+        "pal_name": "Astegon",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Purple"
+        ],
+        "cost": 8,
+        "power": 1200,
+        "strike": 3,
+        "rarity": "TSP",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-012-TSP.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-012-tsp-astegon-aegis-wyvern-of-death.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-012-tsr-astegon-aegis-wyvern-of-death",
+        "card_number": "TD02-012-TSR",
+        "name": "Astegon – Aegis Wyvern of Death",
+        "pal_name": "Astegon",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Purple"
+        ],
+        "cost": 8,
+        "power": 1200,
+        "strike": 3,
+        "rarity": "TSR",
+        "keywords": [],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-012-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-012-tsr-astegon-aegis-wyvern-of-death.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-013-hoocrates-embodiment-of-wisdom",
+        "card_number": "TD02-013",
+        "name": "Hoocrates – Embodiment of Wisdom",
+        "pal_name": "Hoocrates",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 2,
+        "power": 300,
+        "strike": 1,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-013.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-013-hoocrates-embodiment-of-wisdom.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-014-leezpunk-treasure-bandit",
+        "card_number": "TD02-014",
+        "name": "Leezpunk – Treasure Bandit",
+        "pal_name": "Leezpunk",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 3,
+        "power": 200,
+        "strike": 1,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-014.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-014-leezpunk-treasure-bandit.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-014-tsr-leezpunk-treasure-bandit",
+        "card_number": "TD02-014-TSR",
+        "name": "Leezpunk – Treasure Bandit",
+        "pal_name": "Leezpunk",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 3,
+        "power": 200,
+        "strike": 1,
+        "rarity": "TSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-014-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-014-tsr-leezpunk-treasure-bandit.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-015-cawgnito-looming-shadow",
+        "card_number": "TD02-015",
+        "name": "Cawgnito – Looming Shadow",
+        "pal_name": "Cawgnito",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 4,
+        "power": 300,
+        "strike": 2,
+        "rarity": "TD",
+        "keywords": [
+          "Stealth"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-015.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-015-cawgnito-looming-shadow.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-016-incineram-lurking-stalker",
+        "card_number": "TD02-016",
+        "name": "Incineram – Lurking Stalker",
+        "pal_name": "Incineram",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 5,
+        "power": 900,
+        "strike": 2,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-016.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-016-incineram-lurking-stalker.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-016-tsr-incineram-lurking-stalker",
+        "card_number": "TD02-016-TSR",
+        "name": "Incineram – Lurking Stalker",
+        "pal_name": "Incineram",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 5,
+        "power": 900,
+        "strike": 2,
+        "rarity": "TSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-016-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-016-tsr-incineram-lurking-stalker.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-017-blazehowl-noct-darkflame-defender",
+        "card_number": "TD02-017",
+        "name": "Blazehowl Noct – Darkflame Defender",
+        "pal_name": "Blazehowl Noct",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Purple"
+        ],
+        "cost": 6,
+        "power": 900,
+        "strike": 2,
+        "rarity": "TD",
+        "keywords": [
+          "Quick",
+          "Interrupt"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-017.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-017-blazehowl-noct-darkflame-defender.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-018-felbat-lifestealer",
+        "card_number": "TD02-018",
+        "name": "Felbat – Lifestealer",
+        "pal_name": "Felbat",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Purple"
+        ],
+        "cost": 7,
+        "power": 1000,
+        "strike": 3,
+        "rarity": "TD",
+        "keywords": [
+          "Stealth"
+        ],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-018.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-018-felbat-lifestealer.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-018-tsr-felbat-lifestealer",
+        "card_number": "TD02-018-TSR",
+        "name": "Felbat – Lifestealer",
+        "pal_name": "Felbat",
+        "card_type": "Pal",
+        "subtype": "Lucky",
+        "color": [
+          "Purple"
+        ],
+        "cost": 7,
+        "power": 1000,
+        "strike": 3,
+        "rarity": "TSR",
+        "keywords": [
+          "Stealth"
+        ],
+        "is_lucky": true,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-018-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-018-tsr-felbat-lifestealer.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-019-hanging-trap",
+        "card_number": "TD02-019",
+        "name": "Hanging Trap",
+        "pal_name": null,
+        "card_type": "Structure",
+        "subtype": null,
+        "color": [
+          "Purple"
+        ],
+        "cost": 2,
+        "power": 900,
+        "strike": null,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-019.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-019-hanging-trap.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-020-cawgnito-hat",
+        "card_number": "TD02-020",
+        "name": "Cawgnito Hat",
+        "pal_name": null,
+        "card_type": "Gear",
+        "subtype": null,
+        "color": [
+          "Purple"
+        ],
+        "cost": 4,
+        "power": null,
+        "strike": null,
+        "rarity": "TD",
+        "keywords": [
+          "Stealth"
+        ],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-020.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-020-cawgnito-hat.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-021-strike-from-the-darkness",
+        "card_number": "TD02-021",
+        "name": "Strike from the Darkness",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Purple"
+        ],
+        "cost": 4,
+        "power": null,
+        "strike": null,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-021.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-021-strike-from-the-darkness.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-021-tsr-strike-from-the-darkness",
+        "card_number": "TD02-021-TSR",
+        "name": "Strike from the Darkness",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Purple"
+        ],
+        "cost": 4,
+        "power": null,
+        "strike": null,
+        "rarity": "TSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-021-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-021-tsr-strike-from-the-darkness.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-022-medical-supplies",
+        "card_number": "TD02-022",
+        "name": "Medical Supplies",
+        "pal_name": null,
+        "card_type": "Event",
+        "subtype": null,
+        "color": [
+          "Purple"
+        ],
+        "cost": 7,
+        "power": null,
+        "strike": null,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-022.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-022-medical-supplies.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-023-cattiva-my-first-pal",
+        "card_number": "TD02-023",
+        "name": "Cattiva – My First Pal",
+        "pal_name": "Cattiva",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Colorless"
+        ],
+        "cost": 2,
+        "power": 200,
+        "strike": 1,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-023.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-023-cattiva-my-first-pal.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-023-tsr-cattiva-my-first-pal",
+        "card_number": "TD02-023-TSR",
+        "name": "Cattiva – My First Pal",
+        "pal_name": "Cattiva",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Colorless"
+        ],
+        "cost": 2,
+        "power": 200,
+        "strike": 1,
+        "rarity": "TSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-023-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-023-tsr-cattiva-my-first-pal.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-024-chikipi-my-first-pal",
+        "card_number": "TD02-024",
+        "name": "Chikipi – My First Pal",
+        "pal_name": "Chikipi",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Colorless"
+        ],
+        "cost": 2,
+        "power": 200,
+        "strike": 1,
+        "rarity": "TD",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-024.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-024-chikipi-my-first-pal.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-024-tsr-chikipi-my-first-pal",
+        "card_number": "TD02-024-TSR",
+        "name": "Chikipi – My First Pal",
+        "pal_name": "Chikipi",
+        "card_type": "Pal",
+        "subtype": "Normal",
+        "color": [
+          "Colorless"
+        ],
+        "cost": 2,
+        "power": 200,
+        "strike": 1,
+        "rarity": "TSR",
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-images/official/TD02/TD02-024-TSR.png",
+        "thumbnail_url": "https://sqftyennjqxlnfpoidah.supabase.co/storage/v1/object/public/card-thumbnails/td02-024-tsr-chikipi-my-first-pal.webp",
+        "status": "revealed"
+      },
+      {
+        "slug": "td02-1920-x-1080px03",
+        "card_number": null,
+        "name": "1920-x-1080px_03",
+        "pal_name": null,
+        "card_type": "Pal",
+        "subtype": null,
+        "color": [],
+        "cost": null,
+        "power": null,
+        "strike": null,
+        "rarity": null,
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://en.palworld-official-cardgame.com/wordpress/wp-content/uploads/2026/04/02215248/1920-x-1080px_03.jpg",
+        "thumbnail_url": null,
+        "status": "unrevealed"
+      },
+      {
+        "slug": "td02-cattiva",
+        "card_number": null,
+        "name": "Cattiva",
+        "pal_name": null,
+        "card_type": "Pal",
+        "subtype": null,
+        "color": [],
+        "cost": null,
+        "power": null,
+        "strike": null,
+        "rarity": null,
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://en.palworld-official-cardgame.com/wordpress/wp-content/uploads/2026/03/27121217/Cattiva.jpg",
+        "thumbnail_url": null,
+        "status": "unrevealed"
+      },
+      {
+        "slug": "td02-hoocrates",
+        "card_number": null,
+        "name": "Hoocrates",
+        "pal_name": null,
+        "card_type": "Pal",
+        "subtype": null,
+        "color": [],
+        "cost": null,
+        "power": null,
+        "strike": null,
+        "rarity": null,
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://en.palworld-official-cardgame.com/wordpress/wp-content/uploads/2026/03/27121213/Hoocrates.png",
+        "thumbnail_url": null,
+        "status": "unrevealed"
+      },
+      {
+        "slug": "td02-mossanda",
+        "card_number": null,
+        "name": "Mossanda",
+        "pal_name": null,
+        "card_type": "Pal",
+        "subtype": null,
+        "color": [],
+        "cost": null,
+        "power": null,
+        "strike": null,
+        "rarity": null,
+        "keywords": [],
+        "is_lucky": false,
+        "image_url": "https://en.palworld-official-cardgame.com/wordpress/wp-content/uploads/2026/03/27121215/Mossanda.jpg",
+        "thumbnail_url": null,
+        "status": "unrevealed"
+      }
+    ]
+  }
+}
