@@ -112,6 +112,33 @@ export function upgradeImageUrl(url) {
   return url.replace(/_200w(\.\w+)$/i, "_400w$1");
 }
 
+const TCGPLAYER_PRODUCT_CDN = "https://tcgplayer-cdn.tcgplayer.com/product";
+
+/**
+ * Candidate product-image URLs for a TCGplayer productId.
+ * Prefers `_in_1000x1000` / `_in_200x200` packaging shots, then listing URLs.
+ *
+ * @param {number|string} productId
+ * @param {{ imageUrl?: string|null, thumbnailUrl?: string|null }} [fallback]
+ * @returns {string[]}
+ */
+export function productImageUrls(productId, fallback = {}) {
+  if (productId === null || productId === undefined || productId === "") {
+    return [];
+  }
+  const id = String(productId);
+  const candidates = [
+    `${TCGPLAYER_PRODUCT_CDN}/${id}_in_1000x1000.jpg`,
+    `${TCGPLAYER_PRODUCT_CDN}/${id}_in_200x200.jpg`,
+    upgradeImageUrl(fallback.imageUrl),
+    fallback.imageUrl ?? null,
+    fallback.thumbnailUrl ?? null,
+  ];
+  return candidates.filter(
+    (url, index, list) => Boolean(url) && list.indexOf(url) === index,
+  );
+}
+
 /**
  * Map a raw tcgcsv product (+ optional price rows) into a RiftboundCard.
  * @param {object} product

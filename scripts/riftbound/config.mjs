@@ -23,7 +23,7 @@ export const pricesUrl = (groupId) =>
 
 /**
  * Known Riftbound sets (from tcgcsv groups).
- * Refresh with: node database/scripts/riftbound/fetch.mjs --sync-config
+ * Refresh with: node scripts/riftbound/fetch.mjs --sync-config
  *
  * @typedef {{ groupId: number, abbreviation: string, name: string, publishedOn: string, isSupplemental?: boolean }} RiftboundSetConfig
  */

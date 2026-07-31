@@ -1,25 +1,26 @@
 #!/usr/bin/env node
 /**
- * Fetch Riftbound TCG set JSON + card images from tcgcsv.com (TCGplayer mirror).
+ * Fetch Riftbound TCG set JSON + card/product images from tcgcsv.com (TCGplayer mirror).
  *
- * Usage (from repo root):
- *   node database/scripts/riftbound/fetch.mjs OGN
- *   node database/scripts/riftbound/fetch.mjs OGN PR
- *   node database/scripts/riftbound/fetch.mjs              # all sets in config
- *   node database/scripts/riftbound/fetch.mjs --sync-config  # refresh sets from groups API
- *   node database/scripts/riftbound/fetch.mjs --no-images OGN
+ * Usage (from TCG-Data repo root):
+ *   node scripts/riftbound/fetch.mjs OGN
+ *   node scripts/riftbound/fetch.mjs OGN PR
+ *   node scripts/riftbound/fetch.mjs              # all sets in config
+ *   node scripts/riftbound/fetch.mjs --sync-config  # refresh sets from groups API
+ *   node scripts/riftbound/fetch.mjs --no-images OGN
  *
  * Data lands in:
- *   database/riftbound/data/{ABBR}.json
- *   database/riftbound/data/groups.json
- *   database/riftbound/images/{ABBR}/full/
+ *   riftbound/data/{ABBR}.json
+ *   riftbound/data/groups.json
+ *   riftbound/images/{ABBR}/full/       # card art (by card number)
+ *   riftbound/images/product/           # product images (by productId)
  */
 
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
-import { productToCard } from "./card-template.mjs";
+import { productImageUrls, productToCard } from "./card-template.mjs";
 import {
   SETS,
   USER_AGENT,
@@ -30,8 +31,8 @@ import {
 } from "./config.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const REPO_ROOT = path.resolve(__dirname, "../../..");
-const DATA_ROOT = path.join(REPO_ROOT, "database", "riftbound");
+const REPO_ROOT = path.resolve(__dirname, "../..");
+const DATA_ROOT = path.join(REPO_ROOT, "riftbound");
 const DATA_DIR = path.join(DATA_ROOT, "data");
 const IMAGES_DIR = path.join(DATA_ROOT, "images");
 const CONFIG_PATH = path.join(__dirname, "config.mjs");
@@ -202,43 +203,83 @@ async function fetchSet(setConfig, { downloadImages }) {
 
   let fullDl = 0;
   let fullSkip = 0;
+  let productDl = 0;
+  let productSkip = 0;
   let errors = 0;
 
   if (downloadImages) {
     const fullDir = path.join(IMAGES_DIR, code, "full");
+    const productDir = path.join(IMAGES_DIR, "product");
     await fs.promises.mkdir(fullDir, { recursive: true });
+    await fs.promises.mkdir(productDir, { recursive: true });
 
     for (const card of cards) {
-      const candidates = [card.image_url, card.thumbnail_url].filter(
-        (url, index, list) => Boolean(url) && list.indexOf(url) === index,
-      );
-      if (candidates.length === 0) continue;
+      // Card art → images/{ABBR}/full/{card_number}.jpg
+      if (card.card_number) {
+        const candidates = [card.image_url, card.thumbnail_url].filter(
+          (url, index, list) => Boolean(url) && list.indexOf(url) === index,
+        );
+        if (candidates.length > 0) {
+          let saved = false;
+          let lastError = null;
+          for (const imageUrl of candidates) {
+            const dest = path.join(fullDir, safeFilename(card, imageUrl));
+            try {
+              const status = await downloadFile(imageUrl, dest);
+              if (status === "downloaded") fullDl++;
+              else fullSkip++;
+              saved = true;
+              break;
+            } catch (err) {
+              lastError = err;
+            }
+          }
 
-      let saved = false;
-      let lastError = null;
-      for (const imageUrl of candidates) {
-        const dest = path.join(fullDir, safeFilename(card, imageUrl));
-        try {
-          const status = await downloadFile(imageUrl, dest);
-          if (status === "downloaded") fullDl++;
-          else fullSkip++;
-          saved = true;
-          break;
-        } catch (err) {
-          lastError = err;
+          if (!saved) {
+            errors++;
+            console.error(
+              `  full fail ${card.card_number}: ${lastError?.message ?? "unknown"}`,
+            );
+          }
         }
       }
 
-      if (!saved) {
+      // Product packaging / listing art → images/product/{productId}.jpg
+      if (!card.productId) continue;
+      const productCandidates = productImageUrls(card.productId, {
+        imageUrl: card.image_url,
+        thumbnailUrl: card.thumbnail_url,
+      });
+      if (productCandidates.length === 0) continue;
+
+      let productSaved = false;
+      let productError = null;
+      for (const imageUrl of productCandidates) {
+        const dest = path.join(
+          productDir,
+          `${card.productId}${extFromUrl(imageUrl)}`,
+        );
+        try {
+          const status = await downloadFile(imageUrl, dest);
+          if (status === "downloaded") productDl++;
+          else productSkip++;
+          productSaved = true;
+          break;
+        } catch (err) {
+          productError = err;
+        }
+      }
+
+      if (!productSaved) {
         errors++;
         console.error(
-          `  image fail ${card.card_number || card.productId}: ${lastError?.message ?? "unknown"}`,
+          `  product fail ${card.productId}: ${productError?.message ?? "unknown"}`,
         );
       }
     }
 
     console.log(
-      `Images: full +${fullDl} / skip ${fullSkip}; errors ${errors}`,
+      `Images: full +${fullDl} / skip ${fullSkip}; product +${productDl} / skip ${productSkip}; errors ${errors}`,
     );
   } else {
     console.log("Images: skipped (--no-images)");
@@ -250,13 +291,15 @@ async function fetchSet(setConfig, { downloadImages }) {
     jsonBytes: jsonText.length,
     fullDl,
     fullSkip,
+    productDl,
+    productSkip,
     errors,
   };
 }
 
 function printUsage() {
   console.log(`Usage:
-  node database/scripts/riftbound/fetch.mjs [options] [SET...]
+  node scripts/riftbound/fetch.mjs [options] [SET...]
 
 Options:
   --sync-config   Refresh SETS in config.mjs from tcgcsv groups API
@@ -265,6 +308,9 @@ Options:
 
 SET may be an abbreviation (OGN), groupId (24344), or set name.
 With no SET args, all sets in config are fetched.
+
+Product images are saved as:
+  riftbound/images/product/{productId}.jpg
 `);
 }
 
@@ -319,7 +365,7 @@ async function main() {
   console.log("\nDone.");
   for (const r of results) {
     console.log(
-      `  ${r.code}: ${r.cards} products, json ${r.jsonBytes} B, images ${r.fullDl}+${r.fullSkip}skip, errors ${r.errors}`,
+      `  ${r.code}: ${r.cards} products, json ${r.jsonBytes} B, full ${r.fullDl}+${r.fullSkip}skip, product ${r.productDl}+${r.productSkip}skip, errors ${r.errors}`,
     );
   }
 }
