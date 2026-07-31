@@ -1,11 +1,10 @@
 #!/usr/bin/env node
 /**
- * Fetch Riftbound TCG set JSON + card/product images from tcgcsv.com (TCGplayer mirror).
+ * Fetch Riftbound TCG set JSON + product images from tcgcsv.com (TCGplayer mirror).
  *
  * Files are keyed by TCGplayer IDs (not set abbreviations):
  *   riftbound/data/{groupId}.json
- *   riftbound/images/{groupId}/full/{productId}.jpg
- *   riftbound/images/product/{productId}.jpg
+ *   riftbound/images/{groupId}/{productId}.jpg
  *
  * Usage (from TCG-Data repo root):
  *   node scripts/riftbound/fetch.mjs 24344
@@ -147,6 +146,22 @@ async function syncConfig() {
   return sets;
 }
 
+/**
+ * Candidate URLs for a product image.
+ * Cards prefer face art; sealed SKUs prefer packaging (_in_) shots.
+ */
+function imageCandidatesForProduct(card) {
+  if (card.card_number) {
+    return [card.image_url, card.thumbnail_url, ...productImageUrls(card.productId)].filter(
+      (url, index, list) => Boolean(url) && list.indexOf(url) === index,
+    );
+  }
+  return productImageUrls(card.productId, {
+    imageUrl: card.image_url,
+    thumbnailUrl: card.thumbnail_url,
+  });
+}
+
 async function fetchSet(setConfig, { downloadImages }) {
   const groupId = setConfig.groupId;
   const code = setConfig.abbreviation;
@@ -193,90 +208,47 @@ async function fetchSet(setConfig, { downloadImages }) {
     `Saved ${jsonPath} (${jsonText.length} bytes, ${cards.length} products)`,
   );
 
-  let fullDl = 0;
-  let fullSkip = 0;
-  let productDl = 0;
-  let productSkip = 0;
+  let imageDl = 0;
+  let imageSkip = 0;
   let errors = 0;
 
   if (downloadImages) {
-    const fullDir = path.join(IMAGES_DIR, String(groupId), "full");
-    const productDir = path.join(IMAGES_DIR, "product");
-    await fs.promises.mkdir(fullDir, { recursive: true });
-    await fs.promises.mkdir(productDir, { recursive: true });
+    const groupImageDir = path.join(IMAGES_DIR, String(groupId));
+    await fs.promises.mkdir(groupImageDir, { recursive: true });
 
     for (const card of cards) {
       if (!card.productId) continue;
 
-      // Card art → images/{groupId}/full/{productId}.jpg
-      if (card.card_number) {
-        const candidates = [card.image_url, card.thumbnail_url].filter(
-          (url, index, list) => Boolean(url) && list.indexOf(url) === index,
-        );
-        if (candidates.length > 0) {
-          let saved = false;
-          let lastError = null;
-          for (const imageUrl of candidates) {
-            const dest = path.join(
-              fullDir,
-              `${card.productId}${extFromUrl(imageUrl)}`,
-            );
-            try {
-              const status = await downloadFile(imageUrl, dest);
-              if (status === "downloaded") fullDl++;
-              else fullSkip++;
-              saved = true;
-              break;
-            } catch (err) {
-              lastError = err;
-            }
-          }
+      const candidates = imageCandidatesForProduct(card);
+      if (candidates.length === 0) continue;
 
-          if (!saved) {
-            errors++;
-            console.error(
-              `  full fail ${card.productId}: ${lastError?.message ?? "unknown"}`,
-            );
-          }
-        }
-      }
-
-      // Product packaging → images/product/{productId}.jpg
-      const productCandidates = productImageUrls(card.productId, {
-        imageUrl: card.image_url,
-        thumbnailUrl: card.thumbnail_url,
-      });
-      if (productCandidates.length === 0) continue;
-
-      let productSaved = false;
-      let productError = null;
-      for (const imageUrl of productCandidates) {
+      let saved = false;
+      let lastError = null;
+      for (const imageUrl of candidates) {
         const dest = path.join(
-          productDir,
+          groupImageDir,
           `${card.productId}${extFromUrl(imageUrl)}`,
         );
         try {
           const status = await downloadFile(imageUrl, dest);
-          if (status === "downloaded") productDl++;
-          else productSkip++;
-          productSaved = true;
+          if (status === "downloaded") imageDl++;
+          else imageSkip++;
+          saved = true;
           break;
         } catch (err) {
-          productError = err;
+          lastError = err;
         }
       }
 
-      if (!productSaved) {
+      if (!saved) {
         errors++;
         console.error(
-          `  product fail ${card.productId}: ${productError?.message ?? "unknown"}`,
+          `  image fail ${card.productId}: ${lastError?.message ?? "unknown"}`,
         );
       }
     }
 
-    console.log(
-      `Images: full +${fullDl} / skip ${fullSkip}; product +${productDl} / skip ${productSkip}; errors ${errors}`,
-    );
+    console.log(`Images: +${imageDl} / skip ${imageSkip}; errors ${errors}`);
   } else {
     console.log("Images: skipped (--no-images)");
   }
@@ -286,10 +258,8 @@ async function fetchSet(setConfig, { downloadImages }) {
     code,
     cards: cards.length,
     jsonBytes: jsonText.length,
-    fullDl,
-    fullSkip,
-    productDl,
-    productSkip,
+    imageDl,
+    imageSkip,
     errors,
   };
 }
@@ -308,8 +278,7 @@ With no SET args, all sets in config are fetched.
 
 Output layout (TCGplayer IDs):
   riftbound/data/{groupId}.json
-  riftbound/images/{groupId}/full/{productId}.jpg
-  riftbound/images/product/{productId}.jpg
+  riftbound/images/{groupId}/{productId}.jpg
 `);
 }
 
@@ -366,7 +335,7 @@ async function main() {
   console.log("\nDone.");
   for (const r of results) {
     console.log(
-      `  ${r.groupId} (${r.code}): ${r.cards} products, json ${r.jsonBytes} B, full ${r.fullDl}+${r.fullSkip}skip, product ${r.productDl}+${r.productSkip}skip, errors ${r.errors}`,
+      `  ${r.groupId} (${r.code}): ${r.cards} products, json ${r.jsonBytes} B, images ${r.imageDl}+${r.imageSkip}skip, errors ${r.errors}`,
     );
   }
 }
