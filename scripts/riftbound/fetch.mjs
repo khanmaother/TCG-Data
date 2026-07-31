@@ -2,18 +2,17 @@
 /**
  * Fetch Riftbound TCG set JSON + card/product images from tcgcsv.com (TCGplayer mirror).
  *
+ * Files are keyed by TCGplayer IDs (not set abbreviations):
+ *   riftbound/data/{groupId}.json
+ *   riftbound/images/{groupId}/full/{productId}.jpg
+ *   riftbound/images/product/{productId}.jpg
+ *
  * Usage (from TCG-Data repo root):
- *   node scripts/riftbound/fetch.mjs OGN
+ *   node scripts/riftbound/fetch.mjs 24344
  *   node scripts/riftbound/fetch.mjs OGN PR
  *   node scripts/riftbound/fetch.mjs              # all sets in config
- *   node scripts/riftbound/fetch.mjs --sync-config  # refresh sets from groups API
+ *   node scripts/riftbound/fetch.mjs --sync-config
  *   node scripts/riftbound/fetch.mjs --no-images OGN
- *
- * Data lands in:
- *   riftbound/data/{ABBR}.json
- *   riftbound/data/groups.json
- *   riftbound/images/{ABBR}/full/       # card art (by card number)
- *   riftbound/images/product/           # product images (by productId)
  */
 
 import fs from "node:fs";
@@ -66,14 +65,6 @@ function extFromUrl(url, fallback = ".jpg") {
   } catch {
     return fallback;
   }
-}
-
-function safeFilename(card, url) {
-  const base = (card.card_number || String(card.productId) || "unknown")
-    .replace(/[<>:"/\\|?*]/g, "_")
-    .replace(/\s+/g, "_")
-    .trim();
-  return `${base}${extFromUrl(url)}`;
 }
 
 async function downloadFile(url, destPath) {
@@ -151,18 +142,19 @@ async function syncConfig() {
   await fs.promises.writeFile(CONFIG_PATH, next, "utf8");
   console.log(`Updated ${CONFIG_PATH} (${sets.length} sets)`);
   for (const s of sets) {
-    console.log(`  ${s.abbreviation.padEnd(4)} ${s.groupId}  ${s.name}`);
+    console.log(`  ${String(s.groupId).padEnd(6)} ${s.abbreviation.padEnd(4)}  ${s.name}`);
   }
   return sets;
 }
 
 async function fetchSet(setConfig, { downloadImages }) {
+  const groupId = setConfig.groupId;
   const code = setConfig.abbreviation;
-  console.log(`\n=== ${code} (${setConfig.name}, group ${setConfig.groupId}) ===`);
+  console.log(`\n=== ${groupId} (${code} · ${setConfig.name}) ===`);
 
   const [productsBody, pricesBody] = await Promise.all([
-    fetchJson(productsUrl(setConfig.groupId)),
-    fetchJson(pricesUrl(setConfig.groupId)).catch((err) => {
+    fetchJson(productsUrl(groupId)),
+    fetchJson(pricesUrl(groupId)).catch((err) => {
       console.warn(`  prices unavailable: ${err.message}`);
       return { results: [] };
     }),
@@ -185,7 +177,7 @@ async function fetchSet(setConfig, { downloadImages }) {
     data: {
       code,
       name: setConfig.name,
-      groupId: setConfig.groupId,
+      groupId,
       release_date: setConfig.publishedOn,
       card_count: cards.length,
       source: "tcgcsv",
@@ -194,7 +186,7 @@ async function fetchSet(setConfig, { downloadImages }) {
     },
   };
 
-  const jsonPath = path.join(DATA_DIR, `${code}.json`);
+  const jsonPath = path.join(DATA_DIR, `${groupId}.json`);
   const jsonText = JSON.stringify(payload, null, 2);
   await fs.promises.writeFile(jsonPath, jsonText, "utf8");
   console.log(
@@ -208,13 +200,15 @@ async function fetchSet(setConfig, { downloadImages }) {
   let errors = 0;
 
   if (downloadImages) {
-    const fullDir = path.join(IMAGES_DIR, code, "full");
+    const fullDir = path.join(IMAGES_DIR, String(groupId), "full");
     const productDir = path.join(IMAGES_DIR, "product");
     await fs.promises.mkdir(fullDir, { recursive: true });
     await fs.promises.mkdir(productDir, { recursive: true });
 
     for (const card of cards) {
-      // Card art → images/{ABBR}/full/{card_number}.jpg
+      if (!card.productId) continue;
+
+      // Card art → images/{groupId}/full/{productId}.jpg
       if (card.card_number) {
         const candidates = [card.image_url, card.thumbnail_url].filter(
           (url, index, list) => Boolean(url) && list.indexOf(url) === index,
@@ -223,7 +217,10 @@ async function fetchSet(setConfig, { downloadImages }) {
           let saved = false;
           let lastError = null;
           for (const imageUrl of candidates) {
-            const dest = path.join(fullDir, safeFilename(card, imageUrl));
+            const dest = path.join(
+              fullDir,
+              `${card.productId}${extFromUrl(imageUrl)}`,
+            );
             try {
               const status = await downloadFile(imageUrl, dest);
               if (status === "downloaded") fullDl++;
@@ -238,14 +235,13 @@ async function fetchSet(setConfig, { downloadImages }) {
           if (!saved) {
             errors++;
             console.error(
-              `  full fail ${card.card_number}: ${lastError?.message ?? "unknown"}`,
+              `  full fail ${card.productId}: ${lastError?.message ?? "unknown"}`,
             );
           }
         }
       }
 
-      // Product packaging / listing art → images/product/{productId}.jpg
-      if (!card.productId) continue;
+      // Product packaging → images/product/{productId}.jpg
       const productCandidates = productImageUrls(card.productId, {
         imageUrl: card.image_url,
         thumbnailUrl: card.thumbnail_url,
@@ -286,6 +282,7 @@ async function fetchSet(setConfig, { downloadImages }) {
   }
 
   return {
+    groupId,
     code,
     cards: cards.length,
     jsonBytes: jsonText.length,
@@ -309,7 +306,9 @@ Options:
 SET may be an abbreviation (OGN), groupId (24344), or set name.
 With no SET args, all sets in config are fetched.
 
-Product images are saved as:
+Output layout (TCGplayer IDs):
+  riftbound/data/{groupId}.json
+  riftbound/images/{groupId}/full/{productId}.jpg
   riftbound/images/product/{productId}.jpg
 `);
 }
@@ -331,14 +330,14 @@ async function main() {
   if (syncConfigFlag) {
     sets = await syncConfig();
     if (setArgs.length === 0) {
-      console.log("\nDone (config only). Pass set codes to fetch data.");
+      console.log("\nDone (config only). Pass groupIds or abbreviations to fetch data.");
       return;
     }
   }
 
   let targets;
   if (setArgs.length === 0) {
-    console.log("No set codes given; fetching all sets from config…");
+    console.log("No sets given; fetching all sets from config…");
     targets = sets;
   } else {
     targets = [];
@@ -346,7 +345,9 @@ async function main() {
       const resolved = resolveSet(input, sets);
       if (!resolved) {
         throw new Error(
-          `Unknown set "${input}". Known: ${sets.map((s) => s.abbreviation).join(", ")}`,
+          `Unknown set "${input}". Known: ${sets
+            .map((s) => `${s.groupId} (${s.abbreviation})`)
+            .join(", ")}`,
         );
       }
       targets.push(resolved);
@@ -354,7 +355,7 @@ async function main() {
   }
 
   console.log(
-    `Sets: ${targets.map((s) => s.abbreviation).join(", ")}`,
+    `Sets: ${targets.map((s) => `${s.groupId}/${s.abbreviation}`).join(", ")}`,
   );
 
   const results = [];
@@ -365,7 +366,7 @@ async function main() {
   console.log("\nDone.");
   for (const r of results) {
     console.log(
-      `  ${r.code}: ${r.cards} products, json ${r.jsonBytes} B, full ${r.fullDl}+${r.fullSkip}skip, product ${r.productDl}+${r.productSkip}skip, errors ${r.errors}`,
+      `  ${r.groupId} (${r.code}): ${r.cards} products, json ${r.jsonBytes} B, full ${r.fullDl}+${r.fullSkip}skip, product ${r.productDl}+${r.productSkip}skip, errors ${r.errors}`,
     );
   }
 }

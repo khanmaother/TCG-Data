@@ -7,19 +7,22 @@ Groups list: [tcgcsv.com/tcgplayer/89/groups](https://tcgcsv.com/tcgplayer/89/gr
 
 ## Layout
 
+Files are keyed by **TCGplayer IDs**, not set abbreviations:
+
 ```
 TCG-Data/
   scripts/riftbound/
-    fetch.mjs           # scraper (Node 18+, no deps)
-    config.mjs          # category id + SETS list
-    card-template.mjs   # normalized card shape + product mapping
+    fetch.mjs
+    config.mjs          # category id + SETS (groupId + abbreviation labels)
+    card-template.mjs
   riftbound/
-    data/{ABBR}.json    # normalized set + cards (+ prices)
-    data/groups.json    # raw groups snapshot (after --sync-config)
-    images/{ABBR}/
-      full/             # card art (named by card number)
-    images/product/     # product images (named by productId)
+    data/{groupId}.json           # e.g. 24344.json (Origins / OGN)
+    data/groups.json              # raw groups snapshot (--sync-config)
+    images/{groupId}/full/{productId}.jpg
+    images/product/{productId}.jpg
 ```
+
+Abbreviations (`OGN`, `VEN`, …) remain in the JSON payload `data.code` and in `config.mjs` for human-friendly CLI args only.
 
 ## Requirements
 
@@ -35,36 +38,24 @@ From the **TCG-Data** repo root:
 # Refresh SETS in config.mjs from the live groups API
 node scripts/riftbound/fetch.mjs --sync-config
 
-# One or more sets (abbreviation, groupId, or name)
-node scripts/riftbound/fetch.mjs OGN
-node scripts/riftbound/fetch.mjs OGN PR
+# By groupId or abbreviation
 node scripts/riftbound/fetch.mjs 24344
-
-# All sets listed in config.mjs
+node scripts/riftbound/fetch.mjs OGN PR
 node scripts/riftbound/fetch.mjs
 
-# JSON + prices only (skip image downloads)
-node scripts/riftbound/fetch.mjs --no-images OGN
+# JSON + prices only
+node scripts/riftbound/fetch.mjs --no-images 24344
 ```
 
-Existing image files are skipped on re-run. Some TCGplayer CDN URLs return `403` (tokens / missing art); those products are still saved in JSON.
+Existing image files are skipped on re-run. Some CDN URLs return `403`; those products are still saved in JSON.
 
-Product images are pulled from the TCGplayer CDN pattern:
+Product packaging images prefer:
 
 ```
 https://tcgplayer-cdn.tcgplayer.com/product/{productId}_in_1000x1000.jpg
-https://tcgplayer-cdn.tcgplayer.com/product/{productId}_in_200x200.jpg
 ```
 
-and saved as `riftbound/images/product/{productId}.jpg`.
-
-## Config sets
-
-`scripts/riftbound/config.mjs` holds the known sets (`VEN`, `UNL`, `SFD`, `OGN`, …). Prefer `--sync-config` when new Riftbound expansions appear on tcgcsv instead of editing by hand.
-
 ## Output JSON shape
-
-Each `data/{ABBR}.json` file looks like:
 
 ```json
 {
@@ -76,9 +67,7 @@ Each `data/{ABBR}.json` file looks like:
     "card_count": 365,
     "source": "tcgcsv",
     "categoryId": 89,
-    "cards": [ /* normalized cards */ ]
+    "cards": [ /* includes productId, card_number, prices, image URLs */ ]
   }
 }
 ```
-
-Card fields include `productId`, `card_number`, `name`, `card_type`, `rarity`, `domain`, `tags`, costs/might, `description`, image URLs, and `prices` keyed by print subtype (`Normal`, `Foil`, …).
