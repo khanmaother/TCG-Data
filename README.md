@@ -15,6 +15,7 @@ TCG-Data/
   riftbound/
     data/{groupId}.json
     images/{groupId}/{productId}.jpg
+    prices/{YYYYMMDD}/{groupId}.json
 ```
 
 ---
@@ -46,19 +47,23 @@ Details: [scripts/palworld/README.md](scripts/palworld/README.md)
 | Concern | Riftbound |
 | --- | --- |
 | Identity | TCGplayer `groupId` (set) + `productId` (card/SKU) |
-| Data files | `riftbound/data/{groupId}.json` |
-| Images | `riftbound/images/{groupId}/{productId}.jpg` |
-| CLI | `node scripts/riftbound/fetch.mjs 24344` or `OGN` |
+| Data files | `riftbound/data/{groupId}.json` — only fetched for **new** groups |
+| Images | `riftbound/images/{groupId}/{productId}.jpg` — with new groups |
+| Prices | `riftbound/prices/{YYYYMMDD}/{groupId}.json` — **every** run |
+| CLI | `node scripts/riftbound/fetch.mjs` |
 
 There is **no** `images/product/` folder. Cards and sealed products share the same `{groupId}/{productId}.jpg` layout.
 
 ```bash
+# Refresh group list, then pull prices for all sets; data/images only for new groups
 node scripts/riftbound/fetch.mjs --sync-config
-node scripts/riftbound/fetch.mjs 24344
-node scripts/riftbound/fetch.mjs OGN VEN
+node scripts/riftbound/fetch.mjs
+
+node scripts/riftbound/fetch.mjs --prices-only
+node scripts/riftbound/fetch.mjs --force OGN
 ```
 
-Details: [scripts/riftbound/README.md](scripts/riftbound/README.md)
+Groups: [tcgcsv.com/tcgplayer/89/groups](https://tcgcsv.com/tcgplayer/89/groups) · Prices: […/89/{groupId}/prices](https://tcgcsv.com/tcgplayer/89/24343/prices)
 
 ---
 

@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "errors": [],
+  "fetchedAt": "2026-08-03T22:28:09.675Z",
+  "groupId": 24552,
+  "abbreviation": "JDG",
+  "name": "Riftbound Judge Promotional Cards",
+  "source": "https://tcgcsv.com/tcgplayer/89/24552/prices",
+  "results": [
+    {
+      "productId": 668439,
+      "lowPrice": 393.95,
+      "midPrice": 399,
+      "highPrice": 499.99,
+      "marketPrice": 364.28,
+      "directLowPrice": null,
+      "subTypeName": "Foil"
+    },
+    {
+      "productId": 692372,
+      "lowPrice": 180.76,
+      "midPrice": 190,
+      "highPrice": 199.99,
+      "marketPrice": 191.54,
+      "directLowPrice": null,
+      "subTypeName": "Foil"
+    },
+    {
+      "productId": 702632,
+      "lowPrice": 999,
+      "midPrice": 1249,
+      "highPrice": 1499,
+      "marketPrice": 176.77,
+      "directLowPrice": null,
+      "subTypeName": "Foil"
+    }
+  ]
+}

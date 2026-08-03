@@ -2,16 +2,24 @@
 /**
  * Fetch Riftbound TCG set JSON + product images from tcgcsv.com (TCGplayer mirror).
  *
- * Files are keyed by TCGplayer IDs (not set abbreviations):
+ * Data / images — only for **new** groups (no existing `data/{groupId}.json`):
  *   riftbound/data/{groupId}.json
  *   riftbound/images/{groupId}/{productId}.jpg
  *
+ * Prices — **always** refreshed for every group into a dated snapshot folder:
+ *   riftbound/prices/{YYYYMMDD}/{groupId}.json
+ *
+ * Sources:
+ *   https://tcgcsv.com/tcgplayer/89/groups
+ *   https://tcgcsv.com/tcgplayer/89/{groupId}/products
+ *   https://tcgcsv.com/tcgplayer/89/{groupId}/prices
+ *
  * Usage (from TCG-Data repo root):
- *   node scripts/riftbound/fetch.mjs 24344
- *   node scripts/riftbound/fetch.mjs OGN PR
- *   node scripts/riftbound/fetch.mjs              # all sets in config
+ *   node scripts/riftbound/fetch.mjs
  *   node scripts/riftbound/fetch.mjs --sync-config
- *   node scripts/riftbound/fetch.mjs --no-images OGN
+ *   node scripts/riftbound/fetch.mjs --force OGN          # re-fetch data/images
+ *   node scripts/riftbound/fetch.mjs --prices-only
+ *   node scripts/riftbound/fetch.mjs --no-images
  */
 
 import fs from "node:fs";
@@ -33,11 +41,28 @@ const REPO_ROOT = path.resolve(__dirname, "../..");
 const DATA_ROOT = path.join(REPO_ROOT, "riftbound");
 const DATA_DIR = path.join(DATA_ROOT, "data");
 const IMAGES_DIR = path.join(DATA_ROOT, "images");
+const PRICES_DIR = path.join(DATA_ROOT, "prices");
 const CONFIG_PATH = path.join(__dirname, "config.mjs");
 
 async function ensureDirs() {
   await fs.promises.mkdir(DATA_DIR, { recursive: true });
   await fs.promises.mkdir(IMAGES_DIR, { recursive: true });
+  await fs.promises.mkdir(PRICES_DIR, { recursive: true });
+}
+
+function todayStamp(date = new Date()) {
+  const y = date.getFullYear();
+  const m = String(date.getMonth() + 1).padStart(2, "0");
+  const d = String(date.getDate()).padStart(2, "0");
+  return `${y}${m}${d}`;
+}
+
+function setDataPath(groupId) {
+  return path.join(DATA_DIR, `${groupId}.json`);
+}
+
+function hasExistingSetData(groupId) {
+  return fs.existsSync(setDataPath(groupId));
 }
 
 async function fetchJson(url) {
@@ -87,6 +112,7 @@ function publishedDate(iso) {
 
 /**
  * Rewrite SETS in config.mjs from the live groups API.
+ * @returns {Promise<import("./config.mjs").RiftboundSetConfig[]>}
  */
 async function syncConfig() {
   console.log("Fetching groups…");
@@ -141,7 +167,10 @@ async function syncConfig() {
   await fs.promises.writeFile(CONFIG_PATH, next, "utf8");
   console.log(`Updated ${CONFIG_PATH} (${sets.length} sets)`);
   for (const s of sets) {
-    console.log(`  ${String(s.groupId).padEnd(6)} ${s.abbreviation.padEnd(4)}  ${s.name}`);
+    const existing = hasExistingSetData(s.groupId) ? "have" : "NEW ";
+    console.log(
+      `  [${existing}] ${String(s.groupId).padEnd(6)} ${s.abbreviation.padEnd(4)}  ${s.name}`,
+    );
   }
   return sets;
 }
@@ -162,15 +191,47 @@ function imageCandidatesForProduct(card) {
   });
 }
 
-async function fetchSet(setConfig, { downloadImages }) {
+/**
+ * Always write today's price snapshot for a group.
+ * Path: riftbound/prices/{YYYYMMDD}/{groupId}.json
+ */
+async function fetchPrices(setConfig, pricesDayDir) {
+  const groupId = setConfig.groupId;
+  const dest = path.join(pricesDayDir, `${groupId}.json`);
+
+  const pricesBody = await fetchJson(pricesUrl(groupId));
+  const results = pricesBody.results ?? [];
+
+  const payload = {
+    success: pricesBody.success ?? true,
+    errors: pricesBody.errors ?? [],
+    fetchedAt: new Date().toISOString(),
+    groupId,
+    abbreviation: setConfig.abbreviation,
+    name: setConfig.name,
+    source: pricesUrl(groupId),
+    results,
+  };
+
+  await fs.promises.writeFile(dest, JSON.stringify(payload, null, 2), "utf8");
+  console.log(
+    `  prices → ${path.relative(REPO_ROOT, dest)} (${results.length} rows)`,
+  );
+  return { groupId, file: dest, rows: results.length, priceRows: results };
+}
+
+/**
+ * Fetch products (+ images) for a group that does not yet have local data.
+ */
+async function fetchSetData(setConfig, { downloadImages }) {
   const groupId = setConfig.groupId;
   const code = setConfig.abbreviation;
-  console.log(`\n=== ${groupId} (${code} · ${setConfig.name}) ===`);
+  console.log(`  data/images for NEW group ${groupId} (${code})…`);
 
   const [productsBody, pricesBody] = await Promise.all([
     fetchJson(productsUrl(groupId)),
     fetchJson(pricesUrl(groupId)).catch((err) => {
-      console.warn(`  prices unavailable: ${err.message}`);
+      console.warn(`  prices unavailable while building set JSON: ${err.message}`);
       return { results: [] };
     }),
   ]);
@@ -201,11 +262,11 @@ async function fetchSet(setConfig, { downloadImages }) {
     },
   };
 
-  const jsonPath = path.join(DATA_DIR, `${groupId}.json`);
+  const jsonPath = setDataPath(groupId);
   const jsonText = JSON.stringify(payload, null, 2);
   await fs.promises.writeFile(jsonPath, jsonText, "utf8");
   console.log(
-    `Saved ${jsonPath} (${jsonText.length} bytes, ${cards.length} products)`,
+    `  saved ${path.relative(REPO_ROOT, jsonPath)} (${cards.length} products)`,
   );
 
   let imageDl = 0;
@@ -248,9 +309,9 @@ async function fetchSet(setConfig, { downloadImages }) {
       }
     }
 
-    console.log(`Images: +${imageDl} / skip ${imageSkip}; errors ${errors}`);
+    console.log(`  images: +${imageDl} / skip ${imageSkip}; errors ${errors}`);
   } else {
-    console.log("Images: skipped (--no-images)");
+    console.log("  images: skipped (--no-images)");
   }
 
   return {
@@ -268,17 +329,25 @@ function printUsage() {
   console.log(`Usage:
   node scripts/riftbound/fetch.mjs [options] [SET...]
 
+Default behaviour:
+  • Sync-aware: data + images only for NEW groups (no data/{groupId}.json yet)
+  • Prices always fetched for every target group into:
+      riftbound/prices/{YYYYMMDD}/{groupId}.json
+
 Options:
   --sync-config   Refresh SETS in config.mjs from tcgcsv groups API
-  --no-images     Skip image downloads
+  --force         Re-fetch data/images even when set JSON already exists
+  --prices-only   Skip data/images; only write today's price snapshots
+  --no-images     Skip image downloads when fetching new/forced sets
   --help          Show this help
 
 SET may be an abbreviation (OGN), groupId (24344), or set name.
-With no SET args, all sets in config are fetched.
+With no SET args, all sets in config are processed.
 
-Output layout (TCGplayer IDs):
+Layout:
   riftbound/data/{groupId}.json
   riftbound/images/{groupId}/{productId}.jpg
+  riftbound/prices/{YYYYMMDD}/{groupId}.json
 `);
 }
 
@@ -292,21 +361,19 @@ async function main() {
   await ensureDirs();
 
   const syncConfigFlag = args.includes("--sync-config");
+  const forceData = args.includes("--force");
+  const pricesOnly = args.includes("--prices-only");
   const downloadImages = !args.includes("--no-images");
   const setArgs = args.filter((a) => !a.startsWith("--"));
 
   let sets = SETS;
   if (syncConfigFlag) {
     sets = await syncConfig();
-    if (setArgs.length === 0) {
-      console.log("\nDone (config only). Pass groupIds or abbreviations to fetch data.");
-      return;
-    }
   }
 
   let targets;
   if (setArgs.length === 0) {
-    console.log("No sets given; fetching all sets from config…");
+    console.log("No sets given; processing all sets from config…");
     targets = sets;
   } else {
     targets = [];
@@ -323,20 +390,69 @@ async function main() {
     }
   }
 
+  const day = todayStamp();
+  const pricesDayDir = path.join(PRICES_DIR, day);
+  await fs.promises.mkdir(pricesDayDir, { recursive: true });
+
   console.log(
     `Sets: ${targets.map((s) => `${s.groupId}/${s.abbreviation}`).join(", ")}`,
   );
+  console.log(`Price snapshot folder: riftbound/prices/${day}/`);
+  if (pricesOnly) {
+    console.log("Mode: prices only");
+  } else if (forceData) {
+    console.log("Mode: force data/images + prices");
+  } else {
+    console.log("Mode: new groups only for data/images; prices always");
+  }
 
-  const results = [];
+  const dataResults = [];
+  const priceResults = [];
+  const skippedData = [];
+
   for (const setConfig of targets) {
-    results.push(await fetchSet(setConfig, { downloadImages }));
+    console.log(`\n=== ${setConfig.groupId} (${setConfig.abbreviation} · ${setConfig.name}) ===`);
+
+    // Prices always
+    try {
+      priceResults.push(await fetchPrices(setConfig, pricesDayDir));
+    } catch (err) {
+      console.error(`  prices FAIL: ${err.message}`);
+      priceResults.push({
+        groupId: setConfig.groupId,
+        file: null,
+        rows: 0,
+        error: err.message,
+      });
+    }
+
+    if (pricesOnly) continue;
+
+    const exists = hasExistingSetData(setConfig.groupId);
+    if (exists && !forceData) {
+      console.log(
+        `  data/images: skip (already have ${path.relative(REPO_ROOT, setDataPath(setConfig.groupId))})`,
+      );
+      skippedData.push(setConfig.groupId);
+      continue;
+    }
+
+    dataResults.push(await fetchSetData(setConfig, { downloadImages }));
   }
 
   console.log("\nDone.");
-  for (const r of results) {
+  console.log(
+    `Prices: ${priceResults.filter((r) => r.file).length}/${targets.length} written under prices/${day}/`,
+  );
+  if (!pricesOnly) {
     console.log(
-      `  ${r.groupId} (${r.code}): ${r.cards} products, json ${r.jsonBytes} B, images ${r.imageDl}+${r.imageSkip}skip, errors ${r.errors}`,
+      `Data/images: ${dataResults.length} fetched, ${skippedData.length} skipped (already present)`,
     );
+    for (const r of dataResults) {
+      console.log(
+        `  ${r.groupId} (${r.code}): ${r.cards} products, json ${r.jsonBytes} B, images ${r.imageDl}+${r.imageSkip}skip, errors ${r.errors}`,
+      );
+    }
   }
 }
 
