@@ -6,7 +6,8 @@ Fetches set JSON and card images from [palworldtcg.gg](https://palworldtcg.gg).
 
 ```
 TCG-Data/palworld/
-  data/{CODE}.json   # full API response per set
+  data/groups.json   # always refreshed from GET /api/v1/sets
+  data/{CODE}.json   # full API response per set (new sets only)
   images/{CODE}/
     full/            # image_url
     thumbs/          # thumbnail_url
@@ -21,15 +22,22 @@ TCG-Data/palworld/
 From the **TCG-Data** repo root:
 
 ```bash
-# One or more sets
-node scripts/palworld/fetch.mjs TD01
+# Refresh groups.json; pull data + images only for sets not yet on disk
+node scripts/palworld/fetch.mjs
+
+# Specific sets (still refreshes groups.json; skips if data/{code}.json exists)
 node scripts/palworld/fetch.mjs TD01 BP01
 
 # Official English product codes also work (ETD01→TD01, EBP01→BP01, …)
 node scripts/palworld/fetch.mjs ETD01 EBP01
 
-# All sets (GET /api/v1/sets)
-node scripts/palworld/fetch.mjs
+# Re-fetch data/images even when set JSON already exists
+node scripts/palworld/fetch.mjs --force BP01
+
+# Skip image downloads
+node scripts/palworld/fetch.mjs --no-images
 ```
 
-Files are saved under the API set code (`TD01`, `BP01`, …). Existing image files are skipped. Relative image URLs are resolved against `https://palworldtcg.gg`.
+Groups source: [https://palworldtcg.gg/api/v1/sets](https://palworldtcg.gg/api/v1/sets).
+
+Files are saved under the API set code (`TD01`, `BP01`, …). Existing image files are skipped on download. Relative image URLs are resolved against `https://palworldtcg.gg`.

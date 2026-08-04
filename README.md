@@ -10,6 +10,7 @@ TCG-Data/
     palworld/fetch.mjs
     riftbound/fetch.mjs
   palworld/
+    data/groups.json
     data/{setCode}.json
     images/{setCode}/full|thumbs/
   riftbound/
@@ -28,13 +29,15 @@ TCG-Data/
 | Concern | Palworld |
 | --- | --- |
 | Identity | Official set codes (`BP01`, `TD01`) |
-| Data files | `palworld/data/{setCode}.json` |
-| Card images | `palworld/images/{setCode}/full/` and `thumbs/` |
-| CLI | `node scripts/palworld/fetch.mjs TD01` |
+| Groups | `palworld/data/groups.json` — **every** run from [/api/v1/sets](https://palworldtcg.gg/api/v1/sets) |
+| Data files | `palworld/data/{setCode}.json` — only fetched for **new** sets |
+| Card images | `palworld/images/{setCode}/full/` and `thumbs/` — with new sets |
+| CLI | `node scripts/palworld/fetch.mjs` |
 
 ```bash
-node scripts/palworld/fetch.mjs TD01 BP01
 node scripts/palworld/fetch.mjs
+node scripts/palworld/fetch.mjs TD01 BP01
+node scripts/palworld/fetch.mjs --force BP01
 ```
 
 Details: [scripts/palworld/README.md](scripts/palworld/README.md)
