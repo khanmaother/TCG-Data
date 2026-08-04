@@ -30,7 +30,7 @@ TCG-Data/
 | --- | --- |
 | Identity | Official set codes (`BP01`, `TD01`) |
 | Groups | `palworld/data/groups.json` — **every** run from [/api/v1/sets](https://palworldtcg.gg/api/v1/sets) |
-| Data files | `palworld/data/{setCode}.json` — only fetched for **new** sets |
+| Data files | `palworld/data/{setCode}.json` — new/summary-only sets; cards enriched via `/cards/{slug}` |
 | Card images | `palworld/images/{setCode}/full/` and `thumbs/` — with new sets |
 | CLI | `node scripts/palworld/fetch.mjs` |
 

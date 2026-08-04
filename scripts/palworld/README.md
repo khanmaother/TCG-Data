@@ -40,4 +40,9 @@ node scripts/palworld/fetch.mjs --no-images
 
 Groups source: [https://palworldtcg.gg/api/v1/sets](https://palworldtcg.gg/api/v1/sets).
 
+Each card in a set file is replaced with the detailed payload from
+[`/api/v1/cards/{slug}`](https://palworldtcg.gg/api/v1/cards/td01-soul)
+(effect text, Japanese name, durability, etc.). Summary-only local files are
+re-fetched automatically.
+
 Files are saved under the API set code (`TD01`, `BP01`, …). Existing image files are skipped on download. Relative image URLs are resolved against `https://palworldtcg.gg`.

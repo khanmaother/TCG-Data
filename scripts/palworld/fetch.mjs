@@ -5,14 +5,15 @@
  * Always refreshes the groups/sets snapshot:
  *   palworld/data/groups.json   # from GET /api/v1/sets
  *
- * Data / images — only for **new** sets (no existing `data/{code}.json`):
- *   palworld/data/{code}.json
+ * Data / images — only for **new** or incomplete sets:
+ *   palworld/data/{code}.json   # set payload with per-card detail from /cards/{slug}
  *   palworld/images/{code}/full/
  *   palworld/images/{code}/thumbs/
  *
  * Sources:
  *   https://palworldtcg.gg/api/v1/sets
  *   https://palworldtcg.gg/api/v1/sets/{code}
+ *   https://palworldtcg.gg/api/v1/cards/{slug}
  *
  * Usage (from TCG-Data repo root):
  *   node scripts/palworld/fetch.mjs
@@ -26,7 +27,10 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const BASE = "https://palworldtcg.gg";
-const API = `${BASE}/api/v1/sets`;
+const SETS_API = `${BASE}/api/v1/sets`;
+const CARDS_API = `${BASE}/api/v1/cards`;
+/** Parallel detail fetches per set (keep polite to the public API). */
+const DETAIL_CONCURRENCY = 8;
 
 /** Official English product codes → palworldtcg.gg set codes */
 const SET_ALIASES = {
@@ -52,9 +56,14 @@ function setDataPath(code) {
   return path.join(DATA_DIR, `${code}.json`);
 }
 
+/** Detail endpoint adds fields like effect_text / set_code beyond the set listing. */
+function isDetailedCard(card) {
+  return Boolean(card && typeof card === "object" && ("effect_text" in card || "set_code" in card));
+}
+
 /**
- * A set counts as pulled only when local JSON exists and has at least one card.
- * Empty stubs (API listed set, cards not published yet) are re-fetched on later runs.
+ * A set counts as pulled when local JSON has cards and each card is the detailed
+ * /cards/{slug} shape. Empty stubs and summary-only files are re-fetched.
  */
 function hasExistingSetData(code) {
   const filePath = setDataPath(code);
@@ -62,10 +71,37 @@ function hasExistingSetData(code) {
   try {
     const body = JSON.parse(fs.readFileSync(filePath, "utf8"));
     const cards = body?.data?.cards ?? body?.cards ?? [];
-    return Array.isArray(cards) && cards.length > 0;
+    return Array.isArray(cards) && cards.length > 0 && cards.every(isDetailedCard);
   } catch {
     return false;
   }
+}
+
+/**
+ * Run `fn` over items with a fixed concurrency limit; preserves order.
+ * @template T, R
+ * @param {T[]} items
+ * @param {number} concurrency
+ * @param {(item: T, index: number) => Promise<R>} fn
+ * @returns {Promise<R[]>}
+ */
+async function mapPool(items, concurrency, fn) {
+  const results = new Array(items.length);
+  let next = 0;
+
+  async function worker() {
+    while (next < items.length) {
+      const index = next++;
+      results[index] = await fn(items[index], index);
+    }
+  }
+
+  const workers = Array.from(
+    { length: Math.min(concurrency, items.length) },
+    () => worker(),
+  );
+  await Promise.all(workers);
+  return results;
 }
 
 function resolveUrl(url) {
@@ -123,8 +159,8 @@ async function downloadFile(url, destPath) {
  * Source: https://palworldtcg.gg/api/v1/sets
  */
 async function fetchGroupsFile() {
-  console.log(`Fetching groups… ${API}`);
-  const body = await fetchJson(API);
+  console.log(`Fetching groups… ${SETS_API}`);
+  const body = await fetchJson(SETS_API);
   const sets = body.data ?? body;
   if (!Array.isArray(sets) || sets.length === 0) {
     throw new Error("No sets returned from palworldtcg.gg /api/v1/sets");
@@ -150,17 +186,66 @@ async function fetchGroupsFile() {
   return { body, sets };
 }
 
+/**
+ * Replace each set-listing card with GET /api/v1/cards/{slug} detail.
+ * Falls back to the listing object if a detail fetch fails.
+ */
+async function enrichCardsWithDetails(cards) {
+  let enriched = 0;
+  let failed = 0;
+  let skipped = 0;
+
+  const detailed = await mapPool(cards, DETAIL_CONCURRENCY, async (card) => {
+    const slug = card?.slug;
+    if (!slug) {
+      skipped++;
+      return card;
+    }
+    try {
+      const body = await fetchJson(`${CARDS_API}/${encodeURIComponent(slug)}`);
+      const detail = body.data ?? body;
+      if (!detail || typeof detail !== "object") {
+        throw new Error("unexpected card detail shape");
+      }
+      enriched++;
+      return detail;
+    } catch (err) {
+      failed++;
+      console.error(`  detail fail ${slug}: ${err.message}`);
+      return card;
+    }
+  });
+
+  return { cards: detailed, enriched, failed, skipped };
+}
+
 async function fetchSet(code, { downloadImages }) {
-  console.log(`  data/images for NEW set ${code}…`);
-  const body = await fetchJson(`${API}/${encodeURIComponent(code)}`);
+  console.log(`  data/images for set ${code}…`);
+  const body = await fetchJson(`${SETS_API}/${encodeURIComponent(code)}`);
   const setData = body.data ?? body;
-  const cards = setData.cards ?? [];
+  const listingCards = setData.cards ?? [];
+
+  console.log(
+    `  enriching ${listingCards.length} cards via /api/v1/cards/{slug}…`,
+  );
+  const {
+    cards,
+    enriched,
+    failed: detailFailed,
+    skipped: detailSkipped,
+  } = await enrichCardsWithDetails(listingCards);
+
+  if (body.data) {
+    body.data.cards = cards;
+  } else {
+    body.cards = cards;
+  }
 
   const jsonPath = setDataPath(code);
   const jsonText = JSON.stringify(body, null, 2);
   await fs.promises.writeFile(jsonPath, jsonText, "utf8");
   console.log(
-    `  saved ${path.relative(REPO_ROOT, jsonPath)} (${jsonText.length} bytes, ${cards.length} cards)`,
+    `  saved ${path.relative(REPO_ROOT, jsonPath)} (${jsonText.length} bytes, ${cards.length} cards; detail +${enriched} / fail ${detailFailed} / no-slug ${detailSkipped})`,
   );
   if (cards.length === 0) {
     console.log(
@@ -220,6 +305,8 @@ async function fetchSet(code, { downloadImages }) {
     code,
     cards: cards.length,
     jsonBytes: jsonText.length,
+    enriched,
+    detailFailed,
     fullDl,
     fullSkip,
     thumbDl,
@@ -234,11 +321,11 @@ function printUsage() {
 
 Default behaviour:
   • Always refresh palworld/data/groups.json from /api/v1/sets
-  • Data + images only for NEW sets (no data/{code}.json with cards yet)
-    Empty stubs (0 cards) are treated as not-yet-pulled and re-tried.
+  • Data + images for sets that are missing, empty, or still summary-only
+    (each card is replaced with GET /api/v1/cards/{slug} detail)
 
 Options:
-  --force       Re-fetch data/images even when set JSON already exists
+  --force       Re-fetch data/images even when detailed set JSON already exists
   --no-images   Skip image downloads when fetching new/forced sets
   --help        Show this help
 
@@ -293,7 +380,7 @@ async function main() {
   if (forceData) {
     console.log("Mode: force data/images");
   } else {
-    console.log("Mode: new sets only for data/images");
+    console.log("Mode: missing / empty / summary-only sets for data/images");
   }
 
   const results = [];
@@ -303,7 +390,7 @@ async function main() {
     console.log(`\n=== ${code} ===`);
     if (!forceData && hasExistingSetData(code)) {
       console.log(
-        `  skip data/images (already have ${path.relative(REPO_ROOT, setDataPath(code))})`,
+        `  skip data/images (already have detailed ${path.relative(REPO_ROOT, setDataPath(code))})`,
       );
       skipped.push(code);
       continue;
@@ -313,15 +400,15 @@ async function main() {
 
   console.log("\nDone.");
   if (skipped.length) {
-    console.log(`Skipped (already present): ${skipped.join(", ")}`);
+    console.log(`Skipped (already detailed): ${skipped.join(", ")}`);
   }
   for (const r of results) {
     console.log(
-      `  ${r.code}: ${r.cards} cards, json ${r.jsonBytes} B, full ${r.fullDl}+${r.fullSkip}skip, thumbs ${r.thumbDl}+${r.thumbSkip}skip`,
+      `  ${r.code}: ${r.cards} cards (detail ${r.enriched}, fail ${r.detailFailed}), json ${r.jsonBytes} B, full ${r.fullDl}+${r.fullSkip}skip, thumbs ${r.thumbDl}+${r.thumbSkip}skip`,
     );
   }
   if (results.length === 0 && skipped.length > 0) {
-    console.log("No new sets to pull.");
+    console.log("No sets needed pulling.");
   }
 }
 
