@@ -7,502 +7,906 @@
     "card_count": 16,
     "source": "tcgcsv",
     "categoryId": 89,
+    "sourceUrl": "https://tcgcsv.com/tcgplayer/89/24343/products",
+    "success": true,
+    "errors": [],
+    "totalItems": 16,
     "cards": [
       {
         "productId": 655495,
-        "slug": "655495-riftbound-league-of-legends-arcane-box-set",
-        "card_number": "",
         "name": "Riftbound: League of Legends Arcane Box Set",
-        "clean_name": "Riftbound League of Legends Arcane Box Set",
-        "card_type": "",
-        "rarity": "",
-        "domain": [],
-        "tags": [],
-        "energy_cost": null,
-        "power_cost": null,
-        "might": null,
-        "description": "",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/655495_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/655495_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/655495/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-riftbound-league-of-legends-arcane-box-set",
-        "prices": {
-          "Normal": {
-            "lowPrice": 585,
-            "midPrice": 800,
-            "highPrice": 4999.99,
-            "marketPrice": 606.05,
-            "directLowPrice": null
-          }
-        }
+        "cleanName": "Riftbound League of Legends Arcane Box Set",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/655495_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24343,
+        "url": "https://www.tcgplayer.com/product/655495/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-riftbound-league-of-legends-arcane-box-set",
+        "modifiedOn": "2026-02-11T05:10:10.187",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": "2026-02-10T00:00:00",
+          "note": null
+        },
+        "extendedData": []
       },
       {
         "productId": 658333,
-        "slug": "658333-riftbound-worlds-bundle-2025",
-        "card_number": "",
         "name": "Riftbound: Worlds Bundle 2025",
-        "clean_name": "Riftbound Worlds Bundle 2025",
-        "card_type": "",
-        "rarity": "",
-        "domain": [],
-        "tags": [],
-        "energy_cost": null,
-        "power_cost": null,
-        "might": null,
-        "description": "",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/658333_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/658333_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/658333/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-riftbound-worlds-bundle-2025",
-        "prices": {
-          "Normal": {
-            "lowPrice": 1199.99,
-            "midPrice": 1496,
-            "highPrice": 9999.99,
-            "marketPrice": 1177.46,
-            "directLowPrice": null
-          }
-        }
+        "cleanName": "Riftbound Worlds Bundle 2025",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/658333_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24343,
+        "url": "https://www.tcgplayer.com/product/658333/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-riftbound-worlds-bundle-2025",
+        "modifiedOn": "2026-02-23T21:29:50.91",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": []
       },
       {
         "productId": 659765,
-        "slug": "066-298-ahri-alluring-launch-exclusive",
-        "card_number": "066/298",
         "name": "Ahri - Alluring (Launch Exclusive)",
-        "clean_name": "Ahri Alluring Launch Exclusive",
-        "card_type": "Champion Unit",
-        "rarity": "Promo",
-        "domain": [
-          "Calm"
-        ],
-        "tags": [
-          "Ahri",
-          "Ionia"
-        ],
-        "energy_cost": 5,
-        "power_cost": 1,
-        "might": 4,
-        "description": "When I hold, you score 1 point.",
-        "flavor_text": "<em>\"Remember this moment.\"</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/659765_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/659765_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/659765/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-ahri-alluring-launch-exclusive",
-        "prices": {
-          "Foil": {
-            "lowPrice": 199.9,
-            "midPrice": 250,
-            "highPrice": 999.99,
-            "marketPrice": 176.04,
-            "directLowPrice": null
+        "cleanName": "Ahri Alluring Launch Exclusive",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/659765_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24343,
+        "url": "https://www.tcgplayer.com/product/659765/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-ahri-alluring-launch-exclusive",
+        "modifiedOn": "2026-01-08T18:25:14.37",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Promo"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "066/298"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "When I hold, you score 1 point."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "5"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "4"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Champion Unit"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Ahri;Ionia"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Calm"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"Remember this moment.\"</em>"
           }
-        }
+        ]
       },
       {
         "productId": 659766,
-        "slug": "197-298-teemo-scout",
-        "card_number": "197/298",
         "name": "Teemo - Scout",
-        "clean_name": "Teemo Scout",
-        "card_type": "Champion Unit",
-        "rarity": "Promo",
-        "domain": [
-          "Chaos"
-        ],
-        "tags": [
-          "Bandle City",
-          "Teemo",
-          "Yordle"
-        ],
-        "energy_cost": 2,
-        "power_cost": 0,
-        "might": 1,
-        "description": "HIDDEN <em>(Hide now for 1 Rune to react with later for 0.)</em><br><br>\r\nWhen you play me, give me +3 Might this turn.",
-        "flavor_text": "<em>\"Reporting in!\"</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/659766_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/659766_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/659766/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-teemo-scout",
-        "prices": {
-          "Normal": {
-            "lowPrice": 18.37,
-            "midPrice": 32.99,
-            "highPrice": 89.99,
-            "marketPrice": 37.56,
-            "directLowPrice": null
+        "cleanName": "Teemo Scout",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/659766_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24343,
+        "url": "https://www.tcgplayer.com/product/659766/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-teemo-scout",
+        "modifiedOn": "2026-01-08T18:24:32.027",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Promo"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "197/298"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "HIDDEN <em>(Hide now for 1 Rune to react with later for 0.)</em><br><br>\r\nWhen you play me, give me +3 Might this turn."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "2"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "0"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "1"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Champion Unit"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Bandle City;Teemo;Yordle"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Chaos"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"Reporting in!\"</em>"
           }
-        }
+        ]
       },
       {
         "productId": 663004,
-        "slug": "663004-buff-buff-fist-bump-promo",
-        "card_number": "",
         "name": "Buff // Buff (Fist Bump Promo)",
-        "clean_name": "Buff Buff Fist Bump Promo",
-        "card_type": "None",
-        "rarity": "Promo",
-        "domain": [],
-        "tags": [],
-        "energy_cost": null,
-        "power_cost": null,
-        "might": null,
-        "description": "A unit may have no more than one buff at a time.",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/663004_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/663004_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/663004/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-buff-buff-fist-bump-promo",
-        "prices": {
-          "Foil": {
-            "lowPrice": 170,
-            "midPrice": 199.48,
-            "highPrice": 1000,
-            "marketPrice": 99.51,
-            "directLowPrice": null
+        "cleanName": "Buff Buff Fist Bump Promo",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/663004_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24343,
+        "url": "https://www.tcgplayer.com/product/663004/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-buff-buff-fist-bump-promo",
+        "modifiedOn": "2026-01-08T18:26:00.66",
+        "imageCount": 0,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Promo"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "A unit may have no more than one buff at a time."
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "None"
           }
-        }
+        ]
       },
       {
         "productId": 670598,
-        "slug": "263a-298-teemo-swift-scout-alternate-art",
-        "card_number": "263a/298",
         "name": "Teemo - Swift Scout (Alternate Art)",
-        "clean_name": "Teemo Swift Scout Alternate Art",
-        "card_type": "Legend",
-        "rarity": "Promo",
-        "domain": [
-          "Mind",
-          "Chaos"
-        ],
-        "tags": [
-          "Teemo"
-        ],
-        "energy_cost": 0,
-        "power_cost": 0,
-        "might": 0,
-        "description": "You may pay 1 to hide a card with HIDDEN instead of rune.<br><br>\r\n1, Exhaust: Put a Teemo unit you own into your hand from your Champion Zone or the board.",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/670598_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/670598_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/670598/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-teemo-swift-scout-alternate-art",
-        "prices": {
-          "Foil": {
-            "lowPrice": 650,
-            "midPrice": 797.69,
-            "highPrice": 1999.99,
-            "marketPrice": 757.64,
-            "directLowPrice": null
+        "cleanName": "Teemo Swift Scout Alternate Art",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/670598_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24343,
+        "url": "https://www.tcgplayer.com/product/670598/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-teemo-swift-scout-alternate-art",
+        "modifiedOn": "2026-01-08T18:23:20.877",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Promo"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "263a/298"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "You may pay 1 to hide a card with HIDDEN instead of rune.<br><br>\r\n1, Exhaust: Put a Teemo unit you own into your hand from your Champion Zone or the board."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "0"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "0"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Legend"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Teemo"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Mind;Chaos"
           }
-        }
+        ]
       },
       {
         "productId": 672073,
-        "slug": "278a-298-bandle-tree",
-        "card_number": "278a/298",
         "name": "Bandle Tree",
-        "clean_name": "Bandle Tree",
-        "card_type": "Battlefield",
-        "rarity": "Promo",
-        "domain": [],
-        "tags": [],
-        "energy_cost": 0,
-        "power_cost": 0,
-        "might": 0,
-        "description": "You may hide an additional card here.",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672073_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/672073_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/672073/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-bandle-tree",
-        "prices": {
-          "Foil": {
-            "lowPrice": 70.85,
-            "midPrice": 70.95,
-            "highPrice": 199.99,
-            "marketPrice": 43.76,
-            "directLowPrice": null
+        "cleanName": "Bandle Tree",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/672073_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24343,
+        "url": "https://www.tcgplayer.com/product/672073/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-bandle-tree",
+        "modifiedOn": "2026-01-09T19:29:26.517",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Promo"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "278a/298"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "You may hide an additional card here."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "0"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "0"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Battlefield"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "None"
           }
-        }
+        ]
       },
       {
         "productId": 672083,
-        "slug": "293a-298-the-grand-plaza",
-        "card_number": "293a/298",
         "name": "The Grand Plaza",
-        "clean_name": "The Grand Plaza",
-        "card_type": "Battlefield",
-        "rarity": "Promo",
-        "domain": [],
-        "tags": [],
-        "energy_cost": 0,
-        "power_cost": 0,
-        "might": 0,
-        "description": "When you hold here, if you have 7+ units here, you win the game.",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672083_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/672083_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/672083/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-the-grand-plaza",
-        "prices": {
-          "Foil": {
-            "lowPrice": 39.98,
-            "midPrice": 58.6,
-            "highPrice": 1000,
-            "marketPrice": 41.26,
-            "directLowPrice": null
+        "cleanName": "The Grand Plaza",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/672083_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24343,
+        "url": "https://www.tcgplayer.com/product/672083/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-the-grand-plaza",
+        "modifiedOn": "2026-01-09T19:39:56.317",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Promo"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "293a/298"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "When you hold here, if you have 7+ units here, you win the game."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "0"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "0"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Battlefield"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "None"
           }
-        }
+        ]
       },
       {
         "productId": 672088,
-        "slug": "276a-298-aspirants-climb",
-        "card_number": "276a/298",
         "name": "Aspirant's Climb",
-        "clean_name": "Aspirants Climb",
-        "card_type": "Battlefield",
-        "rarity": "Promo",
-        "domain": [],
-        "tags": [],
-        "energy_cost": 0,
-        "power_cost": 0,
-        "might": 0,
-        "description": "Increase the points needed to win the game by 1",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/672088_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/672088_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/672088/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-aspirants-climb",
-        "prices": {
-          "Foil": {
-            "lowPrice": 60,
-            "midPrice": 76.98,
-            "highPrice": 199.99,
-            "marketPrice": 77.24,
-            "directLowPrice": null
+        "cleanName": "Aspirants Climb",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/672088_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24343,
+        "url": "https://www.tcgplayer.com/product/672088/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-aspirants-climb",
+        "modifiedOn": "2026-01-09T19:49:32.81",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Promo"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "276a/298"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "Increase the points needed to win the game by 1"
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "0"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "0"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Battlefield"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "None"
           }
-        }
+        ]
       },
       {
         "productId": 678049,
-        "slug": "159a-298-warwick-hunter",
-        "card_number": "159a/298",
         "name": "Warwick - Hunter",
-        "clean_name": "Warwick Hunter",
-        "card_type": "Champion Unit",
-        "rarity": "Promo",
-        "domain": [
-          "Body"
-        ],
-        "tags": [
-          "Dog",
-          "Warwick",
-          "Zaun"
-        ],
-        "energy_cost": 6,
-        "power_cost": 1,
-        "might": 5,
-        "description": "I enter ready.<br>\r\nWhen I attack, kill all damaged enemy units here.",
-        "flavor_text": "<em>\"Once the serum has been injected, the beast will be unstoppable.\"—Singed</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678049_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/678049_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/678049/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-warwick-hunter",
-        "prices": {
-          "Foil": {
-            "lowPrice": 77,
-            "midPrice": 92.5,
-            "highPrice": 599.99,
-            "marketPrice": 43.41,
-            "directLowPrice": null
+        "cleanName": "Warwick Hunter",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/678049_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24343,
+        "url": "https://www.tcgplayer.com/product/678049/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-warwick-hunter",
+        "modifiedOn": "2026-02-10T14:25:32.583",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Promo"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "159a/298"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "I enter ready.<br>\r\nWhen I attack, kill all damaged enemy units here."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "6"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "5"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Champion Unit"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Dog;Warwick;Zaun"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Body"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"Once the serum has been injected, the beast will be unstoppable.\"—Singed</em>"
           }
-        }
+        ]
       },
       {
         "productId": 678050,
-        "slug": "068a-298-caitlyn-patrolling",
-        "card_number": "068a/298",
         "name": "Caitlyn - Patrolling",
-        "clean_name": "Caitlyn Patrolling",
-        "card_type": "Champion Unit",
-        "rarity": "Promo",
-        "domain": [
-          "Calm"
-        ],
-        "tags": [
-          "Caitlyn",
-          "Piltover"
-        ],
-        "energy_cost": 3,
-        "power_cost": 1,
-        "might": 3,
-        "description": "I must be assigned combat damage last.<br>\r\nExhaust: Deal damage equal to my Might to a unit at a battlefield. Use this ability only while I'm at a battlefield.",
-        "flavor_text": "<em>\"Just get me a clear shot.\"</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678050_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/678050_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/678050/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-caitlyn-patrolling",
-        "prices": {
-          "Foil": {
-            "lowPrice": 90,
-            "midPrice": 102.5,
-            "highPrice": 1099.99,
-            "marketPrice": 58.22,
-            "directLowPrice": null
+        "cleanName": "Caitlyn Patrolling",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/678050_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24343,
+        "url": "https://www.tcgplayer.com/product/678050/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-caitlyn-patrolling",
+        "modifiedOn": "2026-02-10T14:27:41.213",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Promo"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "068a/298"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "I must be assigned combat damage last.<br>\r\nExhaust: Deal damage equal to my Might to a unit at a battlefield. Use this ability only while I'm at a battlefield."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "3"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "3"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Champion Unit"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Caitlyn;Piltover"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Calm"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"Just get me a clear shot.\"</em>"
           }
-        }
+        ]
       },
       {
         "productId": 678051,
-        "slug": "111a-298-heimerdinger-inventor",
-        "card_number": "111a/298",
         "name": "Heimerdinger - Inventor",
-        "clean_name": "Heimerdinger Inventor",
-        "card_type": "Champion Unit",
-        "rarity": "Promo",
-        "domain": [
-          "Mind"
-        ],
-        "tags": [
-          "Heimerdinger",
-          "Piltover",
-          "Yordle"
-        ],
-        "energy_cost": 3,
-        "power_cost": 1,
-        "might": 3,
-        "description": "I have all exhaust abilities of all friendly legends, units and gear.",
-        "flavor_text": "<em>\"Every action sparks a reaction.\"</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678051_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/678051_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/678051/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-heimerdinger-inventor",
-        "prices": {
-          "Foil": {
-            "lowPrice": 50,
-            "midPrice": 116.5,
-            "highPrice": 599.99,
-            "marketPrice": 50.14,
-            "directLowPrice": null
+        "cleanName": "Heimerdinger Inventor",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/678051_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24343,
+        "url": "https://www.tcgplayer.com/product/678051/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-heimerdinger-inventor",
+        "modifiedOn": "2026-02-10T14:49:11.723",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Promo"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "111a/298"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "I have all exhaust abilities of all friendly legends, units and gear."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "3"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "3"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Champion Unit"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Heimerdinger;Piltover;Yordle"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Mind"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"Every action sparks a reaction.\"</em>"
           }
-        }
+        ]
       },
       {
         "productId": 678052,
-        "slug": "202-298-jinx-rebel",
-        "card_number": "202/298",
         "name": "Jinx - Rebel",
-        "clean_name": "Jinx Rebel",
-        "card_type": "Champion Unit",
-        "rarity": "Promo",
-        "domain": [
-          "Chaos"
-        ],
-        "tags": [
-          "Jinx",
-          "Zaun"
-        ],
-        "energy_cost": 5,
-        "power_cost": 1,
-        "might": 5,
-        "description": "When you discard one or more cards, ready me and give me +1 Might this turn.",
-        "flavor_text": "<em>\"I've got a bone to pick with, well, just about everyone.\"</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678052_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/678052_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/678052/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-jinx-rebel",
-        "prices": {
-          "Foil": {
-            "lowPrice": 285,
-            "midPrice": 300,
-            "highPrice": 899.99,
-            "marketPrice": 129.47,
-            "directLowPrice": null
+        "cleanName": "Jinx Rebel",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/678052_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24343,
+        "url": "https://www.tcgplayer.com/product/678052/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-jinx-rebel",
+        "modifiedOn": "2026-02-10T14:30:12.88",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Promo"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "202/298"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "When you discard one or more cards, ready me and give me +1 Might this turn."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "5"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "5"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Champion Unit"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Jinx;Zaun"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Chaos"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"I've got a bone to pick with, well, just about everyone.\"</em>"
           }
-        }
+        ]
       },
       {
         "productId": 678053,
-        "slug": "036a-298-vi-destructive",
-        "card_number": "036a/298",
         "name": "Vi - Destructive",
-        "clean_name": "Vi Destructive",
-        "card_type": "Champion Unit",
-        "rarity": "Promo",
-        "domain": [
-          "Fury"
-        ],
-        "tags": [
-          "Piltover",
-          "Vi"
-        ],
-        "energy_cost": 2,
-        "power_cost": 1,
-        "might": 3,
-        "description": "GANKING <em>(I can move from battlefield to battlefield.)</em><br>\r\nRecycle 1 from your trash: Give me +1 Might this turn.",
-        "flavor_text": "<em>\"Everybody dies. Might as well go down swinging.\"</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678053_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/678053_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/678053/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-vi-destructive",
-        "prices": {
-          "Foil": {
-            "lowPrice": 90.23,
-            "midPrice": 102.48,
-            "highPrice": 899.99,
-            "marketPrice": 91.06,
-            "directLowPrice": null
+        "cleanName": "Vi Destructive",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/678053_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24343,
+        "url": "https://www.tcgplayer.com/product/678053/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-vi-destructive",
+        "modifiedOn": "2026-02-10T14:47:58.317",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Promo"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "036a/298"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "GANKING <em>(I can move from battlefield to battlefield.)</em><br>\r\nRecycle 1 from your trash: Give me +1 Might this turn."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "2"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "3"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Champion Unit"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Piltover;Vi"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Fury"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"Everybody dies. Might as well go down swinging.\"</em>"
           }
-        }
+        ]
       },
       {
         "productId": 678054,
-        "slug": "246b-298-viktor-leader",
-        "card_number": "246b/298",
         "name": "Viktor - Leader",
-        "clean_name": "Viktor Leader",
-        "card_type": "Champion Unit",
-        "rarity": "Promo",
-        "domain": [
-          "Order"
-        ],
-        "tags": [
-          "Viktor",
-          "Zaun"
-        ],
-        "energy_cost": 4,
-        "power_cost": 1,
-        "might": 4,
-        "description": "When another non-Recruit unit you control dies, play a 1 might Recruit unit token into your base.",
-        "flavor_text": "<em>\"I am more than I ever was.\"</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/678054_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/678054_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/678054/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-viktor-leader",
-        "prices": {
-          "Foil": {
-            "lowPrice": 83.39,
-            "midPrice": 113.9,
-            "highPrice": 899.99,
-            "marketPrice": 90.75,
-            "directLowPrice": null
+        "cleanName": "Viktor Leader",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/678054_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24343,
+        "url": "https://www.tcgplayer.com/product/678054/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-viktor-leader",
+        "modifiedOn": "2026-06-18T16:02:58.973",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Promo"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "246b/298"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "When another non-Recruit unit you control dies, play a 1 might Recruit unit token into your base."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "4"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "4"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Champion Unit"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Viktor;Zaun"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Order"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"I am more than I ever was.\"</em>"
           }
-        }
+        ]
       },
       {
         "productId": 702608,
-        "slug": "t02-t03-bird-brush",
-        "card_number": "T02 // T03",
         "name": "Bird // Brush",
-        "clean_name": "Bird Brush",
-        "card_type": "Unit;Battlefield;Token",
-        "rarity": "None",
-        "domain": [],
-        "tags": [],
-        "energy_cost": null,
-        "power_cost": null,
-        "might": 1,
-        "description": "<span style=\"color:red\">This double-sided token is <strong>Foil</strong> on the 'Brush' half and <strong>Non-Foil</strong> on the 'Bird' half.</span>\r\n<br><br>\r\nBird\r\n<br>\r\n[DEFLECT] <em>(Opponents must pay 1 Rune to choose me with a spell or ability.)</em>\r\n<br><br>\r\nBrush\r\n<br>\r\nBird, Cat, Dog, Poro, and Ivern units here have +1 Might.\r\n<br>\r\nWhen you score here, you may replace this with the battlefield it replaced.",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/702608_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/702608_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/702608/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-bird-brush",
-        "prices": {
-          "Foil": {
-            "lowPrice": 2.69,
-            "midPrice": 3.5,
-            "highPrice": 17.65,
-            "marketPrice": 3.46,
-            "directLowPrice": null
+        "cleanName": "Bird Brush",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/702608_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24343,
+        "url": "https://www.tcgplayer.com/product/702608/riftbound-league-of-legends-trading-card-game-riftbound-promotional-cards-bird-brush",
+        "modifiedOn": "2026-06-23T19:41:09.72",
+        "imageCount": 0,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "None"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "T02 // T03"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "<span style=\"color:red\">This double-sided token is <strong>Foil</strong> on the 'Brush' half and <strong>Non-Foil</strong> on the 'Bird' half.</span>\r\n<br><br>\r\nBird\r\n<br>\r\n[DEFLECT] <em>(Opponents must pay 1 Rune to choose me with a spell or ability.)</em>\r\n<br><br>\r\nBrush\r\n<br>\r\nBird, Cat, Dog, Poro, and Ivern units here have +1 Might.\r\n<br>\r\nWhen you score here, you may replace this with the battlefield it replaced."
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "1"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Unit;Battlefield;Token"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "None"
           }
-        }
+        ]
       }
     ]
   }

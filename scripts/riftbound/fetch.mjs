@@ -4,7 +4,7 @@
  *
  * Data / images — only for **new** groups (no existing `data/{groupId}.json`):
  *   riftbound/data/groups.json            # always refreshed from /89/groups
- *   riftbound/data/{groupId}.json
+ *   riftbound/data/{groupId}.json         # raw tcgcsv products (extendedData intact)
  *   riftbound/images/{groupId}/{productId}.jpg
  *
  * Prices — **always** refreshed for every group into a dated snapshot folder:
@@ -14,6 +14,8 @@
  *   https://tcgcsv.com/tcgplayer/89/groups
  *   https://tcgcsv.com/tcgplayer/89/{groupId}/products
  *   https://tcgcsv.com/tcgplayer/89/{groupId}/prices
+ *
+ * Product items are saved exactly as returned by tcgcsv (no flatten / drop).
  *
  * Usage (from TCG-Data repo root):
  *   node scripts/riftbound/fetch.mjs
@@ -27,7 +29,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
-import { productImageUrls, productToCard } from "./card-template.mjs";
+import { extendedValue, productImageUrls, upgradeImageUrl, asStoredProduct } from "./card-template.mjs";
 import {
   SETS,
   USER_AGENT,
@@ -192,17 +194,22 @@ async function syncConfig() {
 
 /**
  * Candidate URLs for a product image.
- * Cards prefer face art; sealed SKUs prefer packaging (_in_) shots.
+ * Cards (have Number in extendedData) prefer face art; sealed SKUs prefer packaging (_in_) shots.
+ * @param {object} product - raw tcgcsv product
  */
-function imageCandidatesForProduct(card) {
-  if (card.card_number) {
-    return [card.image_url, card.thumbnail_url, ...productImageUrls(card.productId)].filter(
+function imageCandidatesForProduct(product) {
+  const cardNumber = extendedValue(product.extendedData, "Number");
+  const thumb = product.imageUrl ?? null;
+  const image = upgradeImageUrl(thumb);
+
+  if (cardNumber) {
+    return [image, thumb, ...productImageUrls(product.productId)].filter(
       (url, index, list) => Boolean(url) && list.indexOf(url) === index,
     );
   }
-  return productImageUrls(card.productId, {
-    imageUrl: card.image_url,
-    thumbnailUrl: card.thumbnail_url,
+  return productImageUrls(product.productId, {
+    imageUrl: thumb,
+    thumbnailUrl: thumb,
   });
 }
 
@@ -237,32 +244,17 @@ async function fetchPrices(setConfig, pricesDayDir) {
 
 /**
  * Fetch products (+ images) for a group that does not yet have local data.
+ * Products are stored as returned by tcgcsv — extendedData and all other fields intact.
  */
 async function fetchSetData(setConfig, { downloadImages }) {
   const groupId = setConfig.groupId;
   const code = setConfig.abbreviation;
+  const source = productsUrl(groupId);
   console.log(`  data/images for NEW group ${groupId} (${code})…`);
 
-  const [productsBody, pricesBody] = await Promise.all([
-    fetchJson(productsUrl(groupId)),
-    fetchJson(pricesUrl(groupId)).catch((err) => {
-      console.warn(`  prices unavailable while building set JSON: ${err.message}`);
-      return { results: [] };
-    }),
-  ]);
-
+  const productsBody = await fetchJson(source);
   const products = productsBody.results ?? [];
-  const priceRows = pricesBody.results ?? [];
-  const pricesByProduct = new Map();
-  for (const row of priceRows) {
-    const list = pricesByProduct.get(row.productId) ?? [];
-    list.push(row);
-    pricesByProduct.set(row.productId, list);
-  }
-
-  const cards = products.map((product) =>
-    productToCard(product, pricesByProduct.get(product.productId) ?? []),
-  );
+  const cards = products.map((product) => asStoredProduct(product));
 
   const payload = {
     data: {
@@ -273,6 +265,11 @@ async function fetchSetData(setConfig, { downloadImages }) {
       card_count: cards.length,
       source: "tcgcsv",
       categoryId: 89,
+      sourceUrl: source,
+      // Raw tcgcsv envelope fields (kept for fidelity; items themselves are untouched).
+      success: productsBody.success ?? true,
+      errors: productsBody.errors ?? [],
+      totalItems: productsBody.totalItems ?? cards.length,
       cards,
     },
   };
@@ -281,7 +278,7 @@ async function fetchSetData(setConfig, { downloadImages }) {
   const jsonText = JSON.stringify(payload, null, 2);
   await fs.promises.writeFile(jsonPath, jsonText, "utf8");
   console.log(
-    `  saved ${path.relative(REPO_ROOT, jsonPath)} (${cards.length} products)`,
+    `  saved ${path.relative(REPO_ROOT, jsonPath)} (${cards.length} products, raw tcgcsv shape)`,
   );
 
   let imageDl = 0;
@@ -292,10 +289,10 @@ async function fetchSetData(setConfig, { downloadImages }) {
     const groupImageDir = path.join(IMAGES_DIR, String(groupId));
     await fs.promises.mkdir(groupImageDir, { recursive: true });
 
-    for (const card of cards) {
-      if (!card.productId) continue;
+    for (const product of cards) {
+      if (!product.productId) continue;
 
-      const candidates = imageCandidatesForProduct(card);
+      const candidates = imageCandidatesForProduct(product);
       if (candidates.length === 0) continue;
 
       let saved = false;
@@ -303,7 +300,7 @@ async function fetchSetData(setConfig, { downloadImages }) {
       for (const imageUrl of candidates) {
         const dest = path.join(
           groupImageDir,
-          `${card.productId}${extFromUrl(imageUrl)}`,
+          `${product.productId}${extFromUrl(imageUrl)}`,
         );
         try {
           const status = await downloadFile(imageUrl, dest);
@@ -319,7 +316,7 @@ async function fetchSetData(setConfig, { downloadImages }) {
       if (!saved) {
         errors++;
         console.error(
-          `  image fail ${card.productId}: ${lastError?.message ?? "unknown"}`,
+          `  image fail ${product.productId}: ${lastError?.message ?? "unknown"}`,
         );
       }
     }

@@ -7,949 +7,1843 @@
     "card_count": 30,
     "source": "tcgcsv",
     "categoryId": 89,
+    "sourceUrl": "https://tcgcsv.com/tcgplayer/89/24439/products",
+    "success": true,
+    "errors": [],
+    "totalItems": 30,
     "cards": [
       {
         "productId": 635460,
-        "slug": "635460-origins-proving-grounds-box-set",
-        "card_number": "",
         "name": "Origins - Proving Grounds Box Set",
-        "clean_name": "Origins Proving Grounds Box Set",
-        "card_type": "",
-        "rarity": "",
-        "domain": [],
-        "tags": [],
-        "energy_cost": null,
-        "power_cost": null,
-        "might": null,
-        "description": "",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/635460_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/635460_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/635460/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-origins-proving-grounds-box-set",
-        "prices": {
-          "Normal": {
-            "lowPrice": 50,
-            "midPrice": 93.13,
-            "highPrice": 500,
-            "marketPrice": 64.25,
-            "directLowPrice": null
-          }
-        }
+        "cleanName": "Origins Proving Grounds Box Set",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/635460_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/635460/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-origins-proving-grounds-box-set",
+        "modifiedOn": "2025-11-14T16:39:52.227",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": []
       },
       {
         "productId": 653136,
-        "slug": "001-024-annie-fiery",
-        "card_number": "001/024",
         "name": "Annie - Fiery",
-        "clean_name": "Annie Fiery",
-        "card_type": "Champion Unit",
-        "rarity": "Epic",
-        "domain": [
-          "Fury"
-        ],
-        "tags": [
-          "Annie"
-        ],
-        "energy_cost": 5,
-        "power_cost": 1,
-        "might": 4,
-        "description": "Your spells and abilities deal 1 Bonus Damage.<br>\r\n<em>(Each instance of damage they deal is increased by 1.)</em>",
-        "flavor_text": "<em>\"I never play with matches.\"</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653136_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653136_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653136/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-annie-fiery",
-        "prices": {
-          "Normal": {
-            "lowPrice": 1.17,
-            "midPrice": 1.63,
-            "highPrice": 10,
-            "marketPrice": 1.56,
-            "directLowPrice": null
+        "cleanName": "Annie Fiery",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653136_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653136/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-annie-fiery",
+        "modifiedOn": "2025-10-31T19:12:48.53",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Epic"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "001/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "Your spells and abilities deal 1 Bonus Damage.<br>\r\n<em>(Each instance of damage they deal is increased by 1.)</em>"
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "5"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "4"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Champion Unit"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Annie"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Fury"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"I never play with matches.\"</em>"
           }
-        }
+        ]
       },
       {
         "productId": 653137,
-        "slug": "002-024-firestorm",
-        "card_number": "002/024",
         "name": "Firestorm",
-        "clean_name": "Firestorm",
-        "card_type": "Spell",
-        "rarity": "Uncommon",
-        "domain": [
-          "Fury"
-        ],
-        "tags": [],
-        "energy_cost": 6,
-        "power_cost": 1,
-        "might": 0,
-        "description": "Deal 3 to all enemy units at a battlefield.",
-        "flavor_text": "<em>\"Eeny, meeny, miny, burn!\" -Annie</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653137_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653137_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653137/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-firestorm",
-        "prices": {
-          "Normal": {
-            "lowPrice": 0.34,
-            "midPrice": 0.48,
-            "highPrice": 4,
-            "marketPrice": 0.41,
-            "directLowPrice": null
+        "cleanName": "Firestorm",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653137_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653137/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-firestorm",
+        "modifiedOn": "2025-10-31T18:48:20.573",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Uncommon"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "002/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "Deal 3 to all enemy units at a battlefield."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "6"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Spell"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Fury"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"Eeny, meeny, miny, burn!\" -Annie</em>"
           }
-        }
+        ]
       },
       {
         "productId": 653138,
-        "slug": "003-024-incinerate",
-        "card_number": "003/024",
         "name": "Incinerate",
-        "clean_name": "Incinerate",
-        "card_type": "Spell",
-        "rarity": "Common",
-        "domain": [
-          "Fury"
-        ],
-        "tags": [],
-        "energy_cost": 2,
-        "power_cost": 0,
-        "might": 0,
-        "description": "ACTION <em>(play on your turn or in showdowns.)</em><br>\r\nDeal 2 to a unit at a battlefield.",
-        "flavor_text": "<em>\"You smell like burning!\" -Annie</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653138_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653138_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653138/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-incinerate",
-        "prices": {
-          "Normal": {
-            "lowPrice": 0.37,
-            "midPrice": 0.59,
-            "highPrice": 3.74,
-            "marketPrice": 0.53,
-            "directLowPrice": null
+        "cleanName": "Incinerate",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653138_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653138/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-incinerate",
+        "modifiedOn": "2025-10-31T18:49:51.507",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Common"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "003/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "ACTION <em>(play on your turn or in showdowns.)</em><br>\r\nDeal 2 to a unit at a battlefield."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "2"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "0"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Spell"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Fury"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"You smell like burning!\" -Annie</em>"
           }
-        }
+        ]
       },
       {
         "productId": 653139,
-        "slug": "004-024-master-yi-meditative",
-        "card_number": "004/024",
         "name": "Master Yi - Meditative",
-        "clean_name": "Master Yi Meditative",
-        "card_type": "Champion Unit",
-        "rarity": "Rare",
-        "domain": [
-          "Calm"
-        ],
-        "tags": [
-          "Master Yi",
-          "Ionia"
-        ],
-        "energy_cost": 5,
-        "power_cost": 1,
-        "might": 4,
-        "description": "While you have 8+ runes, I have +4 Might.",
-        "flavor_text": "<em>\"Anger gives motivation without purpose.\"</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653139_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653139_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653139/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-master-yi-meditative",
-        "prices": {
-          "Normal": {
-            "lowPrice": 0.5,
-            "midPrice": 1,
-            "highPrice": 3.95,
-            "marketPrice": 0.72,
-            "directLowPrice": null
+        "cleanName": "Master Yi Meditative",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653139_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653139/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-master-yi-meditative",
+        "modifiedOn": "2025-10-31T19:12:56.403",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Rare"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "004/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "While you have 8+ runes, I have +4 Might."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "5"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "4"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Champion Unit"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Master Yi;Ionia"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Calm"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"Anger gives motivation without purpose.\"</em>"
           }
-        }
+        ]
       },
       {
         "productId": 653140,
-        "slug": "005-024-zephyr-sage",
-        "card_number": "005/024",
         "name": "Zephyr Sage",
-        "clean_name": "Zephyr Sage",
-        "card_type": "Unit",
-        "rarity": "Uncommon",
-        "domain": [
-          "Calm"
-        ],
-        "tags": [
-          "Ionia",
-          "Bird"
-        ],
-        "energy_cost": 6,
-        "power_cost": 1,
-        "might": 6,
-        "description": "SHIELD <em>(+1 Might while I'm a defender.)</em>",
-        "flavor_text": "<em>\"A true master is an eternal student.\" -Master Yi</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653140_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653140_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653140/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-zephyr-sage",
-        "prices": {
-          "Normal": {
-            "lowPrice": 0.15,
-            "midPrice": 0.33,
-            "highPrice": 2.99,
-            "marketPrice": 0.28,
-            "directLowPrice": null
+        "cleanName": "Zephyr Sage",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653140_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653140/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-zephyr-sage",
+        "modifiedOn": "2025-10-31T18:51:10.147",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Uncommon"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "005/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "SHIELD <em>(+1 Might while I'm a defender.)</em>"
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "6"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "6"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Unit"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Ionia;Bird"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Calm"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"A true master is an eternal student.\" -Master Yi</em>"
           }
-        }
+        ]
       },
       {
         "productId": 653141,
-        "slug": "006-024-lux-illuminated",
-        "card_number": "006/024",
         "name": "Lux - Illuminated",
-        "clean_name": "Lux Illuminated",
-        "card_type": "Champion Unit",
-        "rarity": "Rare",
-        "domain": [
-          "Mind"
-        ],
-        "tags": [
-          "Lux",
-          "Demacia"
-        ],
-        "energy_cost": 6,
-        "power_cost": 1,
-        "might": 5,
-        "description": "When you play a spell that costs 5 or more, give me +3 Might this turn.",
-        "flavor_text": "<em>\"No more holding back!\"</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653141_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653141_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653141/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-lux-illuminated",
-        "prices": {
-          "Normal": {
-            "lowPrice": 0.25,
-            "midPrice": 0.83,
-            "highPrice": 5,
-            "marketPrice": 0.73,
-            "directLowPrice": null
+        "cleanName": "Lux Illuminated",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653141_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653141/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-lux-illuminated",
+        "modifiedOn": "2025-10-31T19:13:03.4",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Rare"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "006/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "When you play a spell that costs 5 or more, give me +3 Might this turn."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "6"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "5"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Champion Unit"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Lux;Demacia"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Mind"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"No more holding back!\"</em>"
           }
-        }
+        ]
       },
       {
         "productId": 653142,
-        "slug": "007-024-garen-rugged",
-        "card_number": "007/024",
         "name": "Garen - Rugged",
-        "clean_name": "Garen Rugged",
-        "card_type": "Champion Unit",
-        "rarity": "Rare",
-        "domain": [
-          "Body"
-        ],
-        "tags": [
-          "Garen",
-          "Demacia",
-          "Elite"
-        ],
-        "energy_cost": 6,
-        "power_cost": 1,
-        "might": 5,
-        "description": "ASSAULT 2, SHIELD 2 <em>(+2 Might while I'm an attacker or defender.)</em>",
-        "flavor_text": "<em>\"Fear is the first of many foes.\"</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653142_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653142_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653142/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-garen-rugged",
-        "prices": {
-          "Normal": {
-            "lowPrice": 0.45,
-            "midPrice": 0.82,
-            "highPrice": 5.24,
-            "marketPrice": 0.62,
-            "directLowPrice": null
+        "cleanName": "Garen Rugged",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653142_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653142/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-garen-rugged",
+        "modifiedOn": "2025-10-31T19:13:10.55",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Rare"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "007/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "ASSAULT 2, SHIELD 2 <em>(+2 Might while I'm an attacker or defender.)</em>"
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "6"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "5"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Champion Unit"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Garen;Demacia;Elite"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Body"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"Fear is the first of many foes.\"</em>"
           }
-        }
+        ]
       },
       {
         "productId": 653143,
-        "slug": "008-024-gentlemens-duel",
-        "card_number": "008/024",
         "name": "Gentlemen's Duel",
-        "clean_name": "Gentlemens Duel",
-        "card_type": "Spell",
-        "rarity": "Common",
-        "domain": [
-          "Body"
-        ],
-        "tags": [],
-        "energy_cost": 6,
-        "power_cost": 1,
-        "might": 0,
-        "description": "ACTION <em>(Play on your turn or in showdowns.)</em><br>\r\nGive a friendly unit +3 Might this turn. Then, choose an enemy unit. They deal damage equal to their Mights to each other.",
-        "flavor_text": "<em>A proper and formal way to kill your enemies.</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653143_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653143_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653143/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-gentlemens-duel",
-        "prices": {
-          "Normal": {
-            "lowPrice": 0.29,
-            "midPrice": 0.43,
-            "highPrice": 5,
-            "marketPrice": 0.43,
-            "directLowPrice": null
+        "cleanName": "Gentlemens Duel",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653143_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653143/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-gentlemens-duel",
+        "modifiedOn": "2025-10-31T18:52:47.877",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Common"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "008/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "ACTION <em>(Play on your turn or in showdowns.)</em><br>\r\nGive a friendly unit +3 Might this turn. Then, choose an enemy unit. They deal damage equal to their Mights to each other."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "6"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Spell"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Body"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>A proper and formal way to kill your enemies.</em>"
           }
-        }
+        ]
       },
       {
         "productId": 653144,
-        "slug": "009-024-master-yi-honed",
-        "card_number": "009/024",
         "name": "Master Yi - Honed",
-        "clean_name": "Master Yi Honed",
-        "card_type": "Champion Unit",
-        "rarity": "Epic",
-        "domain": [
-          "Body"
-        ],
-        "tags": [
-          "Master Yi",
-          "Ionia"
-        ],
-        "energy_cost": 7,
-        "power_cost": 1,
-        "might": 6,
-        "description": "GANKING <em>(I can move from battlefield to battlefield.)</em><br>\r\nI enter ready.",
-        "flavor_text": "<em>\"The focused mind can pierce through stone.\"</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653144_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653144_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653144/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-master-yi-honed",
-        "prices": {
-          "Normal": {
-            "lowPrice": 0.75,
-            "midPrice": 1.7,
-            "highPrice": 20,
-            "marketPrice": 1.15,
-            "directLowPrice": null
+        "cleanName": "Master Yi Honed",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653144_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653144/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-master-yi-honed",
+        "modifiedOn": "2025-10-31T19:13:19.287",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Epic"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "009/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "GANKING <em>(I can move from battlefield to battlefield.)</em><br>\r\nI enter ready."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "7"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "6"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Champion Unit"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Master Yi;Ionia"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Body"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"The focused mind can pierce through stone.\"</em>"
           }
-        }
+        ]
       },
       {
         "productId": 653145,
-        "slug": "010-024-annie-stubborn",
-        "card_number": "010/024",
         "name": "Annie - Stubborn",
-        "clean_name": "Annie Stubborn",
-        "card_type": "Champion Unit",
-        "rarity": "Rare",
-        "domain": [
-          "Chaos"
-        ],
-        "tags": [
-          "Annie",
-          "Noxus"
-        ],
-        "energy_cost": 4,
-        "power_cost": 1,
-        "might": 3,
-        "description": "When you play me, return a spell from your trash to your hand.",
-        "flavor_text": "<em>\"I want a turn!\"</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653145_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653145_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653145/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-annie-stubborn",
-        "prices": {
-          "Normal": {
-            "lowPrice": 3.49,
-            "midPrice": 5.71,
-            "highPrice": 14,
-            "marketPrice": 4.07,
-            "directLowPrice": null
+        "cleanName": "Annie Stubborn",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653145_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653145/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-annie-stubborn",
+        "modifiedOn": "2025-10-31T19:13:45.473",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Rare"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "010/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "When you play me, return a spell from your trash to your hand."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "4"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "3"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Champion Unit"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Annie;Noxus"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Chaos"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"I want a turn!\"</em>"
           }
-        }
+        ]
       },
       {
         "productId": 653146,
-        "slug": "011-024-flash",
-        "card_number": "011/024",
         "name": "Flash",
-        "clean_name": "Flash",
-        "card_type": "Spell",
-        "rarity": "Common",
-        "domain": [
-          "Chaos"
-        ],
-        "tags": [],
-        "energy_cost": 2,
-        "power_cost": 0,
-        "might": 0,
-        "description": "REACTION <em>(Play at any time, even before spells and abilities resolve.)</em><br>\r\nMove up to 2 friendly units to base.",
-        "flavor_text": "<em>It's not running away. It's strategic positioning.</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653146_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653146_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653146/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-flash",
-        "prices": {
-          "Normal": {
-            "lowPrice": 2,
-            "midPrice": 3.99,
-            "highPrice": 68.5,
-            "marketPrice": 2.54,
-            "directLowPrice": null
+        "cleanName": "Flash",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653146_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653146/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-flash",
+        "modifiedOn": "2025-10-31T18:54:31.88",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Common"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "011/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "REACTION <em>(Play at any time, even before spells and abilities resolve.)</em><br>\r\nMove up to 2 friendly units to base."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "2"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "0"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Spell"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Chaos"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>It's not running away. It's strategic positioning.</em>"
           }
-        }
+        ]
       },
       {
         "productId": 653147,
-        "slug": "012-024-blast-of-power",
-        "card_number": "012/024",
         "name": "Blast of Power",
-        "clean_name": "Blast of Power",
-        "card_type": "Spell",
-        "rarity": "Common",
-        "domain": [
-          "Order"
-        ],
-        "tags": [],
-        "energy_cost": 6,
-        "power_cost": 1,
-        "might": 0,
-        "description": "ACTION <em>(Play on your turn or in showdowns.)</em><br>\r\nKill a unit at a battlefield.",
-        "flavor_text": "<em>\"Illuminate the enemy!\" -Lux</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653147_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653147_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653147/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-blast-of-power",
-        "prices": {
-          "Normal": {
-            "lowPrice": 0.2,
-            "midPrice": 1,
-            "highPrice": 13,
-            "marketPrice": 0.68,
-            "directLowPrice": null
+        "cleanName": "Blast of Power",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653147_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653147/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-blast-of-power",
+        "modifiedOn": "2025-10-31T18:56:39.76",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Common"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "012/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "ACTION <em>(Play on your turn or in showdowns.)</em><br>\r\nKill a unit at a battlefield."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "6"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Spell"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Order"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"Illuminate the enemy!\" -Lux</em>"
           }
-        }
+        ]
       },
       {
         "productId": 653148,
-        "slug": "013-024-garen-commander",
-        "card_number": "013/024",
         "name": "Garen - Commander",
-        "clean_name": "Garen Commander",
-        "card_type": "Champion Unit",
-        "rarity": "Epic",
-        "domain": [
-          "Order"
-        ],
-        "tags": [
-          "Garen",
-          "Demacia",
-          "Elite"
-        ],
-        "energy_cost": 6,
-        "power_cost": 1,
-        "might": 5,
-        "description": "Other friendly units have +1 Might here.",
-        "flavor_text": "<em>\"For Demacia!\"</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653148_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653148_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653148/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-garen-commander",
-        "prices": {
-          "Normal": {
-            "lowPrice": 0.45,
-            "midPrice": 0.78,
-            "highPrice": 4,
-            "marketPrice": 0.71,
-            "directLowPrice": null
+        "cleanName": "Garen Commander",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653148_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653148/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-garen-commander",
+        "modifiedOn": "2025-10-31T19:13:47.58",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Epic"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "013/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "Other friendly units have +1 Might here."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "6"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "5"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Champion Unit"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Garen;Demacia;Elite"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Order"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"For Demacia!\"</em>"
           }
-        }
+        ]
       },
       {
         "productId": 653149,
-        "slug": "014-024-lux-crownguard",
-        "card_number": "014/024",
         "name": "Lux - Crownguard",
-        "clean_name": "Lux Crownguard",
-        "card_type": "Champion Unit",
-        "rarity": "Epic",
-        "domain": [
-          "Order"
-        ],
-        "tags": [
-          "Lux",
-          "Demacia"
-        ],
-        "energy_cost": 4,
-        "power_cost": 0,
-        "might": 2,
-        "description": "Exhaust: REACTION - ADD 2. Use only to play spells. <br>\r\n<em>(Abilities that add resources can't be reacted to.)</em>",
-        "flavor_text": "<em>\"I've been hiding my light long enough.\"</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653149_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653149_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653149/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-lux-crownguard",
-        "prices": {
-          "Normal": {
-            "lowPrice": 2,
-            "midPrice": 5.99,
-            "highPrice": 999.99,
-            "marketPrice": 3.31,
-            "directLowPrice": null
+        "cleanName": "Lux Crownguard",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653149_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653149/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-lux-crownguard",
+        "modifiedOn": "2025-10-31T19:14:04.823",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Epic"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "014/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "Exhaust: REACTION - ADD 2. Use only to play spells. <br>\r\n<em>(Abilities that add resources can't be reacted to.)</em>"
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "4"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "0"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "2"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Champion Unit"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Lux;Demacia"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Order"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"I've been hiding my light long enough.\"</em>"
           }
-        }
+        ]
       },
       {
         "productId": 653150,
-        "slug": "015-024-recruit-the-vanguard",
-        "card_number": "015/024",
         "name": "Recruit the Vanguard",
-        "clean_name": "Recruit the Vanguard",
-        "card_type": "Spell",
-        "rarity": "Uncommon",
-        "domain": [
-          "Order"
-        ],
-        "tags": [],
-        "energy_cost": 6,
-        "power_cost": 0,
-        "might": 0,
-        "description": "ACTION <em>(Play on your turn or in showdowns.)</em><br>\r\nPlay four 1 Might Recruit unit tokens. <em>(They can be played to your base or to battlefields you control.)</em>",
-        "flavor_text": "<em>\"My heart and sword always for Demacia.\" -Garen</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653150_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653150_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653150/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-recruit-the-vanguard",
-        "prices": {
-          "Normal": {
-            "lowPrice": 0.75,
-            "midPrice": 1.41,
-            "highPrice": 8.78,
-            "marketPrice": 1.14,
-            "directLowPrice": null
+        "cleanName": "Recruit the Vanguard",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653150_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653150/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-recruit-the-vanguard",
+        "modifiedOn": "2025-10-31T18:57:54.693",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Uncommon"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "015/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "ACTION <em>(Play on your turn or in showdowns.)</em><br>\r\nPlay four 1 Might Recruit unit tokens. <em>(They can be played to your base or to battlefields you control.)</em>"
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "6"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "0"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Spell"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Order"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"My heart and sword always for Demacia.\" -Garen</em>"
           }
-        }
+        ]
       },
       {
         "productId": 653151,
-        "slug": "016-024-vanguard-attendant",
-        "card_number": "016/024",
         "name": "Vanguard Attendant",
-        "clean_name": "Vanguard Attendant",
-        "card_type": "Unit",
-        "rarity": "Common",
-        "domain": [
-          "Order"
-        ],
-        "tags": [
-          "Demacia",
-          "Elite"
-        ],
-        "energy_cost": 6,
-        "power_cost": 1,
-        "might": 5,
-        "description": "I enter ready.",
-        "flavor_text": "<em>Even the Vanguard needs a first line of defense.</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653151_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653151_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653151/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-vanguard-attendant",
-        "prices": {
-          "Normal": {
-            "lowPrice": 0.19,
-            "midPrice": 0.3,
-            "highPrice": 2.24,
-            "marketPrice": 0.25,
-            "directLowPrice": null
+        "cleanName": "Vanguard Attendant",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653151_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653151/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-vanguard-attendant",
+        "modifiedOn": "2025-10-31T18:59:00.313",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Common"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "016/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "I enter ready."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "6"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "5"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Unit"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Demacia;Elite"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Order"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>Even the Vanguard needs a first line of defense.</em>"
           }
-        }
+        ]
       },
       {
         "productId": 653152,
-        "slug": "017-024-annie-dark-child-starter",
-        "card_number": "017/024",
         "name": "Annie - Dark Child (Starter)",
-        "clean_name": "Annie Dark Child Starter",
-        "card_type": "Legend",
-        "rarity": "Rare",
-        "domain": [
-          "Fury",
-          "Chaos"
-        ],
-        "tags": [
-          "Annie"
-        ],
-        "energy_cost": 0,
-        "power_cost": 0,
-        "might": 0,
-        "description": "At the end of your turn, ready 2 runes.",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653152_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653152_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653152/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-annie-dark-child-starter",
-        "prices": {
-          "Normal": {
-            "lowPrice": 3.99,
-            "midPrice": 5.88,
-            "highPrice": 45,
-            "marketPrice": 4.96,
-            "directLowPrice": null
+        "cleanName": "Annie Dark Child Starter",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653152_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653152/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-annie-dark-child-starter",
+        "modifiedOn": "2025-10-31T19:14:07.837",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Rare"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "017/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "At the end of your turn, ready 2 runes."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "0"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "0"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Legend"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Annie"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Fury;Chaos"
           }
-        }
+        ]
       },
       {
         "productId": 653153,
-        "slug": "018-024-tibbers",
-        "card_number": "018/024",
         "name": "Tibbers",
-        "clean_name": "Tibbers",
-        "card_type": "Signature Unit",
-        "rarity": "Epic",
-        "domain": [
-          "Fury",
-          "Chaos"
-        ],
-        "tags": [
-          "Annie"
-        ],
-        "energy_cost": 8,
-        "power_cost": 2,
-        "might": 7,
-        "description": "When you play me, deal 3 damage to all units at battlefields.",
-        "flavor_text": "<em>\"Bear hug!\" -Annie</em>",
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653153_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653153_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653153/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-tibbers",
-        "prices": {
-          "Normal": {
-            "lowPrice": 0.49,
-            "midPrice": 0.78,
-            "highPrice": 4.99,
-            "marketPrice": 0.65,
-            "directLowPrice": null
+        "cleanName": "Tibbers",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653153_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653153/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-tibbers",
+        "modifiedOn": "2025-10-31T19:14:16.447",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Epic"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "018/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "When you play me, deal 3 damage to all units at battlefields."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "8"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "2"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "7"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Signature Unit"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Annie"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Fury;Chaos"
+          },
+          {
+            "name": "Flavor Text",
+            "displayName": "Flavor Text",
+            "value": "<em>\"Bear hug!\" -Annie</em>"
           }
-        }
+        ]
       },
       {
         "productId": 653154,
-        "slug": "019-024-master-yi-wuju-bladesman-starter",
-        "card_number": "019/024",
         "name": "Master Yi - Wuju Bladesman (Starter)",
-        "clean_name": "Master Yi Wuju Bladesman Starter",
-        "card_type": "Legend",
-        "rarity": "Rare",
-        "domain": [
-          "Calm",
-          "Body"
-        ],
-        "tags": [
-          "Master Yi"
-        ],
-        "energy_cost": 0,
-        "power_cost": 0,
-        "might": 0,
-        "description": "While a friendly unit defends alone, it gets +2 Might.",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653154_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653154_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653154/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-master-yi-wuju-bladesman-starter",
-        "prices": {
-          "Normal": {
-            "lowPrice": 17.18,
-            "midPrice": 19.41,
-            "highPrice": 29.99,
-            "marketPrice": 17.46,
-            "directLowPrice": null
+        "cleanName": "Master Yi Wuju Bladesman Starter",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653154_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653154/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-master-yi-wuju-bladesman-starter",
+        "modifiedOn": "2025-10-31T19:14:26.897",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Rare"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "019/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "While a friendly unit defends alone, it gets +2 Might."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "0"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "0"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Legend"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Master Yi"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Calm;Body"
           }
-        }
+        ]
       },
       {
         "productId": 653155,
-        "slug": "020-024-highlander",
-        "card_number": "020/024",
         "name": "Highlander",
-        "clean_name": "Highlander",
-        "card_type": "Signature Spell",
-        "rarity": "Epic",
-        "domain": [
-          "Calm",
-          "Body"
-        ],
-        "tags": [
-          "Master Yi"
-        ],
-        "energy_cost": 4,
-        "power_cost": 0,
-        "might": 0,
-        "description": "REACTION <em>(Play any time, even before spells and abilities resolve.)</em><br>\r\nChoose a friendly unit. The next time it dies this turn, recall it exhausted instead. <em>(Send it to base. This isn't a move.)</em>",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653155_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653155_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653155/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-highlander",
-        "prices": {
-          "Normal": {
-            "lowPrice": 0.67,
-            "midPrice": 1,
-            "highPrice": 5,
-            "marketPrice": 0.81,
-            "directLowPrice": null
+        "cleanName": "Highlander",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653155_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653155/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-highlander",
+        "modifiedOn": "2025-10-31T19:14:33.643",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Epic"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "020/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "REACTION <em>(Play any time, even before spells and abilities resolve.)</em><br>\r\nChoose a friendly unit. The next time it dies this turn, recall it exhausted instead. <em>(Send it to base. This isn't a move.)</em>"
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "4"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "0"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Signature Spell"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Master Yi"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Calm;Body"
           }
-        }
+        ]
       },
       {
         "productId": 653156,
-        "slug": "021-024-lux-lady-of-luminosity-starter",
-        "card_number": "021/024",
         "name": "Lux - Lady of Luminosity (Starter)",
-        "clean_name": "Lux Lady of Luminosity Starter",
-        "card_type": "Legend",
-        "rarity": "Rare",
-        "domain": [
-          "Mind",
-          "Order"
-        ],
-        "tags": [
-          "Lux"
-        ],
-        "energy_cost": 0,
-        "power_cost": 0,
-        "might": 0,
-        "description": "When you play a spell that costs 5 or more, draw a 1.",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653156_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653156_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653156/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-lux-lady-of-luminosity-starter",
-        "prices": {
-          "Normal": {
-            "lowPrice": 4,
-            "midPrice": 13,
-            "highPrice": 999.99,
-            "marketPrice": 5.05,
-            "directLowPrice": null
+        "cleanName": "Lux Lady of Luminosity Starter",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653156_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653156/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-lux-lady-of-luminosity-starter",
+        "modifiedOn": "2025-10-31T19:14:41.213",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Rare"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "021/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "When you play a spell that costs 5 or more, draw a 1."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "0"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "0"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Legend"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Lux"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Mind;Order"
           }
-        }
+        ]
       },
       {
         "productId": 653157,
-        "slug": "022-024-final-spark",
-        "card_number": "022/024",
         "name": "Final Spark",
-        "clean_name": "Final Spark",
-        "card_type": "Signature Spell",
-        "rarity": "Epic",
-        "domain": [
-          "Mind",
-          "Order"
-        ],
-        "tags": [
-          "Lux"
-        ],
-        "energy_cost": 8,
-        "power_cost": 0,
-        "might": 0,
-        "description": "ACTION <em>(Play on your turn or in showdowns.)</em><br>\r\nDeal 8 to a unit.",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653157_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653157_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653157/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-final-spark",
-        "prices": {
-          "Normal": {
-            "lowPrice": 0.75,
-            "midPrice": 1.25,
-            "highPrice": 5.95,
-            "marketPrice": 1.1,
-            "directLowPrice": null
+        "cleanName": "Final Spark",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653157_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653157/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-final-spark",
+        "modifiedOn": "2025-10-31T19:14:50.087",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Epic"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "022/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "ACTION <em>(Play on your turn or in showdowns.)</em><br>\r\nDeal 8 to a unit."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "8"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "0"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Signature Spell"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Lux"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Mind;Order"
           }
-        }
+        ]
       },
       {
         "productId": 653158,
-        "slug": "023-024-garen-might-of-demacia-starter",
-        "card_number": "023/024",
         "name": "Garen - Might of Demacia (Starter)",
-        "clean_name": "Garen Might of Demacia Starter",
-        "card_type": "Legend",
-        "rarity": "Rare",
-        "domain": [
-          "Body",
-          "Order"
-        ],
-        "tags": [
-          "Garen"
-        ],
-        "energy_cost": 0,
-        "power_cost": 0,
-        "might": 0,
-        "description": "When you conquer, if you have 4+ units at that battlefield, draw 2.",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653158_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653158_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653158/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-garen-might-of-demacia-starter",
-        "prices": {
-          "Normal": {
-            "lowPrice": 0.68,
-            "midPrice": 1.03,
-            "highPrice": 4.27,
-            "marketPrice": 0.98,
-            "directLowPrice": null
+        "cleanName": "Garen Might of Demacia Starter",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653158_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653158/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-garen-might-of-demacia-starter",
+        "modifiedOn": "2025-10-31T19:14:57.873",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Rare"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "023/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "When you conquer, if you have 4+ units at that battlefield, draw 2."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "0"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "0"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Legend"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Garen"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Body;Order"
           }
-        }
+        ]
       },
       {
         "productId": 653159,
-        "slug": "024-024-decisive-strike",
-        "card_number": "024/024",
         "name": "Decisive Strike",
-        "clean_name": "Decisive Strike",
-        "card_type": "Signature Spell",
-        "rarity": "Epic",
-        "domain": [
-          "Body",
-          "Order"
-        ],
-        "tags": [
-          "Garen"
-        ],
-        "energy_cost": 5,
-        "power_cost": 1,
-        "might": 0,
-        "description": "ACTION <em>(Play on your turn or in showdowns.)</em><br>\r\nGive friendly units +2 Might this turn.",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/653159_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/653159_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/653159/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-decisive-strike",
-        "prices": {
-          "Normal": {
-            "lowPrice": 0.39,
-            "midPrice": 0.54,
-            "highPrice": 3,
-            "marketPrice": 0.49,
-            "directLowPrice": null
+        "cleanName": "Decisive Strike",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/653159_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/653159/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-decisive-strike",
+        "modifiedOn": "2025-10-31T19:15:09.193",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Epic"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "024/024"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "ACTION <em>(Play on your turn or in showdowns.)</em><br>\r\nGive friendly units +2 Might this turn."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "5"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "1"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Signature Spell"
+          },
+          {
+            "name": "Tag",
+            "displayName": "Tag",
+            "value": "Garen"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "Body;Order"
           }
-        }
+        ]
       },
       {
         "productId": 663920,
-        "slug": "663920-origins-proving-grounds-box-set-case",
-        "card_number": "",
         "name": "Origins - Proving Grounds Box Set Case",
-        "clean_name": "Origins Proving Grounds Box Set Case",
-        "card_type": "",
-        "rarity": "",
-        "domain": [],
-        "tags": [],
-        "energy_cost": null,
-        "power_cost": null,
-        "might": null,
-        "description": "",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/663920_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/663920_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/663920/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-origins-proving-grounds-box-set-case",
-        "prices": {
-          "Normal": {
-            "lowPrice": 200,
-            "midPrice": 870,
-            "highPrice": 899.99,
-            "marketPrice": 195.19,
-            "directLowPrice": null
-          }
-        }
+        "cleanName": "Origins Proving Grounds Box Set Case",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/663920_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/663920/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-origins-proving-grounds-box-set-case",
+        "modifiedOn": "2025-12-31T21:02:59.72",
+        "imageCount": 0,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": []
       },
       {
         "productId": 664567,
-        "slug": "279-298-fortified-position-oversized",
-        "card_number": "279/298",
         "name": "Fortified Position (Oversized)",
-        "clean_name": "Fortified Position Oversized",
-        "card_type": "Battlefield",
-        "rarity": "Uncommon",
-        "domain": [],
-        "tags": [],
-        "energy_cost": 0,
-        "power_cost": 0,
-        "might": 0,
-        "description": "<span style=\"color:red\">This card is considered oversized - it is not the standard size for Riftbound cards.</span>\r\n\r\nWhen you defend here, choose a unit. It gains SHIELD 2 this combat. <em>(+2 Might while It's a defender.)</em>",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/664567_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/664567_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/664567/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-fortified-position-oversized",
-        "prices": {
-          "Normal": {
-            "lowPrice": 0.5,
-            "midPrice": 2.42,
-            "highPrice": 15,
-            "marketPrice": 1.85,
-            "directLowPrice": null
+        "cleanName": "Fortified Position Oversized",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/664567_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/664567/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-fortified-position-oversized",
+        "modifiedOn": "2025-11-20T18:39:56.22",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Uncommon"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "279/298"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "<span style=\"color:red\">This card is considered oversized - it is not the standard size for Riftbound cards.</span>\r\n\r\nWhen you defend here, choose a unit. It gains SHIELD 2 this combat. <em>(+2 Might while It's a defender.)</em>"
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "0"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "0"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Battlefield"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "None"
           }
-        }
+        ]
       },
       {
         "productId": 664569,
-        "slug": "288-298-startipped-peak-oversized",
-        "card_number": "288/298",
         "name": "Startipped Peak (Oversized)",
-        "clean_name": "Startipped Peak Oversized",
-        "card_type": "Battlefield",
-        "rarity": "Uncommon",
-        "domain": [],
-        "tags": [],
-        "energy_cost": 0,
-        "power_cost": 0,
-        "might": 0,
-        "description": "<span style=\"color:red\">This card is considered oversized - it is not the standard size for Riftbound cards.</span>\r\n<br>\r\nWhen you hold here, you may channel 1 rune exhausted.",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/664569_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/664569_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/664569/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-startipped-peak-oversized",
-        "prices": {
-          "Normal": {
-            "lowPrice": 1.99,
-            "midPrice": 3.68,
-            "highPrice": 15,
-            "marketPrice": 3.55,
-            "directLowPrice": null
+        "cleanName": "Startipped Peak Oversized",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/664569_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/664569/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-startipped-peak-oversized",
+        "modifiedOn": "2025-11-20T18:40:09.897",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Uncommon"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "288/298"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "<span style=\"color:red\">This card is considered oversized - it is not the standard size for Riftbound cards.</span>\r\n<br>\r\nWhen you hold here, you may channel 1 rune exhausted."
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "0"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "0"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Battlefield"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "None"
           }
-        }
+        ]
       },
       {
         "productId": 664570,
-        "slug": "294-298-trifarian-war-camp-oversized",
-        "card_number": "294/298",
         "name": "Trifarian War Camp (Oversized)",
-        "clean_name": "Trifarian War Camp Oversized",
-        "card_type": "Battlefield",
-        "rarity": "Uncommon",
-        "domain": [],
-        "tags": [],
-        "energy_cost": 0,
-        "power_cost": 0,
-        "might": 0,
-        "description": "<span style=\"color:red\">This card is considered oversized - it is not the standard size for Riftbound cards.</span>\r\n<br>\r\nUnits here have +1 Might. <em>(This includes attackers.)</em>",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/664570_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/664570_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/664570/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-trifarian-war-camp-oversized",
-        "prices": {
-          "Normal": {
-            "lowPrice": 1.99,
-            "midPrice": 3.16,
-            "highPrice": 15,
-            "marketPrice": 3.16,
-            "directLowPrice": null
+        "cleanName": "Trifarian War Camp Oversized",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/664570_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/664570/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-trifarian-war-camp-oversized",
+        "modifiedOn": "2025-11-20T18:40:21.773",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Uncommon"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "294/298"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "<span style=\"color:red\">This card is considered oversized - it is not the standard size for Riftbound cards.</span>\r\n<br>\r\nUnits here have +1 Might. <em>(This includes attackers.)</em>"
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "0"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "0"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Battlefield"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "None"
           }
-        }
+        ]
       },
       {
         "productId": 664571,
-        "slug": "296-298-void-gate-oversized",
-        "card_number": "296/298",
         "name": "Void Gate (Oversized)",
-        "clean_name": "Void Gate Oversized",
-        "card_type": "Battlefield",
-        "rarity": "Uncommon",
-        "domain": [],
-        "tags": [],
-        "energy_cost": 0,
-        "power_cost": 0,
-        "might": 0,
-        "description": "<span style=\"color:red\">This card is considered oversized - it is not the standard size for Riftbound cards.</span>\r\n<br>\r\nSpells and abilities affecting units here each deal 1 Bonus Damage. <em>(Each instance of damage the spell deals is increased by 1.)</em>",
-        "flavor_text": null,
-        "image_url": "https://tcgplayer-cdn.tcgplayer.com/product/664571_400w.jpg",
-        "thumbnail_url": "https://tcgplayer-cdn.tcgplayer.com/product/664571_200w.jpg",
-        "tcgplayer_url": "https://www.tcgplayer.com/product/664571/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-void-gate-oversized",
-        "prices": {
-          "Normal": {
-            "lowPrice": 0.98,
-            "midPrice": 1.73,
-            "highPrice": 7.45,
-            "marketPrice": 1.51,
-            "directLowPrice": null
+        "cleanName": "Void Gate Oversized",
+        "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/664571_200w.jpg",
+        "categoryId": 89,
+        "groupId": 24439,
+        "url": "https://www.tcgplayer.com/product/664571/riftbound-league-of-legends-trading-card-game-origins-proving-grounds-void-gate-oversized",
+        "modifiedOn": "2025-11-20T18:40:35.98",
+        "imageCount": 1,
+        "presaleInfo": {
+          "isPresale": false,
+          "releasedOn": null,
+          "note": null
+        },
+        "extendedData": [
+          {
+            "name": "Rarity",
+            "displayName": "Rarity",
+            "value": "Uncommon"
+          },
+          {
+            "name": "Number",
+            "displayName": "Number",
+            "value": "296/298"
+          },
+          {
+            "name": "Description",
+            "displayName": "Description",
+            "value": "<span style=\"color:red\">This card is considered oversized - it is not the standard size for Riftbound cards.</span>\r\n<br>\r\nSpells and abilities affecting units here each deal 1 Bonus Damage. <em>(Each instance of damage the spell deals is increased by 1.)</em>"
+          },
+          {
+            "name": "Energy Cost",
+            "displayName": "Energy Cost",
+            "value": "0"
+          },
+          {
+            "name": "Power Cost",
+            "displayName": "Power Cost",
+            "value": "0"
+          },
+          {
+            "name": "Might",
+            "displayName": "Might",
+            "value": "0"
+          },
+          {
+            "name": "Card Type",
+            "displayName": "Card Type",
+            "value": "Battlefield"
+          },
+          {
+            "name": "Domain",
+            "displayName": "Domain",
+            "value": "None"
           }
-        }
+        ]
       }
     ]
   }

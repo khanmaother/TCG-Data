@@ -22,6 +22,11 @@ No separate `product/` folder — every SKU image lives under its set’s `group
 | `data/` + `images/` | Only for **new** groups (no `data/{groupId}.json` yet), unless `--force` |
 | `prices/{today}/` | **Every** run, for every target group |
 
+Each `data/{groupId}.json` stores products **as returned** by tcgcsv
+([`/89/{groupId}/products`](https://tcgcsv.com/tcgplayer/89/24344/products)) —
+including `extendedData`, `presaleInfo`, etc. Nothing is flattened or dropped.
+Market prices live only under `prices/` (separate endpoint).
+
 `--sync-config` also rewrites `scripts/riftbound/config.mjs` SETS from that groups response.
 
 Price files are named by **groupId** (e.g. `24343.json`, `24439.json`) inside a folder named with today’s date (`20260803`).

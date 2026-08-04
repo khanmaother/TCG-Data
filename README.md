@@ -51,7 +51,7 @@ Details: [scripts/palworld/README.md](scripts/palworld/README.md)
 | Concern | Riftbound |
 | --- | --- |
 | Identity | TCGplayer `groupId` (set) + `productId` (card/SKU) |
-| Data files | `riftbound/data/{groupId}.json` — only fetched for **new** groups |
+| Data files | `riftbound/data/{groupId}.json` — raw tcgcsv products (extendedData intact); **new** groups only |
 | Groups | `riftbound/data/groups.json` — **every** run from [/89/groups](https://tcgcsv.com/tcgplayer/89/groups) |
 | Images | `riftbound/images/{groupId}/{productId}.jpg` — with new groups |
 | Prices | `riftbound/prices/{YYYYMMDD}/{groupId}.json` — **every** run |
