@@ -6,6 +6,7 @@ Fetches set JSON, market prices, and product images for **Riftbound** from [tcgc
 
 ```
 riftbound/
+  data/groups.json              # from https://tcgcsv.com/tcgplayer/89/groups
   data/{groupId}.json
   images/{groupId}/{productId}.jpg
   prices/{YYYYMMDD}/{groupId}.json
@@ -17,11 +18,11 @@ No separate `product/` folder — every SKU image lives under its set’s `group
 
 | Asset | When it updates |
 | --- | --- |
+| `data/groups.json` | **Every** run (from [tcgcsv /89/groups](https://tcgcsv.com/tcgplayer/89/groups)) |
 | `data/` + `images/` | Only for **new** groups (no `data/{groupId}.json` yet), unless `--force` |
 | `prices/{today}/` | **Every** run, for every target group |
 
-Groups list: [tcgcsv.com/tcgplayer/89/groups](https://tcgcsv.com/tcgplayer/89/groups)  
-Prices example: [tcgcsv.com/tcgplayer/89/24343/prices](https://tcgcsv.com/tcgplayer/89/24343/prices)
+`--sync-config` also rewrites `scripts/riftbound/config.mjs` SETS from that groups response.
 
 Price files are named by **groupId** (e.g. `24343.json`, `24439.json`) inside a folder named with today’s date (`20260803`).
 

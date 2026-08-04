@@ -3,6 +3,7 @@
  * Fetch Riftbound TCG set JSON + product images from tcgcsv.com (TCGplayer mirror).
  *
  * Data / images — only for **new** groups (no existing `data/{groupId}.json`):
+ *   riftbound/data/groups.json            # always refreshed from /89/groups
  *   riftbound/data/{groupId}.json
  *   riftbound/images/{groupId}/{productId}.jpg
  *
@@ -111,16 +112,29 @@ function publishedDate(iso) {
 }
 
 /**
- * Rewrite SETS in config.mjs from the live groups API.
- * @returns {Promise<import("./config.mjs").RiftboundSetConfig[]>}
+ * Pull the live groups list and write riftbound/data/groups.json.
+ * Source: https://tcgcsv.com/tcgplayer/89/groups
+ * @returns {Promise<{ body: object, sets: import("./config.mjs").RiftboundSetConfig[] }>}
  */
-async function syncConfig() {
-  console.log("Fetching groups…");
-  const body = await fetchJson(groupsUrl());
+async function fetchGroupsFile() {
+  const url = groupsUrl();
+  console.log(`Fetching groups… ${url}`);
+  const body = await fetchJson(url);
   const results = body.results ?? [];
   if (!Array.isArray(results) || results.length === 0) {
     throw new Error("No groups returned from tcgcsv");
   }
+
+  const groupsPath = path.join(DATA_DIR, "groups.json");
+  await fs.promises.mkdir(DATA_DIR, { recursive: true });
+  await fs.promises.writeFile(
+    groupsPath,
+    JSON.stringify(body, null, 2),
+    "utf8",
+  );
+  console.log(
+    `Saved ${path.relative(REPO_ROOT, groupsPath)} (${results.length} groups)`,
+  );
 
   const sets = results.map((g) => ({
     groupId: g.groupId,
@@ -130,14 +144,15 @@ async function syncConfig() {
     isSupplemental: Boolean(g.isSupplemental),
   }));
 
-  const groupsPath = path.join(DATA_DIR, "groups.json");
-  await fs.promises.mkdir(DATA_DIR, { recursive: true });
-  await fs.promises.writeFile(
-    groupsPath,
-    JSON.stringify({ totalItems: sets.length, results }, null, 2),
-    "utf8",
-  );
-  console.log(`Saved ${groupsPath}`);
+  return { body, sets };
+}
+
+/**
+ * Rewrite SETS in config.mjs from the live groups API (also refreshes groups.json).
+ * @returns {Promise<import("./config.mjs").RiftboundSetConfig[]>}
+ */
+async function syncConfig() {
+  const { sets } = await fetchGroupsFile();
 
   const setsLiteral = sets
     .map((s) => {
@@ -330,6 +345,7 @@ function printUsage() {
   node scripts/riftbound/fetch.mjs [options] [SET...]
 
 Default behaviour:
+  • Always refresh riftbound/data/groups.json from tcgcsv /89/groups
   • Sync-aware: data + images only for NEW groups (no data/{groupId}.json yet)
   • Prices always fetched for every target group into:
       riftbound/prices/{YYYYMMDD}/{groupId}.json
@@ -345,6 +361,7 @@ SET may be an abbreviation (OGN), groupId (24344), or set name.
 With no SET args, all sets in config are processed.
 
 Layout:
+  riftbound/data/groups.json
   riftbound/data/{groupId}.json
   riftbound/images/{groupId}/{productId}.jpg
   riftbound/prices/{YYYYMMDD}/{groupId}.json
@@ -369,6 +386,9 @@ async function main() {
   let sets = SETS;
   if (syncConfigFlag) {
     sets = await syncConfig();
+  } else {
+    // Always refresh the groups snapshot, even when not rewriting config.mjs.
+    await fetchGroupsFile();
   }
 
   let targets;

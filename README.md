@@ -13,6 +13,7 @@ TCG-Data/
     data/{setCode}.json
     images/{setCode}/full|thumbs/
   riftbound/
+    data/groups.json
     data/{groupId}.json
     images/{groupId}/{productId}.jpg
     prices/{YYYYMMDD}/{groupId}.json
@@ -48,6 +49,7 @@ Details: [scripts/palworld/README.md](scripts/palworld/README.md)
 | --- | --- |
 | Identity | TCGplayer `groupId` (set) + `productId` (card/SKU) |
 | Data files | `riftbound/data/{groupId}.json` — only fetched for **new** groups |
+| Groups | `riftbound/data/groups.json` — **every** run from [/89/groups](https://tcgcsv.com/tcgplayer/89/groups) |
 | Images | `riftbound/images/{groupId}/{productId}.jpg` — with new groups |
 | Prices | `riftbound/prices/{YYYYMMDD}/{groupId}.json` — **every** run |
 | CLI | `node scripts/riftbound/fetch.mjs` |
