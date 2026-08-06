@@ -84,6 +84,12 @@ export const SETS = [
     name: "Riftbound Worlds Bundle 2025",
     publishedOn: "2025-10-28",
   },
+  {
+    groupId: 24797,
+    abbreviation: "SGN",
+    name: "Secret Garden",
+    publishedOn: "2025-07-30",
+  },
 ];
 
 /**

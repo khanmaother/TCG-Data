@@ -414,6 +414,7 @@ function printUsage() {
 
 Default behaviour:
   • Always refresh riftbound/data/groups.json from tcgcsv /89/groups
+  • Process every group returned by that API (not only stale config SETS)
   • Sync-aware: data + images only for NEW groups (no data/{groupId}.json yet)
   • Prices always fetched for every target group into:
       riftbound/prices/{YYYYMMDD}/{groupId}.json
@@ -421,14 +422,14 @@ Default behaviour:
       riftbound/prices/dates.json              (pull dates, oldest → newest)
 
 Options:
-  --sync-config   Refresh SETS in config.mjs from tcgcsv groups API
+  --sync-config   Also rewrite SETS in config.mjs from tcgcsv groups API
   --force         Re-fetch data/images even when set JSON already exists
   --prices-only   Skip data/images; only write today's price snapshots
   --no-images     Skip image downloads when fetching new/forced sets
   --help          Show this help
 
 SET may be an abbreviation (OGN), groupId (24344), or set name.
-With no SET args, all sets in config are processed.
+With no SET args, all live groups from tcgcsv are processed.
 
 Layout:
   riftbound/data/groups.json
@@ -455,25 +456,32 @@ async function main() {
   const downloadImages = !args.includes("--no-images");
   const setArgs = args.filter((a) => !a.startsWith("--"));
 
-  let sets = SETS;
+  // Live groups from tcgcsv are the source of truth for what to process.
+  // Stale SETS in config.mjs alone would miss new groups (e.g. SGN / 24797)
+  // even though groups.json already listed them.
+  let sets;
   if (syncConfigFlag) {
     sets = await syncConfig();
   } else {
-    // Always refresh the groups snapshot, even when not rewriting config.mjs.
-    await fetchGroupsFile();
+    const { sets: liveSets } = await fetchGroupsFile();
+    sets = liveSets;
   }
 
   let targets;
   if (setArgs.length === 0) {
-    console.log("No sets given; processing all sets from config…");
+    console.log(
+      `No sets given; processing all ${sets.length} groups from tcgcsv…`,
+    );
     targets = sets;
   } else {
     targets = [];
+    // Prefer live groups; fall back to config SETS for resolve helpers.
+    const resolveFrom = sets.length > 0 ? sets : SETS;
     for (const input of setArgs) {
-      const resolved = resolveSet(input, sets);
+      const resolved = resolveSet(input, resolveFrom);
       if (!resolved) {
         throw new Error(
-          `Unknown set "${input}". Known: ${sets
+          `Unknown set "${input}". Known: ${resolveFrom
             .map((s) => `${s.groupId} (${s.abbreviation})`)
             .join(", ")}`,
         );
