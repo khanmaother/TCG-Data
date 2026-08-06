@@ -7,8 +7,11 @@
  *   riftbound/data/{groupId}.json         # raw tcgcsv products (extendedData intact)
  *   riftbound/images/{groupId}/{productId}.jpg
  *
- * Prices — **always** refreshed for every group into a dated snapshot folder:
+ * Prices — **always** refreshed for every group into a dated snapshot folder,
+ * a rolling “latest” copy, and a chronological pull-date index:
  *   riftbound/prices/{YYYYMMDD}/{groupId}.json
+ *   riftbound/prices/latest/{groupId}.json
+ *   riftbound/prices/dates.json
  *
  * Sources:
  *   https://tcgcsv.com/tcgplayer/89/groups
@@ -45,12 +48,15 @@ const DATA_ROOT = path.join(REPO_ROOT, "riftbound");
 const DATA_DIR = path.join(DATA_ROOT, "data");
 const IMAGES_DIR = path.join(DATA_ROOT, "images");
 const PRICES_DIR = path.join(DATA_ROOT, "prices");
+const PRICES_LATEST_DIR = path.join(PRICES_DIR, "latest");
+const PRICES_DATES_PATH = path.join(PRICES_DIR, "dates.json");
 const CONFIG_PATH = path.join(__dirname, "config.mjs");
 
 async function ensureDirs() {
   await fs.promises.mkdir(DATA_DIR, { recursive: true });
   await fs.promises.mkdir(IMAGES_DIR, { recursive: true });
   await fs.promises.mkdir(PRICES_DIR, { recursive: true });
+  await fs.promises.mkdir(PRICES_LATEST_DIR, { recursive: true });
 }
 
 function todayStamp(date = new Date()) {
@@ -214,12 +220,66 @@ function imageCandidatesForProduct(product) {
 }
 
 /**
- * Always write today's price snapshot for a group.
- * Path: riftbound/prices/{YYYYMMDD}/{groupId}.json
+ * List existing YYYYMMDD snapshot folders under prices/ (sorted ascending).
+ * @returns {Promise<string[]>}
  */
-async function fetchPrices(setConfig, pricesDayDir) {
+async function listPriceDateFolders() {
+  let entries = [];
+  try {
+    entries = await fs.promises.readdir(PRICES_DIR, { withFileTypes: true });
+  } catch (err) {
+    if (err && err.code === "ENOENT") return [];
+    throw err;
+  }
+
+  return entries
+    .filter((entry) => entry.isDirectory() && /^\d{8}$/.test(entry.name))
+    .map((entry) => entry.name)
+    .sort();
+}
+
+/**
+ * Write / update prices/dates.json — pull dates in chronological order,
+ * always reflecting the newest snapshot folder.
+ * @param {string} day - YYYYMMDD just written (or scanned)
+ * @param {{ groups?: number, rows?: number }} [meta]
+ */
+async function updatePricesDatesIndex(day, meta = {}) {
+  const fromDisk = await listPriceDateFolders();
+  const dates = Array.from(new Set([...fromDisk, day].filter(Boolean))).sort();
+  const latest = dates[dates.length - 1] ?? day ?? null;
+
+  const payload = {
+    updatedAt: new Date().toISOString(),
+    latest,
+    count: dates.length,
+    dates,
+    ...(typeof meta.groups === "number" ? { lastPullGroups: meta.groups } : {}),
+    ...(typeof meta.rows === "number" ? { lastPullRows: meta.rows } : {}),
+  };
+
+  await fs.promises.mkdir(PRICES_DIR, { recursive: true });
+  await fs.promises.writeFile(
+    PRICES_DATES_PATH,
+    JSON.stringify(payload, null, 2),
+    "utf8",
+  );
+  console.log(
+    `Price dates index → ${path.relative(REPO_ROOT, PRICES_DATES_PATH)} (${dates.length} days, latest ${latest})`,
+  );
+  return payload;
+}
+
+/**
+ * Always write today's price snapshot for a group, plus overwrite latest/.
+ * Paths:
+ *   riftbound/prices/{YYYYMMDD}/{groupId}.json
+ *   riftbound/prices/latest/{groupId}.json
+ */
+async function fetchPrices(setConfig, pricesDayDir, day) {
   const groupId = setConfig.groupId;
   const dest = path.join(pricesDayDir, `${groupId}.json`);
+  const latestDest = path.join(PRICES_LATEST_DIR, `${groupId}.json`);
 
   const pricesBody = await fetchJson(pricesUrl(groupId));
   const results = pricesBody.results ?? [];
@@ -228,6 +288,7 @@ async function fetchPrices(setConfig, pricesDayDir) {
     success: pricesBody.success ?? true,
     errors: pricesBody.errors ?? [],
     fetchedAt: new Date().toISOString(),
+    day,
     groupId,
     abbreviation: setConfig.abbreviation,
     name: setConfig.name,
@@ -235,11 +296,21 @@ async function fetchPrices(setConfig, pricesDayDir) {
     results,
   };
 
-  await fs.promises.writeFile(dest, JSON.stringify(payload, null, 2), "utf8");
+  const jsonText = JSON.stringify(payload, null, 2);
+  await fs.promises.mkdir(PRICES_LATEST_DIR, { recursive: true });
+  await fs.promises.writeFile(dest, jsonText, "utf8");
+  await fs.promises.writeFile(latestDest, jsonText, "utf8");
   console.log(
-    `  prices → ${path.relative(REPO_ROOT, dest)} (${results.length} rows)`,
+    `  prices → ${path.relative(REPO_ROOT, dest)} (+ latest) (${results.length} rows)`,
   );
-  return { groupId, file: dest, rows: results.length, priceRows: results };
+  return {
+    groupId,
+    file: dest,
+    latestFile: latestDest,
+    day,
+    rows: results.length,
+    priceRows: results,
+  };
 }
 
 /**
@@ -346,6 +417,8 @@ Default behaviour:
   • Sync-aware: data + images only for NEW groups (no data/{groupId}.json yet)
   • Prices always fetched for every target group into:
       riftbound/prices/{YYYYMMDD}/{groupId}.json
+      riftbound/prices/latest/{groupId}.json   (always newest)
+      riftbound/prices/dates.json              (pull dates, oldest → newest)
 
 Options:
   --sync-config   Refresh SETS in config.mjs from tcgcsv groups API
@@ -362,6 +435,8 @@ Layout:
   riftbound/data/{groupId}.json
   riftbound/images/{groupId}/{productId}.jpg
   riftbound/prices/{YYYYMMDD}/{groupId}.json
+  riftbound/prices/latest/{groupId}.json
+  riftbound/prices/dates.json
 `);
 }
 
@@ -430,9 +505,9 @@ async function main() {
   for (const setConfig of targets) {
     console.log(`\n=== ${setConfig.groupId} (${setConfig.abbreviation} · ${setConfig.name}) ===`);
 
-    // Prices always
+    // Prices always (dated snapshot + latest overwrite)
     try {
-      priceResults.push(await fetchPrices(setConfig, pricesDayDir));
+      priceResults.push(await fetchPrices(setConfig, pricesDayDir, day));
     } catch (err) {
       console.error(`  prices FAIL: ${err.message}`);
       priceResults.push({
@@ -457,9 +532,15 @@ async function main() {
     dataResults.push(await fetchSetData(setConfig, { downloadImages }));
   }
 
+  const writtenPrices = priceResults.filter((r) => r.file);
+  await updatePricesDatesIndex(day, {
+    groups: writtenPrices.length,
+    rows: writtenPrices.reduce((sum, r) => sum + (r.rows ?? 0), 0),
+  });
+
   console.log("\nDone.");
   console.log(
-    `Prices: ${priceResults.filter((r) => r.file).length}/${targets.length} written under prices/${day}/`,
+    `Prices: ${writtenPrices.length}/${targets.length} written under prices/${day}/ and prices/latest/`,
   );
   if (!pricesOnly) {
     console.log(
