@@ -46,3 +46,5 @@ Each card in a set file is replaced with the detailed payload from
 re-fetched automatically.
 
 Files are saved under the API set code (`TD01`, `BP01`, …). Existing image files are skipped on download. Relative image URLs are resolved against `https://palworldtcg.gg`.
+
+News lives under `news/` — run `node news/script/index.mjs` (or `node news/script/index.mjs palworld`).

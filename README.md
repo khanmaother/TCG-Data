@@ -9,6 +9,15 @@ TCG-Data/
   scripts/
     palworld/fetch.mjs
     riftbound/fetch.mjs
+  news/
+    config/sites.mjs
+    config/structure.mjs
+    script/index.mjs
+    script/palworld.mjs
+    data/palworld.json
+    data/riftbound.json
+    img/palworld/
+    img/riftbound/
   palworld/
     data/groups.json
     data/{setCode}.json
@@ -32,12 +41,18 @@ TCG-Data/
 | Groups | `palworld/data/groups.json` — **every** run from [/api/v1/sets](https://palworldtcg.gg/api/v1/sets) |
 | Data files | `palworld/data/{setCode}.json` — new/summary-only sets; cards enriched via `/cards/{slug}` |
 | Card images | `palworld/images/{setCode}/full/` and `thumbs/` — with new sets |
-| CLI | `node scripts/palworld/fetch.mjs` |
+| News | `news/data/palworld.json` + `news/img/palworld/` — from [official news](https://en.palworld-official-cardgame.com/news) |
+| CLI | `node scripts/palworld/fetch.mjs` · `node news/script/index.mjs` |
 
 ```bash
 node scripts/palworld/fetch.mjs
 node scripts/palworld/fetch.mjs TD01 BP01
 node scripts/palworld/fetch.mjs --force BP01
+
+# Official site news (all services, or one)
+node news/script/index.mjs
+node news/script/index.mjs palworld
+node news/script/index.mjs riftbound
 ```
 
 Details: [scripts/palworld/README.md](scripts/palworld/README.md)
